@@ -1,0 +1,173 @@
+# shiny training code
+# This is a Shiny web application. You can run the application by clicking
+# the 'Run App' button above.
+#
+# Find out more about building applications with Shiny here:
+#
+#    http://shiny.rstudio.com/
+#
+
+# load packages
+source("packages.R")
+
+# create user interface (ui)
+
+ui <- fluidPage(
+  
+  titlePanel(fluidRow((tags$img(src = "https://i.postimg.cc/026PX5zX/ISD-NSS-logos.png", height = "60px")),
+                      h1("Welcome to the Social Care Information Dashboard"))),
+  
+  # set up tabs for navigating between app pages
+  tabsetPanel(
+  
+
+     #### Home Tab (landing page) ----
+
+     
+     tabPanel(title = "Home", icon = icon("home"),
+              
+              h2("Insert Social Care Dashboard Introduction Text"),
+              
+              # set up icons to navigate around dashboard
+              
+              flowLayout(
+                style = "border: 1px solid silver;",
+                cellWidths = 600,
+                cellArgs = list(style = "padding: 6px"),
+                
+                # Summary Box
+                tags$img(src = "holding_image_sc_summary_graphic.png", height="100%", width="100%", align="left"),
+
+                # Trend Box
+                tags$img(src = "landing_button_time_trend.png", height="100%", width="100%", align="left"),
+
+                # Data Table box
+                tags$img(src = "landing_button_data_table.png", height="100%", width="100%", align="left"))),
+                
+     
+     ### Summary Tab ----
+    
+     
+     tabPanel(title = "Summary", icon = icon("list-alt"), 
+              h2("Social Care Data Summary")), 
+     
+    
+     ### Trend Tab ----
+     
+     
+     tabPanel(title = "Trend", icon = icon("area-chart"),
+              h2("Social Care Data Trends")),
+     
+     
+     ### Data Tab ----
+    
+     
+     tabPanel(title = "Data", icon = icon("table"), 
+              h2("Social Care Data Tables")),
+ 
+    
+     ### Additional Information Dropdown Tab ----
+      
+        
+     navbarMenu(title = "Information", "Social Care Data Resources",
+                
+     ###  About dropdown tab ----
+     
+           tabPanel("About", h1("About"),
+                    h3("Source Social Care Data Collection"),
+                    p("This dashboard is organised to show statistics covering the broad topics:"),
+                    h5("Self-directed support (SDS)"),
+                    h5("Home care"),
+                    h5("Community alarms/telecare"),
+                    h5("Care home residents"),
+                    br(),
+                    p("In all cases the information relates to services and support where 
+                      a Health and Social Care Partnership has an involvement, such as providing 
+                      the care and support directly or by commissioning the care and support from 
+                      other service providers. Data on care and support that is paid for and 
+                      organised entirely by the persons themselves (i.e. “self-funded”) is not 
+                      generally available and are excluded from all the analyses."),
+                    h3("Data Sources"),
+                    h5("Source Social Care Data"),
+                    h5("SMR01 hospital discharge records"),
+                    br() # create space at bottom of page
+                    ),
+     
+     ### How to use tool ----
+     
+     tabPanel("Using this tool",
+              h1("How to Use this Dashboard"),
+              br(),
+              p("Topics within the dashboard are listed at the top of the screen. Please click on the topic to select this.When you select the topic you will be presented with an introduction to the topic.The different analyses for the topic are listed on the left hand side of the screen.Please click on the analysis to select this."),
+              br(),
+              h2("Downloading Data & Charts"),
+              p("To view your data selection in a table, use the 'Show/hide table' button at the bottom of the page. To download your data selection as a CSV file, use the 'Download data' button."),
+              p("At the top-right corner of the graph, you will see a toolbar with buttons: Download plot as a png - click this button to save the graph as an image"),
+              h2("Screen Resolution"),
+              br(),
+              p("For optimum resolution we recommend a resolution of 1024x768 or greater. This can be done via the control panel on your computer settings.")
+              ),
+              
+  
+     ### Definitions ----      
+
+     tabPanel("Definitions", h2("Data Defintions"),
+              p("The Source data definitions and guidance document can be found"),
+              tags$a(href = "https://www.isdscotland.org/Health-Topics/Health-and-Social-Community-Care/Health-and-Social-Care-Integration/docs/Revised-Source-Dataset-Definitions-and-Recording-Guidance-June-2018.pdf", "here", class="externallink",".")),
+           
+    ### Data Completeness dropdown tab  ----     
+           
+           tabPanel("Data Completeness", h2("Data Completeness"),
+                    p("All data in this extract has been through detailed validation and quality checking to ensure the accuracy of the data. The following should be noted:"),
+                      br(),
+                      p("Some partnerships were unable to provide individual level information for specific topics or data items. Where possible aggregated data has been provided and this will be highlighted within the dashboard.
+                      Although data is available for Glasgow City only aggregated data was available rather than individual level data and this means that for some analyses they will be excluded. Where this was the case this will be highlighted in both the text and in the dashboard."),
+                      br(),
+                      p("Attempts have been made to minimise the effects of these data issues. In both the report and the dashboard, estimates have been provided for top level trends to enable a Scotland figure to be calculated for comparison purposes. Estimates have not been used for the more detailed analysis."),
+                      br(),
+                      p("Appendices within the report and a separate technical document provide further details of data completeness for each health and social care partnership within each topic. Experimental statistics are official statistics which are published in order to involve users and stakeholders in their development and as a means to build in quality at an early stage. It is important that users understand that limitations may apply to the interpretation of this data")
+                    ),
+           
+    ### Resources dropdown tab  ----     
+           
+           tabPanel("Resources",
+                    h2("Resources"),
+                    p("This dashboard is accompanyed by a pdf report:",
+                    tags$a(href="https://www.isdscotland.org/Health-Topics/Health-and-Social-Community-Care/Publications/2019-06-11/2019-06-11-Social-Care-Report.pdf",
+                           "Insights into Social Care in Scotland Publication", class="externallink"))))),
+
+  # add this link https://www.isdscotland.org/Health-Topics/Health-and-Social-Community-Care/Health-and-Social-Care-Integration/Dataset/
+
+           div(style = "margin-bottom: 30px;"), # this adds space between content and footer
+  
+               
+      ### Footer ----    
+      
+
+      # Social Care Contact link
+      tags$footer(
+            column(2, tags$a(href="mailto:nss.source@nhs.net", tags$b("Contact us"), 
+                       class="externallink", style = "color: white; text-decoration: none")), 
+            style = "
+            position:fixed;
+            text-align:center;
+            left: 0;
+            bottom:0;
+            width:100%;
+            z-index:1000;  
+            height:30px; /* Height of the footer */
+            color: white;
+            padding: 10px;
+            font-weight: bold;
+            background-color: #1995dc"))
+
+# End of UI specifications
+
+
+server <- function(input, output) {}
+
+# Run the application 
+
+shinyApp(ui = ui, server = server)
+
+
