@@ -1,30 +1,37 @@
-# shiny training code
+# shiny app development of social care dashboard
+# Jenny Armstrong 
+# 
 # This is a Shiny web application. You can run the application by clicking
 # the 'Run App' button above.
-#
-# Find out more about building applications with Shiny here:
-#
-#    http://shiny.rstudio.com/
-#
+###########################################.
+# TO DO: add this link to resources tab 
+# https://www.isdscotland.org/Health-Topics/Health-and-Social-Community-Care/Health-and-Social-Care-Integration/Dataset/
 
 # load packages
 source("packages.R")
+source("global.R")    # load required data items 
 
-# create user interface (ui)
+###################################.
+#### User Interface (UI) Setup ----
+###################################.
 
 ui <- fluidPage(
   
+  ###############################################.
+  ## Header ---- 
+  ###############################################.
+
   titlePanel(fluidRow((tags$img(src = "https://i.postimg.cc/026PX5zX/ISD-NSS-logos.png", height = "60px")),
                       h1("Welcome to the Social Care Information Dashboard"))),
   
   # set up tabs for navigating between app pages
-  tabsetPanel(
+  tabsetPanel(id = "intabset",
   
-
-     #### Home Tab (landing page) ----
-
+     #################################.
+     ### Home Tab (landing page) ----
+     #################################.
      
-     tabPanel(title = "Home", icon = icon("home"),
+     tabPanel(title = "Home", icon = icon("home"), value = "home",
               
               h2("Insert Social Care Dashboard Introduction Text"),
               
@@ -36,7 +43,7 @@ ui <- fluidPage(
                 cellArgs = list(style = "padding: 6px"),
                 
                 # Summary Box
-                tags$img(src = "holding_image_sc_summary_graphic.png", height="100%", width="100%", align="left"),
+                tags$img(src = "landing_button_summary.png", height="100%", width="100%", align="left"),
 
                 # Trend Box
                 tags$img(src = "landing_button_time_trend.png", height="100%", width="100%", align="left"),
@@ -44,36 +51,77 @@ ui <- fluidPage(
                 # Data Table box
                 tags$img(src = "landing_button_data_table.png", height="100%", width="100%", align="left"))),
                 
-     
+     ##########################.
      ### Summary Tab ----
-    
+     ##########################.
      
-     tabPanel(title = "Summary", icon = icon("list-alt"), 
+     tabPanel(title = "Summary", icon = icon("list-alt"), value = "summary",
               h2("Social Care Data Summary")), 
      
-    
+     ##########################.
      ### Trend Tab ----
+     ##########################.
      
+     tabPanel(title = "Trend", icon = icon("area-chart"), value = "trend",
+              h2("Social Care Data Trends"),
+  
+        # create a panel containing dropdowns, download data and help buttons
+        # the following code was adapted from scotpho profiles            
+         fluidRow(
+               # create buttons for help and definitions info 
+               column(1,
+                    actionButton(inputId = "help_trend", label = "Help", icon= icon('question-circle'), class ="down")),
+               column(1,
+                     actionButton(inputId = "defs_trend", label="Definitions", icon= icon('info'), class ="down")),
+        
+               # add download data and save chart buttons
+               
+               downloadButton("download_trend", label = "Download data", class = "down"),
+              # savechart_button('download_trendplot', 'Save chart',  class = "down"),             
+               
+               # create dropdown options  
+               # local authority of interest - default = all areas submitted
+               column(2,
+                      shiny::hr(),
+                      div(title="Select a location of interest. Click in this box, hit backspace and start to type if you want to quickly find an indicator.",
+                      selectInput("la_name", 
+                      choices= la_name_list, selected = "Aberdeen City"))),
+
+               # select data set of interest
+               column(3,
+                       selectInput(inputId = "data_select", label = "data source", 
+                                      choices =  sc_data_list, selected = "SDS"))
+              
+                ), # fluidRow() closing bracket 
+                                     
+               # set up main panel where data will be presented
+              
+        mainPanel(width = 12, value = "main_panel",
+                  h4("check if this has this worked"))
+                        # ,
+                        # bsModal("mod_defs_trend", "Definitions", "defs_trend", htmlOutput('defs_text_trend')),
+                        # h4(textOutput("title_trend"), style="color: black; text-align: left"),
+                        # h5(textOutput("subtitle_trend"), style="color: black; text-align: left"),
+                        # withSpinner(plotlyOutput("trend_plot")))
+                        # 
+       ), # tab panel bracket (end of Trend tab specifications)
      
-     tabPanel(title = "Trend", icon = icon("area-chart"),
-              h2("Social Care Data Trends")),
-     
-     
+     ##########################.
      ### Data Tab ----
-    
+     ##########################.
      
-     tabPanel(title = "Data", icon = icon("table"), 
+     tabPanel(title = "Data", icon = icon("table"), value = "data", 
               h2("Social Care Data Tables")),
  
-    
+     ##############################################.
      ### Additional Information Dropdown Tab ----
-      
+     ##############################################.  
         
      navbarMenu(title = "Information", "Social Care Data Resources",
                 
-     ###  About dropdown tab ----
+     ### About dropdown tab ----
      
-           tabPanel("About", h1("About"),
+           tabPanel("About", value = "about", h1("About"),
                     h3("Source Social Care Data Collection"),
                     p("This dashboard is organised to show statistics covering the broad topics:"),
                     h5("Self-directed support (SDS)"),
@@ -95,7 +143,7 @@ ui <- fluidPage(
      
      ### How to use tool ----
      
-     tabPanel("Using this tool",
+     tabPanel("Using this tool", value = "how_to",
               h1("How to Use this Dashboard"),
               br(),
               p("Topics within the dashboard are listed at the top of the screen. Please click on the topic to select this.When you select the topic you will be presented with an introduction to the topic.The different analyses for the topic are listed on the left hand side of the screen.Please click on the analysis to select this."),
@@ -105,19 +153,19 @@ ui <- fluidPage(
               p("At the top-right corner of the graph, you will see a toolbar with buttons: Download plot as a png - click this button to save the graph as an image"),
               h2("Screen Resolution"),
               br(),
-              p("For optimum resolution we recommend a resolution of 1024x768 or greater. This can be done via the control panel on your computer settings.")
-              ),
+              p("For optimum resolution we recommend a resolution of 1024x768 or greater. 
+                This can be done via the control panel on your computer settings.")),
               
-  
      ### Definitions ----      
 
-     tabPanel("Definitions", h2("Data Defintions"),
+     tabPanel("Definitions", value = "definitions", h2("Data Definitions"),
               p("The Source data definitions and guidance document can be found"),
-              tags$a(href = "https://www.isdscotland.org/Health-Topics/Health-and-Social-Community-Care/Health-and-Social-Care-Integration/docs/Revised-Source-Dataset-Definitions-and-Recording-Guidance-June-2018.pdf", "here", class="externallink",".")),
+              tags$a(href = "https://www.isdscotland.org/Health-Topics/Health-and-Social-Community-Care/Health-and-Social-Care-Integration/docs/Revised-Source-Dataset-Definitions-and-Recording-Guidance-June-2018.pdf",
+                     "here", class="externallink",".")),
            
-    ### Data Completeness dropdown tab  ----     
+     ### Data Completeness dropdown tab  ----     
            
-           tabPanel("Data Completeness", h2("Data Completeness"),
+           tabPanel("Data Completeness", value = "completeness", h2("Data Completeness"),
                     p("All data in this extract has been through detailed validation and quality checking to ensure the accuracy of the data. The following should be noted:"),
                       br(),
                       p("Some partnerships were unable to provide individual level information for specific topics or data items. Where possible aggregated data has been provided and this will be highlighted within the dashboard.
@@ -125,25 +173,30 @@ ui <- fluidPage(
                       br(),
                       p("Attempts have been made to minimise the effects of these data issues. In both the report and the dashboard, estimates have been provided for top level trends to enable a Scotland figure to be calculated for comparison purposes. Estimates have not been used for the more detailed analysis."),
                       br(),
-                      p("Appendices within the report and a separate technical document provide further details of data completeness for each health and social care partnership within each topic. Experimental statistics are official statistics which are published in order to involve users and stakeholders in their development and as a means to build in quality at an early stage. It is important that users understand that limitations may apply to the interpretation of this data")
-                    ),
+                      p("Appendices within the report and a separate technical document provide further details of data
+                        completeness for each health and social care partnership within each topic. Experimental 
+                        statistics are official statistics which are published in order to involve users and 
+                        stakeholders in their development and as a means to build in quality at an early stage. 
+                        It is important that users understand that limitations may apply to the interpretation of this data")),
+                    
+     ### Resources dropdown tab  ----     
            
-    ### Resources dropdown tab  ----     
-           
-           tabPanel("Resources",
+           tabPanel("Resources", value = "resources",
                     h2("Resources"),
                     p("This dashboard is accompanyed by a pdf report:",
                     tags$a(href="https://www.isdscotland.org/Health-Topics/Health-and-Social-Community-Care/Publications/2019-06-11/2019-06-11-Social-Care-Report.pdf",
-                           "Insights into Social Care in Scotland Publication", class="externallink"))))),
+                           "Insights into Social Care in Scotland Publication", class="externallink")))
+    
+    ) # NavbarMenu closing bracket
+   ), # tabset panel closing bracket
 
-  # add this link https://www.isdscotland.org/Health-Topics/Health-and-Social-Community-Care/Health-and-Social-Care-Integration/Dataset/
-
-           div(style = "margin-bottom: 30px;"), # this adds space between content and footer
+      ###############.         
+  ## Footer ----    
+      ###############.
   
-               
-      ### Footer ----    
-      
-
+      ### add space between content and footer
+      div(style = "margin-bottom: 30px;"), 
+  
       # Social Care Contact link
       tags$footer(
             column(2, tags$a(href="mailto:nss.source@nhs.net", tags$b("Contact us"), 
@@ -159,14 +212,60 @@ ui <- fluidPage(
             color: white;
             padding: 10px;
             font-weight: bold;
-            background-color: #1995dc"))
+            background-color: #1995dc")
+  
+  ) # nav list panel closing bracket
+  #)  # fluidpage closing bracket
+  
+
 
 # End of UI specifications
 
+#####################.
+##### Server ----
+#####################.
 
-server <- function(input, output) {}
+server <- function(input, output, session) {
+  
 
-# Run the application 
+###############################################.
+## Landing page ----
+###############################################.
+  # Creating events that take you to different tabs
+  # activated when pressing buttons from the landing page
+  # observeEvent() triggers a command within an action button
+  
+  observeEvent(input$jump_to_summary, {
+    updateTabsetPanel(session, "intabset", selected = "summary")
+  })
+  
+  observeEvent(input$jump_to_trend, {
+    updateTabsetPanel(session,"intabset", selected = "trend")
+  })
+  
+
+  # observeEvent(input$jump_to_data, {
+  #   updateTabsetPanel("intabset", selected = "data")
+  # })
+  # 
+  # 
+  # 
+  # observeEvent(input$jump_to_definitions, {
+  #   updateTabsetPanel("intabset", selected = "definitions")
+  # })
+  # 
+  # 
+  # observeEvent(input$jump_to_resources, {
+  #   updateTabsetPanel("intabset", selected = "resources")
+  # })
+  # 
+  
+}
+
+#############################.
+#### Run the application ----
+#############################.
+
 
 shinyApp(ui = ui, server = server)
 
