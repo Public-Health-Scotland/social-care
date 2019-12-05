@@ -68,9 +68,9 @@ ui <- fluidPage(
               h2("Social Care Data Trends"),
   
         # create a panel containing dropdowns, download data and help buttons
-        # the following code was adapted from scotpho profiles            
+
          splitLayout(column(1,
-                         verticalLayout(
+                      verticalLayout(
                # create buttons for help and definitions info 
                 
                 tags$button("Help", label = "help", icon= icon('question-circle'), class ="down", align = "centre"),
@@ -119,8 +119,75 @@ ui <- fluidPage(
      ##########################.
      
      tabPanel(title = "Data", icon = icon("table"), value = "data", 
-              h2("Social Care Data Tables")),
+              h2("Social Care Data Tables"),
  
+     #panel for filtering data
+     mainPanel(
+       width = 12, style="margin-left:0.5%; margin-right:0.5%",
+       #Row 1 for intro  
+       fluidRow(
+         p("Download the data used in the tool", 
+           style = "font-weight: bold; color: black;"),
+         p("Use the filters below to select the data you want to download. ",
+           "To delete choices use backspace or select item and delete"),
+         br()
+       ),
+       #Row 2 for selections
+       fluidRow(
+         column(3,
+                p("Select what data you want", style = "font-weight: bold; color: black;"),  
+                div("All available data will be displayed for
+                    selected geography if none specified"),
+                awesomeRadio("product_filter", label=NULL, choices = c("All Services", "Select Service"), selected = NULL, inline = FALSE,
+                             status = "primary", checkbox = TRUE),
+                conditionalPanel(condition="input.product_filter=='Select Service'",
+                                 selectizeInput("service_filter", label = NULL,
+                                                choices = sc_data_list, selected = NULL,
+                                                multiple=TRUE, options = list(maxOptions = 1000, placeholder = "Select or type social care services to filter by"))
+                                 
+                )
+                ),# column bracket
+         column(3,
+                p("Select what areas you want", style = "font-weight: bold; color: black;"),
+                # Scotland selections
+                awesomeCheckbox("scotland",label = "Scotland", value = FALSE),
+               
+                # Panel for council area selections
+                awesomeCheckbox("la", label = "Council area", value = FALSE),
+                conditionalPanel(condition = "input.la == true",
+                                 selectizeInput("la_true", label = NULL,
+                                                choices = la_name, selected = NULL, multiple=TRUE, 
+                                                options = list(placeholder = "Select or type council area of interest")))
+                
+         ), # column bracket
+         column(3,
+                br(),
+                # Panel for HSC partnership selections
+                awesomeCheckbox("other",label = "Other available filters?", value = FALSE)
+
+                         ), #column bracket
+         
+         column(3, style = "width:20%",
+                p("Select the time period", style = "font-weight: bold; color: black;"),
+                sliderInput("date_from",label = NULL, min = min_year, 
+                            max = max_year, value = c(min_year,max_year), 
+                            step = 1, sep="", round = TRUE, 
+                            ticks = TRUE, dragRange = FALSE),
+                br(),
+                actionButton("clear", label = "Clear all filters",  icon ("eraser"), class = "down"),
+                downloadButton("download_table_csv", 'Download data', class = "down")             
+         ) #column bracket
+     ), #filters fluid row bracket
+     #Row 3- Table
+     fluidRow(  
+      column(12, div(DT::dataTableOutput("table_filtered"), 
+                   style = "font-size: 98%; width: 98%"))
+     )
+       ) # main panel bracket
+  ), # tab panel close bracket
+     
+
+     
      ##############################################.
      ### Additional Information Dropdown Tab ----
      ##############################################.  
