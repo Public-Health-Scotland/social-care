@@ -14,9 +14,9 @@ source("packages.R")
 # previous data location
 # \\Isdsf00d03\social-care\05-Analysts\Publication\Shiny outputs\Final Publication Outputs
 
-data_extracts <- "/conf/social-care/05-Analysts/Publication/Shiny outputs/Final Publication Outputs/"
+data_extracts <- "/05-Analysts/Publication/Shiny outputs/Final Publication Outputs/"
 ## TO DO : UPDATE LOOKUP FILE & LOCATION
-lookups <- "/conf/social-care/05-Analysts/SG-annual-sc-extract/data-lookups/"
+lookups <- "/05-Analysts/SG-annual-sc-extract/data-lookups/"
 
 # load in data & cleane variable names
 # SDS data to be used as test "SDS_All_Files_20190528.xlsx"
