@@ -25,14 +25,13 @@ ui <- fluidPage(
                       h1("Welcome to the Social Care Information Dashboard"))),
   
   # set up tabs for navigating between app pages
-  tabsetPanel(id = "intabset",
+  tabsetPanel(
   
      #################################.
      ### Home Tab (landing page) ----
      #################################.
      
      tabPanel(title = "Home", icon = icon("home"), value = "home",
-              
               h2("Insert Social Care Dashboard Introduction Text"),
               
               # set up icons to navigate around dashboard
@@ -69,28 +68,28 @@ ui <- fluidPage(
         # the following code was adapted from scotpho profiles            
          fluidRow(
                # create buttons for help and definitions info 
-               column(1,
-                    actionButton(inputId = "help_trend", label = "Help", icon= icon('question-circle'), class ="down")),
-               column(1,
-                     actionButton(inputId = "defs_trend", label="Definitions", icon= icon('info'), class ="down")),
-        
+               # column(1,
+               #      actionButton(inputId = "help_trend", label = "Help", icon= icon('question-circle'), class ="down")),
+               # column(1,
+               #       actionButton(inputId = "defs_trend", label="Definitions", icon= icon('info'), class ="down")),
+               # 
                # add download data and save chart buttons
                
-               downloadButton("download_trend", label = "Download data", class = "down"),
+               downloadButton("download_trend", label = "Download data", class = "down") #,
               # savechart_button('download_trendplot', 'Save chart',  class = "down"),             
-               
-               # create dropdown options  
-               # local authority of interest - default = all areas submitted
-               column(2,
-                      shiny::hr(),
-                      div(title="Select a location of interest. Click in this box, hit backspace and start to type if you want to quickly find an indicator.",
-                      selectInput("la_name", 
-                      choices= la_name_list, selected = "Aberdeen City"))),
-
-               # select data set of interest
-               column(3,
-                       selectInput(inputId = "data_select", label = "data source", 
-                                      choices =  sc_data_list, selected = "SDS"))
+               # 
+               # # create dropdown options  
+               # # local authority of interest - default = all areas submitted
+               # column(2,
+               #        shiny::hr(),
+               #        div(title="Select a location of interest. Click in this box, hit backspace and start to type if you want to quickly find an indicator.",
+               #        selectInput("la_name", 
+               #        choices= la_name_list, selected = "Aberdeen City"))),
+               # 
+               # # select data set of interest
+               # column(3,
+               #         selectInput(inputId = "data_select", label = "data source", 
+               #                        choices =  sc_data_list, selected = "SDS"))
               
                 ), # fluidRow() closing bracket 
                                      
@@ -98,12 +97,7 @@ ui <- fluidPage(
               
         mainPanel(width = 12, value = "main_panel",
                   h4("check if this has this worked"))
-                        # ,
-                        # bsModal("mod_defs_trend", "Definitions", "defs_trend", htmlOutput('defs_text_trend')),
-                        # h4(textOutput("title_trend"), style="color: black; text-align: left"),
-                        # h5(textOutput("subtitle_trend"), style="color: black; text-align: left"),
-                        # withSpinner(plotlyOutput("trend_plot")))
-                        # 
+
        ), # tab panel bracket (end of Trend tab specifications)
      
      ##########################.
@@ -190,12 +184,12 @@ ui <- fluidPage(
     ) # NavbarMenu closing bracket
    ), # tabset panel closing bracket
 
-      ###############.         
+  ###################.         
   ## Footer ----    
-      ###############.
+  ###################.
   
       ### add space between content and footer
-      div(style = "margin-bottom: 30px;"), 
+      div(style = "margin-bottom: 30px;",
   
       # Social Care Contact link
       tags$footer(
@@ -212,10 +206,10 @@ ui <- fluidPage(
             color: white;
             padding: 10px;
             font-weight: bold;
-            background-color: #1995dc")
+            background-color: #1995dc"))
   
-  ) # nav list panel closing bracket
-  #)  # fluidpage closing bracket
+  ) # fluidpage closing bracket
+
   
 
 
@@ -235,14 +229,14 @@ server <- function(input, output, session) {
   # activated when pressing buttons from the landing page
   # observeEvent() triggers a command within an action button
   
-  observeEvent(input$jump_to_summary, {
-    updateTabsetPanel(session, "intabset", selected = "summary")
-  })
-  
-  observeEvent(input$jump_to_trend, {
-    updateTabsetPanel(session,"intabset", selected = "trend")
-  })
-  
+  # observeEvent(input$jump_to_summary, {
+  #   updateTabsetPanel(session, "intabset", selected = "summary")
+  # })
+  # 
+  # observeEvent(input$jump_to_trend, {
+  #   updateTabsetPanel(session,"intabset", selected = "trend")
+  # })
+  # 
 
   # observeEvent(input$jump_to_data, {
   #   updateTabsetPanel("intabset", selected = "data")
