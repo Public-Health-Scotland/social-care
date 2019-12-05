@@ -129,15 +129,14 @@ ui <- fluidPage(
          p("Download the data used in the tool", 
            style = "font-weight: bold; color: black;"),
          p("Use the filters below to select the data you want to download. ",
-           "To delete choices use backspace or select item and delete"),
+           "To delete choices use backspace or select item and delete."),
          br()
        ),
        #Row 2 for selections
        fluidRow(
          column(3,
                 p("Select what data you want", style = "font-weight: bold; color: black;"),  
-                div("All available data will be displayed for
-                    selected geography if none specified"),
+                div("All available data will be displayed for social care services if none are specified."),
                 awesomeRadio("product_filter", label=NULL, choices = c("All Services", "Select Service"), selected = NULL, inline = FALSE,
                              status = "primary", checkbox = TRUE),
                 conditionalPanel(condition="input.product_filter=='Select Service'",
@@ -156,14 +155,17 @@ ui <- fluidPage(
                 awesomeCheckbox("la", label = "Council area", value = FALSE),
                 conditionalPanel(condition = "input.la == true",
                                  selectizeInput("la_true", label = NULL,
-                                                choices = la_name, selected = NULL, multiple=TRUE, 
+                                                choices = la_name_list, selected = NULL, multiple=TRUE, 
                                                 options = list(placeholder = "Select or type council area of interest")))
                 
          ), # column bracket
          column(3,
+                p("Select what time interval you want", style = "font-weight: bold; color: black;"),
                 br(),
-                # Panel for HSC partnership selections
-                awesomeCheckbox("other",label = "Other available filters?", value = FALSE)
+                # Panel for selecting time interval of interest
+                
+                awesomeRadio("time_intervals", label=NULL, choices = c("All Available", "Month", "Financial Quarter", "Financial Year"), selected = NULL, inline = FALSE,
+                             status = "primary", checkbox = TRUE)
 
                          ), #column bracket
          
