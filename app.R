@@ -69,17 +69,21 @@ ui <- fluidPage(
   
         # create a panel containing dropdowns, download data and help buttons
         # the following code was adapted from scotpho profiles            
-         fluidRow(
+         splitLayout(column(1,
+                         verticalLayout(
                # create buttons for help and definitions info 
-               # column(1,
-               #      actionButton(inputId = "help_trend", label = "Help", icon= icon('question-circle'), class ="down")),
-               # column(1,
-               #       actionButton(inputId = "defs_trend", label="Definitions", icon= icon('info'), class ="down")),
-               # 
-               # add download data and save chart buttons
+                
+                tags$button("Help", label = "help", icon= icon('question-circle'), class ="down", align = "centre"),
+                tags$button("Definitions", label="definitions", icon= icon('info'), class ="down", align = "centre"),
                
-               downloadButton("download_trend", label = "Download data", class = "down") #,
-              # savechart_button('download_trendplot', 'Save chart',  class = "down"),             
+               # add download data and save chart buttons
+                downloadButton("download_trend", label = "Download data", class = "down", align = "centre"),
+                downloadButton("download_trendplot", label = "Download Chart - Coming Soon", class = "down", align = "centre"))
+               ), # end col 1 fluid row bracket
+     
+     column(6, h3("dropdowns will go here"))
+            
+        # savechart_button('download_trendplot', 'Save chart',  class = "down"),             
                # 
                # # create dropdown options  
                # # local authority of interest - default = all areas submitted
@@ -99,7 +103,7 @@ ui <- fluidPage(
                # set up main panel where data will be presented
               
         mainPanel(width = 12, value = "main_panel",
-                  h4("check if this has this worked"))
+                  h4("Main panel starts here"))
 
        ), # tab panel bracket (end of Trend tab specifications)
      
