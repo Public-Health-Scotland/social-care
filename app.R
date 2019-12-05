@@ -46,6 +46,9 @@ ui <- fluidPage(
 
                 # Trend Box
                 tags$img(src = "landing_button_time_trend.png", height="100%", width="100%", align="left"),
+                
+                # Rank/Comparisons Box
+                tags$img(src = "landing_button_rank.png", height="100%", width="100%", align="left"),
 
                 # Data Table box
                 tags$img(src = "landing_button_data_table.png", height="100%", width="100%", align="left"))),
