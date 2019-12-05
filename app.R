@@ -101,6 +101,13 @@ ui <- fluidPage(
        ), # tab panel bracket (end of Trend tab specifications)
      
      ##########################.
+     ### Rank Tab ----
+     ##########################.
+     
+     tabPanel(title = "Rank", icon = icon("chart-bar"), value = "rank", 
+              h2("Social Care Comparisons")),
+     
+     ##########################.
      ### Data Tab ----
      ##########################.
      
