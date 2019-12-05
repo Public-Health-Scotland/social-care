@@ -21,10 +21,10 @@ library(rintrojs) # for help intros (js = javascript)
 # library(shinyBS) #modals
 # library(shinythemes) # layouts for shiny
 # library(ggplot2) #data visualization
-# library (DT) # for data tables
+ library(DT) # for data tables
 # library(leaflet) #javascript maps
 # library(plotly) #interactive graphs
-# library(shinyWidgets) # for extra widgets
+ library(shinyWidgets) # for extra widgets
 # library(tibble) # rownames to column in techdoc
 # library(shinyjs)
 # library(shinydashboard) #for valuebox on techdoc tab
