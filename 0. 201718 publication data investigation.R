@@ -143,7 +143,7 @@ homecare <- homecare %>%
             mutate(nclient = as.double(nclient),
                    percentage = as.double(percentage),
                    year       = "2017/18") %>% 
-            plyr::rename(c("type" = "table_type"))
+            plyr::rename(c("name" = "table_type"))
 
 ### clients data 
 
@@ -196,9 +196,6 @@ unique(socialcare$table_type)
 socialcare <- socialcare %>% 
                 filter(!grepl('census', table_type, ignore.case = T))   # remove rows with any mention of census in the table_type (table name)
 
-# check table_types
-unique(socialcare$table_type)
-
 # look at the following in more detail
 # "Table 1 All clients"
 # NA                                                                 
@@ -207,9 +204,9 @@ unique(socialcare$table_type)
 # check table_types by social care service
 
 service_table_types <- socialcare %>% 
-                   select(financial_year, sc_service, table_type, sending_location, nclient, nclient_qtr) %>% 
-                   mutate(nclient   = as.numeric(nclient),
-                          nclient_q = as.numeric(nclient_qtr)) %>%
+                   select(year, sc_service, table_type, sending_location, nclient, nclient_qtr) %>% 
+                   # mutate(nclient   = as.numeric(nclient),
+                   #        nclient_q = as.numeric(nclient_qtr)) %>%
                    filter(sending_location == "Scotland") %>% 
                    filter(is.na(table_type) | table_type == "Table 1 All clients" | table_type == "Table 1 Number and percentage of clients by IoRN Group for table" ) #
 
