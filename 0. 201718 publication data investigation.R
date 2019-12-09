@@ -219,7 +219,17 @@ unique(socialcare$sending_location)
 # check age groups included
 unique(socialcare$age_group)
 
+
 #### 4: Data checks ----
+
+check <- socialcare %>% 
+          filter(table_type == "Table 9 clients by social care type yearly")
+
+total_clients <- check %>% 
+                  select(sending_location, type, nclient) 
+
+# homecare and care home not included in the above
+# the table types created above are based on the 2017/18 publication syntax
 
 # number of clients in scotland by sc_service and year
 
