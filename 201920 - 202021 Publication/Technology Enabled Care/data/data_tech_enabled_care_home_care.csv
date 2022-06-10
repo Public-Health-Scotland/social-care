@@ -1,0 +1,1057 @@
+financial_year,sending_location,age_group,hc_status,hc_status_nclient,prop_hc_status_nclient
+2018/19,Scotland (All Areas Submitted),All Ages,Home Care Service Received,48980,39.1
+2018/19,Scotland (All Areas Submitted),All Ages,No Home Care Service Received,76140,60.9
+2018/19,Scotland (All Areas Submitted),0-17 years,Home Care Service Received,10,1.9
+2018/19,Scotland (All Areas Submitted),0-17 years,No Home Care Service Received,530,98.1
+2018/19,Scotland (All Areas Submitted),18-64 years,Home Care Service Received,4775,28.7
+2018/19,Scotland (All Areas Submitted),18-64 years,No Home Care Service Received,11880,71.3
+2018/19,Scotland (All Areas Submitted),65-74 years,Home Care Service Received,7020,34.8
+2018/19,Scotland (All Areas Submitted),65-74 years,No Home Care Service Received,13130,65.2
+2018/19,Scotland (All Areas Submitted),75-84 years,Home Care Service Received,16920,38.6
+2018/19,Scotland (All Areas Submitted),75-84 years,No Home Care Service Received,26955,61.4
+2018/19,Scotland (All Areas Submitted),85+ years,Home Care Service Received,20255,46.2
+2018/19,Scotland (All Areas Submitted),85+ years,No Home Care Service Received,23620,53.8
+2018/19,Aberdeen City,All Ages,Home Care Service Received,1045,30
+2018/19,Aberdeen City,All Ages,No Home Care Service Received,2435,70
+2018/19,Aberdeen City,0-17 years,Home Care Service Received,0,0
+2018/19,Aberdeen City,0-17 years,No Home Care Service Received,20,100
+2018/19,Aberdeen City,18-64 years,Home Care Service Received,110,23.9
+2018/19,Aberdeen City,18-64 years,No Home Care Service Received,350,76.1
+2018/19,Aberdeen City,65-74 years,Home Care Service Received,145,23.6
+2018/19,Aberdeen City,65-74 years,No Home Care Service Received,470,76.4
+2018/19,Aberdeen City,75-84 years,Home Care Service Received,280,25.7
+2018/19,Aberdeen City,75-84 years,No Home Care Service Received,810,74.3
+2018/19,Aberdeen City,85+ years,Home Care Service Received,505,39.3
+2018/19,Aberdeen City,85+ years,No Home Care Service Received,780,60.7
+2018/19,Aberdeenshire,All Ages,Home Care Service Received,1720,32.3
+2018/19,Aberdeenshire,All Ages,No Home Care Service Received,3600,67.7
+2018/19,Aberdeenshire,0-17 years,Home Care Service Received,0,0
+2018/19,Aberdeenshire,0-17 years,No Home Care Service Received,20,100
+2018/19,Aberdeenshire,18-64 years,Home Care Service Received,130,22.2
+2018/19,Aberdeenshire,18-64 years,No Home Care Service Received,455,77.8
+2018/19,Aberdeenshire,65-74 years,Home Care Service Received,205,24.4
+2018/19,Aberdeenshire,65-74 years,No Home Care Service Received,635,75.6
+2018/19,Aberdeenshire,75-84 years,Home Care Service Received,570,31.1
+2018/19,Aberdeenshire,75-84 years,No Home Care Service Received,1265,68.9
+2018/19,Aberdeenshire,85+ years,Home Care Service Received,815,40
+2018/19,Aberdeenshire,85+ years,No Home Care Service Received,1225,60
+2018/19,Angus,All Ages,Home Care Service Received,1410,36.4
+2018/19,Angus,All Ages,No Home Care Service Received,2460,63.6
+2018/19,Angus,0-17 years,Home Care Service Received,0,0
+2018/19,Angus,0-17 years,No Home Care Service Received,5,100
+2018/19,Angus,18-64 years,Home Care Service Received,125,30.9
+2018/19,Angus,18-64 years,No Home Care Service Received,280,69.1
+2018/19,Angus,65-74 years,Home Care Service Received,205,38.7
+2018/19,Angus,65-74 years,No Home Care Service Received,325,61.3
+2018/19,Angus,75-84 years,Home Care Service Received,445,31.3
+2018/19,Angus,75-84 years,No Home Care Service Received,975,68.7
+2018/19,Angus,85+ years,Home Care Service Received,630,41.9
+2018/19,Angus,85+ years,No Home Care Service Received,875,58.1
+2018/19,Argyll and Bute,All Ages,Home Care Service Received,1225,48.6
+2018/19,Argyll and Bute,All Ages,No Home Care Service Received,1295,51.4
+2018/19,Argyll and Bute,0-17 years,Home Care Service Received,0,0
+2018/19,Argyll and Bute,0-17 years,No Home Care Service Received,5,100
+2018/19,Argyll and Bute,18-64 years,Home Care Service Received,140,50
+2018/19,Argyll and Bute,18-64 years,No Home Care Service Received,140,50
+2018/19,Argyll and Bute,65-74 years,Home Care Service Received,140,44.4
+2018/19,Argyll and Bute,65-74 years,No Home Care Service Received,175,55.6
+2018/19,Argyll and Bute,75-84 years,Home Care Service Received,395,45.9
+2018/19,Argyll and Bute,75-84 years,No Home Care Service Received,465,54.1
+2018/19,Argyll and Bute,85+ years,Home Care Service Received,555,52.1
+2018/19,Argyll and Bute,85+ years,No Home Care Service Received,510,47.9
+2018/19,City of Edinburgh,All Ages,Home Care Service Received,3275,28
+2018/19,City of Edinburgh,All Ages,No Home Care Service Received,8415,72
+2018/19,City of Edinburgh,0-17 years,Home Care Service Received,0,0
+2018/19,City of Edinburgh,0-17 years,No Home Care Service Received,115,100
+2018/19,City of Edinburgh,18-64 years,Home Care Service Received,485,24.9
+2018/19,City of Edinburgh,18-64 years,No Home Care Service Received,1465,75.1
+2018/19,City of Edinburgh,65-74 years,Home Care Service Received,435,20.8
+2018/19,City of Edinburgh,65-74 years,No Home Care Service Received,1655,79.2
+2018/19,City of Edinburgh,75-84 years,Home Care Service Received,940,28.7
+2018/19,City of Edinburgh,75-84 years,No Home Care Service Received,2340,71.3
+2018/19,City of Edinburgh,85+ years,Home Care Service Received,1420,33.3
+2018/19,City of Edinburgh,85+ years,No Home Care Service Received,2840,66.7
+2018/19,Clackmannanshire,All Ages,Home Care Service Received,860,45.9
+2018/19,Clackmannanshire,All Ages,No Home Care Service Received,1015,54.1
+2018/19,Clackmannanshire,0-17 years,Home Care Service Received,0,NA
+2018/19,Clackmannanshire,0-17 years,No Home Care Service Received,0,NA
+2018/19,Clackmannanshire,18-64 years,Home Care Service Received,105,35.6
+2018/19,Clackmannanshire,18-64 years,No Home Care Service Received,190,64.4
+2018/19,Clackmannanshire,65-74 years,Home Care Service Received,150,46.2
+2018/19,Clackmannanshire,65-74 years,No Home Care Service Received,175,53.8
+2018/19,Clackmannanshire,75-84 years,Home Care Service Received,310,43.4
+2018/19,Clackmannanshire,75-84 years,No Home Care Service Received,405,56.6
+2018/19,Clackmannanshire,85+ years,Home Care Service Received,295,54.1
+2018/19,Clackmannanshire,85+ years,No Home Care Service Received,250,45.9
+2018/19,Dumfries and Galloway,All Ages,Home Care Service Received,1500,38.6
+2018/19,Dumfries and Galloway,All Ages,No Home Care Service Received,2385,61.4
+2018/19,Dumfries and Galloway,0-17 years,Home Care Service Received,0,0
+2018/19,Dumfries and Galloway,0-17 years,No Home Care Service Received,20,100
+2018/19,Dumfries and Galloway,18-64 years,Home Care Service Received,105,35.6
+2018/19,Dumfries and Galloway,18-64 years,No Home Care Service Received,190,64.4
+2018/19,Dumfries and Galloway,65-74 years,Home Care Service Received,185,39.4
+2018/19,Dumfries and Galloway,65-74 years,No Home Care Service Received,285,60.6
+2018/19,Dumfries and Galloway,75-84 years,Home Care Service Received,515,35.4
+2018/19,Dumfries and Galloway,75-84 years,No Home Care Service Received,940,64.6
+2018/19,Dumfries and Galloway,85+ years,Home Care Service Received,695,42.2
+2018/19,Dumfries and Galloway,85+ years,No Home Care Service Received,950,57.8
+2018/19,Dundee City,All Ages,Home Care Service Received,2030,34.6
+2018/19,Dundee City,All Ages,No Home Care Service Received,3835,65.4
+2018/19,Dundee City,0-17 years,Home Care Service Received,0,0
+2018/19,Dundee City,0-17 years,No Home Care Service Received,5,100
+2018/19,Dundee City,18-64 years,Home Care Service Received,185,20.3
+2018/19,Dundee City,18-64 years,No Home Care Service Received,725,79.7
+2018/19,Dundee City,65-74 years,Home Care Service Received,340,24.7
+2018/19,Dundee City,65-74 years,No Home Care Service Received,1035,75.3
+2018/19,Dundee City,75-84 years,Home Care Service Received,710,35.9
+2018/19,Dundee City,75-84 years,No Home Care Service Received,1270,64.1
+2018/19,Dundee City,85+ years,Home Care Service Received,800,49.8
+2018/19,Dundee City,85+ years,No Home Care Service Received,805,50.2
+2018/19,East Ayrshire,All Ages,Home Care Service Received,1995,45.2
+2018/19,East Ayrshire,All Ages,No Home Care Service Received,2420,54.8
+2018/19,East Ayrshire,0-17 years,Home Care Service Received,0,0
+2018/19,East Ayrshire,0-17 years,No Home Care Service Received,30,100
+2018/19,East Ayrshire,18-64 years,Home Care Service Received,210,34.7
+2018/19,East Ayrshire,18-64 years,No Home Care Service Received,395,65.3
+2018/19,East Ayrshire,65-74 years,Home Care Service Received,300,44.1
+2018/19,East Ayrshire,65-74 years,No Home Care Service Received,380,55.9
+2018/19,East Ayrshire,75-84 years,Home Care Service Received,770,46.1
+2018/19,East Ayrshire,75-84 years,No Home Care Service Received,900,53.9
+2018/19,East Ayrshire,85+ years,Home Care Service Received,715,50.2
+2018/19,East Ayrshire,85+ years,No Home Care Service Received,710,49.8
+2018/19,East Dunbartonshire,All Ages,Home Care Service Received,875,49
+2018/19,East Dunbartonshire,All Ages,No Home Care Service Received,910,51
+2018/19,East Dunbartonshire,0-17 years,Home Care Service Received,0,0
+2018/19,East Dunbartonshire,0-17 years,No Home Care Service Received,5,100
+2018/19,East Dunbartonshire,18-64 years,Home Care Service Received,50,35.7
+2018/19,East Dunbartonshire,18-64 years,No Home Care Service Received,90,64.3
+2018/19,East Dunbartonshire,65-74 years,Home Care Service Received,90,46.2
+2018/19,East Dunbartonshire,65-74 years,No Home Care Service Received,105,53.8
+2018/19,East Dunbartonshire,75-84 years,Home Care Service Received,310,50
+2018/19,East Dunbartonshire,75-84 years,No Home Care Service Received,310,50
+2018/19,East Dunbartonshire,85+ years,Home Care Service Received,425,51.5
+2018/19,East Dunbartonshire,85+ years,No Home Care Service Received,400,48.5
+2018/19,East Lothian,All Ages,Home Care Service Received,305,33
+2018/19,East Lothian,All Ages,No Home Care Service Received,620,67
+2018/19,East Lothian,0-17 years,Home Care Service Received,0,NA
+2018/19,East Lothian,0-17 years,No Home Care Service Received,0,NA
+2018/19,East Lothian,18-64 years,Home Care Service Received,20,19
+2018/19,East Lothian,18-64 years,No Home Care Service Received,85,81
+2018/19,East Lothian,65-74 years,Home Care Service Received,30,20
+2018/19,East Lothian,65-74 years,No Home Care Service Received,120,80
+2018/19,East Lothian,75-84 years,Home Care Service Received,105,30.9
+2018/19,East Lothian,75-84 years,No Home Care Service Received,235,69.1
+2018/19,East Lothian,85+ years,Home Care Service Received,155,47
+2018/19,East Lothian,85+ years,No Home Care Service Received,175,53
+2018/19,East Renfrewshire,All Ages,Home Care Service Received,1135,34.6
+2018/19,East Renfrewshire,All Ages,No Home Care Service Received,2145,65.4
+2018/19,East Renfrewshire,0-17 years,Home Care Service Received,0,0
+2018/19,East Renfrewshire,0-17 years,No Home Care Service Received,15,100
+2018/19,East Renfrewshire,18-64 years,Home Care Service Received,80,24.2
+2018/19,East Renfrewshire,18-64 years,No Home Care Service Received,250,75.8
+2018/19,East Renfrewshire,65-74 years,Home Care Service Received,135,32.9
+2018/19,East Renfrewshire,65-74 years,No Home Care Service Received,275,67.1
+2018/19,East Renfrewshire,75-84 years,Home Care Service Received,375,32.2
+2018/19,East Renfrewshire,75-84 years,No Home Care Service Received,790,67.8
+2018/19,East Renfrewshire,85+ years,Home Care Service Received,540,40
+2018/19,East Renfrewshire,85+ years,No Home Care Service Received,810,60
+2018/19,Falkirk,All Ages,Home Care Service Received,2045,43.2
+2018/19,Falkirk,All Ages,No Home Care Service Received,2685,56.8
+2018/19,Falkirk,0-17 years,Home Care Service Received,0,0
+2018/19,Falkirk,0-17 years,No Home Care Service Received,5,100
+2018/19,Falkirk,18-64 years,Home Care Service Received,165,28.7
+2018/19,Falkirk,18-64 years,No Home Care Service Received,410,71.3
+2018/19,Falkirk,65-74 years,Home Care Service Received,270,34.2
+2018/19,Falkirk,65-74 years,No Home Care Service Received,520,65.8
+2018/19,Falkirk,75-84 years,Home Care Service Received,740,42.3
+2018/19,Falkirk,75-84 years,No Home Care Service Received,1010,57.7
+2018/19,Falkirk,85+ years,Home Care Service Received,870,53.9
+2018/19,Falkirk,85+ years,No Home Care Service Received,745,46.1
+2018/19,Fife,All Ages,Home Care Service Received,3385,32
+2018/19,Fife,All Ages,No Home Care Service Received,7205,68
+2018/19,Fife,0-17 years,Home Care Service Received,0,0
+2018/19,Fife,0-17 years,No Home Care Service Received,75,100
+2018/19,Fife,18-64 years,Home Care Service Received,485,35.9
+2018/19,Fife,18-64 years,No Home Care Service Received,865,64.1
+2018/19,Fife,65-74 years,Home Care Service Received,485,28.9
+2018/19,Fife,65-74 years,No Home Care Service Received,1195,71.1
+2018/19,Fife,75-84 years,Home Care Service Received,1065,28.1
+2018/19,Fife,75-84 years,No Home Care Service Received,2720,71.9
+2018/19,Fife,85+ years,Home Care Service Received,1350,36.5
+2018/19,Fife,85+ years,No Home Care Service Received,2350,63.5
+2018/19,Glasgow City,All Ages,Home Care Service Received,4775,48
+2018/19,Glasgow City,All Ages,No Home Care Service Received,5170,52
+2018/19,Glasgow City,0-17 years,Home Care Service Received,0,0
+2018/19,Glasgow City,0-17 years,No Home Care Service Received,35,100
+2018/19,Glasgow City,18-64 years,Home Care Service Received,195,16.1
+2018/19,Glasgow City,18-64 years,No Home Care Service Received,1015,83.9
+2018/19,Glasgow City,65-74 years,Home Care Service Received,670,40.9
+2018/19,Glasgow City,65-74 years,No Home Care Service Received,970,59.1
+2018/19,Glasgow City,75-84 years,Home Care Service Received,1830,51.5
+2018/19,Glasgow City,75-84 years,No Home Care Service Received,1725,48.5
+2018/19,Glasgow City,85+ years,Home Care Service Received,2080,59.3
+2018/19,Glasgow City,85+ years,No Home Care Service Received,1425,40.7
+2018/19,Highland,All Ages,Home Care Service Received,1335,38.1
+2018/19,Highland,All Ages,No Home Care Service Received,2165,61.9
+2018/19,Highland,0-17 years,Home Care Service Received,0,0
+2018/19,Highland,0-17 years,No Home Care Service Received,50,100
+2018/19,Highland,18-64 years,Home Care Service Received,80,18.4
+2018/19,Highland,18-64 years,No Home Care Service Received,355,81.6
+2018/19,Highland,65-74 years,Home Care Service Received,125,36.8
+2018/19,Highland,65-74 years,No Home Care Service Received,215,63.2
+2018/19,Highland,75-84 years,Home Care Service Received,435,39.7
+2018/19,Highland,75-84 years,No Home Care Service Received,660,60.3
+2018/19,Highland,85+ years,Home Care Service Received,695,44
+2018/19,Highland,85+ years,No Home Care Service Received,885,56
+2018/19,Inverclyde,All Ages,Home Care Service Received,1305,41.9
+2018/19,Inverclyde,All Ages,No Home Care Service Received,1810,58.1
+2018/19,Inverclyde,0-17 years,Home Care Service Received,0,NA
+2018/19,Inverclyde,0-17 years,No Home Care Service Received,0,NA
+2018/19,Inverclyde,18-64 years,Home Care Service Received,115,23.5
+2018/19,Inverclyde,18-64 years,No Home Care Service Received,375,76.5
+2018/19,Inverclyde,65-74 years,Home Care Service Received,210,39.6
+2018/19,Inverclyde,65-74 years,No Home Care Service Received,320,60.4
+2018/19,Inverclyde,75-84 years,Home Care Service Received,475,43.2
+2018/19,Inverclyde,75-84 years,No Home Care Service Received,625,56.8
+2018/19,Inverclyde,85+ years,Home Care Service Received,505,51
+2018/19,Inverclyde,85+ years,No Home Care Service Received,485,49
+2018/19,Midlothian,All Ages,Home Care Service Received,865,37.9
+2018/19,Midlothian,All Ages,No Home Care Service Received,1415,62.1
+2018/19,Midlothian,0-17 years,Home Care Service Received,0,0
+2018/19,Midlothian,0-17 years,No Home Care Service Received,25,100
+2018/19,Midlothian,18-64 years,Home Care Service Received,125,38.5
+2018/19,Midlothian,18-64 years,No Home Care Service Received,200,61.5
+2018/19,Midlothian,65-74 years,Home Care Service Received,125,34.2
+2018/19,Midlothian,65-74 years,No Home Care Service Received,240,65.8
+2018/19,Midlothian,75-84 years,Home Care Service Received,295,35.3
+2018/19,Midlothian,75-84 years,No Home Care Service Received,540,64.7
+2018/19,Midlothian,85+ years,Home Care Service Received,315,43.4
+2018/19,Midlothian,85+ years,No Home Care Service Received,410,56.6
+2018/19,Moray,All Ages,Home Care Service Received,780,39.2
+2018/19,Moray,All Ages,No Home Care Service Received,1210,60.8
+2018/19,Moray,0-17 years,Home Care Service Received,0,NA
+2018/19,Moray,0-17 years,No Home Care Service Received,0,NA
+2018/19,Moray,18-64 years,Home Care Service Received,70,30.4
+2018/19,Moray,18-64 years,No Home Care Service Received,160,69.6
+2018/19,Moray,65-74 years,Home Care Service Received,90,34.6
+2018/19,Moray,65-74 years,No Home Care Service Received,170,65.4
+2018/19,Moray,75-84 years,Home Care Service Received,245,38.6
+2018/19,Moray,75-84 years,No Home Care Service Received,390,61.4
+2018/19,Moray,85+ years,Home Care Service Received,375,43.4
+2018/19,Moray,85+ years,No Home Care Service Received,490,56.6
+2018/19,Na h-Eileanan Siar,All Ages,Home Care Service Received,405,33.8
+2018/19,Na h-Eileanan Siar,All Ages,No Home Care Service Received,795,66.2
+2018/19,Na h-Eileanan Siar,0-17 years,Home Care Service Received,0,0
+2018/19,Na h-Eileanan Siar,0-17 years,No Home Care Service Received,5,100
+2018/19,Na h-Eileanan Siar,18-64 years,Home Care Service Received,30,28.6
+2018/19,Na h-Eileanan Siar,18-64 years,No Home Care Service Received,75,71.4
+2018/19,Na h-Eileanan Siar,65-74 years,Home Care Service Received,45,27.3
+2018/19,Na h-Eileanan Siar,65-74 years,No Home Care Service Received,120,72.7
+2018/19,Na h-Eileanan Siar,75-84 years,Home Care Service Received,120,26.4
+2018/19,Na h-Eileanan Siar,75-84 years,No Home Care Service Received,335,73.6
+2018/19,Na h-Eileanan Siar,85+ years,Home Care Service Received,210,44.7
+2018/19,Na h-Eileanan Siar,85+ years,No Home Care Service Received,260,55.3
+2018/19,North Ayrshire,All Ages,Home Care Service Received,2390,48.9
+2018/19,North Ayrshire,All Ages,No Home Care Service Received,2500,51.1
+2018/19,North Ayrshire,0-17 years,Home Care Service Received,0,0
+2018/19,North Ayrshire,0-17 years,No Home Care Service Received,10,100
+2018/19,North Ayrshire,18-64 years,Home Care Service Received,275,47.4
+2018/19,North Ayrshire,18-64 years,No Home Care Service Received,305,52.6
+2018/19,North Ayrshire,65-74 years,Home Care Service Received,400,51
+2018/19,North Ayrshire,65-74 years,No Home Care Service Received,385,49
+2018/19,North Ayrshire,75-84 years,Home Care Service Received,835,45.3
+2018/19,North Ayrshire,75-84 years,No Home Care Service Received,1010,54.7
+2018/19,North Ayrshire,85+ years,Home Care Service Received,880,52.9
+2018/19,North Ayrshire,85+ years,No Home Care Service Received,785,47.1
+2018/19,North Lanarkshire,All Ages,Home Care Service Received,4075,37.2
+2018/19,North Lanarkshire,All Ages,No Home Care Service Received,6865,62.8
+2018/19,North Lanarkshire,0-17 years,Home Care Service Received,0,0
+2018/19,North Lanarkshire,0-17 years,No Home Care Service Received,55,100
+2018/19,North Lanarkshire,18-64 years,Home Care Service Received,325,17.1
+2018/19,North Lanarkshire,18-64 years,No Home Care Service Received,1575,82.9
+2018/19,North Lanarkshire,65-74 years,Home Care Service Received,700,35.2
+2018/19,North Lanarkshire,65-74 years,No Home Care Service Received,1290,64.8
+2018/19,North Lanarkshire,75-84 years,Home Care Service Received,1610,39.7
+2018/19,North Lanarkshire,75-84 years,No Home Care Service Received,2445,60.3
+2018/19,North Lanarkshire,85+ years,Home Care Service Received,1440,49
+2018/19,North Lanarkshire,85+ years,No Home Care Service Received,1500,51
+2018/19,Perth and Kinross,All Ages,Home Care Service Received,1670,46.2
+2018/19,Perth and Kinross,All Ages,No Home Care Service Received,1945,53.8
+2018/19,Perth and Kinross,0-17 years,Home Care Service Received,0,NA
+2018/19,Perth and Kinross,0-17 years,No Home Care Service Received,0,NA
+2018/19,Perth and Kinross,18-64 years,Home Care Service Received,135,32.5
+2018/19,Perth and Kinross,18-64 years,No Home Care Service Received,280,67.5
+2018/19,Perth and Kinross,65-74 years,Home Care Service Received,200,43.5
+2018/19,Perth and Kinross,65-74 years,No Home Care Service Received,260,56.5
+2018/19,Perth and Kinross,75-84 years,Home Care Service Received,560,46.1
+2018/19,Perth and Kinross,75-84 years,No Home Care Service Received,655,53.9
+2018/19,Perth and Kinross,85+ years,Home Care Service Received,775,50.7
+2018/19,Perth and Kinross,85+ years,No Home Care Service Received,755,49.3
+2018/19,Renfrewshire,All Ages,Home Care Service Received,2310,47.8
+2018/19,Renfrewshire,All Ages,No Home Care Service Received,2520,52.2
+2018/19,Renfrewshire,0-17 years,Home Care Service Received,0,NA
+2018/19,Renfrewshire,0-17 years,No Home Care Service Received,0,NA
+2018/19,Renfrewshire,18-64 years,Home Care Service Received,220,44.4
+2018/19,Renfrewshire,18-64 years,No Home Care Service Received,275,55.6
+2018/19,Renfrewshire,65-74 years,Home Care Service Received,365,45.9
+2018/19,Renfrewshire,65-74 years,No Home Care Service Received,430,54.1
+2018/19,Renfrewshire,75-84 years,Home Care Service Received,825,44.4
+2018/19,Renfrewshire,75-84 years,No Home Care Service Received,1035,55.6
+2018/19,Renfrewshire,85+ years,Home Care Service Received,895,53.8
+2018/19,Renfrewshire,85+ years,No Home Care Service Received,770,46.2
+2018/19,Shetland Islands,All Ages,Home Care Service Received,250,39.1
+2018/19,Shetland Islands,All Ages,No Home Care Service Received,390,60.9
+2018/19,Shetland Islands,0-17 years,Home Care Service Received,0,NA
+2018/19,Shetland Islands,0-17 years,No Home Care Service Received,0,NA
+2018/19,Shetland Islands,18-64 years,Home Care Service Received,20,28.6
+2018/19,Shetland Islands,18-64 years,No Home Care Service Received,50,71.4
+2018/19,Shetland Islands,65-74 years,Home Care Service Received,35,46.7
+2018/19,Shetland Islands,65-74 years,No Home Care Service Received,40,53.3
+2018/19,Shetland Islands,75-84 years,Home Care Service Received,75,30.6
+2018/19,Shetland Islands,75-84 years,No Home Care Service Received,170,69.4
+2018/19,Shetland Islands,85+ years,Home Care Service Received,120,48
+2018/19,Shetland Islands,85+ years,No Home Care Service Received,130,52
+2018/19,South Ayrshire,All Ages,Home Care Service Received,1630,49.1
+2018/19,South Ayrshire,All Ages,No Home Care Service Received,1690,50.9
+2018/19,South Ayrshire,0-17 years,Home Care Service Received,0,0
+2018/19,South Ayrshire,0-17 years,No Home Care Service Received,5,100
+2018/19,South Ayrshire,18-64 years,Home Care Service Received,175,48.6
+2018/19,South Ayrshire,18-64 years,No Home Care Service Received,185,51.4
+2018/19,South Ayrshire,65-74 years,Home Care Service Received,220,52.4
+2018/19,South Ayrshire,65-74 years,No Home Care Service Received,200,47.6
+2018/19,South Ayrshire,75-84 years,Home Care Service Received,565,48.3
+2018/19,South Ayrshire,75-84 years,No Home Care Service Received,605,51.7
+2018/19,South Ayrshire,85+ years,Home Care Service Received,675,49.5
+2018/19,South Ayrshire,85+ years,No Home Care Service Received,690,50.5
+2018/19,Stirling,All Ages,Home Care Service Received,1215,45.5
+2018/19,Stirling,All Ages,No Home Care Service Received,1455,54.5
+2018/19,Stirling,0-17 years,Home Care Service Received,0,NA
+2018/19,Stirling,0-17 years,No Home Care Service Received,0,NA
+2018/19,Stirling,18-64 years,Home Care Service Received,130,46.4
+2018/19,Stirling,18-64 years,No Home Care Service Received,150,53.6
+2018/19,Stirling,65-74 years,Home Care Service Received,140,43.1
+2018/19,Stirling,65-74 years,No Home Care Service Received,185,56.9
+2018/19,Stirling,75-84 years,Home Care Service Received,410,42.3
+2018/19,Stirling,75-84 years,No Home Care Service Received,560,57.7
+2018/19,Stirling,85+ years,Home Care Service Received,530,48.6
+2018/19,Stirling,85+ years,No Home Care Service Received,560,51.4
+2018/19,West Dunbartonshire,All Ages,Home Care Service Received,1595,56.9
+2018/19,West Dunbartonshire,All Ages,No Home Care Service Received,1210,43.1
+2018/19,West Dunbartonshire,0-17 years,Home Care Service Received,0,0
+2018/19,West Dunbartonshire,0-17 years,No Home Care Service Received,5,100
+2018/19,West Dunbartonshire,18-64 years,Home Care Service Received,155,38.3
+2018/19,West Dunbartonshire,18-64 years,No Home Care Service Received,250,61.7
+2018/19,West Dunbartonshire,65-74 years,Home Care Service Received,300,57.1
+2018/19,West Dunbartonshire,65-74 years,No Home Care Service Received,225,42.9
+2018/19,West Dunbartonshire,75-84 years,Home Care Service Received,570,57
+2018/19,West Dunbartonshire,75-84 years,No Home Care Service Received,430,43
+2018/19,West Dunbartonshire,85+ years,Home Care Service Received,570,65.5
+2018/19,West Dunbartonshire,85+ years,No Home Care Service Received,300,34.5
+2018/19,West Lothian,All Ages,Home Care Service Received,1570,30.5
+2018/19,West Lothian,All Ages,No Home Care Service Received,3570,69.5
+2018/19,West Lothian,0-17 years,Home Care Service Received,0,0
+2018/19,West Lothian,0-17 years,No Home Care Service Received,25,100
+2018/19,West Lothian,18-64 years,Home Care Service Received,330,31
+2018/19,West Lothian,18-64 years,No Home Care Service Received,735,69
+2018/19,West Lothian,65-74 years,Home Care Service Received,275,27.5
+2018/19,West Lothian,65-74 years,No Home Care Service Received,725,72.5
+2018/19,West Lothian,75-84 years,Home Care Service Received,540,28.7
+2018/19,West Lothian,75-84 years,No Home Care Service Received,1340,71.3
+2018/19,West Lothian,85+ years,Home Care Service Received,425,36.3
+2018/19,West Lothian,85+ years,No Home Care Service Received,745,63.7
+2019/20,Scotland (All Areas Submitted),All Ages,Home Care Service Received,47100,40.1
+2019/20,Scotland (All Areas Submitted),All Ages,No Home Care Service Received,70245,59.9
+2019/20,Scotland (All Areas Submitted),0-17 years,Home Care Service Received,10,2
+2019/20,Scotland (All Areas Submitted),0-17 years,No Home Care Service Received,495,98
+2019/20,Scotland (All Areas Submitted),18-64 years,Home Care Service Received,4755,30.4
+2019/20,Scotland (All Areas Submitted),18-64 years,No Home Care Service Received,10905,69.6
+2019/20,Scotland (All Areas Submitted),65-74 years,Home Care Service Received,6570,35.7
+2019/20,Scotland (All Areas Submitted),65-74 years,No Home Care Service Received,11825,64.3
+2019/20,Scotland (All Areas Submitted),75-84 years,Home Care Service Received,16130,39.2
+2019/20,Scotland (All Areas Submitted),75-84 years,No Home Care Service Received,24975,60.8
+2019/20,Scotland (All Areas Submitted),85+ years,Home Care Service Received,19630,47.1
+2019/20,Scotland (All Areas Submitted),85+ years,No Home Care Service Received,22025,52.9
+2019/20,Aberdeenshire,All Ages,Home Care Service Received,2040,38.2
+2019/20,Aberdeenshire,All Ages,No Home Care Service Received,3295,61.8
+2019/20,Aberdeenshire,0-17 years,Home Care Service Received,0,NA
+2019/20,Aberdeenshire,0-17 years,No Home Care Service Received,0,NA
+2019/20,Aberdeenshire,18-64 years,Home Care Service Received,155,27.7
+2019/20,Aberdeenshire,18-64 years,No Home Care Service Received,405,72.3
+2019/20,Aberdeenshire,65-74 years,Home Care Service Received,210,25.1
+2019/20,Aberdeenshire,65-74 years,No Home Care Service Received,625,74.9
+2019/20,Aberdeenshire,75-84 years,Home Care Service Received,690,37.1
+2019/20,Aberdeenshire,75-84 years,No Home Care Service Received,1170,62.9
+2019/20,Aberdeenshire,85+ years,Home Care Service Received,985,47.4
+2019/20,Aberdeenshire,85+ years,No Home Care Service Received,1095,52.6
+2019/20,Angus,All Ages,Home Care Service Received,1645,41.1
+2019/20,Angus,All Ages,No Home Care Service Received,2355,58.9
+2019/20,Angus,0-17 years,Home Care Service Received,0,NA
+2019/20,Angus,0-17 years,No Home Care Service Received,0,NA
+2019/20,Angus,18-64 years,Home Care Service Received,150,38
+2019/20,Angus,18-64 years,No Home Care Service Received,245,62
+2019/20,Angus,65-74 years,Home Care Service Received,230,40.7
+2019/20,Angus,65-74 years,No Home Care Service Received,335,59.3
+2019/20,Angus,75-84 years,Home Care Service Received,555,37.8
+2019/20,Angus,75-84 years,No Home Care Service Received,915,62.2
+2019/20,Angus,85+ years,Home Care Service Received,710,45.2
+2019/20,Angus,85+ years,No Home Care Service Received,860,54.8
+2019/20,Argyll and Bute,All Ages,Home Care Service Received,1315,48.1
+2019/20,Argyll and Bute,All Ages,No Home Care Service Received,1420,51.9
+2019/20,Argyll and Bute,0-17 years,Home Care Service Received,0,0
+2019/20,Argyll and Bute,0-17 years,No Home Care Service Received,5,100
+2019/20,Argyll and Bute,18-64 years,Home Care Service Received,150,50.8
+2019/20,Argyll and Bute,18-64 years,No Home Care Service Received,145,49.2
+2019/20,Argyll and Bute,65-74 years,Home Care Service Received,160,49.2
+2019/20,Argyll and Bute,65-74 years,No Home Care Service Received,165,50.8
+2019/20,Argyll and Bute,75-84 years,Home Care Service Received,425,43.4
+2019/20,Argyll and Bute,75-84 years,No Home Care Service Received,555,56.6
+2019/20,Argyll and Bute,85+ years,Home Care Service Received,575,51.1
+2019/20,Argyll and Bute,85+ years,No Home Care Service Received,550,48.9
+2019/20,City of Edinburgh,All Ages,Home Care Service Received,3200,32.3
+2019/20,City of Edinburgh,All Ages,No Home Care Service Received,6715,67.7
+2019/20,City of Edinburgh,0-17 years,Home Care Service Received,0,0
+2019/20,City of Edinburgh,0-17 years,No Home Care Service Received,100,100
+2019/20,City of Edinburgh,18-64 years,Home Care Service Received,525,29.7
+2019/20,City of Edinburgh,18-64 years,No Home Care Service Received,1245,70.3
+2019/20,City of Edinburgh,65-74 years,Home Care Service Received,435,25.8
+2019/20,City of Edinburgh,65-74 years,No Home Care Service Received,1250,74.2
+2019/20,City of Edinburgh,75-84 years,Home Care Service Received,880,32
+2019/20,City of Edinburgh,75-84 years,No Home Care Service Received,1870,68
+2019/20,City of Edinburgh,85+ years,Home Care Service Received,1360,37.7
+2019/20,City of Edinburgh,85+ years,No Home Care Service Received,2250,62.3
+2019/20,Clackmannanshire,All Ages,Home Care Service Received,865,45.6
+2019/20,Clackmannanshire,All Ages,No Home Care Service Received,1030,54.4
+2019/20,Clackmannanshire,0-17 years,Home Care Service Received,0,NA
+2019/20,Clackmannanshire,0-17 years,No Home Care Service Received,0,NA
+2019/20,Clackmannanshire,18-64 years,Home Care Service Received,105,36.2
+2019/20,Clackmannanshire,18-64 years,No Home Care Service Received,185,63.8
+2019/20,Clackmannanshire,65-74 years,Home Care Service Received,130,40
+2019/20,Clackmannanshire,65-74 years,No Home Care Service Received,195,60
+2019/20,Clackmannanshire,75-84 years,Home Care Service Received,330,45.8
+2019/20,Clackmannanshire,75-84 years,No Home Care Service Received,390,54.2
+2019/20,Clackmannanshire,85+ years,Home Care Service Received,305,54.5
+2019/20,Clackmannanshire,85+ years,No Home Care Service Received,255,45.5
+2019/20,Dumfries and Galloway,All Ages,Home Care Service Received,1645,38.5
+2019/20,Dumfries and Galloway,All Ages,No Home Care Service Received,2625,61.5
+2019/20,Dumfries and Galloway,0-17 years,Home Care Service Received,0,0
+2019/20,Dumfries and Galloway,0-17 years,No Home Care Service Received,45,100
+2019/20,Dumfries and Galloway,18-64 years,Home Care Service Received,150,40.5
+2019/20,Dumfries and Galloway,18-64 years,No Home Care Service Received,220,59.5
+2019/20,Dumfries and Galloway,65-74 years,Home Care Service Received,195,39.4
+2019/20,Dumfries and Galloway,65-74 years,No Home Care Service Received,300,60.6
+2019/20,Dumfries and Galloway,75-84 years,Home Care Service Received,555,35.9
+2019/20,Dumfries and Galloway,75-84 years,No Home Care Service Received,990,64.1
+2019/20,Dumfries and Galloway,85+ years,Home Care Service Received,740,40.9
+2019/20,Dumfries and Galloway,85+ years,No Home Care Service Received,1070,59.1
+2019/20,Dundee City,All Ages,Home Care Service Received,2010,34.2
+2019/20,Dundee City,All Ages,No Home Care Service Received,3870,65.8
+2019/20,Dundee City,0-17 years,Home Care Service Received,0,0
+2019/20,Dundee City,0-17 years,No Home Care Service Received,5,100
+2019/20,Dundee City,18-64 years,Home Care Service Received,210,24.3
+2019/20,Dundee City,18-64 years,No Home Care Service Received,655,75.7
+2019/20,Dundee City,65-74 years,Home Care Service Received,325,26.1
+2019/20,Dundee City,65-74 years,No Home Care Service Received,920,73.9
+2019/20,Dundee City,75-84 years,Home Care Service Received,675,34
+2019/20,Dundee City,75-84 years,No Home Care Service Received,1310,66
+2019/20,Dundee City,85+ years,Home Care Service Received,800,44.8
+2019/20,Dundee City,85+ years,No Home Care Service Received,985,55.2
+2019/20,East Ayrshire,All Ages,Home Care Service Received,2005,46.5
+2019/20,East Ayrshire,All Ages,No Home Care Service Received,2310,53.5
+2019/20,East Ayrshire,0-17 years,Home Care Service Received,0,0
+2019/20,East Ayrshire,0-17 years,No Home Care Service Received,30,100
+2019/20,East Ayrshire,18-64 years,Home Care Service Received,220,36.7
+2019/20,East Ayrshire,18-64 years,No Home Care Service Received,380,63.3
+2019/20,East Ayrshire,65-74 years,Home Care Service Received,270,43.2
+2019/20,East Ayrshire,65-74 years,No Home Care Service Received,355,56.8
+2019/20,East Ayrshire,75-84 years,Home Care Service Received,770,47.8
+2019/20,East Ayrshire,75-84 years,No Home Care Service Received,840,52.2
+2019/20,East Ayrshire,85+ years,Home Care Service Received,745,51.6
+2019/20,East Ayrshire,85+ years,No Home Care Service Received,700,48.4
+2019/20,East Dunbartonshire,All Ages,Home Care Service Received,780,45.7
+2019/20,East Dunbartonshire,All Ages,No Home Care Service Received,925,54.3
+2019/20,East Dunbartonshire,0-17 years,Home Care Service Received,0,0
+2019/20,East Dunbartonshire,0-17 years,No Home Care Service Received,5,100
+2019/20,East Dunbartonshire,18-64 years,Home Care Service Received,45,39.1
+2019/20,East Dunbartonshire,18-64 years,No Home Care Service Received,70,60.9
+2019/20,East Dunbartonshire,65-74 years,Home Care Service Received,70,38.9
+2019/20,East Dunbartonshire,65-74 years,No Home Care Service Received,110,61.1
+2019/20,East Dunbartonshire,75-84 years,Home Care Service Received,250,42.4
+2019/20,East Dunbartonshire,75-84 years,No Home Care Service Received,340,57.6
+2019/20,East Dunbartonshire,85+ years,Home Care Service Received,410,50.6
+2019/20,East Dunbartonshire,85+ years,No Home Care Service Received,400,49.4
+2019/20,East Lothian,All Ages,Home Care Service Received,405,40.3
+2019/20,East Lothian,All Ages,No Home Care Service Received,600,59.7
+2019/20,East Lothian,0-17 years,Home Care Service Received,0,NA
+2019/20,East Lothian,0-17 years,No Home Care Service Received,0,NA
+2019/20,East Lothian,18-64 years,Home Care Service Received,30,30
+2019/20,East Lothian,18-64 years,No Home Care Service Received,70,70
+2019/20,East Lothian,65-74 years,Home Care Service Received,45,31
+2019/20,East Lothian,65-74 years,No Home Care Service Received,100,69
+2019/20,East Lothian,75-84 years,Home Care Service Received,135,37.5
+2019/20,East Lothian,75-84 years,No Home Care Service Received,225,62.5
+2019/20,East Lothian,85+ years,Home Care Service Received,195,48.8
+2019/20,East Lothian,85+ years,No Home Care Service Received,205,51.2
+2019/20,East Renfrewshire,All Ages,Home Care Service Received,1180,36.9
+2019/20,East Renfrewshire,All Ages,No Home Care Service Received,2015,63.1
+2019/20,East Renfrewshire,0-17 years,Home Care Service Received,0,0
+2019/20,East Renfrewshire,0-17 years,No Home Care Service Received,10,100
+2019/20,East Renfrewshire,18-64 years,Home Care Service Received,90,26.5
+2019/20,East Renfrewshire,18-64 years,No Home Care Service Received,250,73.5
+2019/20,East Renfrewshire,65-74 years,Home Care Service Received,130,33.8
+2019/20,East Renfrewshire,65-74 years,No Home Care Service Received,255,66.2
+2019/20,East Renfrewshire,75-84 years,Home Care Service Received,360,32.9
+2019/20,East Renfrewshire,75-84 years,No Home Care Service Received,735,67.1
+2019/20,East Renfrewshire,85+ years,Home Care Service Received,600,44
+2019/20,East Renfrewshire,85+ years,No Home Care Service Received,765,56
+2019/20,Falkirk,All Ages,Home Care Service Received,2220,43.8
+2019/20,Falkirk,All Ages,No Home Care Service Received,2845,56.2
+2019/20,Falkirk,0-17 years,Home Care Service Received,0,0
+2019/20,Falkirk,0-17 years,No Home Care Service Received,5,100
+2019/20,Falkirk,18-64 years,Home Care Service Received,175,28.2
+2019/20,Falkirk,18-64 years,No Home Care Service Received,445,71.8
+2019/20,Falkirk,65-74 years,Home Care Service Received,300,36.8
+2019/20,Falkirk,65-74 years,No Home Care Service Received,515,63.2
+2019/20,Falkirk,75-84 years,Home Care Service Received,800,42.3
+2019/20,Falkirk,75-84 years,No Home Care Service Received,1090,57.7
+2019/20,Falkirk,85+ years,Home Care Service Received,945,54.3
+2019/20,Falkirk,85+ years,No Home Care Service Received,795,45.7
+2019/20,Fife,All Ages,Home Care Service Received,2805,28.3
+2019/20,Fife,All Ages,No Home Care Service Received,7115,71.7
+2019/20,Fife,0-17 years,Home Care Service Received,0,0
+2019/20,Fife,0-17 years,No Home Care Service Received,70,100
+2019/20,Fife,18-64 years,Home Care Service Received,450,33.2
+2019/20,Fife,18-64 years,No Home Care Service Received,905,66.8
+2019/20,Fife,65-74 years,Home Care Service Received,410,25.8
+2019/20,Fife,65-74 years,No Home Care Service Received,1180,74.2
+2019/20,Fife,75-84 years,Home Care Service Received,855,25
+2019/20,Fife,75-84 years,No Home Care Service Received,2560,75
+2019/20,Fife,85+ years,Home Care Service Received,1080,31.1
+2019/20,Fife,85+ years,No Home Care Service Received,2395,68.9
+2019/20,Glasgow City,All Ages,Home Care Service Received,4950,49.3
+2019/20,Glasgow City,All Ages,No Home Care Service Received,5095,50.7
+2019/20,Glasgow City,0-17 years,Home Care Service Received,0,0
+2019/20,Glasgow City,0-17 years,No Home Care Service Received,50,100
+2019/20,Glasgow City,18-64 years,Home Care Service Received,255,20.2
+2019/20,Glasgow City,18-64 years,No Home Care Service Received,1005,79.8
+2019/20,Glasgow City,65-74 years,Home Care Service Received,690,41.6
+2019/20,Glasgow City,65-74 years,No Home Care Service Received,970,58.4
+2019/20,Glasgow City,75-84 years,Home Care Service Received,1870,52.7
+2019/20,Glasgow City,75-84 years,No Home Care Service Received,1680,47.3
+2019/20,Glasgow City,85+ years,Home Care Service Received,2130,60.5
+2019/20,Glasgow City,85+ years,No Home Care Service Received,1390,39.5
+2019/20,Highland,All Ages,Home Care Service Received,1335,36.3
+2019/20,Highland,All Ages,No Home Care Service Received,2345,63.7
+2019/20,Highland,0-17 years,Home Care Service Received,0,0
+2019/20,Highland,0-17 years,No Home Care Service Received,55,100
+2019/20,Highland,18-64 years,Home Care Service Received,70,15.7
+2019/20,Highland,18-64 years,No Home Care Service Received,375,84.3
+2019/20,Highland,65-74 years,Home Care Service Received,135,37
+2019/20,Highland,65-74 years,No Home Care Service Received,230,63
+2019/20,Highland,75-84 years,Home Care Service Received,410,35.5
+2019/20,Highland,75-84 years,No Home Care Service Received,745,64.5
+2019/20,Highland,85+ years,Home Care Service Received,720,43.5
+2019/20,Highland,85+ years,No Home Care Service Received,935,56.5
+2019/20,Inverclyde,All Ages,Home Care Service Received,1275,48.2
+2019/20,Inverclyde,All Ages,No Home Care Service Received,1370,51.8
+2019/20,Inverclyde,0-17 years,Home Care Service Received,0,NA
+2019/20,Inverclyde,0-17 years,No Home Care Service Received,0,NA
+2019/20,Inverclyde,18-64 years,Home Care Service Received,100,26.3
+2019/20,Inverclyde,18-64 years,No Home Care Service Received,280,73.7
+2019/20,Inverclyde,65-74 years,Home Care Service Received,200,47.6
+2019/20,Inverclyde,65-74 years,No Home Care Service Received,220,52.4
+2019/20,Inverclyde,75-84 years,Home Care Service Received,455,47.6
+2019/20,Inverclyde,75-84 years,No Home Care Service Received,500,52.4
+2019/20,Inverclyde,85+ years,Home Care Service Received,520,58.4
+2019/20,Inverclyde,85+ years,No Home Care Service Received,370,41.6
+2019/20,Midlothian,All Ages,Home Care Service Received,740,34.8
+2019/20,Midlothian,All Ages,No Home Care Service Received,1385,65.2
+2019/20,Midlothian,0-17 years,Home Care Service Received,0,0
+2019/20,Midlothian,0-17 years,No Home Care Service Received,15,100
+2019/20,Midlothian,18-64 years,Home Care Service Received,100,35.7
+2019/20,Midlothian,18-64 years,No Home Care Service Received,180,64.3
+2019/20,Midlothian,65-74 years,Home Care Service Received,100,32.8
+2019/20,Midlothian,65-74 years,No Home Care Service Received,205,67.2
+2019/20,Midlothian,75-84 years,Home Care Service Received,260,31.7
+2019/20,Midlothian,75-84 years,No Home Care Service Received,560,68.3
+2019/20,Midlothian,85+ years,Home Care Service Received,275,39
+2019/20,Midlothian,85+ years,No Home Care Service Received,430,61
+2019/20,Moray,All Ages,Home Care Service Received,665,36.4
+2019/20,Moray,All Ages,No Home Care Service Received,1160,63.6
+2019/20,Moray,0-17 years,Home Care Service Received,0,0
+2019/20,Moray,0-17 years,No Home Care Service Received,5,100
+2019/20,Moray,18-64 years,Home Care Service Received,45,22
+2019/20,Moray,18-64 years,No Home Care Service Received,160,78
+2019/20,Moray,65-74 years,Home Care Service Received,90,37.5
+2019/20,Moray,65-74 years,No Home Care Service Received,150,62.5
+2019/20,Moray,75-84 years,Home Care Service Received,210,35
+2019/20,Moray,75-84 years,No Home Care Service Received,390,65
+2019/20,Moray,85+ years,Home Care Service Received,320,41.3
+2019/20,Moray,85+ years,No Home Care Service Received,455,58.7
+2019/20,Na h-Eileanan Siar,All Ages,Home Care Service Received,405,33.5
+2019/20,Na h-Eileanan Siar,All Ages,No Home Care Service Received,805,66.5
+2019/20,Na h-Eileanan Siar,0-17 years,Home Care Service Received,0,0
+2019/20,Na h-Eileanan Siar,0-17 years,No Home Care Service Received,5,100
+2019/20,Na h-Eileanan Siar,18-64 years,Home Care Service Received,25,26.3
+2019/20,Na h-Eileanan Siar,18-64 years,No Home Care Service Received,70,73.7
+2019/20,Na h-Eileanan Siar,65-74 years,Home Care Service Received,55,28.9
+2019/20,Na h-Eileanan Siar,65-74 years,No Home Care Service Received,135,71.1
+2019/20,Na h-Eileanan Siar,75-84 years,Home Care Service Received,115,25.6
+2019/20,Na h-Eileanan Siar,75-84 years,No Home Care Service Received,335,74.4
+2019/20,Na h-Eileanan Siar,85+ years,Home Care Service Received,215,45.3
+2019/20,Na h-Eileanan Siar,85+ years,No Home Care Service Received,260,54.7
+2019/20,North Ayrshire,All Ages,Home Care Service Received,2575,50.3
+2019/20,North Ayrshire,All Ages,No Home Care Service Received,2545,49.7
+2019/20,North Ayrshire,0-17 years,Home Care Service Received,0,0
+2019/20,North Ayrshire,0-17 years,No Home Care Service Received,10,100
+2019/20,North Ayrshire,18-64 years,Home Care Service Received,300,50.4
+2019/20,North Ayrshire,18-64 years,No Home Care Service Received,295,49.6
+2019/20,North Ayrshire,65-74 years,Home Care Service Received,405,49.4
+2019/20,North Ayrshire,65-74 years,No Home Care Service Received,415,50.6
+2019/20,North Ayrshire,75-84 years,Home Care Service Received,915,47.4
+2019/20,North Ayrshire,75-84 years,No Home Care Service Received,1015,52.6
+2019/20,North Ayrshire,85+ years,Home Care Service Received,955,54.3
+2019/20,North Ayrshire,85+ years,No Home Care Service Received,805,45.7
+2019/20,North Lanarkshire,All Ages,Home Care Service Received,4115,37
+2019/20,North Lanarkshire,All Ages,No Home Care Service Received,7010,63
+2019/20,North Lanarkshire,0-17 years,Home Care Service Received,0,0
+2019/20,North Lanarkshire,0-17 years,No Home Care Service Received,50,100
+2019/20,North Lanarkshire,18-64 years,Home Care Service Received,370,19
+2019/20,North Lanarkshire,18-64 years,No Home Care Service Received,1575,81
+2019/20,North Lanarkshire,65-74 years,Home Care Service Received,675,33.1
+2019/20,North Lanarkshire,65-74 years,No Home Care Service Received,1365,66.9
+2019/20,North Lanarkshire,75-84 years,Home Care Service Received,1585,38.8
+2019/20,North Lanarkshire,75-84 years,No Home Care Service Received,2505,61.2
+2019/20,North Lanarkshire,85+ years,Home Care Service Received,1480,49.3
+2019/20,North Lanarkshire,85+ years,No Home Care Service Received,1520,50.7
+2019/20,Orkney Islands,All Ages,Home Care Service Received,245,27.2
+2019/20,Orkney Islands,All Ages,No Home Care Service Received,655,72.8
+2019/20,Orkney Islands,0-17 years,Home Care Service Received,0,NA
+2019/20,Orkney Islands,0-17 years,No Home Care Service Received,0,NA
+2019/20,Orkney Islands,18-64 years,Home Care Service Received,20,16
+2019/20,Orkney Islands,18-64 years,No Home Care Service Received,105,84
+2019/20,Orkney Islands,65-74 years,Home Care Service Received,30,22.2
+2019/20,Orkney Islands,65-74 years,No Home Care Service Received,105,77.8
+2019/20,Orkney Islands,75-84 years,Home Care Service Received,80,23.2
+2019/20,Orkney Islands,75-84 years,No Home Care Service Received,265,76.8
+2019/20,Orkney Islands,85+ years,Home Care Service Received,120,40
+2019/20,Orkney Islands,85+ years,No Home Care Service Received,180,60
+2019/20,Perth and Kinross,All Ages,Home Care Service Received,1770,46.3
+2019/20,Perth and Kinross,All Ages,No Home Care Service Received,2055,53.7
+2019/20,Perth and Kinross,0-17 years,Home Care Service Received,0,NA
+2019/20,Perth and Kinross,0-17 years,No Home Care Service Received,0,NA
+2019/20,Perth and Kinross,18-64 years,Home Care Service Received,160,33
+2019/20,Perth and Kinross,18-64 years,No Home Care Service Received,325,67
+2019/20,Perth and Kinross,65-74 years,Home Care Service Received,200,41.7
+2019/20,Perth and Kinross,65-74 years,No Home Care Service Received,280,58.3
+2019/20,Perth and Kinross,75-84 years,Home Care Service Received,545,45
+2019/20,Perth and Kinross,75-84 years,No Home Care Service Received,665,55
+2019/20,Perth and Kinross,85+ years,Home Care Service Received,865,52.6
+2019/20,Perth and Kinross,85+ years,No Home Care Service Received,780,47.4
+2019/20,Renfrewshire,All Ages,Home Care Service Received,2260,47.6
+2019/20,Renfrewshire,All Ages,No Home Care Service Received,2485,52.4
+2019/20,Renfrewshire,0-17 years,Home Care Service Received,0,NA
+2019/20,Renfrewshire,0-17 years,No Home Care Service Received,0,NA
+2019/20,Renfrewshire,18-64 years,Home Care Service Received,230,46.5
+2019/20,Renfrewshire,18-64 years,No Home Care Service Received,265,53.5
+2019/20,Renfrewshire,65-74 years,Home Care Service Received,345,45.1
+2019/20,Renfrewshire,65-74 years,No Home Care Service Received,420,54.9
+2019/20,Renfrewshire,75-84 years,Home Care Service Received,800,45.1
+2019/20,Renfrewshire,75-84 years,No Home Care Service Received,975,54.9
+2019/20,Renfrewshire,85+ years,Home Care Service Received,885,51.9
+2019/20,Renfrewshire,85+ years,No Home Care Service Received,820,48.1
+2019/20,Scottish Borders,All Ages,Home Care Service Received,205,67.2
+2019/20,Scottish Borders,All Ages,No Home Care Service Received,100,32.8
+2019/20,Scottish Borders,0-17 years,Home Care Service Received,0,NA
+2019/20,Scottish Borders,0-17 years,No Home Care Service Received,0,NA
+2019/20,Scottish Borders,18-64 years,Home Care Service Received,20,50
+2019/20,Scottish Borders,18-64 years,No Home Care Service Received,20,50
+2019/20,Scottish Borders,65-74 years,Home Care Service Received,30,66.7
+2019/20,Scottish Borders,65-74 years,No Home Care Service Received,15,33.3
+2019/20,Scottish Borders,75-84 years,Home Care Service Received,70,70
+2019/20,Scottish Borders,75-84 years,No Home Care Service Received,30,30
+2019/20,Scottish Borders,85+ years,Home Care Service Received,90,72
+2019/20,Scottish Borders,85+ years,No Home Care Service Received,35,28
+2019/20,Shetland Islands,All Ages,Home Care Service Received,290,43
+2019/20,Shetland Islands,All Ages,No Home Care Service Received,385,57
+2019/20,Shetland Islands,0-17 years,Home Care Service Received,0,NA
+2019/20,Shetland Islands,0-17 years,No Home Care Service Received,0,NA
+2019/20,Shetland Islands,18-64 years,Home Care Service Received,25,33.3
+2019/20,Shetland Islands,18-64 years,No Home Care Service Received,50,66.7
+2019/20,Shetland Islands,65-74 years,Home Care Service Received,40,47.1
+2019/20,Shetland Islands,65-74 years,No Home Care Service Received,45,52.9
+2019/20,Shetland Islands,75-84 years,Home Care Service Received,95,36.5
+2019/20,Shetland Islands,75-84 years,No Home Care Service Received,165,63.5
+2019/20,Shetland Islands,85+ years,Home Care Service Received,130,51
+2019/20,Shetland Islands,85+ years,No Home Care Service Received,125,49
+2019/20,Stirling,All Ages,Home Care Service Received,1130,43.2
+2019/20,Stirling,All Ages,No Home Care Service Received,1485,56.8
+2019/20,Stirling,0-17 years,Home Care Service Received,0,NA
+2019/20,Stirling,0-17 years,No Home Care Service Received,0,NA
+2019/20,Stirling,18-64 years,Home Care Service Received,120,46.2
+2019/20,Stirling,18-64 years,No Home Care Service Received,140,53.8
+2019/20,Stirling,65-74 years,Home Care Service Received,120,40.7
+2019/20,Stirling,65-74 years,No Home Care Service Received,175,59.3
+2019/20,Stirling,75-84 years,Home Care Service Received,390,39.6
+2019/20,Stirling,75-84 years,No Home Care Service Received,595,60.4
+2019/20,Stirling,85+ years,Home Care Service Received,505,47
+2019/20,Stirling,85+ years,No Home Care Service Received,570,53
+2019/20,West Dunbartonshire,All Ages,Home Care Service Received,1640,58.6
+2019/20,West Dunbartonshire,All Ages,No Home Care Service Received,1160,41.4
+2019/20,West Dunbartonshire,0-17 years,Home Care Service Received,0,0
+2019/20,West Dunbartonshire,0-17 years,No Home Care Service Received,10,100
+2019/20,West Dunbartonshire,18-64 years,Home Care Service Received,160,39.5
+2019/20,West Dunbartonshire,18-64 years,No Home Care Service Received,245,60.5
+2019/20,West Dunbartonshire,65-74 years,Home Care Service Received,315,59.4
+2019/20,West Dunbartonshire,65-74 years,No Home Care Service Received,215,40.6
+2019/20,West Dunbartonshire,75-84 years,Home Care Service Received,590,60.2
+2019/20,West Dunbartonshire,75-84 years,No Home Care Service Received,390,39.8
+2019/20,West Dunbartonshire,85+ years,Home Care Service Received,575,65.7
+2019/20,West Dunbartonshire,85+ years,No Home Care Service Received,300,34.3
+2019/20,West Lothian,All Ages,Home Care Service Received,1390,31
+2019/20,West Lothian,All Ages,No Home Care Service Received,3090,69
+2019/20,West Lothian,0-17 years,Home Care Service Received,0,0
+2019/20,West Lothian,0-17 years,No Home Care Service Received,15,100
+2019/20,West Lothian,18-64 years,Home Care Service Received,295,33.3
+2019/20,West Lothian,18-64 years,No Home Care Service Received,590,66.7
+2019/20,West Lothian,65-74 years,Home Care Service Received,225,28.3
+2019/20,West Lothian,65-74 years,No Home Care Service Received,570,71.7
+2019/20,West Lothian,75-84 years,Home Care Service Received,465,28.4
+2019/20,West Lothian,75-84 years,No Home Care Service Received,1175,71.6
+2019/20,West Lothian,85+ years,Home Care Service Received,400,35.1
+2019/20,West Lothian,85+ years,No Home Care Service Received,740,64.9
+2020/21,Scotland (All Areas Submitted),All Ages,Home Care Service Received,46085,41.2
+2020/21,Scotland (All Areas Submitted),All Ages,No Home Care Service Received,65750,58.8
+2020/21,Scotland (All Areas Submitted),0-17 years,Home Care Service Received,5,1
+2020/21,Scotland (All Areas Submitted),0-17 years,No Home Care Service Received,510,99
+2020/21,Scotland (All Areas Submitted),18-64 years,Home Care Service Received,4885,33.1
+2020/21,Scotland (All Areas Submitted),18-64 years,No Home Care Service Received,9870,66.9
+2020/21,Scotland (All Areas Submitted),65-74 years,Home Care Service Received,6545,37.3
+2020/21,Scotland (All Areas Submitted),65-74 years,No Home Care Service Received,10990,62.7
+2020/21,Scotland (All Areas Submitted),75-84 years,Home Care Service Received,15595,40.8
+2020/21,Scotland (All Areas Submitted),75-84 years,No Home Care Service Received,22640,59.2
+2020/21,Scotland (All Areas Submitted),85+ years,Home Care Service Received,19050,47.1
+2020/21,Scotland (All Areas Submitted),85+ years,No Home Care Service Received,21375,52.9
+2020/21,Aberdeenshire,All Ages,Home Care Service Received,2030,39.1
+2020/21,Aberdeenshire,All Ages,No Home Care Service Received,3165,60.9
+2020/21,Aberdeenshire,0-17 years,Home Care Service Received,0,NA
+2020/21,Aberdeenshire,0-17 years,No Home Care Service Received,0,NA
+2020/21,Aberdeenshire,18-64 years,Home Care Service Received,145,27.9
+2020/21,Aberdeenshire,18-64 years,No Home Care Service Received,375,72.1
+2020/21,Aberdeenshire,65-74 years,Home Care Service Received,240,29.3
+2020/21,Aberdeenshire,65-74 years,No Home Care Service Received,580,70.7
+2020/21,Aberdeenshire,75-84 years,Home Care Service Received,675,38.1
+2020/21,Aberdeenshire,75-84 years,No Home Care Service Received,1095,61.9
+2020/21,Aberdeenshire,85+ years,Home Care Service Received,970,46.6
+2020/21,Aberdeenshire,85+ years,No Home Care Service Received,1110,53.4
+2020/21,Angus,All Ages,Home Care Service Received,1685,42.4
+2020/21,Angus,All Ages,No Home Care Service Received,2285,57.6
+2020/21,Angus,0-17 years,Home Care Service Received,0,NA
+2020/21,Angus,0-17 years,No Home Care Service Received,0,NA
+2020/21,Angus,18-64 years,Home Care Service Received,165,45.2
+2020/21,Angus,18-64 years,No Home Care Service Received,200,54.8
+2020/21,Angus,65-74 years,Home Care Service Received,260,45.2
+2020/21,Angus,65-74 years,No Home Care Service Received,315,54.8
+2020/21,Angus,75-84 years,Home Care Service Received,535,37
+2020/21,Angus,75-84 years,No Home Care Service Received,910,63
+2020/21,Angus,85+ years,Home Care Service Received,725,45.7
+2020/21,Angus,85+ years,No Home Care Service Received,860,54.3
+2020/21,Argyll and Bute,All Ages,Home Care Service Received,1400,49.8
+2020/21,Argyll and Bute,All Ages,No Home Care Service Received,1410,50.2
+2020/21,Argyll and Bute,0-17 years,Home Care Service Received,0,0
+2020/21,Argyll and Bute,0-17 years,No Home Care Service Received,5,100
+2020/21,Argyll and Bute,18-64 years,Home Care Service Received,145,50
+2020/21,Argyll and Bute,18-64 years,No Home Care Service Received,145,50
+2020/21,Argyll and Bute,65-74 years,Home Care Service Received,190,50.7
+2020/21,Argyll and Bute,65-74 years,No Home Care Service Received,185,49.3
+2020/21,Argyll and Bute,75-84 years,Home Care Service Received,445,46.1
+2020/21,Argyll and Bute,75-84 years,No Home Care Service Received,520,53.9
+2020/21,Argyll and Bute,85+ years,Home Care Service Received,620,52.8
+2020/21,Argyll and Bute,85+ years,No Home Care Service Received,555,47.2
+2020/21,City of Edinburgh,All Ages,Home Care Service Received,3460,35.8
+2020/21,City of Edinburgh,All Ages,No Home Care Service Received,6195,64.2
+2020/21,City of Edinburgh,0-17 years,Home Care Service Received,0,0
+2020/21,City of Edinburgh,0-17 years,No Home Care Service Received,100,100
+2020/21,City of Edinburgh,18-64 years,Home Care Service Received,530,32.3
+2020/21,City of Edinburgh,18-64 years,No Home Care Service Received,1110,67.7
+2020/21,City of Edinburgh,65-74 years,Home Care Service Received,470,28.4
+2020/21,City of Edinburgh,65-74 years,No Home Care Service Received,1185,71.6
+2020/21,City of Edinburgh,75-84 years,Home Care Service Received,955,36.5
+2020/21,City of Edinburgh,75-84 years,No Home Care Service Received,1660,63.5
+2020/21,City of Edinburgh,85+ years,Home Care Service Received,1505,41.2
+2020/21,City of Edinburgh,85+ years,No Home Care Service Received,2145,58.8
+2020/21,Clackmannanshire,All Ages,Home Care Service Received,850,45.3
+2020/21,Clackmannanshire,All Ages,No Home Care Service Received,1025,54.7
+2020/21,Clackmannanshire,0-17 years,Home Care Service Received,0,NA
+2020/21,Clackmannanshire,0-17 years,No Home Care Service Received,0,NA
+2020/21,Clackmannanshire,18-64 years,Home Care Service Received,95,35.2
+2020/21,Clackmannanshire,18-64 years,No Home Care Service Received,175,64.8
+2020/21,Clackmannanshire,65-74 years,Home Care Service Received,135,42.2
+2020/21,Clackmannanshire,65-74 years,No Home Care Service Received,185,57.8
+2020/21,Clackmannanshire,75-84 years,Home Care Service Received,310,44
+2020/21,Clackmannanshire,75-84 years,No Home Care Service Received,395,56
+2020/21,Clackmannanshire,85+ years,Home Care Service Received,310,53.4
+2020/21,Clackmannanshire,85+ years,No Home Care Service Received,270,46.6
+2020/21,Dumfries and Galloway,All Ages,Home Care Service Received,1775,42.4
+2020/21,Dumfries and Galloway,All Ages,No Home Care Service Received,2410,57.6
+2020/21,Dumfries and Galloway,0-17 years,Home Care Service Received,5,10
+2020/21,Dumfries and Galloway,0-17 years,No Home Care Service Received,45,90
+2020/21,Dumfries and Galloway,18-64 years,Home Care Service Received,200,50.6
+2020/21,Dumfries and Galloway,18-64 years,No Home Care Service Received,195,49.4
+2020/21,Dumfries and Galloway,65-74 years,Home Care Service Received,215,44.3
+2020/21,Dumfries and Galloway,65-74 years,No Home Care Service Received,270,55.7
+2020/21,Dumfries and Galloway,75-84 years,Home Care Service Received,570,39.4
+2020/21,Dumfries and Galloway,75-84 years,No Home Care Service Received,875,60.6
+2020/21,Dumfries and Galloway,85+ years,Home Care Service Received,790,43.5
+2020/21,Dumfries and Galloway,85+ years,No Home Care Service Received,1025,56.5
+2020/21,Dundee City,All Ages,Home Care Service Received,1650,33.1
+2020/21,Dundee City,All Ages,No Home Care Service Received,3340,66.9
+2020/21,Dundee City,0-17 years,Home Care Service Received,0,0
+2020/21,Dundee City,0-17 years,No Home Care Service Received,5,100
+2020/21,Dundee City,18-64 years,Home Care Service Received,190,26.6
+2020/21,Dundee City,18-64 years,No Home Care Service Received,525,73.4
+2020/21,Dundee City,65-74 years,Home Care Service Received,270,24
+2020/21,Dundee City,65-74 years,No Home Care Service Received,855,76
+2020/21,Dundee City,75-84 years,Home Care Service Received,545,33.3
+2020/21,Dundee City,75-84 years,No Home Care Service Received,1090,66.7
+2020/21,Dundee City,85+ years,Home Care Service Received,650,42.8
+2020/21,Dundee City,85+ years,No Home Care Service Received,870,57.2
+2020/21,East Ayrshire,All Ages,Home Care Service Received,1805,48.5
+2020/21,East Ayrshire,All Ages,No Home Care Service Received,1915,51.5
+2020/21,East Ayrshire,0-17 years,Home Care Service Received,0,0
+2020/21,East Ayrshire,0-17 years,No Home Care Service Received,35,100
+2020/21,East Ayrshire,18-64 years,Home Care Service Received,255,45.5
+2020/21,East Ayrshire,18-64 years,No Home Care Service Received,305,54.5
+2020/21,East Ayrshire,65-74 years,Home Care Service Received,240,43.2
+2020/21,East Ayrshire,65-74 years,No Home Care Service Received,315,56.8
+2020/21,East Ayrshire,75-84 years,Home Care Service Received,665,48.5
+2020/21,East Ayrshire,75-84 years,No Home Care Service Received,705,51.5
+2020/21,East Ayrshire,85+ years,Home Care Service Received,650,53.7
+2020/21,East Ayrshire,85+ years,No Home Care Service Received,560,46.3
+2020/21,East Dunbartonshire,All Ages,Home Care Service Received,665,36.3
+2020/21,East Dunbartonshire,All Ages,No Home Care Service Received,1165,63.7
+2020/21,East Dunbartonshire,0-17 years,Home Care Service Received,0,0
+2020/21,East Dunbartonshire,0-17 years,No Home Care Service Received,5,100
+2020/21,East Dunbartonshire,18-64 years,Home Care Service Received,40,23.5
+2020/21,East Dunbartonshire,18-64 years,No Home Care Service Received,130,76.5
+2020/21,East Dunbartonshire,65-74 years,Home Care Service Received,70,34.1
+2020/21,East Dunbartonshire,65-74 years,No Home Care Service Received,135,65.9
+2020/21,East Dunbartonshire,75-84 years,Home Care Service Received,220,35.2
+2020/21,East Dunbartonshire,75-84 years,No Home Care Service Received,405,64.8
+2020/21,East Dunbartonshire,85+ years,Home Care Service Received,340,40.7
+2020/21,East Dunbartonshire,85+ years,No Home Care Service Received,495,59.3
+2020/21,East Renfrewshire,All Ages,Home Care Service Received,1285,40.3
+2020/21,East Renfrewshire,All Ages,No Home Care Service Received,1905,59.7
+2020/21,East Renfrewshire,0-17 years,Home Care Service Received,0,0
+2020/21,East Renfrewshire,0-17 years,No Home Care Service Received,10,100
+2020/21,East Renfrewshire,18-64 years,Home Care Service Received,95,30.2
+2020/21,East Renfrewshire,18-64 years,No Home Care Service Received,220,69.8
+2020/21,East Renfrewshire,65-74 years,Home Care Service Received,145,37.7
+2020/21,East Renfrewshire,65-74 years,No Home Care Service Received,240,62.3
+2020/21,East Renfrewshire,75-84 years,Home Care Service Received,390,36.6
+2020/21,East Renfrewshire,75-84 years,No Home Care Service Received,675,63.4
+2020/21,East Renfrewshire,85+ years,Home Care Service Received,660,46.6
+2020/21,East Renfrewshire,85+ years,No Home Care Service Received,755,53.4
+2020/21,Falkirk,All Ages,Home Care Service Received,2145,43.3
+2020/21,Falkirk,All Ages,No Home Care Service Received,2810,56.7
+2020/21,Falkirk,0-17 years,Home Care Service Received,0,0
+2020/21,Falkirk,0-17 years,No Home Care Service Received,5,100
+2020/21,Falkirk,18-64 years,Home Care Service Received,175,28.7
+2020/21,Falkirk,18-64 years,No Home Care Service Received,435,71.3
+2020/21,Falkirk,65-74 years,Home Care Service Received,290,36.5
+2020/21,Falkirk,65-74 years,No Home Care Service Received,505,63.5
+2020/21,Falkirk,75-84 years,Home Care Service Received,720,40.7
+2020/21,Falkirk,75-84 years,No Home Care Service Received,1050,59.3
+2020/21,Falkirk,85+ years,Home Care Service Received,955,54
+2020/21,Falkirk,85+ years,No Home Care Service Received,815,46
+2020/21,Fife,All Ages,Home Care Service Received,3250,30.6
+2020/21,Fife,All Ages,No Home Care Service Received,7360,69.4
+2020/21,Fife,0-17 years,Home Care Service Received,0,0
+2020/21,Fife,0-17 years,No Home Care Service Received,80,100
+2020/21,Fife,18-64 years,Home Care Service Received,495,34.9
+2020/21,Fife,18-64 years,No Home Care Service Received,925,65.1
+2020/21,Fife,65-74 years,Home Care Service Received,455,27.2
+2020/21,Fife,65-74 years,No Home Care Service Received,1220,72.8
+2020/21,Fife,75-84 years,Home Care Service Received,1035,28.4
+2020/21,Fife,75-84 years,No Home Care Service Received,2615,71.6
+2020/21,Fife,85+ years,Home Care Service Received,1265,33.4
+2020/21,Fife,85+ years,No Home Care Service Received,2520,66.6
+2020/21,Glasgow City,All Ages,Home Care Service Received,4655,48.1
+2020/21,Glasgow City,All Ages,No Home Care Service Received,5020,51.9
+2020/21,Glasgow City,0-17 years,Home Care Service Received,0,0
+2020/21,Glasgow City,0-17 years,No Home Care Service Received,60,100
+2020/21,Glasgow City,18-64 years,Home Care Service Received,310,24.7
+2020/21,Glasgow City,18-64 years,No Home Care Service Received,945,75.3
+2020/21,Glasgow City,65-74 years,Home Care Service Received,670,42.3
+2020/21,Glasgow City,65-74 years,No Home Care Service Received,915,57.7
+2020/21,Glasgow City,75-84 years,Home Care Service Received,1710,51.1
+2020/21,Glasgow City,75-84 years,No Home Care Service Received,1635,48.9
+2020/21,Glasgow City,85+ years,Home Care Service Received,1965,57.4
+2020/21,Glasgow City,85+ years,No Home Care Service Received,1460,42.6
+2020/21,Highland,All Ages,Home Care Service Received,1135,35
+2020/21,Highland,All Ages,No Home Care Service Received,2110,65
+2020/21,Highland,0-17 years,Home Care Service Received,0,0
+2020/21,Highland,0-17 years,No Home Care Service Received,45,100
+2020/21,Highland,18-64 years,Home Care Service Received,80,21.1
+2020/21,Highland,18-64 years,No Home Care Service Received,300,78.9
+2020/21,Highland,65-74 years,Home Care Service Received,105,30.9
+2020/21,Highland,65-74 years,No Home Care Service Received,235,69.1
+2020/21,Highland,75-84 years,Home Care Service Received,355,35.1
+2020/21,Highland,75-84 years,No Home Care Service Received,655,64.9
+2020/21,Highland,85+ years,Home Care Service Received,595,40.6
+2020/21,Highland,85+ years,No Home Care Service Received,870,59.4
+2020/21,Inverclyde,All Ages,Home Care Service Received,1260,49.1
+2020/21,Inverclyde,All Ages,No Home Care Service Received,1305,50.9
+2020/21,Inverclyde,0-17 years,Home Care Service Received,0,NA
+2020/21,Inverclyde,0-17 years,No Home Care Service Received,0,NA
+2020/21,Inverclyde,18-64 years,Home Care Service Received,100,28.6
+2020/21,Inverclyde,18-64 years,No Home Care Service Received,250,71.4
+2020/21,Inverclyde,65-74 years,Home Care Service Received,195,47.6
+2020/21,Inverclyde,65-74 years,No Home Care Service Received,215,52.4
+2020/21,Inverclyde,75-84 years,Home Care Service Received,470,50.8
+2020/21,Inverclyde,75-84 years,No Home Care Service Received,455,49.2
+2020/21,Inverclyde,85+ years,Home Care Service Received,500,56.5
+2020/21,Inverclyde,85+ years,No Home Care Service Received,385,43.5
+2020/21,Midlothian,All Ages,Home Care Service Received,770,37.4
+2020/21,Midlothian,All Ages,No Home Care Service Received,1290,62.6
+2020/21,Midlothian,0-17 years,Home Care Service Received,0,0
+2020/21,Midlothian,0-17 years,No Home Care Service Received,5,100
+2020/21,Midlothian,18-64 years,Home Care Service Received,100,40
+2020/21,Midlothian,18-64 years,No Home Care Service Received,150,60
+2020/21,Midlothian,65-74 years,Home Care Service Received,105,33.3
+2020/21,Midlothian,65-74 years,No Home Care Service Received,210,66.7
+2020/21,Midlothian,75-84 years,Home Care Service Received,260,33.5
+2020/21,Midlothian,75-84 years,No Home Care Service Received,515,66.5
+2020/21,Midlothian,85+ years,Home Care Service Received,305,42.7
+2020/21,Midlothian,85+ years,No Home Care Service Received,410,57.3
+2020/21,Moray,All Ages,Home Care Service Received,680,35.2
+2020/21,Moray,All Ages,No Home Care Service Received,1250,64.8
+2020/21,Moray,0-17 years,Home Care Service Received,0,0
+2020/21,Moray,0-17 years,No Home Care Service Received,5,100
+2020/21,Moray,18-64 years,Home Care Service Received,65,29.5
+2020/21,Moray,18-64 years,No Home Care Service Received,155,70.5
+2020/21,Moray,65-74 years,Home Care Service Received,90,35.3
+2020/21,Moray,65-74 years,No Home Care Service Received,165,64.7
+2020/21,Moray,75-84 years,Home Care Service Received,205,33.6
+2020/21,Moray,75-84 years,No Home Care Service Received,405,66.4
+2020/21,Moray,85+ years,Home Care Service Received,320,38.1
+2020/21,Moray,85+ years,No Home Care Service Received,520,61.9
+2020/21,Na h-Eileanan Siar,All Ages,Home Care Service Received,0,NA
+2020/21,Na h-Eileanan Siar,All Ages,No Home Care Service Received,0,NA
+2020/21,Na h-Eileanan Siar,0-17 years,Home Care Service Received,0,NA
+2020/21,Na h-Eileanan Siar,0-17 years,No Home Care Service Received,0,NA
+2020/21,Na h-Eileanan Siar,18-64 years,Home Care Service Received,0,NA
+2020/21,Na h-Eileanan Siar,18-64 years,No Home Care Service Received,0,NA
+2020/21,Na h-Eileanan Siar,65-74 years,Home Care Service Received,0,NA
+2020/21,Na h-Eileanan Siar,65-74 years,No Home Care Service Received,0,NA
+2020/21,Na h-Eileanan Siar,75-84 years,Home Care Service Received,0,NA
+2020/21,Na h-Eileanan Siar,75-84 years,No Home Care Service Received,0,NA
+2020/21,Na h-Eileanan Siar,85+ years,Home Care Service Received,0,NA
+2020/21,Na h-Eileanan Siar,85+ years,No Home Care Service Received,0,NA
+2020/21,North Ayrshire,All Ages,Home Care Service Received,3325,63.3
+2020/21,North Ayrshire,All Ages,No Home Care Service Received,1930,36.7
+2020/21,North Ayrshire,0-17 years,Home Care Service Received,0,0
+2020/21,North Ayrshire,0-17 years,No Home Care Service Received,10,100
+2020/21,North Ayrshire,18-64 years,Home Care Service Received,400,64.5
+2020/21,North Ayrshire,18-64 years,No Home Care Service Received,220,35.5
+2020/21,North Ayrshire,65-74 years,Home Care Service Received,550,62.5
+2020/21,North Ayrshire,65-74 years,No Home Care Service Received,330,37.5
+2020/21,North Ayrshire,75-84 years,Home Care Service Received,1225,62.2
+2020/21,North Ayrshire,75-84 years,No Home Care Service Received,745,37.8
+2020/21,North Ayrshire,85+ years,Home Care Service Received,1150,65
+2020/21,North Ayrshire,85+ years,No Home Care Service Received,620,35
+2020/21,North Lanarkshire,All Ages,Home Care Service Received,3675,33.4
+2020/21,North Lanarkshire,All Ages,No Home Care Service Received,7315,66.6
+2020/21,North Lanarkshire,0-17 years,Home Care Service Received,0,0
+2020/21,North Lanarkshire,0-17 years,No Home Care Service Received,45,100
+2020/21,North Lanarkshire,18-64 years,Home Care Service Received,335,17.7
+2020/21,North Lanarkshire,18-64 years,No Home Care Service Received,1560,82.3
+2020/21,North Lanarkshire,65-74 years,Home Care Service Received,600,29.8
+2020/21,North Lanarkshire,65-74 years,No Home Care Service Received,1415,70.2
+2020/21,North Lanarkshire,75-84 years,Home Care Service Received,1405,35.5
+2020/21,North Lanarkshire,75-84 years,No Home Care Service Received,2555,64.5
+2020/21,North Lanarkshire,85+ years,Home Care Service Received,1335,43.4
+2020/21,North Lanarkshire,85+ years,No Home Care Service Received,1740,56.6
+2020/21,Perth and Kinross,All Ages,Home Care Service Received,1770,45.3
+2020/21,Perth and Kinross,All Ages,No Home Care Service Received,2140,54.7
+2020/21,Perth and Kinross,0-17 years,Home Care Service Received,0,NA
+2020/21,Perth and Kinross,0-17 years,No Home Care Service Received,0,NA
+2020/21,Perth and Kinross,18-64 years,Home Care Service Received,160,28.6
+2020/21,Perth and Kinross,18-64 years,No Home Care Service Received,400,71.4
+2020/21,Perth and Kinross,65-74 years,Home Care Service Received,230,46.5
+2020/21,Perth and Kinross,65-74 years,No Home Care Service Received,265,53.5
+2020/21,Perth and Kinross,75-84 years,Home Care Service Received,530,44.4
+2020/21,Perth and Kinross,75-84 years,No Home Care Service Received,665,55.6
+2020/21,Perth and Kinross,85+ years,Home Care Service Received,845,51.2
+2020/21,Perth and Kinross,85+ years,No Home Care Service Received,805,48.8
+2020/21,Renfrewshire,All Ages,Home Care Service Received,2135,48.2
+2020/21,Renfrewshire,All Ages,No Home Care Service Received,2295,51.8
+2020/21,Renfrewshire,0-17 years,Home Care Service Received,0,NA
+2020/21,Renfrewshire,0-17 years,No Home Care Service Received,0,NA
+2020/21,Renfrewshire,18-64 years,Home Care Service Received,220,50.6
+2020/21,Renfrewshire,18-64 years,No Home Care Service Received,215,49.4
+2020/21,Renfrewshire,65-74 years,Home Care Service Received,295,43.7
+2020/21,Renfrewshire,65-74 years,No Home Care Service Received,380,56.3
+2020/21,Renfrewshire,75-84 years,Home Care Service Received,785,46.7
+2020/21,Renfrewshire,75-84 years,No Home Care Service Received,895,53.3
+2020/21,Renfrewshire,85+ years,Home Care Service Received,840,51.2
+2020/21,Renfrewshire,85+ years,No Home Care Service Received,800,48.8
+2020/21,Scottish Borders,All Ages,Home Care Service Received,385,57.9
+2020/21,Scottish Borders,All Ages,No Home Care Service Received,280,42.1
+2020/21,Scottish Borders,0-17 years,Home Care Service Received,0,NA
+2020/21,Scottish Borders,0-17 years,No Home Care Service Received,0,NA
+2020/21,Scottish Borders,18-64 years,Home Care Service Received,25,38.5
+2020/21,Scottish Borders,18-64 years,No Home Care Service Received,40,61.5
+2020/21,Scottish Borders,65-74 years,Home Care Service Received,55,64.7
+2020/21,Scottish Borders,65-74 years,No Home Care Service Received,30,35.3
+2020/21,Scottish Borders,75-84 years,Home Care Service Received,125,56.8
+2020/21,Scottish Borders,75-84 years,No Home Care Service Received,95,43.2
+2020/21,Scottish Borders,85+ years,Home Care Service Received,175,60.3
+2020/21,Scottish Borders,85+ years,No Home Care Service Received,115,39.7
+2020/21,Shetland Islands,All Ages,Home Care Service Received,285,41.9
+2020/21,Shetland Islands,All Ages,No Home Care Service Received,395,58.1
+2020/21,Shetland Islands,0-17 years,Home Care Service Received,0,NA
+2020/21,Shetland Islands,0-17 years,No Home Care Service Received,0,NA
+2020/21,Shetland Islands,18-64 years,Home Care Service Received,20,28.6
+2020/21,Shetland Islands,18-64 years,No Home Care Service Received,50,71.4
+2020/21,Shetland Islands,65-74 years,Home Care Service Received,30,46.2
+2020/21,Shetland Islands,65-74 years,No Home Care Service Received,35,53.8
+2020/21,Shetland Islands,75-84 years,Home Care Service Received,105,38.9
+2020/21,Shetland Islands,75-84 years,No Home Care Service Received,165,61.1
+2020/21,Shetland Islands,85+ years,Home Care Service Received,125,47.2
+2020/21,Shetland Islands,85+ years,No Home Care Service Received,140,52.8
+2020/21,Stirling,All Ages,Home Care Service Received,1105,43.9
+2020/21,Stirling,All Ages,No Home Care Service Received,1410,56.1
+2020/21,Stirling,0-17 years,Home Care Service Received,0,NA
+2020/21,Stirling,0-17 years,No Home Care Service Received,0,NA
+2020/21,Stirling,18-64 years,Home Care Service Received,125,50
+2020/21,Stirling,18-64 years,No Home Care Service Received,125,50
+2020/21,Stirling,65-74 years,Home Care Service Received,125,43.1
+2020/21,Stirling,65-74 years,No Home Care Service Received,165,56.9
+2020/21,Stirling,75-84 years,Home Care Service Received,375,41.4
+2020/21,Stirling,75-84 years,No Home Care Service Received,530,58.6
+2020/21,Stirling,85+ years,Home Care Service Received,480,45.1
+2020/21,Stirling,85+ years,No Home Care Service Received,585,54.9
+2020/21,West Dunbartonshire,All Ages,Home Care Service Received,1495,57.2
+2020/21,West Dunbartonshire,All Ages,No Home Care Service Received,1120,42.8
+2020/21,West Dunbartonshire,0-17 years,Home Care Service Received,0,0
+2020/21,West Dunbartonshire,0-17 years,No Home Care Service Received,15,100
+2020/21,West Dunbartonshire,18-64 years,Home Care Service Received,135,37.5
+2020/21,West Dunbartonshire,18-64 years,No Home Care Service Received,225,62.5
+2020/21,West Dunbartonshire,65-74 years,Home Care Service Received,275,59.1
+2020/21,West Dunbartonshire,65-74 years,No Home Care Service Received,190,40.9
+2020/21,West Dunbartonshire,75-84 years,Home Care Service Received,525,57.7
+2020/21,West Dunbartonshire,75-84 years,No Home Care Service Received,385,42.3
+2020/21,West Dunbartonshire,85+ years,Home Care Service Received,555,64.5
+2020/21,West Dunbartonshire,85+ years,No Home Care Service Received,305,35.5
+2020/21,West Lothian,All Ages,Home Care Service Received,1405,32.6
+2020/21,West Lothian,All Ages,No Home Care Service Received,2905,67.4
+2020/21,West Lothian,0-17 years,Home Care Service Received,0,0
+2020/21,West Lothian,0-17 years,No Home Care Service Received,15,100
+2020/21,West Lothian,18-64 years,Home Care Service Received,280,36.4
+2020/21,West Lothian,18-64 years,No Home Care Service Received,490,63.6
+2020/21,West Lothian,65-74 years,Home Care Service Received,245,35
+2020/21,West Lothian,65-74 years,No Home Care Service Received,455,65
+2020/21,West Lothian,75-84 years,Home Care Service Received,455,32.6
+2020/21,West Lothian,75-84 years,No Home Care Service Received,940,67.4
+2020/21,West Lothian,85+ years,Home Care Service Received,425,39.4
+2020/21,West Lothian,85+ years,No Home Care Service Received,655,60.6
