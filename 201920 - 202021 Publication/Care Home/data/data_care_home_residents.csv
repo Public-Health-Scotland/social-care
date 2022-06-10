@@ -1,0 +1,2419 @@
+financial_year,financial_quarter,sending_location,age_group,value,value_scotland,measure
+2017/18,2017/18 Q4,Scotland (All Areas Submitted),18+ years,33315,33315,Number of People
+2017/18,2017/18 Q4,Scotland (All Areas Submitted),18-64 years,3070,3070,Number of People
+2017/18,2017/18 Q4,Scotland (All Areas Submitted),65+ years,30245,30245,Number of People
+2017/18,2017/18 Q4,Aberdeen City,18+ years,1770,33315,Number of People
+2017/18,2017/18 Q4,Aberdeen City,18-64 years,280,3070,Number of People
+2017/18,2017/18 Q4,Aberdeen City,65+ years,1495,30245,Number of People
+2017/18,2017/18 Q4,Aberdeenshire,18+ years,1880,33315,Number of People
+2017/18,2017/18 Q4,Aberdeenshire,18-64 years,215,3070,Number of People
+2017/18,2017/18 Q4,Aberdeenshire,65+ years,1665,30245,Number of People
+2017/18,2017/18 Q4,Angus,18+ years,1050,33315,Number of People
+2017/18,2017/18 Q4,Angus,18-64 years,95,3070,Number of People
+2017/18,2017/18 Q4,Angus,65+ years,955,30245,Number of People
+2017/18,2017/18 Q4,Argyll and Bute,18+ years,655,33315,Number of People
+2017/18,2017/18 Q4,Argyll and Bute,18-64 years,55,3070,Number of People
+2017/18,2017/18 Q4,Argyll and Bute,65+ years,605,30245,Number of People
+2017/18,2017/18 Q4,City of Edinburgh,18+ years,2910,33315,Number of People
+2017/18,2017/18 Q4,City of Edinburgh,18-64 years,260,3070,Number of People
+2017/18,2017/18 Q4,City of Edinburgh,65+ years,2650,30245,Number of People
+2017/18,2017/18 Q4,Clackmannanshire,18+ years,295,33315,Number of People
+2017/18,2017/18 Q4,Clackmannanshire,18-64 years,60,3070,Number of People
+2017/18,2017/18 Q4,Clackmannanshire,65+ years,235,30245,Number of People
+2017/18,2017/18 Q4,Dumfries and Galloway,18+ years,1190,33315,Number of People
+2017/18,2017/18 Q4,Dumfries and Galloway,18-64 years,65,3070,Number of People
+2017/18,2017/18 Q4,Dumfries and Galloway,65+ years,1120,30245,Number of People
+2017/18,2017/18 Q4,Dundee City,18+ years,1250,33315,Number of People
+2017/18,2017/18 Q4,Dundee City,18-64 years,105,3070,Number of People
+2017/18,2017/18 Q4,Dundee City,65+ years,1145,30245,Number of People
+2017/18,2017/18 Q4,East Ayrshire,18+ years,820,33315,Number of People
+2017/18,2017/18 Q4,East Ayrshire,18-64 years,65,3070,Number of People
+2017/18,2017/18 Q4,East Ayrshire,65+ years,755,30245,Number of People
+2017/18,2017/18 Q4,East Dunbartonshire,18+ years,870,33315,Number of People
+2017/18,2017/18 Q4,East Dunbartonshire,18-64 years,45,3070,Number of People
+2017/18,2017/18 Q4,East Dunbartonshire,65+ years,825,30245,Number of People
+2017/18,2017/18 Q4,East Lothian,18+ years,730,33315,Number of People
+2017/18,2017/18 Q4,East Lothian,18-64 years,50,3070,Number of People
+2017/18,2017/18 Q4,East Lothian,65+ years,680,30245,Number of People
+2017/18,2017/18 Q4,East Renfrewshire,18+ years,680,33315,Number of People
+2017/18,2017/18 Q4,East Renfrewshire,18-64 years,35,3070,Number of People
+2017/18,2017/18 Q4,East Renfrewshire,65+ years,645,30245,Number of People
+2017/18,2017/18 Q4,Falkirk,18+ years,1180,33315,Number of People
+2017/18,2017/18 Q4,Falkirk,18-64 years,180,3070,Number of People
+2017/18,2017/18 Q4,Falkirk,65+ years,995,30245,Number of People
+2017/18,2017/18 Q4,Fife,18+ years,2810,33315,Number of People
+2017/18,2017/18 Q4,Fife,18-64 years,195,3070,Number of People
+2017/18,2017/18 Q4,Fife,65+ years,2615,30245,Number of People
+2017/18,2017/18 Q4,Highland,18+ years,1895,33315,Number of People
+2017/18,2017/18 Q4,Highland,18-64 years,185,3070,Number of People
+2017/18,2017/18 Q4,Highland,65+ years,1710,30245,Number of People
+2017/18,2017/18 Q4,Inverclyde,18+ years,700,33315,Number of People
+2017/18,2017/18 Q4,Inverclyde,18-64 years,70,3070,Number of People
+2017/18,2017/18 Q4,Inverclyde,65+ years,625,30245,Number of People
+2017/18,2017/18 Q4,Midlothian,18+ years,515,33315,Number of People
+2017/18,2017/18 Q4,Midlothian,18-64 years,40,3070,Number of People
+2017/18,2017/18 Q4,Midlothian,65+ years,470,30245,Number of People
+2017/18,2017/18 Q4,Moray,18+ years,630,33315,Number of People
+2017/18,2017/18 Q4,Moray,18-64 years,90,3070,Number of People
+2017/18,2017/18 Q4,Moray,65+ years,540,30245,Number of People
+2017/18,2017/18 Q4,North Ayrshire,18+ years,1055,33315,Number of People
+2017/18,2017/18 Q4,North Ayrshire,18-64 years,90,3070,Number of People
+2017/18,2017/18 Q4,North Ayrshire,65+ years,970,30245,Number of People
+2017/18,2017/18 Q4,North Lanarkshire,18+ years,1585,33315,Number of People
+2017/18,2017/18 Q4,North Lanarkshire,18-64 years,70,3070,Number of People
+2017/18,2017/18 Q4,North Lanarkshire,65+ years,1515,30245,Number of People
+2017/18,2017/18 Q4,Orkney Islands,18+ years,105,33315,Number of People
+2017/18,2017/18 Q4,Orkney Islands,18-64 years,0,3070,Number of People
+2017/18,2017/18 Q4,Orkney Islands,65+ years,100,30245,Number of People
+2017/18,2017/18 Q4,Perth and Kinross,18+ years,1310,33315,Number of People
+2017/18,2017/18 Q4,Perth and Kinross,18-64 years,135,3070,Number of People
+2017/18,2017/18 Q4,Perth and Kinross,65+ years,1180,30245,Number of People
+2017/18,2017/18 Q4,Renfrewshire,18+ years,1235,33315,Number of People
+2017/18,2017/18 Q4,Renfrewshire,18-64 years,120,3070,Number of People
+2017/18,2017/18 Q4,Renfrewshire,65+ years,1115,30245,Number of People
+2017/18,2017/18 Q4,Scottish Borders,18+ years,775,33315,Number of People
+2017/18,2017/18 Q4,Scottish Borders,18-64 years,30,3070,Number of People
+2017/18,2017/18 Q4,Scottish Borders,65+ years,745,30245,Number of People
+2017/18,2017/18 Q4,Shetland Islands,18+ years,115,33315,Number of People
+2017/18,2017/18 Q4,Shetland Islands,18-64 years,5,3070,Number of People
+2017/18,2017/18 Q4,Shetland Islands,65+ years,110,30245,Number of People
+2017/18,2017/18 Q4,South Ayrshire,18+ years,1075,33315,Number of People
+2017/18,2017/18 Q4,South Ayrshire,18-64 years,55,3070,Number of People
+2017/18,2017/18 Q4,South Ayrshire,65+ years,1020,30245,Number of People
+2017/18,2017/18 Q4,South Lanarkshire,18+ years,2045,33315,Number of People
+2017/18,2017/18 Q4,South Lanarkshire,18-64 years,215,3070,Number of People
+2017/18,2017/18 Q4,South Lanarkshire,65+ years,1830,30245,Number of People
+2017/18,2017/18 Q4,Stirling,18+ years,560,33315,Number of People
+2017/18,2017/18 Q4,Stirling,18-64 years,80,3070,Number of People
+2017/18,2017/18 Q4,Stirling,65+ years,480,30245,Number of People
+2017/18,2017/18 Q4,West Dunbartonshire,18+ years,695,33315,Number of People
+2017/18,2017/18 Q4,West Dunbartonshire,18-64 years,60,3070,Number of People
+2017/18,2017/18 Q4,West Dunbartonshire,65+ years,635,30245,Number of People
+2017/18,2017/18 Q4,West Lothian,18+ years,935,33315,Number of People
+2017/18,2017/18 Q4,West Lothian,18-64 years,120,3070,Number of People
+2017/18,2017/18 Q4,West Lothian,65+ years,815,30245,Number of People
+2018/19,2018/19 Q1,Scotland (All Areas Submitted),18+ years,36665,36665,Number of People
+2018/19,2018/19 Q1,Scotland (All Areas Submitted),18-64 years,3670,3670,Number of People
+2018/19,2018/19 Q1,Scotland (All Areas Submitted),65+ years,32995,32995,Number of People
+2018/19,2018/19 Q1,Aberdeen City,18+ years,1680,36665,Number of People
+2018/19,2018/19 Q1,Aberdeen City,18-64 years,280,3670,Number of People
+2018/19,2018/19 Q1,Aberdeen City,65+ years,1400,32995,Number of People
+2018/19,2018/19 Q1,Aberdeenshire,18+ years,1820,36665,Number of People
+2018/19,2018/19 Q1,Aberdeenshire,18-64 years,205,3670,Number of People
+2018/19,2018/19 Q1,Aberdeenshire,65+ years,1615,32995,Number of People
+2018/19,2018/19 Q1,Angus,18+ years,1040,36665,Number of People
+2018/19,2018/19 Q1,Angus,18-64 years,95,3670,Number of People
+2018/19,2018/19 Q1,Angus,65+ years,945,32995,Number of People
+2018/19,2018/19 Q1,Argyll and Bute,18+ years,650,36665,Number of People
+2018/19,2018/19 Q1,Argyll and Bute,18-64 years,50,3670,Number of People
+2018/19,2018/19 Q1,Argyll and Bute,65+ years,600,32995,Number of People
+2018/19,2018/19 Q1,City of Edinburgh,18+ years,2975,36665,Number of People
+2018/19,2018/19 Q1,City of Edinburgh,18-64 years,250,3670,Number of People
+2018/19,2018/19 Q1,City of Edinburgh,65+ years,2725,32995,Number of People
+2018/19,2018/19 Q1,Clackmannanshire,18+ years,300,36665,Number of People
+2018/19,2018/19 Q1,Clackmannanshire,18-64 years,65,3670,Number of People
+2018/19,2018/19 Q1,Clackmannanshire,65+ years,240,32995,Number of People
+2018/19,2018/19 Q1,Dumfries and Galloway,18+ years,1150,36665,Number of People
+2018/19,2018/19 Q1,Dumfries and Galloway,18-64 years,65,3670,Number of People
+2018/19,2018/19 Q1,Dumfries and Galloway,65+ years,1085,32995,Number of People
+2018/19,2018/19 Q1,Dundee City,18+ years,1215,36665,Number of People
+2018/19,2018/19 Q1,Dundee City,18-64 years,105,3670,Number of People
+2018/19,2018/19 Q1,Dundee City,65+ years,1115,32995,Number of People
+2018/19,2018/19 Q1,East Ayrshire,18+ years,795,36665,Number of People
+2018/19,2018/19 Q1,East Ayrshire,18-64 years,65,3670,Number of People
+2018/19,2018/19 Q1,East Ayrshire,65+ years,730,32995,Number of People
+2018/19,2018/19 Q1,East Dunbartonshire,18+ years,880,36665,Number of People
+2018/19,2018/19 Q1,East Dunbartonshire,18-64 years,45,3670,Number of People
+2018/19,2018/19 Q1,East Dunbartonshire,65+ years,835,32995,Number of People
+2018/19,2018/19 Q1,East Lothian,18+ years,705,36665,Number of People
+2018/19,2018/19 Q1,East Lothian,18-64 years,50,3670,Number of People
+2018/19,2018/19 Q1,East Lothian,65+ years,655,32995,Number of People
+2018/19,2018/19 Q1,East Renfrewshire,18+ years,600,36665,Number of People
+2018/19,2018/19 Q1,East Renfrewshire,18-64 years,30,3670,Number of People
+2018/19,2018/19 Q1,East Renfrewshire,65+ years,570,32995,Number of People
+2018/19,2018/19 Q1,Falkirk,18+ years,1145,36665,Number of People
+2018/19,2018/19 Q1,Falkirk,18-64 years,175,3670,Number of People
+2018/19,2018/19 Q1,Falkirk,65+ years,965,32995,Number of People
+2018/19,2018/19 Q1,Fife,18+ years,2715,36665,Number of People
+2018/19,2018/19 Q1,Fife,18-64 years,195,3670,Number of People
+2018/19,2018/19 Q1,Fife,65+ years,2520,32995,Number of People
+2018/19,2018/19 Q1,Glasgow City,18+ years,3965,36665,Number of People
+2018/19,2018/19 Q1,Glasgow City,18-64 years,605,3670,Number of People
+2018/19,2018/19 Q1,Glasgow City,65+ years,3360,32995,Number of People
+2018/19,2018/19 Q1,Highland,18+ years,1910,36665,Number of People
+2018/19,2018/19 Q1,Highland,18-64 years,185,3670,Number of People
+2018/19,2018/19 Q1,Highland,65+ years,1725,32995,Number of People
+2018/19,2018/19 Q1,Inverclyde,18+ years,670,36665,Number of People
+2018/19,2018/19 Q1,Inverclyde,18-64 years,70,3670,Number of People
+2018/19,2018/19 Q1,Inverclyde,65+ years,600,32995,Number of People
+2018/19,2018/19 Q1,Midlothian,18+ years,465,36665,Number of People
+2018/19,2018/19 Q1,Midlothian,18-64 years,35,3670,Number of People
+2018/19,2018/19 Q1,Midlothian,65+ years,430,32995,Number of People
+2018/19,2018/19 Q1,Moray,18+ years,610,36665,Number of People
+2018/19,2018/19 Q1,Moray,18-64 years,85,3670,Number of People
+2018/19,2018/19 Q1,Moray,65+ years,525,32995,Number of People
+2018/19,2018/19 Q1,North Ayrshire,18+ years,970,36665,Number of People
+2018/19,2018/19 Q1,North Ayrshire,18-64 years,95,3670,Number of People
+2018/19,2018/19 Q1,North Ayrshire,65+ years,875,32995,Number of People
+2018/19,2018/19 Q1,North Lanarkshire,18+ years,1580,36665,Number of People
+2018/19,2018/19 Q1,North Lanarkshire,18-64 years,80,3670,Number of People
+2018/19,2018/19 Q1,North Lanarkshire,65+ years,1500,32995,Number of People
+2018/19,2018/19 Q1,Perth and Kinross,18+ years,1275,36665,Number of People
+2018/19,2018/19 Q1,Perth and Kinross,18-64 years,130,3670,Number of People
+2018/19,2018/19 Q1,Perth and Kinross,65+ years,1145,32995,Number of People
+2018/19,2018/19 Q1,Renfrewshire,18+ years,1220,36665,Number of People
+2018/19,2018/19 Q1,Renfrewshire,18-64 years,115,3670,Number of People
+2018/19,2018/19 Q1,Renfrewshire,65+ years,1105,32995,Number of People
+2018/19,2018/19 Q1,Scottish Borders,18+ years,750,36665,Number of People
+2018/19,2018/19 Q1,Scottish Borders,18-64 years,30,3670,Number of People
+2018/19,2018/19 Q1,Scottish Borders,65+ years,720,32995,Number of People
+2018/19,2018/19 Q1,Shetland Islands,18+ years,150,36665,Number of People
+2018/19,2018/19 Q1,Shetland Islands,18-64 years,10,3670,Number of People
+2018/19,2018/19 Q1,Shetland Islands,65+ years,140,32995,Number of People
+2018/19,2018/19 Q1,South Ayrshire,18+ years,1095,36665,Number of People
+2018/19,2018/19 Q1,South Ayrshire,18-64 years,65,3670,Number of People
+2018/19,2018/19 Q1,South Ayrshire,65+ years,1030,32995,Number of People
+2018/19,2018/19 Q1,South Lanarkshire,18+ years,2115,36665,Number of People
+2018/19,2018/19 Q1,South Lanarkshire,18-64 years,225,3670,Number of People
+2018/19,2018/19 Q1,South Lanarkshire,65+ years,1890,32995,Number of People
+2018/19,2018/19 Q1,Stirling,18+ years,615,36665,Number of People
+2018/19,2018/19 Q1,Stirling,18-64 years,85,3670,Number of People
+2018/19,2018/19 Q1,Stirling,65+ years,530,32995,Number of People
+2018/19,2018/19 Q1,West Dunbartonshire,18+ years,685,36665,Number of People
+2018/19,2018/19 Q1,West Dunbartonshire,18-64 years,55,3670,Number of People
+2018/19,2018/19 Q1,West Dunbartonshire,65+ years,630,32995,Number of People
+2018/19,2018/19 Q1,West Lothian,18+ years,910,36665,Number of People
+2018/19,2018/19 Q1,West Lothian,18-64 years,120,3670,Number of People
+2018/19,2018/19 Q1,West Lothian,65+ years,790,32995,Number of People
+2018/19,2018/19 Q2,Scotland (All Areas Submitted),18+ years,36775,36775,Number of People
+2018/19,2018/19 Q2,Scotland (All Areas Submitted),18-64 years,3695,3695,Number of People
+2018/19,2018/19 Q2,Scotland (All Areas Submitted),65+ years,33080,33080,Number of People
+2018/19,2018/19 Q2,Aberdeen City,18+ years,1690,36775,Number of People
+2018/19,2018/19 Q2,Aberdeen City,18-64 years,275,3695,Number of People
+2018/19,2018/19 Q2,Aberdeen City,65+ years,1415,33080,Number of People
+2018/19,2018/19 Q2,Aberdeenshire,18+ years,1845,36775,Number of People
+2018/19,2018/19 Q2,Aberdeenshire,18-64 years,205,3695,Number of People
+2018/19,2018/19 Q2,Aberdeenshire,65+ years,1640,33080,Number of People
+2018/19,2018/19 Q2,Angus,18+ years,1035,36775,Number of People
+2018/19,2018/19 Q2,Angus,18-64 years,90,3695,Number of People
+2018/19,2018/19 Q2,Angus,65+ years,945,33080,Number of People
+2018/19,2018/19 Q2,Argyll and Bute,18+ years,645,36775,Number of People
+2018/19,2018/19 Q2,Argyll and Bute,18-64 years,60,3695,Number of People
+2018/19,2018/19 Q2,Argyll and Bute,65+ years,585,33080,Number of People
+2018/19,2018/19 Q2,City of Edinburgh,18+ years,2955,36775,Number of People
+2018/19,2018/19 Q2,City of Edinburgh,18-64 years,245,3695,Number of People
+2018/19,2018/19 Q2,City of Edinburgh,65+ years,2715,33080,Number of People
+2018/19,2018/19 Q2,Clackmannanshire,18+ years,310,36775,Number of People
+2018/19,2018/19 Q2,Clackmannanshire,18-64 years,65,3695,Number of People
+2018/19,2018/19 Q2,Clackmannanshire,65+ years,245,33080,Number of People
+2018/19,2018/19 Q2,Dumfries and Galloway,18+ years,1160,36775,Number of People
+2018/19,2018/19 Q2,Dumfries and Galloway,18-64 years,65,3695,Number of People
+2018/19,2018/19 Q2,Dumfries and Galloway,65+ years,1095,33080,Number of People
+2018/19,2018/19 Q2,Dundee City,18+ years,1180,36775,Number of People
+2018/19,2018/19 Q2,Dundee City,18-64 years,100,3695,Number of People
+2018/19,2018/19 Q2,Dundee City,65+ years,1080,33080,Number of People
+2018/19,2018/19 Q2,East Ayrshire,18+ years,795,36775,Number of People
+2018/19,2018/19 Q2,East Ayrshire,18-64 years,70,3695,Number of People
+2018/19,2018/19 Q2,East Ayrshire,65+ years,730,33080,Number of People
+2018/19,2018/19 Q2,East Dunbartonshire,18+ years,865,36775,Number of People
+2018/19,2018/19 Q2,East Dunbartonshire,18-64 years,45,3695,Number of People
+2018/19,2018/19 Q2,East Dunbartonshire,65+ years,825,33080,Number of People
+2018/19,2018/19 Q2,East Lothian,18+ years,710,36775,Number of People
+2018/19,2018/19 Q2,East Lothian,18-64 years,50,3695,Number of People
+2018/19,2018/19 Q2,East Lothian,65+ years,660,33080,Number of People
+2018/19,2018/19 Q2,East Renfrewshire,18+ years,595,36775,Number of People
+2018/19,2018/19 Q2,East Renfrewshire,18-64 years,30,3695,Number of People
+2018/19,2018/19 Q2,East Renfrewshire,65+ years,565,33080,Number of People
+2018/19,2018/19 Q2,Falkirk,18+ years,1150,36775,Number of People
+2018/19,2018/19 Q2,Falkirk,18-64 years,175,3695,Number of People
+2018/19,2018/19 Q2,Falkirk,65+ years,975,33080,Number of People
+2018/19,2018/19 Q2,Fife,18+ years,2820,36775,Number of People
+2018/19,2018/19 Q2,Fife,18-64 years,205,3695,Number of People
+2018/19,2018/19 Q2,Fife,65+ years,2615,33080,Number of People
+2018/19,2018/19 Q2,Glasgow City,18+ years,4010,36775,Number of People
+2018/19,2018/19 Q2,Glasgow City,18-64 years,625,3695,Number of People
+2018/19,2018/19 Q2,Glasgow City,65+ years,3385,33080,Number of People
+2018/19,2018/19 Q2,Highland,18+ years,1900,36775,Number of People
+2018/19,2018/19 Q2,Highland,18-64 years,185,3695,Number of People
+2018/19,2018/19 Q2,Highland,65+ years,1715,33080,Number of People
+2018/19,2018/19 Q2,Inverclyde,18+ years,650,36775,Number of People
+2018/19,2018/19 Q2,Inverclyde,18-64 years,60,3695,Number of People
+2018/19,2018/19 Q2,Inverclyde,65+ years,590,33080,Number of People
+2018/19,2018/19 Q2,Midlothian,18+ years,515,36775,Number of People
+2018/19,2018/19 Q2,Midlothian,18-64 years,40,3695,Number of People
+2018/19,2018/19 Q2,Midlothian,65+ years,475,33080,Number of People
+2018/19,2018/19 Q2,Moray,18+ years,610,36775,Number of People
+2018/19,2018/19 Q2,Moray,18-64 years,90,3695,Number of People
+2018/19,2018/19 Q2,Moray,65+ years,520,33080,Number of People
+2018/19,2018/19 Q2,North Ayrshire,18+ years,935,36775,Number of People
+2018/19,2018/19 Q2,North Ayrshire,18-64 years,95,3695,Number of People
+2018/19,2018/19 Q2,North Ayrshire,65+ years,840,33080,Number of People
+2018/19,2018/19 Q2,North Lanarkshire,18+ years,1540,36775,Number of People
+2018/19,2018/19 Q2,North Lanarkshire,18-64 years,80,3695,Number of People
+2018/19,2018/19 Q2,North Lanarkshire,65+ years,1465,33080,Number of People
+2018/19,2018/19 Q2,Perth and Kinross,18+ years,1280,36775,Number of People
+2018/19,2018/19 Q2,Perth and Kinross,18-64 years,135,3695,Number of People
+2018/19,2018/19 Q2,Perth and Kinross,65+ years,1145,33080,Number of People
+2018/19,2018/19 Q2,Renfrewshire,18+ years,1230,36775,Number of People
+2018/19,2018/19 Q2,Renfrewshire,18-64 years,120,3695,Number of People
+2018/19,2018/19 Q2,Renfrewshire,65+ years,1110,33080,Number of People
+2018/19,2018/19 Q2,Scottish Borders,18+ years,775,36775,Number of People
+2018/19,2018/19 Q2,Scottish Borders,18-64 years,35,3695,Number of People
+2018/19,2018/19 Q2,Scottish Borders,65+ years,740,33080,Number of People
+2018/19,2018/19 Q2,Shetland Islands,18+ years,140,36775,Number of People
+2018/19,2018/19 Q2,Shetland Islands,18-64 years,10,3695,Number of People
+2018/19,2018/19 Q2,Shetland Islands,65+ years,130,33080,Number of People
+2018/19,2018/19 Q2,South Ayrshire,18+ years,1095,36775,Number of People
+2018/19,2018/19 Q2,South Ayrshire,18-64 years,65,3695,Number of People
+2018/19,2018/19 Q2,South Ayrshire,65+ years,1025,33080,Number of People
+2018/19,2018/19 Q2,South Lanarkshire,18+ years,2150,36775,Number of People
+2018/19,2018/19 Q2,South Lanarkshire,18-64 years,225,3695,Number of People
+2018/19,2018/19 Q2,South Lanarkshire,65+ years,1925,33080,Number of People
+2018/19,2018/19 Q2,Stirling,18+ years,625,36775,Number of People
+2018/19,2018/19 Q2,Stirling,18-64 years,85,3695,Number of People
+2018/19,2018/19 Q2,Stirling,65+ years,545,33080,Number of People
+2018/19,2018/19 Q2,West Dunbartonshire,18+ years,695,36775,Number of People
+2018/19,2018/19 Q2,West Dunbartonshire,18-64 years,60,3695,Number of People
+2018/19,2018/19 Q2,West Dunbartonshire,65+ years,640,33080,Number of People
+2018/19,2018/19 Q2,West Lothian,18+ years,855,36775,Number of People
+2018/19,2018/19 Q2,West Lothian,18-64 years,120,3695,Number of People
+2018/19,2018/19 Q2,West Lothian,65+ years,740,33080,Number of People
+2018/19,2018/19 Q3,Scotland (All Areas Submitted),18+ years,37200,37200,Number of People
+2018/19,2018/19 Q3,Scotland (All Areas Submitted),18-64 years,3725,3725,Number of People
+2018/19,2018/19 Q3,Scotland (All Areas Submitted),65+ years,33475,33475,Number of People
+2018/19,2018/19 Q3,Aberdeen City,18+ years,1705,37200,Number of People
+2018/19,2018/19 Q3,Aberdeen City,18-64 years,270,3725,Number of People
+2018/19,2018/19 Q3,Aberdeen City,65+ years,1435,33475,Number of People
+2018/19,2018/19 Q3,Aberdeenshire,18+ years,1865,37200,Number of People
+2018/19,2018/19 Q3,Aberdeenshire,18-64 years,215,3725,Number of People
+2018/19,2018/19 Q3,Aberdeenshire,65+ years,1650,33475,Number of People
+2018/19,2018/19 Q3,Angus,18+ years,1045,37200,Number of People
+2018/19,2018/19 Q3,Angus,18-64 years,90,3725,Number of People
+2018/19,2018/19 Q3,Angus,65+ years,955,33475,Number of People
+2018/19,2018/19 Q3,Argyll and Bute,18+ years,655,37200,Number of People
+2018/19,2018/19 Q3,Argyll and Bute,18-64 years,60,3725,Number of People
+2018/19,2018/19 Q3,Argyll and Bute,65+ years,595,33475,Number of People
+2018/19,2018/19 Q3,City of Edinburgh,18+ years,2865,37200,Number of People
+2018/19,2018/19 Q3,City of Edinburgh,18-64 years,240,3725,Number of People
+2018/19,2018/19 Q3,City of Edinburgh,65+ years,2625,33475,Number of People
+2018/19,2018/19 Q3,Clackmannanshire,18+ years,310,37200,Number of People
+2018/19,2018/19 Q3,Clackmannanshire,18-64 years,65,3725,Number of People
+2018/19,2018/19 Q3,Clackmannanshire,65+ years,245,33475,Number of People
+2018/19,2018/19 Q3,Dumfries and Galloway,18+ years,1160,37200,Number of People
+2018/19,2018/19 Q3,Dumfries and Galloway,18-64 years,65,3725,Number of People
+2018/19,2018/19 Q3,Dumfries and Galloway,65+ years,1100,33475,Number of People
+2018/19,2018/19 Q3,Dundee City,18+ years,1195,37200,Number of People
+2018/19,2018/19 Q3,Dundee City,18-64 years,105,3725,Number of People
+2018/19,2018/19 Q3,Dundee City,65+ years,1095,33475,Number of People
+2018/19,2018/19 Q3,East Ayrshire,18+ years,795,37200,Number of People
+2018/19,2018/19 Q3,East Ayrshire,18-64 years,70,3725,Number of People
+2018/19,2018/19 Q3,East Ayrshire,65+ years,725,33475,Number of People
+2018/19,2018/19 Q3,East Dunbartonshire,18+ years,880,37200,Number of People
+2018/19,2018/19 Q3,East Dunbartonshire,18-64 years,40,3725,Number of People
+2018/19,2018/19 Q3,East Dunbartonshire,65+ years,840,33475,Number of People
+2018/19,2018/19 Q3,East Lothian,18+ years,720,37200,Number of People
+2018/19,2018/19 Q3,East Lothian,18-64 years,55,3725,Number of People
+2018/19,2018/19 Q3,East Lothian,65+ years,665,33475,Number of People
+2018/19,2018/19 Q3,East Renfrewshire,18+ years,725,37200,Number of People
+2018/19,2018/19 Q3,East Renfrewshire,18-64 years,35,3725,Number of People
+2018/19,2018/19 Q3,East Renfrewshire,65+ years,690,33475,Number of People
+2018/19,2018/19 Q3,Falkirk,18+ years,1170,37200,Number of People
+2018/19,2018/19 Q3,Falkirk,18-64 years,175,3725,Number of People
+2018/19,2018/19 Q3,Falkirk,65+ years,995,33475,Number of People
+2018/19,2018/19 Q3,Fife,18+ years,2970,37200,Number of People
+2018/19,2018/19 Q3,Fife,18-64 years,215,3725,Number of People
+2018/19,2018/19 Q3,Fife,65+ years,2755,33475,Number of People
+2018/19,2018/19 Q3,Glasgow City,18+ years,4060,37200,Number of People
+2018/19,2018/19 Q3,Glasgow City,18-64 years,635,3725,Number of People
+2018/19,2018/19 Q3,Glasgow City,65+ years,3425,33475,Number of People
+2018/19,2018/19 Q3,Highland,18+ years,1905,37200,Number of People
+2018/19,2018/19 Q3,Highland,18-64 years,185,3725,Number of People
+2018/19,2018/19 Q3,Highland,65+ years,1720,33475,Number of People
+2018/19,2018/19 Q3,Inverclyde,18+ years,590,37200,Number of People
+2018/19,2018/19 Q3,Inverclyde,18-64 years,55,3725,Number of People
+2018/19,2018/19 Q3,Inverclyde,65+ years,535,33475,Number of People
+2018/19,2018/19 Q3,Midlothian,18+ years,525,37200,Number of People
+2018/19,2018/19 Q3,Midlothian,18-64 years,40,3725,Number of People
+2018/19,2018/19 Q3,Midlothian,65+ years,485,33475,Number of People
+2018/19,2018/19 Q3,Moray,18+ years,620,37200,Number of People
+2018/19,2018/19 Q3,Moray,18-64 years,85,3725,Number of People
+2018/19,2018/19 Q3,Moray,65+ years,535,33475,Number of People
+2018/19,2018/19 Q3,North Ayrshire,18+ years,900,37200,Number of People
+2018/19,2018/19 Q3,North Ayrshire,18-64 years,90,3725,Number of People
+2018/19,2018/19 Q3,North Ayrshire,65+ years,805,33475,Number of People
+2018/19,2018/19 Q3,North Lanarkshire,18+ years,1595,37200,Number of People
+2018/19,2018/19 Q3,North Lanarkshire,18-64 years,85,3725,Number of People
+2018/19,2018/19 Q3,North Lanarkshire,65+ years,1510,33475,Number of People
+2018/19,2018/19 Q3,Perth and Kinross,18+ years,1275,37200,Number of People
+2018/19,2018/19 Q3,Perth and Kinross,18-64 years,130,3725,Number of People
+2018/19,2018/19 Q3,Perth and Kinross,65+ years,1150,33475,Number of People
+2018/19,2018/19 Q3,Renfrewshire,18+ years,1245,37200,Number of People
+2018/19,2018/19 Q3,Renfrewshire,18-64 years,115,3725,Number of People
+2018/19,2018/19 Q3,Renfrewshire,65+ years,1130,33475,Number of People
+2018/19,2018/19 Q3,Scottish Borders,18+ years,785,37200,Number of People
+2018/19,2018/19 Q3,Scottish Borders,18-64 years,35,3725,Number of People
+2018/19,2018/19 Q3,Scottish Borders,65+ years,750,33475,Number of People
+2018/19,2018/19 Q3,Shetland Islands,18+ years,135,37200,Number of People
+2018/19,2018/19 Q3,Shetland Islands,18-64 years,5,3725,Number of People
+2018/19,2018/19 Q3,Shetland Islands,65+ years,130,33475,Number of People
+2018/19,2018/19 Q3,South Ayrshire,18+ years,1090,37200,Number of People
+2018/19,2018/19 Q3,South Ayrshire,18-64 years,70,3725,Number of People
+2018/19,2018/19 Q3,South Ayrshire,65+ years,1020,33475,Number of People
+2018/19,2018/19 Q3,South Lanarkshire,18+ years,2165,37200,Number of People
+2018/19,2018/19 Q3,South Lanarkshire,18-64 years,230,3725,Number of People
+2018/19,2018/19 Q3,South Lanarkshire,65+ years,1935,33475,Number of People
+2018/19,2018/19 Q3,Stirling,18+ years,620,37200,Number of People
+2018/19,2018/19 Q3,Stirling,18-64 years,85,3725,Number of People
+2018/19,2018/19 Q3,Stirling,65+ years,540,33475,Number of People
+2018/19,2018/19 Q3,West Dunbartonshire,18+ years,695,37200,Number of People
+2018/19,2018/19 Q3,West Dunbartonshire,18-64 years,60,3725,Number of People
+2018/19,2018/19 Q3,West Dunbartonshire,65+ years,635,33475,Number of People
+2018/19,2018/19 Q3,West Lothian,18+ years,940,37200,Number of People
+2018/19,2018/19 Q3,West Lothian,18-64 years,120,3725,Number of People
+2018/19,2018/19 Q3,West Lothian,65+ years,820,33475,Number of People
+2018/19,2018/19 Q4,Scotland (All Areas Submitted),18+ years,36865,36865,Number of People
+2018/19,2018/19 Q4,Scotland (All Areas Submitted),18-64 years,3695,3695,Number of People
+2018/19,2018/19 Q4,Scotland (All Areas Submitted),65+ years,33170,33170,Number of People
+2018/19,2018/19 Q4,Aberdeen City,18+ years,1715,36865,Number of People
+2018/19,2018/19 Q4,Aberdeen City,18-64 years,265,3695,Number of People
+2018/19,2018/19 Q4,Aberdeen City,65+ years,1450,33170,Number of People
+2018/19,2018/19 Q4,Aberdeenshire,18+ years,1890,36865,Number of People
+2018/19,2018/19 Q4,Aberdeenshire,18-64 years,215,3695,Number of People
+2018/19,2018/19 Q4,Aberdeenshire,65+ years,1675,33170,Number of People
+2018/19,2018/19 Q4,Angus,18+ years,1030,36865,Number of People
+2018/19,2018/19 Q4,Angus,18-64 years,90,3695,Number of People
+2018/19,2018/19 Q4,Angus,65+ years,940,33170,Number of People
+2018/19,2018/19 Q4,Argyll and Bute,18+ years,645,36865,Number of People
+2018/19,2018/19 Q4,Argyll and Bute,18-64 years,55,3695,Number of People
+2018/19,2018/19 Q4,Argyll and Bute,65+ years,590,33170,Number of People
+2018/19,2018/19 Q4,City of Edinburgh,18+ years,2785,36865,Number of People
+2018/19,2018/19 Q4,City of Edinburgh,18-64 years,235,3695,Number of People
+2018/19,2018/19 Q4,City of Edinburgh,65+ years,2550,33170,Number of People
+2018/19,2018/19 Q4,Clackmannanshire,18+ years,310,36865,Number of People
+2018/19,2018/19 Q4,Clackmannanshire,18-64 years,65,3695,Number of People
+2018/19,2018/19 Q4,Clackmannanshire,65+ years,245,33170,Number of People
+2018/19,2018/19 Q4,Dumfries and Galloway,18+ years,1155,36865,Number of People
+2018/19,2018/19 Q4,Dumfries and Galloway,18-64 years,60,3695,Number of People
+2018/19,2018/19 Q4,Dumfries and Galloway,65+ years,1090,33170,Number of People
+2018/19,2018/19 Q4,Dundee City,18+ years,1200,36865,Number of People
+2018/19,2018/19 Q4,Dundee City,18-64 years,110,3695,Number of People
+2018/19,2018/19 Q4,Dundee City,65+ years,1090,33170,Number of People
+2018/19,2018/19 Q4,East Ayrshire,18+ years,800,36865,Number of People
+2018/19,2018/19 Q4,East Ayrshire,18-64 years,75,3695,Number of People
+2018/19,2018/19 Q4,East Ayrshire,65+ years,725,33170,Number of People
+2018/19,2018/19 Q4,East Dunbartonshire,18+ years,905,36865,Number of People
+2018/19,2018/19 Q4,East Dunbartonshire,18-64 years,40,3695,Number of People
+2018/19,2018/19 Q4,East Dunbartonshire,65+ years,860,33170,Number of People
+2018/19,2018/19 Q4,East Lothian,18+ years,725,36865,Number of People
+2018/19,2018/19 Q4,East Lothian,18-64 years,55,3695,Number of People
+2018/19,2018/19 Q4,East Lothian,65+ years,675,33170,Number of People
+2018/19,2018/19 Q4,East Renfrewshire,18+ years,740,36865,Number of People
+2018/19,2018/19 Q4,East Renfrewshire,18-64 years,35,3695,Number of People
+2018/19,2018/19 Q4,East Renfrewshire,65+ years,705,33170,Number of People
+2018/19,2018/19 Q4,Falkirk,18+ years,1160,36865,Number of People
+2018/19,2018/19 Q4,Falkirk,18-64 years,175,3695,Number of People
+2018/19,2018/19 Q4,Falkirk,65+ years,980,33170,Number of People
+2018/19,2018/19 Q4,Fife,18+ years,2815,36865,Number of People
+2018/19,2018/19 Q4,Fife,18-64 years,205,3695,Number of People
+2018/19,2018/19 Q4,Fife,65+ years,2615,33170,Number of People
+2018/19,2018/19 Q4,Glasgow City,18+ years,4030,36865,Number of People
+2018/19,2018/19 Q4,Glasgow City,18-64 years,615,3695,Number of People
+2018/19,2018/19 Q4,Glasgow City,65+ years,3415,33170,Number of People
+2018/19,2018/19 Q4,Highland,18+ years,1825,36865,Number of People
+2018/19,2018/19 Q4,Highland,18-64 years,190,3695,Number of People
+2018/19,2018/19 Q4,Highland,65+ years,1640,33170,Number of People
+2018/19,2018/19 Q4,Inverclyde,18+ years,665,36865,Number of People
+2018/19,2018/19 Q4,Inverclyde,18-64 years,55,3695,Number of People
+2018/19,2018/19 Q4,Inverclyde,65+ years,615,33170,Number of People
+2018/19,2018/19 Q4,Midlothian,18+ years,485,36865,Number of People
+2018/19,2018/19 Q4,Midlothian,18-64 years,45,3695,Number of People
+2018/19,2018/19 Q4,Midlothian,65+ years,440,33170,Number of People
+2018/19,2018/19 Q4,Moray,18+ years,620,36865,Number of People
+2018/19,2018/19 Q4,Moray,18-64 years,85,3695,Number of People
+2018/19,2018/19 Q4,Moray,65+ years,535,33170,Number of People
+2018/19,2018/19 Q4,North Ayrshire,18+ years,855,36865,Number of People
+2018/19,2018/19 Q4,North Ayrshire,18-64 years,95,3695,Number of People
+2018/19,2018/19 Q4,North Ayrshire,65+ years,765,33170,Number of People
+2018/19,2018/19 Q4,North Lanarkshire,18+ years,1610,36865,Number of People
+2018/19,2018/19 Q4,North Lanarkshire,18-64 years,85,3695,Number of People
+2018/19,2018/19 Q4,North Lanarkshire,65+ years,1525,33170,Number of People
+2018/19,2018/19 Q4,Perth and Kinross,18+ years,1280,36865,Number of People
+2018/19,2018/19 Q4,Perth and Kinross,18-64 years,125,3695,Number of People
+2018/19,2018/19 Q4,Perth and Kinross,65+ years,1155,33170,Number of People
+2018/19,2018/19 Q4,Renfrewshire,18+ years,1245,36865,Number of People
+2018/19,2018/19 Q4,Renfrewshire,18-64 years,110,3695,Number of People
+2018/19,2018/19 Q4,Renfrewshire,65+ years,1135,33170,Number of People
+2018/19,2018/19 Q4,Scottish Borders,18+ years,785,36865,Number of People
+2018/19,2018/19 Q4,Scottish Borders,18-64 years,35,3695,Number of People
+2018/19,2018/19 Q4,Scottish Borders,65+ years,745,33170,Number of People
+2018/19,2018/19 Q4,Shetland Islands,18+ years,140,36865,Number of People
+2018/19,2018/19 Q4,Shetland Islands,18-64 years,10,3695,Number of People
+2018/19,2018/19 Q4,Shetland Islands,65+ years,130,33170,Number of People
+2018/19,2018/19 Q4,South Ayrshire,18+ years,1065,36865,Number of People
+2018/19,2018/19 Q4,South Ayrshire,18-64 years,70,3695,Number of People
+2018/19,2018/19 Q4,South Ayrshire,65+ years,995,33170,Number of People
+2018/19,2018/19 Q4,South Lanarkshire,18+ years,2145,36865,Number of People
+2018/19,2018/19 Q4,South Lanarkshire,18-64 years,230,3695,Number of People
+2018/19,2018/19 Q4,South Lanarkshire,65+ years,1915,33170,Number of People
+2018/19,2018/19 Q4,Stirling,18+ years,610,36865,Number of People
+2018/19,2018/19 Q4,Stirling,18-64 years,85,3695,Number of People
+2018/19,2018/19 Q4,Stirling,65+ years,525,33170,Number of People
+2018/19,2018/19 Q4,West Dunbartonshire,18+ years,680,36865,Number of People
+2018/19,2018/19 Q4,West Dunbartonshire,18-64 years,60,3695,Number of People
+2018/19,2018/19 Q4,West Dunbartonshire,65+ years,620,33170,Number of People
+2018/19,2018/19 Q4,West Lothian,18+ years,950,36865,Number of People
+2018/19,2018/19 Q4,West Lothian,18-64 years,130,3695,Number of People
+2018/19,2018/19 Q4,West Lothian,65+ years,820,33170,Number of People
+2019/20,2019/20 Q1,Scotland (All Areas Submitted),18+ years,43998,43998,Number of People
+2019/20,2019/20 Q1,Scotland (All Areas Submitted),18-64 years,4404,4404,Number of People
+2019/20,2019/20 Q1,Scotland (All Areas Submitted),65+ years,39594,39594,Number of People
+2019/20,2019/20 Q1,Aberdeen City,18+ years,2016,43998,Number of People
+2019/20,2019/20 Q1,Aberdeen City,18-64 years,336,4404,Number of People
+2019/20,2019/20 Q1,Aberdeen City,65+ years,1680,39594,Number of People
+2019/20,2019/20 Q1,Aberdeenshire,18+ years,2184,43998,Number of People
+2019/20,2019/20 Q1,Aberdeenshire,18-64 years,246,4404,Number of People
+2019/20,2019/20 Q1,Aberdeenshire,65+ years,1938,39594,Number of People
+2019/20,2019/20 Q1,Angus,18+ years,1248,43998,Number of People
+2019/20,2019/20 Q1,Angus,18-64 years,114,4404,Number of People
+2019/20,2019/20 Q1,Angus,65+ years,1134,39594,Number of People
+2019/20,2019/20 Q1,Argyll and Bute,18+ years,780,43998,Number of People
+2019/20,2019/20 Q1,Argyll and Bute,18-64 years,60,4404,Number of People
+2019/20,2019/20 Q1,Argyll and Bute,65+ years,720,39594,Number of People
+2019/20,2019/20 Q1,City of Edinburgh,18+ years,3570,43998,Number of People
+2019/20,2019/20 Q1,City of Edinburgh,18-64 years,300,4404,Number of People
+2019/20,2019/20 Q1,City of Edinburgh,65+ years,3270,39594,Number of People
+2019/20,2019/20 Q1,Clackmannanshire,18+ years,360,43998,Number of People
+2019/20,2019/20 Q1,Clackmannanshire,18-64 years,78,4404,Number of People
+2019/20,2019/20 Q1,Clackmannanshire,65+ years,288,39594,Number of People
+2019/20,2019/20 Q1,Dumfries and Galloway,18+ years,1380,43998,Number of People
+2019/20,2019/20 Q1,Dumfries and Galloway,18-64 years,78,4404,Number of People
+2019/20,2019/20 Q1,Dumfries and Galloway,65+ years,1302,39594,Number of People
+2019/20,2019/20 Q1,Dundee City,18+ years,1458,43998,Number of People
+2019/20,2019/20 Q1,Dundee City,18-64 years,126,4404,Number of People
+2019/20,2019/20 Q1,Dundee City,65+ years,1338,39594,Number of People
+2019/20,2019/20 Q1,East Ayrshire,18+ years,954,43998,Number of People
+2019/20,2019/20 Q1,East Ayrshire,18-64 years,78,4404,Number of People
+2019/20,2019/20 Q1,East Ayrshire,65+ years,876,39594,Number of People
+2019/20,2019/20 Q1,East Dunbartonshire,18+ years,1056,43998,Number of People
+2019/20,2019/20 Q1,East Dunbartonshire,18-64 years,54,4404,Number of People
+2019/20,2019/20 Q1,East Dunbartonshire,65+ years,1002,39594,Number of People
+2019/20,2019/20 Q1,East Lothian,18+ years,846,43998,Number of People
+2019/20,2019/20 Q1,East Lothian,18-64 years,60,4404,Number of People
+2019/20,2019/20 Q1,East Lothian,65+ years,786,39594,Number of People
+2019/20,2019/20 Q1,East Renfrewshire,18+ years,720,43998,Number of People
+2019/20,2019/20 Q1,East Renfrewshire,18-64 years,36,4404,Number of People
+2019/20,2019/20 Q1,East Renfrewshire,65+ years,684,39594,Number of People
+2019/20,2019/20 Q1,Falkirk,18+ years,1374,43998,Number of People
+2019/20,2019/20 Q1,Falkirk,18-64 years,210,4404,Number of People
+2019/20,2019/20 Q1,Falkirk,65+ years,1158,39594,Number of People
+2019/20,2019/20 Q1,Fife,18+ years,3258,43998,Number of People
+2019/20,2019/20 Q1,Fife,18-64 years,234,4404,Number of People
+2019/20,2019/20 Q1,Fife,65+ years,3024,39594,Number of People
+2019/20,2019/20 Q1,Glasgow City,18+ years,4758,43998,Number of People
+2019/20,2019/20 Q1,Glasgow City,18-64 years,726,4404,Number of People
+2019/20,2019/20 Q1,Glasgow City,65+ years,4032,39594,Number of People
+2019/20,2019/20 Q1,Highland,18+ years,2292,43998,Number of People
+2019/20,2019/20 Q1,Highland,18-64 years,222,4404,Number of People
+2019/20,2019/20 Q1,Highland,65+ years,2070,39594,Number of People
+2019/20,2019/20 Q1,Inverclyde,18+ years,804,43998,Number of People
+2019/20,2019/20 Q1,Inverclyde,18-64 years,84,4404,Number of People
+2019/20,2019/20 Q1,Inverclyde,65+ years,720,39594,Number of People
+2019/20,2019/20 Q1,Midlothian,18+ years,558,43998,Number of People
+2019/20,2019/20 Q1,Midlothian,18-64 years,42,4404,Number of People
+2019/20,2019/20 Q1,Midlothian,65+ years,516,39594,Number of People
+2019/20,2019/20 Q1,Moray,18+ years,732,43998,Number of People
+2019/20,2019/20 Q1,Moray,18-64 years,102,4404,Number of People
+2019/20,2019/20 Q1,Moray,65+ years,630,39594,Number of People
+2019/20,2019/20 Q1,North Ayrshire,18+ years,1164,43998,Number of People
+2019/20,2019/20 Q1,North Ayrshire,18-64 years,114,4404,Number of People
+2019/20,2019/20 Q1,North Ayrshire,65+ years,1050,39594,Number of People
+2019/20,2019/20 Q1,North Lanarkshire,18+ years,1896,43998,Number of People
+2019/20,2019/20 Q1,North Lanarkshire,18-64 years,96,4404,Number of People
+2019/20,2019/20 Q1,North Lanarkshire,65+ years,1800,39594,Number of People
+2019/20,2019/20 Q1,Perth and Kinross,18+ years,1530,43998,Number of People
+2019/20,2019/20 Q1,Perth and Kinross,18-64 years,156,4404,Number of People
+2019/20,2019/20 Q1,Perth and Kinross,65+ years,1374,39594,Number of People
+2019/20,2019/20 Q1,Renfrewshire,18+ years,1464,43998,Number of People
+2019/20,2019/20 Q1,Renfrewshire,18-64 years,138,4404,Number of People
+2019/20,2019/20 Q1,Renfrewshire,65+ years,1326,39594,Number of People
+2019/20,2019/20 Q1,Scottish Borders,18+ years,900,43998,Number of People
+2019/20,2019/20 Q1,Scottish Borders,18-64 years,36,4404,Number of People
+2019/20,2019/20 Q1,Scottish Borders,65+ years,864,39594,Number of People
+2019/20,2019/20 Q1,Shetland Islands,18+ years,180,43998,Number of People
+2019/20,2019/20 Q1,Shetland Islands,18-64 years,12,4404,Number of People
+2019/20,2019/20 Q1,Shetland Islands,65+ years,168,39594,Number of People
+2019/20,2019/20 Q1,South Ayrshire,18+ years,1314,43998,Number of People
+2019/20,2019/20 Q1,South Ayrshire,18-64 years,78,4404,Number of People
+2019/20,2019/20 Q1,South Ayrshire,65+ years,1236,39594,Number of People
+2019/20,2019/20 Q1,South Lanarkshire,18+ years,2538,43998,Number of People
+2019/20,2019/20 Q1,South Lanarkshire,18-64 years,270,4404,Number of People
+2019/20,2019/20 Q1,South Lanarkshire,65+ years,2268,39594,Number of People
+2019/20,2019/20 Q1,Stirling,18+ years,738,43998,Number of People
+2019/20,2019/20 Q1,Stirling,18-64 years,102,4404,Number of People
+2019/20,2019/20 Q1,Stirling,65+ years,636,39594,Number of People
+2019/20,2019/20 Q1,West Dunbartonshire,18+ years,822,43998,Number of People
+2019/20,2019/20 Q1,West Dunbartonshire,18-64 years,66,4404,Number of People
+2019/20,2019/20 Q1,West Dunbartonshire,65+ years,756,39594,Number of People
+2019/20,2019/20 Q1,West Lothian,18+ years,1092,43998,Number of People
+2019/20,2019/20 Q1,West Lothian,18-64 years,144,4404,Number of People
+2019/20,2019/20 Q1,West Lothian,65+ years,948,39594,Number of People
+2019/20,2019/20 Q2,Scotland (All Areas Submitted),18+ years,44130,44130,Number of People
+2019/20,2019/20 Q2,Scotland (All Areas Submitted),18-64 years,4434,4434,Number of People
+2019/20,2019/20 Q2,Scotland (All Areas Submitted),65+ years,39696,39696,Number of People
+2019/20,2019/20 Q2,Aberdeen City,18+ years,2028,44130,Number of People
+2019/20,2019/20 Q2,Aberdeen City,18-64 years,330,4434,Number of People
+2019/20,2019/20 Q2,Aberdeen City,65+ years,1698,39696,Number of People
+2019/20,2019/20 Q2,Aberdeenshire,18+ years,2214,44130,Number of People
+2019/20,2019/20 Q2,Aberdeenshire,18-64 years,246,4434,Number of People
+2019/20,2019/20 Q2,Aberdeenshire,65+ years,1968,39696,Number of People
+2019/20,2019/20 Q2,Angus,18+ years,1242,44130,Number of People
+2019/20,2019/20 Q2,Angus,18-64 years,108,4434,Number of People
+2019/20,2019/20 Q2,Angus,65+ years,1134,39696,Number of People
+2019/20,2019/20 Q2,Argyll and Bute,18+ years,774,44130,Number of People
+2019/20,2019/20 Q2,Argyll and Bute,18-64 years,72,4434,Number of People
+2019/20,2019/20 Q2,Argyll and Bute,65+ years,702,39696,Number of People
+2019/20,2019/20 Q2,City of Edinburgh,18+ years,3546,44130,Number of People
+2019/20,2019/20 Q2,City of Edinburgh,18-64 years,294,4434,Number of People
+2019/20,2019/20 Q2,City of Edinburgh,65+ years,3258,39696,Number of People
+2019/20,2019/20 Q2,Clackmannanshire,18+ years,372,44130,Number of People
+2019/20,2019/20 Q2,Clackmannanshire,18-64 years,78,4434,Number of People
+2019/20,2019/20 Q2,Clackmannanshire,65+ years,294,39696,Number of People
+2019/20,2019/20 Q2,Dumfries and Galloway,18+ years,1392,44130,Number of People
+2019/20,2019/20 Q2,Dumfries and Galloway,18-64 years,78,4434,Number of People
+2019/20,2019/20 Q2,Dumfries and Galloway,65+ years,1314,39696,Number of People
+2019/20,2019/20 Q2,Dundee City,18+ years,1416,44130,Number of People
+2019/20,2019/20 Q2,Dundee City,18-64 years,120,4434,Number of People
+2019/20,2019/20 Q2,Dundee City,65+ years,1296,39696,Number of People
+2019/20,2019/20 Q2,East Ayrshire,18+ years,954,44130,Number of People
+2019/20,2019/20 Q2,East Ayrshire,18-64 years,84,4434,Number of People
+2019/20,2019/20 Q2,East Ayrshire,65+ years,876,39696,Number of People
+2019/20,2019/20 Q2,East Dunbartonshire,18+ years,1038,44130,Number of People
+2019/20,2019/20 Q2,East Dunbartonshire,18-64 years,54,4434,Number of People
+2019/20,2019/20 Q2,East Dunbartonshire,65+ years,990,39696,Number of People
+2019/20,2019/20 Q2,East Lothian,18+ years,852,44130,Number of People
+2019/20,2019/20 Q2,East Lothian,18-64 years,60,4434,Number of People
+2019/20,2019/20 Q2,East Lothian,65+ years,792,39696,Number of People
+2019/20,2019/20 Q2,East Renfrewshire,18+ years,714,44130,Number of People
+2019/20,2019/20 Q2,East Renfrewshire,18-64 years,36,4434,Number of People
+2019/20,2019/20 Q2,East Renfrewshire,65+ years,678,39696,Number of People
+2019/20,2019/20 Q2,Falkirk,18+ years,1380,44130,Number of People
+2019/20,2019/20 Q2,Falkirk,18-64 years,210,4434,Number of People
+2019/20,2019/20 Q2,Falkirk,65+ years,1170,39696,Number of People
+2019/20,2019/20 Q2,Fife,18+ years,3384,44130,Number of People
+2019/20,2019/20 Q2,Fife,18-64 years,246,4434,Number of People
+2019/20,2019/20 Q2,Fife,65+ years,3138,39696,Number of People
+2019/20,2019/20 Q2,Glasgow City,18+ years,4812,44130,Number of People
+2019/20,2019/20 Q2,Glasgow City,18-64 years,750,4434,Number of People
+2019/20,2019/20 Q2,Glasgow City,65+ years,4062,39696,Number of People
+2019/20,2019/20 Q2,Highland,18+ years,2280,44130,Number of People
+2019/20,2019/20 Q2,Highland,18-64 years,222,4434,Number of People
+2019/20,2019/20 Q2,Highland,65+ years,2058,39696,Number of People
+2019/20,2019/20 Q2,Inverclyde,18+ years,780,44130,Number of People
+2019/20,2019/20 Q2,Inverclyde,18-64 years,72,4434,Number of People
+2019/20,2019/20 Q2,Inverclyde,65+ years,708,39696,Number of People
+2019/20,2019/20 Q2,Midlothian,18+ years,618,44130,Number of People
+2019/20,2019/20 Q2,Midlothian,18-64 years,48,4434,Number of People
+2019/20,2019/20 Q2,Midlothian,65+ years,570,39696,Number of People
+2019/20,2019/20 Q2,Moray,18+ years,732,44130,Number of People
+2019/20,2019/20 Q2,Moray,18-64 years,108,4434,Number of People
+2019/20,2019/20 Q2,Moray,65+ years,624,39696,Number of People
+2019/20,2019/20 Q2,North Ayrshire,18+ years,1122,44130,Number of People
+2019/20,2019/20 Q2,North Ayrshire,18-64 years,114,4434,Number of People
+2019/20,2019/20 Q2,North Ayrshire,65+ years,1008,39696,Number of People
+2019/20,2019/20 Q2,North Lanarkshire,18+ years,1848,44130,Number of People
+2019/20,2019/20 Q2,North Lanarkshire,18-64 years,96,4434,Number of People
+2019/20,2019/20 Q2,North Lanarkshire,65+ years,1758,39696,Number of People
+2019/20,2019/20 Q2,Perth and Kinross,18+ years,1536,44130,Number of People
+2019/20,2019/20 Q2,Perth and Kinross,18-64 years,162,4434,Number of People
+2019/20,2019/20 Q2,Perth and Kinross,65+ years,1374,39696,Number of People
+2019/20,2019/20 Q2,Renfrewshire,18+ years,1476,44130,Number of People
+2019/20,2019/20 Q2,Renfrewshire,18-64 years,144,4434,Number of People
+2019/20,2019/20 Q2,Renfrewshire,65+ years,1332,39696,Number of People
+2019/20,2019/20 Q2,Scottish Borders,18+ years,930,44130,Number of People
+2019/20,2019/20 Q2,Scottish Borders,18-64 years,42,4434,Number of People
+2019/20,2019/20 Q2,Scottish Borders,65+ years,888,39696,Number of People
+2019/20,2019/20 Q2,Shetland Islands,18+ years,168,44130,Number of People
+2019/20,2019/20 Q2,Shetland Islands,18-64 years,12,4434,Number of People
+2019/20,2019/20 Q2,Shetland Islands,65+ years,156,39696,Number of People
+2019/20,2019/20 Q2,South Ayrshire,18+ years,1314,44130,Number of People
+2019/20,2019/20 Q2,South Ayrshire,18-64 years,78,4434,Number of People
+2019/20,2019/20 Q2,South Ayrshire,65+ years,1230,39696,Number of People
+2019/20,2019/20 Q2,South Lanarkshire,18+ years,2580,44130,Number of People
+2019/20,2019/20 Q2,South Lanarkshire,18-64 years,270,4434,Number of People
+2019/20,2019/20 Q2,South Lanarkshire,65+ years,2310,39696,Number of People
+2019/20,2019/20 Q2,Stirling,18+ years,750,44130,Number of People
+2019/20,2019/20 Q2,Stirling,18-64 years,102,4434,Number of People
+2019/20,2019/20 Q2,Stirling,65+ years,654,39696,Number of People
+2019/20,2019/20 Q2,West Dunbartonshire,18+ years,834,44130,Number of People
+2019/20,2019/20 Q2,West Dunbartonshire,18-64 years,72,4434,Number of People
+2019/20,2019/20 Q2,West Dunbartonshire,65+ years,768,39696,Number of People
+2019/20,2019/20 Q2,West Lothian,18+ years,1026,44130,Number of People
+2019/20,2019/20 Q2,West Lothian,18-64 years,144,4434,Number of People
+2019/20,2019/20 Q2,West Lothian,65+ years,888,39696,Number of People
+2019/20,2019/20 Q3,Scotland (All Areas Submitted),18+ years,44640,44640,Number of People
+2019/20,2019/20 Q3,Scotland (All Areas Submitted),18-64 years,4470,4470,Number of People
+2019/20,2019/20 Q3,Scotland (All Areas Submitted),65+ years,40170,40170,Number of People
+2019/20,2019/20 Q3,Aberdeen City,18+ years,2046,44640,Number of People
+2019/20,2019/20 Q3,Aberdeen City,18-64 years,324,4470,Number of People
+2019/20,2019/20 Q3,Aberdeen City,65+ years,1722,40170,Number of People
+2019/20,2019/20 Q3,Aberdeenshire,18+ years,2238,44640,Number of People
+2019/20,2019/20 Q3,Aberdeenshire,18-64 years,258,4470,Number of People
+2019/20,2019/20 Q3,Aberdeenshire,65+ years,1980,40170,Number of People
+2019/20,2019/20 Q3,Angus,18+ years,1254,44640,Number of People
+2019/20,2019/20 Q3,Angus,18-64 years,108,4470,Number of People
+2019/20,2019/20 Q3,Angus,65+ years,1146,40170,Number of People
+2019/20,2019/20 Q3,Argyll and Bute,18+ years,786,44640,Number of People
+2019/20,2019/20 Q3,Argyll and Bute,18-64 years,72,4470,Number of People
+2019/20,2019/20 Q3,Argyll and Bute,65+ years,714,40170,Number of People
+2019/20,2019/20 Q3,City of Edinburgh,18+ years,3438,44640,Number of People
+2019/20,2019/20 Q3,City of Edinburgh,18-64 years,288,4470,Number of People
+2019/20,2019/20 Q3,City of Edinburgh,65+ years,3150,40170,Number of People
+2019/20,2019/20 Q3,Clackmannanshire,18+ years,372,44640,Number of People
+2019/20,2019/20 Q3,Clackmannanshire,18-64 years,78,4470,Number of People
+2019/20,2019/20 Q3,Clackmannanshire,65+ years,294,40170,Number of People
+2019/20,2019/20 Q3,Dumfries and Galloway,18+ years,1392,44640,Number of People
+2019/20,2019/20 Q3,Dumfries and Galloway,18-64 years,78,4470,Number of People
+2019/20,2019/20 Q3,Dumfries and Galloway,65+ years,1320,40170,Number of People
+2019/20,2019/20 Q3,Dundee City,18+ years,1434,44640,Number of People
+2019/20,2019/20 Q3,Dundee City,18-64 years,126,4470,Number of People
+2019/20,2019/20 Q3,Dundee City,65+ years,1314,40170,Number of People
+2019/20,2019/20 Q3,East Ayrshire,18+ years,954,44640,Number of People
+2019/20,2019/20 Q3,East Ayrshire,18-64 years,84,4470,Number of People
+2019/20,2019/20 Q3,East Ayrshire,65+ years,870,40170,Number of People
+2019/20,2019/20 Q3,East Dunbartonshire,18+ years,1056,44640,Number of People
+2019/20,2019/20 Q3,East Dunbartonshire,18-64 years,48,4470,Number of People
+2019/20,2019/20 Q3,East Dunbartonshire,65+ years,1008,40170,Number of People
+2019/20,2019/20 Q3,East Lothian,18+ years,864,44640,Number of People
+2019/20,2019/20 Q3,East Lothian,18-64 years,66,4470,Number of People
+2019/20,2019/20 Q3,East Lothian,65+ years,798,40170,Number of People
+2019/20,2019/20 Q3,East Renfrewshire,18+ years,870,44640,Number of People
+2019/20,2019/20 Q3,East Renfrewshire,18-64 years,42,4470,Number of People
+2019/20,2019/20 Q3,East Renfrewshire,65+ years,828,40170,Number of People
+2019/20,2019/20 Q3,Falkirk,18+ years,1404,44640,Number of People
+2019/20,2019/20 Q3,Falkirk,18-64 years,210,4470,Number of People
+2019/20,2019/20 Q3,Falkirk,65+ years,1194,40170,Number of People
+2019/20,2019/20 Q3,Fife,18+ years,3564,44640,Number of People
+2019/20,2019/20 Q3,Fife,18-64 years,258,4470,Number of People
+2019/20,2019/20 Q3,Fife,65+ years,3306,40170,Number of People
+2019/20,2019/20 Q3,Glasgow City,18+ years,4872,44640,Number of People
+2019/20,2019/20 Q3,Glasgow City,18-64 years,762,4470,Number of People
+2019/20,2019/20 Q3,Glasgow City,65+ years,4110,40170,Number of People
+2019/20,2019/20 Q3,Highland,18+ years,2286,44640,Number of People
+2019/20,2019/20 Q3,Highland,18-64 years,222,4470,Number of People
+2019/20,2019/20 Q3,Highland,65+ years,2064,40170,Number of People
+2019/20,2019/20 Q3,Inverclyde,18+ years,708,44640,Number of People
+2019/20,2019/20 Q3,Inverclyde,18-64 years,66,4470,Number of People
+2019/20,2019/20 Q3,Inverclyde,65+ years,642,40170,Number of People
+2019/20,2019/20 Q3,Midlothian,18+ years,630,44640,Number of People
+2019/20,2019/20 Q3,Midlothian,18-64 years,48,4470,Number of People
+2019/20,2019/20 Q3,Midlothian,65+ years,582,40170,Number of People
+2019/20,2019/20 Q3,Moray,18+ years,744,44640,Number of People
+2019/20,2019/20 Q3,Moray,18-64 years,102,4470,Number of People
+2019/20,2019/20 Q3,Moray,65+ years,642,40170,Number of People
+2019/20,2019/20 Q3,North Ayrshire,18+ years,1080,44640,Number of People
+2019/20,2019/20 Q3,North Ayrshire,18-64 years,108,4470,Number of People
+2019/20,2019/20 Q3,North Ayrshire,65+ years,966,40170,Number of People
+2019/20,2019/20 Q3,North Lanarkshire,18+ years,1914,44640,Number of People
+2019/20,2019/20 Q3,North Lanarkshire,18-64 years,102,4470,Number of People
+2019/20,2019/20 Q3,North Lanarkshire,65+ years,1812,40170,Number of People
+2019/20,2019/20 Q3,Perth and Kinross,18+ years,1530,44640,Number of People
+2019/20,2019/20 Q3,Perth and Kinross,18-64 years,156,4470,Number of People
+2019/20,2019/20 Q3,Perth and Kinross,65+ years,1380,40170,Number of People
+2019/20,2019/20 Q3,Renfrewshire,18+ years,1494,44640,Number of People
+2019/20,2019/20 Q3,Renfrewshire,18-64 years,138,4470,Number of People
+2019/20,2019/20 Q3,Renfrewshire,65+ years,1356,40170,Number of People
+2019/20,2019/20 Q3,Scottish Borders,18+ years,942,44640,Number of People
+2019/20,2019/20 Q3,Scottish Borders,18-64 years,42,4470,Number of People
+2019/20,2019/20 Q3,Scottish Borders,65+ years,900,40170,Number of People
+2019/20,2019/20 Q3,Shetland Islands,18+ years,162,44640,Number of People
+2019/20,2019/20 Q3,Shetland Islands,18-64 years,6,4470,Number of People
+2019/20,2019/20 Q3,Shetland Islands,65+ years,156,40170,Number of People
+2019/20,2019/20 Q3,South Ayrshire,18+ years,1308,44640,Number of People
+2019/20,2019/20 Q3,South Ayrshire,18-64 years,84,4470,Number of People
+2019/20,2019/20 Q3,South Ayrshire,65+ years,1224,40170,Number of People
+2019/20,2019/20 Q3,South Lanarkshire,18+ years,2598,44640,Number of People
+2019/20,2019/20 Q3,South Lanarkshire,18-64 years,276,4470,Number of People
+2019/20,2019/20 Q3,South Lanarkshire,65+ years,2322,40170,Number of People
+2019/20,2019/20 Q3,Stirling,18+ years,744,44640,Number of People
+2019/20,2019/20 Q3,Stirling,18-64 years,102,4470,Number of People
+2019/20,2019/20 Q3,Stirling,65+ years,648,40170,Number of People
+2019/20,2019/20 Q3,West Dunbartonshire,18+ years,834,44640,Number of People
+2019/20,2019/20 Q3,West Dunbartonshire,18-64 years,72,4470,Number of People
+2019/20,2019/20 Q3,West Dunbartonshire,65+ years,762,40170,Number of People
+2019/20,2019/20 Q3,West Lothian,18+ years,1128,44640,Number of People
+2019/20,2019/20 Q3,West Lothian,18-64 years,144,4470,Number of People
+2019/20,2019/20 Q3,West Lothian,65+ years,984,40170,Number of People
+2019/20,2019/20 Q4,Scotland (All Areas Submitted),18+ years,44238,44238,Number of People
+2019/20,2019/20 Q4,Scotland (All Areas Submitted),18-64 years,4434,4434,Number of People
+2019/20,2019/20 Q4,Scotland (All Areas Submitted),65+ years,39804,39804,Number of People
+2019/20,2019/20 Q4,Aberdeen City,18+ years,2058,44238,Number of People
+2019/20,2019/20 Q4,Aberdeen City,18-64 years,318,4434,Number of People
+2019/20,2019/20 Q4,Aberdeen City,65+ years,1740,39804,Number of People
+2019/20,2019/20 Q4,Aberdeenshire,18+ years,2268,44238,Number of People
+2019/20,2019/20 Q4,Aberdeenshire,18-64 years,258,4434,Number of People
+2019/20,2019/20 Q4,Aberdeenshire,65+ years,2010,39804,Number of People
+2019/20,2019/20 Q4,Angus,18+ years,1236,44238,Number of People
+2019/20,2019/20 Q4,Angus,18-64 years,108,4434,Number of People
+2019/20,2019/20 Q4,Angus,65+ years,1128,39804,Number of People
+2019/20,2019/20 Q4,Argyll and Bute,18+ years,774,44238,Number of People
+2019/20,2019/20 Q4,Argyll and Bute,18-64 years,66,4434,Number of People
+2019/20,2019/20 Q4,Argyll and Bute,65+ years,708,39804,Number of People
+2019/20,2019/20 Q4,City of Edinburgh,18+ years,3342,44238,Number of People
+2019/20,2019/20 Q4,City of Edinburgh,18-64 years,282,4434,Number of People
+2019/20,2019/20 Q4,City of Edinburgh,65+ years,3060,39804,Number of People
+2019/20,2019/20 Q4,Clackmannanshire,18+ years,372,44238,Number of People
+2019/20,2019/20 Q4,Clackmannanshire,18-64 years,78,4434,Number of People
+2019/20,2019/20 Q4,Clackmannanshire,65+ years,294,39804,Number of People
+2019/20,2019/20 Q4,Dumfries and Galloway,18+ years,1386,44238,Number of People
+2019/20,2019/20 Q4,Dumfries and Galloway,18-64 years,72,4434,Number of People
+2019/20,2019/20 Q4,Dumfries and Galloway,65+ years,1308,39804,Number of People
+2019/20,2019/20 Q4,Dundee City,18+ years,1440,44238,Number of People
+2019/20,2019/20 Q4,Dundee City,18-64 years,132,4434,Number of People
+2019/20,2019/20 Q4,Dundee City,65+ years,1308,39804,Number of People
+2019/20,2019/20 Q4,East Ayrshire,18+ years,960,44238,Number of People
+2019/20,2019/20 Q4,East Ayrshire,18-64 years,90,4434,Number of People
+2019/20,2019/20 Q4,East Ayrshire,65+ years,870,39804,Number of People
+2019/20,2019/20 Q4,East Dunbartonshire,18+ years,1086,44238,Number of People
+2019/20,2019/20 Q4,East Dunbartonshire,18-64 years,48,4434,Number of People
+2019/20,2019/20 Q4,East Dunbartonshire,65+ years,1032,39804,Number of People
+2019/20,2019/20 Q4,East Lothian,18+ years,870,44238,Number of People
+2019/20,2019/20 Q4,East Lothian,18-64 years,66,4434,Number of People
+2019/20,2019/20 Q4,East Lothian,65+ years,810,39804,Number of People
+2019/20,2019/20 Q4,East Renfrewshire,18+ years,888,44238,Number of People
+2019/20,2019/20 Q4,East Renfrewshire,18-64 years,42,4434,Number of People
+2019/20,2019/20 Q4,East Renfrewshire,65+ years,846,39804,Number of People
+2019/20,2019/20 Q4,Falkirk,18+ years,1392,44238,Number of People
+2019/20,2019/20 Q4,Falkirk,18-64 years,210,4434,Number of People
+2019/20,2019/20 Q4,Falkirk,65+ years,1176,39804,Number of People
+2019/20,2019/20 Q4,Fife,18+ years,3378,44238,Number of People
+2019/20,2019/20 Q4,Fife,18-64 years,246,4434,Number of People
+2019/20,2019/20 Q4,Fife,65+ years,3138,39804,Number of People
+2019/20,2019/20 Q4,Glasgow City,18+ years,4836,44238,Number of People
+2019/20,2019/20 Q4,Glasgow City,18-64 years,738,4434,Number of People
+2019/20,2019/20 Q4,Glasgow City,65+ years,4098,39804,Number of People
+2019/20,2019/20 Q4,Highland,18+ years,2190,44238,Number of People
+2019/20,2019/20 Q4,Highland,18-64 years,228,4434,Number of People
+2019/20,2019/20 Q4,Highland,65+ years,1968,39804,Number of People
+2019/20,2019/20 Q4,Inverclyde,18+ years,798,44238,Number of People
+2019/20,2019/20 Q4,Inverclyde,18-64 years,66,4434,Number of People
+2019/20,2019/20 Q4,Inverclyde,65+ years,738,39804,Number of People
+2019/20,2019/20 Q4,Midlothian,18+ years,582,44238,Number of People
+2019/20,2019/20 Q4,Midlothian,18-64 years,54,4434,Number of People
+2019/20,2019/20 Q4,Midlothian,65+ years,528,39804,Number of People
+2019/20,2019/20 Q4,Moray,18+ years,744,44238,Number of People
+2019/20,2019/20 Q4,Moray,18-64 years,102,4434,Number of People
+2019/20,2019/20 Q4,Moray,65+ years,642,39804,Number of People
+2019/20,2019/20 Q4,North Ayrshire,18+ years,1026,44238,Number of People
+2019/20,2019/20 Q4,North Ayrshire,18-64 years,114,4434,Number of People
+2019/20,2019/20 Q4,North Ayrshire,65+ years,918,39804,Number of People
+2019/20,2019/20 Q4,North Lanarkshire,18+ years,1932,44238,Number of People
+2019/20,2019/20 Q4,North Lanarkshire,18-64 years,102,4434,Number of People
+2019/20,2019/20 Q4,North Lanarkshire,65+ years,1830,39804,Number of People
+2019/20,2019/20 Q4,Perth and Kinross,18+ years,1536,44238,Number of People
+2019/20,2019/20 Q4,Perth and Kinross,18-64 years,150,4434,Number of People
+2019/20,2019/20 Q4,Perth and Kinross,65+ years,1386,39804,Number of People
+2019/20,2019/20 Q4,Renfrewshire,18+ years,1494,44238,Number of People
+2019/20,2019/20 Q4,Renfrewshire,18-64 years,132,4434,Number of People
+2019/20,2019/20 Q4,Renfrewshire,65+ years,1362,39804,Number of People
+2019/20,2019/20 Q4,Scottish Borders,18+ years,942,44238,Number of People
+2019/20,2019/20 Q4,Scottish Borders,18-64 years,42,4434,Number of People
+2019/20,2019/20 Q4,Scottish Borders,65+ years,894,39804,Number of People
+2019/20,2019/20 Q4,Shetland Islands,18+ years,168,44238,Number of People
+2019/20,2019/20 Q4,Shetland Islands,18-64 years,12,4434,Number of People
+2019/20,2019/20 Q4,Shetland Islands,65+ years,156,39804,Number of People
+2019/20,2019/20 Q4,South Ayrshire,18+ years,1278,44238,Number of People
+2019/20,2019/20 Q4,South Ayrshire,18-64 years,84,4434,Number of People
+2019/20,2019/20 Q4,South Ayrshire,65+ years,1194,39804,Number of People
+2019/20,2019/20 Q4,South Lanarkshire,18+ years,2574,44238,Number of People
+2019/20,2019/20 Q4,South Lanarkshire,18-64 years,276,4434,Number of People
+2019/20,2019/20 Q4,South Lanarkshire,65+ years,2298,39804,Number of People
+2019/20,2019/20 Q4,Stirling,18+ years,732,44238,Number of People
+2019/20,2019/20 Q4,Stirling,18-64 years,102,4434,Number of People
+2019/20,2019/20 Q4,Stirling,65+ years,630,39804,Number of People
+2019/20,2019/20 Q4,West Dunbartonshire,18+ years,816,44238,Number of People
+2019/20,2019/20 Q4,West Dunbartonshire,18-64 years,72,4434,Number of People
+2019/20,2019/20 Q4,West Dunbartonshire,65+ years,744,39804,Number of People
+2019/20,2019/20 Q4,West Lothian,18+ years,1140,44238,Number of People
+2019/20,2019/20 Q4,West Lothian,18-64 years,156,4434,Number of People
+2019/20,2019/20 Q4,West Lothian,65+ years,984,39804,Number of People
+2020/21,2020/21 Q1,Scotland (All Areas Submitted),18+ years,52797.6,52797.6,Number of People
+2020/21,2020/21 Q1,Scotland (All Areas Submitted),18-64 years,5284.8,5284.8,Number of People
+2020/21,2020/21 Q1,Scotland (All Areas Submitted),65+ years,47512.8,47512.8,Number of People
+2020/21,2020/21 Q1,Aberdeen City,18+ years,2419.2,52797.6,Number of People
+2020/21,2020/21 Q1,Aberdeen City,18-64 years,403.2,5284.8,Number of People
+2020/21,2020/21 Q1,Aberdeen City,65+ years,2016,47512.8,Number of People
+2020/21,2020/21 Q1,Aberdeenshire,18+ years,2620.8,52797.6,Number of People
+2020/21,2020/21 Q1,Aberdeenshire,18-64 years,295.2,5284.8,Number of People
+2020/21,2020/21 Q1,Aberdeenshire,65+ years,2325.6,47512.8,Number of People
+2020/21,2020/21 Q1,Angus,18+ years,1497.6,52797.6,Number of People
+2020/21,2020/21 Q1,Angus,18-64 years,136.8,5284.8,Number of People
+2020/21,2020/21 Q1,Angus,65+ years,1360.8,47512.8,Number of People
+2020/21,2020/21 Q1,Argyll and Bute,18+ years,936,52797.6,Number of People
+2020/21,2020/21 Q1,Argyll and Bute,18-64 years,72,5284.8,Number of People
+2020/21,2020/21 Q1,Argyll and Bute,65+ years,864,47512.8,Number of People
+2020/21,2020/21 Q1,City of Edinburgh,18+ years,4284,52797.6,Number of People
+2020/21,2020/21 Q1,City of Edinburgh,18-64 years,360,5284.8,Number of People
+2020/21,2020/21 Q1,City of Edinburgh,65+ years,3924,47512.8,Number of People
+2020/21,2020/21 Q1,Clackmannanshire,18+ years,432,52797.6,Number of People
+2020/21,2020/21 Q1,Clackmannanshire,18-64 years,93.6,5284.8,Number of People
+2020/21,2020/21 Q1,Clackmannanshire,65+ years,345.6,47512.8,Number of People
+2020/21,2020/21 Q1,Dumfries and Galloway,18+ years,1656,52797.6,Number of People
+2020/21,2020/21 Q1,Dumfries and Galloway,18-64 years,93.6,5284.8,Number of People
+2020/21,2020/21 Q1,Dumfries and Galloway,65+ years,1562.4,47512.8,Number of People
+2020/21,2020/21 Q1,Dundee City,18+ years,1749.6,52797.6,Number of People
+2020/21,2020/21 Q1,Dundee City,18-64 years,151.2,5284.8,Number of People
+2020/21,2020/21 Q1,Dundee City,65+ years,1605.6,47512.8,Number of People
+2020/21,2020/21 Q1,East Ayrshire,18+ years,1144.8,52797.6,Number of People
+2020/21,2020/21 Q1,East Ayrshire,18-64 years,93.6,5284.8,Number of People
+2020/21,2020/21 Q1,East Ayrshire,65+ years,1051.2,47512.8,Number of People
+2020/21,2020/21 Q1,East Dunbartonshire,18+ years,1267.2,52797.6,Number of People
+2020/21,2020/21 Q1,East Dunbartonshire,18-64 years,64.8,5284.8,Number of People
+2020/21,2020/21 Q1,East Dunbartonshire,65+ years,1202.4,47512.8,Number of People
+2020/21,2020/21 Q1,East Lothian,18+ years,1015.2,52797.6,Number of People
+2020/21,2020/21 Q1,East Lothian,18-64 years,72,5284.8,Number of People
+2020/21,2020/21 Q1,East Lothian,65+ years,943.2,47512.8,Number of People
+2020/21,2020/21 Q1,East Renfrewshire,18+ years,864,52797.6,Number of People
+2020/21,2020/21 Q1,East Renfrewshire,18-64 years,43.2,5284.8,Number of People
+2020/21,2020/21 Q1,East Renfrewshire,65+ years,820.8,47512.8,Number of People
+2020/21,2020/21 Q1,Falkirk,18+ years,1648.8,52797.6,Number of People
+2020/21,2020/21 Q1,Falkirk,18-64 years,252,5284.8,Number of People
+2020/21,2020/21 Q1,Falkirk,65+ years,1389.6,47512.8,Number of People
+2020/21,2020/21 Q1,Fife,18+ years,3909.6,52797.6,Number of People
+2020/21,2020/21 Q1,Fife,18-64 years,280.8,5284.8,Number of People
+2020/21,2020/21 Q1,Fife,65+ years,3628.8,47512.8,Number of People
+2020/21,2020/21 Q1,Glasgow City,18+ years,5709.6,52797.6,Number of People
+2020/21,2020/21 Q1,Glasgow City,18-64 years,871.2,5284.8,Number of People
+2020/21,2020/21 Q1,Glasgow City,65+ years,4838.4,47512.8,Number of People
+2020/21,2020/21 Q1,Highland,18+ years,2750.4,52797.6,Number of People
+2020/21,2020/21 Q1,Highland,18-64 years,266.4,5284.8,Number of People
+2020/21,2020/21 Q1,Highland,65+ years,2484,47512.8,Number of People
+2020/21,2020/21 Q1,Inverclyde,18+ years,964.8,52797.6,Number of People
+2020/21,2020/21 Q1,Inverclyde,18-64 years,100.8,5284.8,Number of People
+2020/21,2020/21 Q1,Inverclyde,65+ years,864,47512.8,Number of People
+2020/21,2020/21 Q1,Midlothian,18+ years,669.6,52797.6,Number of People
+2020/21,2020/21 Q1,Midlothian,18-64 years,50.4,5284.8,Number of People
+2020/21,2020/21 Q1,Midlothian,65+ years,619.2,47512.8,Number of People
+2020/21,2020/21 Q1,Moray,18+ years,878.4,52797.6,Number of People
+2020/21,2020/21 Q1,Moray,18-64 years,122.4,5284.8,Number of People
+2020/21,2020/21 Q1,Moray,65+ years,756,47512.8,Number of People
+2020/21,2020/21 Q1,North Ayrshire,18+ years,1396.8,52797.6,Number of People
+2020/21,2020/21 Q1,North Ayrshire,18-64 years,136.8,5284.8,Number of People
+2020/21,2020/21 Q1,North Ayrshire,65+ years,1260,47512.8,Number of People
+2020/21,2020/21 Q1,North Lanarkshire,18+ years,2275.2,52797.6,Number of People
+2020/21,2020/21 Q1,North Lanarkshire,18-64 years,115.2,5284.8,Number of People
+2020/21,2020/21 Q1,North Lanarkshire,65+ years,2160,47512.8,Number of People
+2020/21,2020/21 Q1,Perth and Kinross,18+ years,1836,52797.6,Number of People
+2020/21,2020/21 Q1,Perth and Kinross,18-64 years,187.2,5284.8,Number of People
+2020/21,2020/21 Q1,Perth and Kinross,65+ years,1648.8,47512.8,Number of People
+2020/21,2020/21 Q1,Renfrewshire,18+ years,1756.8,52797.6,Number of People
+2020/21,2020/21 Q1,Renfrewshire,18-64 years,165.6,5284.8,Number of People
+2020/21,2020/21 Q1,Renfrewshire,65+ years,1591.2,47512.8,Number of People
+2020/21,2020/21 Q1,Scottish Borders,18+ years,1080,52797.6,Number of People
+2020/21,2020/21 Q1,Scottish Borders,18-64 years,43.2,5284.8,Number of People
+2020/21,2020/21 Q1,Scottish Borders,65+ years,1036.8,47512.8,Number of People
+2020/21,2020/21 Q1,Shetland Islands,18+ years,216,52797.6,Number of People
+2020/21,2020/21 Q1,Shetland Islands,18-64 years,14.4,5284.8,Number of People
+2020/21,2020/21 Q1,Shetland Islands,65+ years,201.6,47512.8,Number of People
+2020/21,2020/21 Q1,South Ayrshire,18+ years,1576.8,52797.6,Number of People
+2020/21,2020/21 Q1,South Ayrshire,18-64 years,93.6,5284.8,Number of People
+2020/21,2020/21 Q1,South Ayrshire,65+ years,1483.2,47512.8,Number of People
+2020/21,2020/21 Q1,South Lanarkshire,18+ years,3045.6,52797.6,Number of People
+2020/21,2020/21 Q1,South Lanarkshire,18-64 years,324,5284.8,Number of People
+2020/21,2020/21 Q1,South Lanarkshire,65+ years,2721.6,47512.8,Number of People
+2020/21,2020/21 Q1,Stirling,18+ years,885.6,52797.6,Number of People
+2020/21,2020/21 Q1,Stirling,18-64 years,122.4,5284.8,Number of People
+2020/21,2020/21 Q1,Stirling,65+ years,763.2,47512.8,Number of People
+2020/21,2020/21 Q1,West Dunbartonshire,18+ years,986.4,52797.6,Number of People
+2020/21,2020/21 Q1,West Dunbartonshire,18-64 years,79.2,5284.8,Number of People
+2020/21,2020/21 Q1,West Dunbartonshire,65+ years,907.2,47512.8,Number of People
+2020/21,2020/21 Q1,West Lothian,18+ years,1310.4,52797.6,Number of People
+2020/21,2020/21 Q1,West Lothian,18-64 years,172.8,5284.8,Number of People
+2020/21,2020/21 Q1,West Lothian,65+ years,1137.6,47512.8,Number of People
+2020/21,2020/21 Q2,Scotland (All Areas Submitted),18+ years,52956,52956,Number of People
+2020/21,2020/21 Q2,Scotland (All Areas Submitted),18-64 years,5320.8,5320.8,Number of People
+2020/21,2020/21 Q2,Scotland (All Areas Submitted),65+ years,47635.2,47635.2,Number of People
+2020/21,2020/21 Q2,Aberdeen City,18+ years,2433.6,52956,Number of People
+2020/21,2020/21 Q2,Aberdeen City,18-64 years,396,5320.8,Number of People
+2020/21,2020/21 Q2,Aberdeen City,65+ years,2037.6,47635.2,Number of People
+2020/21,2020/21 Q2,Aberdeenshire,18+ years,2656.8,52956,Number of People
+2020/21,2020/21 Q2,Aberdeenshire,18-64 years,295.2,5320.8,Number of People
+2020/21,2020/21 Q2,Aberdeenshire,65+ years,2361.6,47635.2,Number of People
+2020/21,2020/21 Q2,Angus,18+ years,1490.4,52956,Number of People
+2020/21,2020/21 Q2,Angus,18-64 years,129.6,5320.8,Number of People
+2020/21,2020/21 Q2,Angus,65+ years,1360.8,47635.2,Number of People
+2020/21,2020/21 Q2,Argyll and Bute,18+ years,928.8,52956,Number of People
+2020/21,2020/21 Q2,Argyll and Bute,18-64 years,86.4,5320.8,Number of People
+2020/21,2020/21 Q2,Argyll and Bute,65+ years,842.4,47635.2,Number of People
+2020/21,2020/21 Q2,City of Edinburgh,18+ years,4255.2,52956,Number of People
+2020/21,2020/21 Q2,City of Edinburgh,18-64 years,352.8,5320.8,Number of People
+2020/21,2020/21 Q2,City of Edinburgh,65+ years,3909.6,47635.2,Number of People
+2020/21,2020/21 Q2,Clackmannanshire,18+ years,446.4,52956,Number of People
+2020/21,2020/21 Q2,Clackmannanshire,18-64 years,93.6,5320.8,Number of People
+2020/21,2020/21 Q2,Clackmannanshire,65+ years,352.8,47635.2,Number of People
+2020/21,2020/21 Q2,Dumfries and Galloway,18+ years,1670.4,52956,Number of People
+2020/21,2020/21 Q2,Dumfries and Galloway,18-64 years,93.6,5320.8,Number of People
+2020/21,2020/21 Q2,Dumfries and Galloway,65+ years,1576.8,47635.2,Number of People
+2020/21,2020/21 Q2,Dundee City,18+ years,1699.2,52956,Number of People
+2020/21,2020/21 Q2,Dundee City,18-64 years,144,5320.8,Number of People
+2020/21,2020/21 Q2,Dundee City,65+ years,1555.2,47635.2,Number of People
+2020/21,2020/21 Q2,East Ayrshire,18+ years,1144.8,52956,Number of People
+2020/21,2020/21 Q2,East Ayrshire,18-64 years,100.8,5320.8,Number of People
+2020/21,2020/21 Q2,East Ayrshire,65+ years,1051.2,47635.2,Number of People
+2020/21,2020/21 Q2,East Dunbartonshire,18+ years,1245.6,52956,Number of People
+2020/21,2020/21 Q2,East Dunbartonshire,18-64 years,64.8,5320.8,Number of People
+2020/21,2020/21 Q2,East Dunbartonshire,65+ years,1188,47635.2,Number of People
+2020/21,2020/21 Q2,East Lothian,18+ years,1022.4,52956,Number of People
+2020/21,2020/21 Q2,East Lothian,18-64 years,72,5320.8,Number of People
+2020/21,2020/21 Q2,East Lothian,65+ years,950.4,47635.2,Number of People
+2020/21,2020/21 Q2,East Renfrewshire,18+ years,856.8,52956,Number of People
+2020/21,2020/21 Q2,East Renfrewshire,18-64 years,43.2,5320.8,Number of People
+2020/21,2020/21 Q2,East Renfrewshire,65+ years,813.6,47635.2,Number of People
+2020/21,2020/21 Q2,Falkirk,18+ years,1656,52956,Number of People
+2020/21,2020/21 Q2,Falkirk,18-64 years,252,5320.8,Number of People
+2020/21,2020/21 Q2,Falkirk,65+ years,1404,47635.2,Number of People
+2020/21,2020/21 Q2,Fife,18+ years,4060.8,52956,Number of People
+2020/21,2020/21 Q2,Fife,18-64 years,295.2,5320.8,Number of People
+2020/21,2020/21 Q2,Fife,65+ years,3765.6,47635.2,Number of People
+2020/21,2020/21 Q2,Glasgow City,18+ years,5774.4,52956,Number of People
+2020/21,2020/21 Q2,Glasgow City,18-64 years,900,5320.8,Number of People
+2020/21,2020/21 Q2,Glasgow City,65+ years,4874.4,47635.2,Number of People
+2020/21,2020/21 Q2,Highland,18+ years,2736,52956,Number of People
+2020/21,2020/21 Q2,Highland,18-64 years,266.4,5320.8,Number of People
+2020/21,2020/21 Q2,Highland,65+ years,2469.6,47635.2,Number of People
+2020/21,2020/21 Q2,Inverclyde,18+ years,936,52956,Number of People
+2020/21,2020/21 Q2,Inverclyde,18-64 years,86.4,5320.8,Number of People
+2020/21,2020/21 Q2,Inverclyde,65+ years,849.6,47635.2,Number of People
+2020/21,2020/21 Q2,Midlothian,18+ years,741.6,52956,Number of People
+2020/21,2020/21 Q2,Midlothian,18-64 years,57.6,5320.8,Number of People
+2020/21,2020/21 Q2,Midlothian,65+ years,684,47635.2,Number of People
+2020/21,2020/21 Q2,Moray,18+ years,878.4,52956,Number of People
+2020/21,2020/21 Q2,Moray,18-64 years,129.6,5320.8,Number of People
+2020/21,2020/21 Q2,Moray,65+ years,748.8,47635.2,Number of People
+2020/21,2020/21 Q2,North Ayrshire,18+ years,1346.4,52956,Number of People
+2020/21,2020/21 Q2,North Ayrshire,18-64 years,136.8,5320.8,Number of People
+2020/21,2020/21 Q2,North Ayrshire,65+ years,1209.6,47635.2,Number of People
+2020/21,2020/21 Q2,North Lanarkshire,18+ years,2217.6,52956,Number of People
+2020/21,2020/21 Q2,North Lanarkshire,18-64 years,115.2,5320.8,Number of People
+2020/21,2020/21 Q2,North Lanarkshire,65+ years,2109.6,47635.2,Number of People
+2020/21,2020/21 Q2,Perth and Kinross,18+ years,1843.2,52956,Number of People
+2020/21,2020/21 Q2,Perth and Kinross,18-64 years,194.4,5320.8,Number of People
+2020/21,2020/21 Q2,Perth and Kinross,65+ years,1648.8,47635.2,Number of People
+2020/21,2020/21 Q2,Renfrewshire,18+ years,1771.2,52956,Number of People
+2020/21,2020/21 Q2,Renfrewshire,18-64 years,172.8,5320.8,Number of People
+2020/21,2020/21 Q2,Renfrewshire,65+ years,1598.4,47635.2,Number of People
+2020/21,2020/21 Q2,Scottish Borders,18+ years,1116,52956,Number of People
+2020/21,2020/21 Q2,Scottish Borders,18-64 years,50.4,5320.8,Number of People
+2020/21,2020/21 Q2,Scottish Borders,65+ years,1065.6,47635.2,Number of People
+2020/21,2020/21 Q2,Shetland Islands,18+ years,201.6,52956,Number of People
+2020/21,2020/21 Q2,Shetland Islands,18-64 years,14.4,5320.8,Number of People
+2020/21,2020/21 Q2,Shetland Islands,65+ years,187.2,47635.2,Number of People
+2020/21,2020/21 Q2,South Ayrshire,18+ years,1576.8,52956,Number of People
+2020/21,2020/21 Q2,South Ayrshire,18-64 years,93.6,5320.8,Number of People
+2020/21,2020/21 Q2,South Ayrshire,65+ years,1476,47635.2,Number of People
+2020/21,2020/21 Q2,South Lanarkshire,18+ years,3096,52956,Number of People
+2020/21,2020/21 Q2,South Lanarkshire,18-64 years,324,5320.8,Number of People
+2020/21,2020/21 Q2,South Lanarkshire,65+ years,2772,47635.2,Number of People
+2020/21,2020/21 Q2,Stirling,18+ years,900,52956,Number of People
+2020/21,2020/21 Q2,Stirling,18-64 years,122.4,5320.8,Number of People
+2020/21,2020/21 Q2,Stirling,65+ years,784.8,47635.2,Number of People
+2020/21,2020/21 Q2,West Dunbartonshire,18+ years,1000.8,52956,Number of People
+2020/21,2020/21 Q2,West Dunbartonshire,18-64 years,86.4,5320.8,Number of People
+2020/21,2020/21 Q2,West Dunbartonshire,65+ years,921.6,47635.2,Number of People
+2020/21,2020/21 Q2,West Lothian,18+ years,1231.2,52956,Number of People
+2020/21,2020/21 Q2,West Lothian,18-64 years,172.8,5320.8,Number of People
+2020/21,2020/21 Q2,West Lothian,65+ years,1065.6,47635.2,Number of People
+2020/21,2020/21 Q3,Scotland (All Areas Submitted),18+ years,53568,53568,Number of People
+2020/21,2020/21 Q3,Scotland (All Areas Submitted),18-64 years,5364,5364,Number of People
+2020/21,2020/21 Q3,Scotland (All Areas Submitted),65+ years,48204,48204,Number of People
+2020/21,2020/21 Q3,Aberdeen City,18+ years,2455.2,53568,Number of People
+2020/21,2020/21 Q3,Aberdeen City,18-64 years,388.8,5364,Number of People
+2020/21,2020/21 Q3,Aberdeen City,65+ years,2066.4,48204,Number of People
+2020/21,2020/21 Q3,Aberdeenshire,18+ years,2685.6,53568,Number of People
+2020/21,2020/21 Q3,Aberdeenshire,18-64 years,309.6,5364,Number of People
+2020/21,2020/21 Q3,Aberdeenshire,65+ years,2376,48204,Number of People
+2020/21,2020/21 Q3,Angus,18+ years,1504.8,53568,Number of People
+2020/21,2020/21 Q3,Angus,18-64 years,129.6,5364,Number of People
+2020/21,2020/21 Q3,Angus,65+ years,1375.2,48204,Number of People
+2020/21,2020/21 Q3,Argyll and Bute,18+ years,943.2,53568,Number of People
+2020/21,2020/21 Q3,Argyll and Bute,18-64 years,86.4,5364,Number of People
+2020/21,2020/21 Q3,Argyll and Bute,65+ years,856.8,48204,Number of People
+2020/21,2020/21 Q3,City of Edinburgh,18+ years,4125.6,53568,Number of People
+2020/21,2020/21 Q3,City of Edinburgh,18-64 years,345.6,5364,Number of People
+2020/21,2020/21 Q3,City of Edinburgh,65+ years,3780,48204,Number of People
+2020/21,2020/21 Q3,Clackmannanshire,18+ years,446.4,53568,Number of People
+2020/21,2020/21 Q3,Clackmannanshire,18-64 years,93.6,5364,Number of People
+2020/21,2020/21 Q3,Clackmannanshire,65+ years,352.8,48204,Number of People
+2020/21,2020/21 Q3,Dumfries and Galloway,18+ years,1670.4,53568,Number of People
+2020/21,2020/21 Q3,Dumfries and Galloway,18-64 years,93.6,5364,Number of People
+2020/21,2020/21 Q3,Dumfries and Galloway,65+ years,1584,48204,Number of People
+2020/21,2020/21 Q3,Dundee City,18+ years,1720.8,53568,Number of People
+2020/21,2020/21 Q3,Dundee City,18-64 years,151.2,5364,Number of People
+2020/21,2020/21 Q3,Dundee City,65+ years,1576.8,48204,Number of People
+2020/21,2020/21 Q3,East Ayrshire,18+ years,1144.8,53568,Number of People
+2020/21,2020/21 Q3,East Ayrshire,18-64 years,100.8,5364,Number of People
+2020/21,2020/21 Q3,East Ayrshire,65+ years,1044,48204,Number of People
+2020/21,2020/21 Q3,East Dunbartonshire,18+ years,1267.2,53568,Number of People
+2020/21,2020/21 Q3,East Dunbartonshire,18-64 years,57.6,5364,Number of People
+2020/21,2020/21 Q3,East Dunbartonshire,65+ years,1209.6,48204,Number of People
+2020/21,2020/21 Q3,East Lothian,18+ years,1036.8,53568,Number of People
+2020/21,2020/21 Q3,East Lothian,18-64 years,79.2,5364,Number of People
+2020/21,2020/21 Q3,East Lothian,65+ years,957.6,48204,Number of People
+2020/21,2020/21 Q3,East Renfrewshire,18+ years,1044,53568,Number of People
+2020/21,2020/21 Q3,East Renfrewshire,18-64 years,50.4,5364,Number of People
+2020/21,2020/21 Q3,East Renfrewshire,65+ years,993.6,48204,Number of People
+2020/21,2020/21 Q3,Falkirk,18+ years,1684.8,53568,Number of People
+2020/21,2020/21 Q3,Falkirk,18-64 years,252,5364,Number of People
+2020/21,2020/21 Q3,Falkirk,65+ years,1432.8,48204,Number of People
+2020/21,2020/21 Q3,Fife,18+ years,4276.8,53568,Number of People
+2020/21,2020/21 Q3,Fife,18-64 years,309.6,5364,Number of People
+2020/21,2020/21 Q3,Fife,65+ years,3967.2,48204,Number of People
+2020/21,2020/21 Q3,Glasgow City,18+ years,5846.4,53568,Number of People
+2020/21,2020/21 Q3,Glasgow City,18-64 years,914.4,5364,Number of People
+2020/21,2020/21 Q3,Glasgow City,65+ years,4932,48204,Number of People
+2020/21,2020/21 Q3,Highland,18+ years,2743.2,53568,Number of People
+2020/21,2020/21 Q3,Highland,18-64 years,266.4,5364,Number of People
+2020/21,2020/21 Q3,Highland,65+ years,2476.8,48204,Number of People
+2020/21,2020/21 Q3,Inverclyde,18+ years,849.6,53568,Number of People
+2020/21,2020/21 Q3,Inverclyde,18-64 years,79.2,5364,Number of People
+2020/21,2020/21 Q3,Inverclyde,65+ years,770.4,48204,Number of People
+2020/21,2020/21 Q3,Midlothian,18+ years,756,53568,Number of People
+2020/21,2020/21 Q3,Midlothian,18-64 years,57.6,5364,Number of People
+2020/21,2020/21 Q3,Midlothian,65+ years,698.4,48204,Number of People
+2020/21,2020/21 Q3,Moray,18+ years,892.8,53568,Number of People
+2020/21,2020/21 Q3,Moray,18-64 years,122.4,5364,Number of People
+2020/21,2020/21 Q3,Moray,65+ years,770.4,48204,Number of People
+2020/21,2020/21 Q3,North Ayrshire,18+ years,1296,53568,Number of People
+2020/21,2020/21 Q3,North Ayrshire,18-64 years,129.6,5364,Number of People
+2020/21,2020/21 Q3,North Ayrshire,65+ years,1159.2,48204,Number of People
+2020/21,2020/21 Q3,North Lanarkshire,18+ years,2296.8,53568,Number of People
+2020/21,2020/21 Q3,North Lanarkshire,18-64 years,122.4,5364,Number of People
+2020/21,2020/21 Q3,North Lanarkshire,65+ years,2174.4,48204,Number of People
+2020/21,2020/21 Q3,Perth and Kinross,18+ years,1836,53568,Number of People
+2020/21,2020/21 Q3,Perth and Kinross,18-64 years,187.2,5364,Number of People
+2020/21,2020/21 Q3,Perth and Kinross,65+ years,1656,48204,Number of People
+2020/21,2020/21 Q3,Renfrewshire,18+ years,1792.8,53568,Number of People
+2020/21,2020/21 Q3,Renfrewshire,18-64 years,165.6,5364,Number of People
+2020/21,2020/21 Q3,Renfrewshire,65+ years,1627.2,48204,Number of People
+2020/21,2020/21 Q3,Scottish Borders,18+ years,1130.4,53568,Number of People
+2020/21,2020/21 Q3,Scottish Borders,18-64 years,50.4,5364,Number of People
+2020/21,2020/21 Q3,Scottish Borders,65+ years,1080,48204,Number of People
+2020/21,2020/21 Q3,Shetland Islands,18+ years,194.4,53568,Number of People
+2020/21,2020/21 Q3,Shetland Islands,18-64 years,7.2,5364,Number of People
+2020/21,2020/21 Q3,Shetland Islands,65+ years,187.2,48204,Number of People
+2020/21,2020/21 Q3,South Ayrshire,18+ years,1569.6,53568,Number of People
+2020/21,2020/21 Q3,South Ayrshire,18-64 years,100.8,5364,Number of People
+2020/21,2020/21 Q3,South Ayrshire,65+ years,1468.8,48204,Number of People
+2020/21,2020/21 Q3,South Lanarkshire,18+ years,3117.6,53568,Number of People
+2020/21,2020/21 Q3,South Lanarkshire,18-64 years,331.2,5364,Number of People
+2020/21,2020/21 Q3,South Lanarkshire,65+ years,2786.4,48204,Number of People
+2020/21,2020/21 Q3,Stirling,18+ years,892.8,53568,Number of People
+2020/21,2020/21 Q3,Stirling,18-64 years,122.4,5364,Number of People
+2020/21,2020/21 Q3,Stirling,65+ years,777.6,48204,Number of People
+2020/21,2020/21 Q3,West Dunbartonshire,18+ years,1000.8,53568,Number of People
+2020/21,2020/21 Q3,West Dunbartonshire,18-64 years,86.4,5364,Number of People
+2020/21,2020/21 Q3,West Dunbartonshire,65+ years,914.4,48204,Number of People
+2020/21,2020/21 Q3,West Lothian,18+ years,1353.6,53568,Number of People
+2020/21,2020/21 Q3,West Lothian,18-64 years,172.8,5364,Number of People
+2020/21,2020/21 Q3,West Lothian,65+ years,1180.8,48204,Number of People
+2020/21,2020/21 Q4,Scotland (All Areas Submitted),18+ years,53085.6,53085.6,Number of People
+2020/21,2020/21 Q4,Scotland (All Areas Submitted),18-64 years,5320.8,5320.8,Number of People
+2020/21,2020/21 Q4,Scotland (All Areas Submitted),65+ years,47764.8,47764.8,Number of People
+2020/21,2020/21 Q4,Aberdeen City,18+ years,2469.6,53085.6,Number of People
+2020/21,2020/21 Q4,Aberdeen City,18-64 years,381.6,5320.8,Number of People
+2020/21,2020/21 Q4,Aberdeen City,65+ years,2088,47764.8,Number of People
+2020/21,2020/21 Q4,Aberdeenshire,18+ years,2721.6,53085.6,Number of People
+2020/21,2020/21 Q4,Aberdeenshire,18-64 years,309.6,5320.8,Number of People
+2020/21,2020/21 Q4,Aberdeenshire,65+ years,2412,47764.8,Number of People
+2020/21,2020/21 Q4,Angus,18+ years,1483.2,53085.6,Number of People
+2020/21,2020/21 Q4,Angus,18-64 years,129.6,5320.8,Number of People
+2020/21,2020/21 Q4,Angus,65+ years,1353.6,47764.8,Number of People
+2020/21,2020/21 Q4,Argyll and Bute,18+ years,928.8,53085.6,Number of People
+2020/21,2020/21 Q4,Argyll and Bute,18-64 years,79.2,5320.8,Number of People
+2020/21,2020/21 Q4,Argyll and Bute,65+ years,849.6,47764.8,Number of People
+2020/21,2020/21 Q4,City of Edinburgh,18+ years,4010.4,53085.6,Number of People
+2020/21,2020/21 Q4,City of Edinburgh,18-64 years,338.4,5320.8,Number of People
+2020/21,2020/21 Q4,City of Edinburgh,65+ years,3672,47764.8,Number of People
+2020/21,2020/21 Q4,Clackmannanshire,18+ years,446.4,53085.6,Number of People
+2020/21,2020/21 Q4,Clackmannanshire,18-64 years,93.6,5320.8,Number of People
+2020/21,2020/21 Q4,Clackmannanshire,65+ years,352.8,47764.8,Number of People
+2020/21,2020/21 Q4,Dumfries and Galloway,18+ years,1663.2,53085.6,Number of People
+2020/21,2020/21 Q4,Dumfries and Galloway,18-64 years,86.4,5320.8,Number of People
+2020/21,2020/21 Q4,Dumfries and Galloway,65+ years,1569.6,47764.8,Number of People
+2020/21,2020/21 Q4,Dundee City,18+ years,1728,53085.6,Number of People
+2020/21,2020/21 Q4,Dundee City,18-64 years,158.4,5320.8,Number of People
+2020/21,2020/21 Q4,Dundee City,65+ years,1569.6,47764.8,Number of People
+2020/21,2020/21 Q4,East Ayrshire,18+ years,1152,53085.6,Number of People
+2020/21,2020/21 Q4,East Ayrshire,18-64 years,108,5320.8,Number of People
+2020/21,2020/21 Q4,East Ayrshire,65+ years,1044,47764.8,Number of People
+2020/21,2020/21 Q4,East Dunbartonshire,18+ years,1303.2,53085.6,Number of People
+2020/21,2020/21 Q4,East Dunbartonshire,18-64 years,57.6,5320.8,Number of People
+2020/21,2020/21 Q4,East Dunbartonshire,65+ years,1238.4,47764.8,Number of People
+2020/21,2020/21 Q4,East Lothian,18+ years,1044,53085.6,Number of People
+2020/21,2020/21 Q4,East Lothian,18-64 years,79.2,5320.8,Number of People
+2020/21,2020/21 Q4,East Lothian,65+ years,972,47764.8,Number of People
+2020/21,2020/21 Q4,East Renfrewshire,18+ years,1065.6,53085.6,Number of People
+2020/21,2020/21 Q4,East Renfrewshire,18-64 years,50.4,5320.8,Number of People
+2020/21,2020/21 Q4,East Renfrewshire,65+ years,1015.2,47764.8,Number of People
+2020/21,2020/21 Q4,Falkirk,18+ years,1670.4,53085.6,Number of People
+2020/21,2020/21 Q4,Falkirk,18-64 years,252,5320.8,Number of People
+2020/21,2020/21 Q4,Falkirk,65+ years,1411.2,47764.8,Number of People
+2020/21,2020/21 Q4,Fife,18+ years,4053.6,53085.6,Number of People
+2020/21,2020/21 Q4,Fife,18-64 years,295.2,5320.8,Number of People
+2020/21,2020/21 Q4,Fife,65+ years,3765.6,47764.8,Number of People
+2020/21,2020/21 Q4,Glasgow City,18+ years,5803.2,53085.6,Number of People
+2020/21,2020/21 Q4,Glasgow City,18-64 years,885.6,5320.8,Number of People
+2020/21,2020/21 Q4,Glasgow City,65+ years,4917.6,47764.8,Number of People
+2020/21,2020/21 Q4,Highland,18+ years,2628,53085.6,Number of People
+2020/21,2020/21 Q4,Highland,18-64 years,273.6,5320.8,Number of People
+2020/21,2020/21 Q4,Highland,65+ years,2361.6,47764.8,Number of People
+2020/21,2020/21 Q4,Inverclyde,18+ years,957.6,53085.6,Number of People
+2020/21,2020/21 Q4,Inverclyde,18-64 years,79.2,5320.8,Number of People
+2020/21,2020/21 Q4,Inverclyde,65+ years,885.6,47764.8,Number of People
+2020/21,2020/21 Q4,Midlothian,18+ years,698.4,53085.6,Number of People
+2020/21,2020/21 Q4,Midlothian,18-64 years,64.8,5320.8,Number of People
+2020/21,2020/21 Q4,Midlothian,65+ years,633.6,47764.8,Number of People
+2020/21,2020/21 Q4,Moray,18+ years,892.8,53085.6,Number of People
+2020/21,2020/21 Q4,Moray,18-64 years,122.4,5320.8,Number of People
+2020/21,2020/21 Q4,Moray,65+ years,770.4,47764.8,Number of People
+2020/21,2020/21 Q4,North Ayrshire,18+ years,1231.2,53085.6,Number of People
+2020/21,2020/21 Q4,North Ayrshire,18-64 years,136.8,5320.8,Number of People
+2020/21,2020/21 Q4,North Ayrshire,65+ years,1101.6,47764.8,Number of People
+2020/21,2020/21 Q4,North Lanarkshire,18+ years,2318.4,53085.6,Number of People
+2020/21,2020/21 Q4,North Lanarkshire,18-64 years,122.4,5320.8,Number of People
+2020/21,2020/21 Q4,North Lanarkshire,65+ years,2196,47764.8,Number of People
+2020/21,2020/21 Q4,Perth and Kinross,18+ years,1843.2,53085.6,Number of People
+2020/21,2020/21 Q4,Perth and Kinross,18-64 years,180,5320.8,Number of People
+2020/21,2020/21 Q4,Perth and Kinross,65+ years,1663.2,47764.8,Number of People
+2020/21,2020/21 Q4,Renfrewshire,18+ years,1792.8,53085.6,Number of People
+2020/21,2020/21 Q4,Renfrewshire,18-64 years,158.4,5320.8,Number of People
+2020/21,2020/21 Q4,Renfrewshire,65+ years,1634.4,47764.8,Number of People
+2020/21,2020/21 Q4,Scottish Borders,18+ years,1130.4,53085.6,Number of People
+2020/21,2020/21 Q4,Scottish Borders,18-64 years,50.4,5320.8,Number of People
+2020/21,2020/21 Q4,Scottish Borders,65+ years,1072.8,47764.8,Number of People
+2020/21,2020/21 Q4,Shetland Islands,18+ years,201.6,53085.6,Number of People
+2020/21,2020/21 Q4,Shetland Islands,18-64 years,14.4,5320.8,Number of People
+2020/21,2020/21 Q4,Shetland Islands,65+ years,187.2,47764.8,Number of People
+2020/21,2020/21 Q4,South Ayrshire,18+ years,1533.6,53085.6,Number of People
+2020/21,2020/21 Q4,South Ayrshire,18-64 years,100.8,5320.8,Number of People
+2020/21,2020/21 Q4,South Ayrshire,65+ years,1432.8,47764.8,Number of People
+2020/21,2020/21 Q4,South Lanarkshire,18+ years,3088.8,53085.6,Number of People
+2020/21,2020/21 Q4,South Lanarkshire,18-64 years,331.2,5320.8,Number of People
+2020/21,2020/21 Q4,South Lanarkshire,65+ years,2757.6,47764.8,Number of People
+2020/21,2020/21 Q4,Stirling,18+ years,878.4,53085.6,Number of People
+2020/21,2020/21 Q4,Stirling,18-64 years,122.4,5320.8,Number of People
+2020/21,2020/21 Q4,Stirling,65+ years,756,47764.8,Number of People
+2020/21,2020/21 Q4,West Dunbartonshire,18+ years,979.2,53085.6,Number of People
+2020/21,2020/21 Q4,West Dunbartonshire,18-64 years,86.4,5320.8,Number of People
+2020/21,2020/21 Q4,West Dunbartonshire,65+ years,892.8,47764.8,Number of People
+2020/21,2020/21 Q4,West Lothian,18+ years,1368,53085.6,Number of People
+2020/21,2020/21 Q4,West Lothian,18-64 years,187.2,5320.8,Number of People
+2020/21,2020/21 Q4,West Lothian,65+ years,1180.8,47764.8,Number of People
+2017/18,2017/18 Q4,Scotland (All Areas Submitted),18+ years,7.6,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Scotland (All Areas Submitted),18-64 years,0.9,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Scotland (All Areas Submitted),65+ years,29.9,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Aberdeen City,18+ years,9.3,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Aberdeen City,18-64 years,1.8,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Aberdeen City,65+ years,42.4,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Aberdeenshire,18+ years,9.1,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Aberdeenshire,18-64 years,1.4,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Aberdeenshire,65+ years,34.1,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Angus,18+ years,11.1,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Angus,18-64 years,1.4,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Angus,65+ years,35.6,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Argyll and Bute,18+ years,9.1,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Argyll and Bute,18-64 years,1.1,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Argyll and Bute,65+ years,27.7,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,City of Edinburgh,18+ years,6.8,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,City of Edinburgh,18-64 years,0.7,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,City of Edinburgh,65+ years,34.4,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Clackmannanshire,18+ years,7.2,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Clackmannanshire,18-64 years,1.9,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Clackmannanshire,65+ years,23.4,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Dumfries and Galloway,18+ years,9.7,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Dumfries and Galloway,18-64 years,0.8,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Dumfries and Galloway,65+ years,29.9,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Dundee City,18+ years,10.3,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Dundee City,18-64 years,1.1,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Dundee City,65+ years,44.1,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,East Ayrshire,18+ years,8.4,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,East Ayrshire,18-64 years,0.9,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,East Ayrshire,65+ years,31.2,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,East Dunbartonshire,18+ years,10,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,East Dunbartonshire,18-64 years,0.7,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,East Dunbartonshire,65+ years,34.8,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,East Lothian,18+ years,8.7,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,East Lothian,18-64 years,0.8,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,East Lothian,65+ years,32.6,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,East Renfrewshire,18+ years,9.3,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,East Renfrewshire,18-64 years,0.6,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,East Renfrewshire,65+ years,34.5,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Falkirk,18+ years,9.2,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Falkirk,18-64 years,1.8,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Falkirk,65+ years,33.7,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Fife,18+ years,9.4,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Fife,18-64 years,0.9,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Fife,65+ years,35.1,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Highland,18+ years,9.9,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Highland,18-64 years,1.3,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Highland,65+ years,33.5,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Inverclyde,18+ years,10.9,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Inverclyde,18-64 years,1.5,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Inverclyde,65+ years,38.4,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Midlothian,18+ years,7.3,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Midlothian,18-64 years,0.7,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Midlothian,65+ years,28.2,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Moray,18+ years,8.2,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Moray,18-64 years,1.6,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Moray,65+ years,26.9,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,North Ayrshire,18+ years,9.6,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,North Ayrshire,18-64 years,1.1,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,North Ayrshire,65+ years,32.6,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,North Lanarkshire,18+ years,5.9,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,North Lanarkshire,18-64 years,0.3,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,North Lanarkshire,65+ years,26.5,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Orkney Islands,18+ years,5.8,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Orkney Islands,18-64 years,0,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Orkney Islands,65+ years,19.7,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Perth and Kinross,18+ years,10.6,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Perth and Kinross,18-64 years,1.5,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Perth and Kinross,65+ years,34.2,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Renfrewshire,18+ years,8.6,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Renfrewshire,18-64 years,1.1,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Renfrewshire,65+ years,33.8,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Scottish Borders,18+ years,8.3,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Scottish Borders,18-64 years,0.5,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Scottish Borders,65+ years,26.9,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Shetland Islands,18+ years,6.3,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Shetland Islands,18-64 years,0.4,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Shetland Islands,65+ years,24.5,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,South Ayrshire,18+ years,11.6,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,South Ayrshire,18-64 years,0.8,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,South Ayrshire,65+ years,36.7,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,South Lanarkshire,18+ years,8,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,South Lanarkshire,18-64 years,1.1,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,South Lanarkshire,65+ years,30.4,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Stirling,18+ years,7.3,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Stirling,18-64 years,1.4,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,Stirling,65+ years,27.1,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,West Dunbartonshire,18+ years,9.7,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,West Dunbartonshire,18-64 years,1.1,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,West Dunbartonshire,65+ years,38.9,29.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,West Lothian,18+ years,6.6,7.6,"Rate per 1,000 People"
+2017/18,2017/18 Q4,West Lothian,18-64 years,1.1,0.9,"Rate per 1,000 People"
+2017/18,2017/18 Q4,West Lothian,65+ years,27.9,29.9,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Scotland (All Areas Submitted),18+ years,8.3,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Scotland (All Areas Submitted),18-64 years,1.1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Scotland (All Areas Submitted),65+ years,32.2,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Aberdeen City,18+ years,8.9,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Aberdeen City,18-64 years,1.8,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Aberdeen City,65+ years,39.4,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Aberdeenshire,18+ years,8.8,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Aberdeenshire,18-64 years,1.3,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Aberdeenshire,65+ years,32.4,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Angus,18+ years,11,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Angus,18-64 years,1.4,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Angus,65+ years,34.6,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Argyll and Bute,18+ years,9.1,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Argyll and Bute,18-64 years,1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Argyll and Bute,65+ years,27.3,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,City of Edinburgh,18+ years,6.9,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,City of Edinburgh,18-64 years,0.7,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,City of Edinburgh,65+ years,34.9,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Clackmannanshire,18+ years,7.3,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Clackmannanshire,18-64 years,2.1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Clackmannanshire,65+ years,23.5,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Dumfries and Galloway,18+ years,9.4,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Dumfries and Galloway,18-64 years,0.8,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Dumfries and Galloway,65+ years,28.6,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Dundee City,18+ years,10,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Dundee City,18-64 years,1.1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Dundee City,65+ years,42.9,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,East Ayrshire,18+ years,8.1,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,East Ayrshire,18-64 years,0.9,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,East Ayrshire,65+ years,29.7,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,East Dunbartonshire,18+ years,10.1,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,East Dunbartonshire,18-64 years,0.7,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,East Dunbartonshire,65+ years,34.7,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,East Lothian,18+ years,8.4,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,East Lothian,18-64 years,0.8,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,East Lothian,65+ years,30.9,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,East Renfrewshire,18+ years,8.2,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,East Renfrewshire,18-64 years,0.5,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,East Renfrewshire,65+ years,30.2,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Falkirk,18+ years,8.9,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Falkirk,18-64 years,1.8,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Falkirk,65+ years,32.2,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Fife,18+ years,9.1,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Fife,18-64 years,0.9,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Fife,65+ years,33.3,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Glasgow City,18+ years,7.7,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Glasgow City,18-64 years,1.4,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Glasgow City,65+ years,39.9,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Highland,18+ years,10,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Highland,18-64 years,1.3,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Highland,65+ years,33.2,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Inverclyde,18+ years,10.5,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Inverclyde,18-64 years,1.5,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Inverclyde,65+ years,36.6,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Midlothian,18+ years,6.5,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Midlothian,18-64 years,0.6,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Midlothian,65+ years,25.3,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Moray,18+ years,7.9,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Moray,18-64 years,1.5,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Moray,65+ years,25.7,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,North Ayrshire,18+ years,8.9,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,North Ayrshire,18-64 years,1.2,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,North Ayrshire,65+ years,29.1,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,North Lanarkshire,18+ years,5.9,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,North Lanarkshire,18-64 years,0.4,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,North Lanarkshire,65+ years,25.9,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Perth and Kinross,18+ years,10.3,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Perth and Kinross,18-64 years,1.5,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Perth and Kinross,65+ years,32.5,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Renfrewshire,18+ years,8.5,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Renfrewshire,18-64 years,1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Renfrewshire,65+ years,33.2,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Scottish Borders,18+ years,8,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Scottish Borders,18-64 years,0.5,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Scottish Borders,65+ years,25.6,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Shetland Islands,18+ years,8.2,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Shetland Islands,18-64 years,0.7,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Shetland Islands,65+ years,30.7,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,South Ayrshire,18+ years,11.8,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,South Ayrshire,18-64 years,1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,South Ayrshire,65+ years,36.5,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,South Lanarkshire,18+ years,8.2,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,South Lanarkshire,18-64 years,1.1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,South Lanarkshire,65+ years,30.8,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Stirling,18+ years,8,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Stirling,18-64 years,1.4,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,Stirling,65+ years,29.4,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,West Dunbartonshire,18+ years,9.6,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,West Dunbartonshire,18-64 years,1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,West Dunbartonshire,65+ years,38.4,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q1,West Lothian,18+ years,6.4,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q1,West Lothian,18-64 years,1.1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q1,West Lothian,65+ years,26.5,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Scotland (All Areas Submitted),18+ years,8.3,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Scotland (All Areas Submitted),18-64 years,1.1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Scotland (All Areas Submitted),65+ years,32.2,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Aberdeen City,18+ years,8.9,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Aberdeen City,18-64 years,1.8,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Aberdeen City,65+ years,39.8,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Aberdeenshire,18+ years,8.9,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Aberdeenshire,18-64 years,1.3,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Aberdeenshire,65+ years,32.9,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Angus,18+ years,11,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Angus,18-64 years,1.3,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Angus,65+ years,34.6,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Argyll and Bute,18+ years,9,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Argyll and Bute,18-64 years,1.2,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Argyll and Bute,65+ years,26.6,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,City of Edinburgh,18+ years,6.8,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,City of Edinburgh,18-64 years,0.7,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,City of Edinburgh,65+ years,34.8,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Clackmannanshire,18+ years,7.5,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Clackmannanshire,18-64 years,2.1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Clackmannanshire,65+ years,24,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Dumfries and Galloway,18+ years,9.5,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Dumfries and Galloway,18-64 years,0.8,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Dumfries and Galloway,65+ years,28.9,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Dundee City,18+ years,9.7,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Dundee City,18-64 years,1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Dundee City,65+ years,41.6,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,East Ayrshire,18+ years,8.1,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,East Ayrshire,18-64 years,1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,East Ayrshire,65+ years,29.7,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,East Dunbartonshire,18+ years,10,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,East Dunbartonshire,18-64 years,0.7,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,East Dunbartonshire,65+ years,34.3,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,East Lothian,18+ years,8.4,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,East Lothian,18-64 years,0.8,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,East Lothian,65+ years,31.2,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,East Renfrewshire,18+ years,8.1,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,East Renfrewshire,18-64 years,0.5,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,East Renfrewshire,65+ years,29.9,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Falkirk,18+ years,8.9,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Falkirk,18-64 years,1.8,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Falkirk,65+ years,32.5,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Fife,18+ years,9.4,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Fife,18-64 years,0.9,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Fife,65+ years,34.6,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Glasgow City,18+ years,7.8,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Glasgow City,18-64 years,1.5,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Glasgow City,65+ years,40.2,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Highland,18+ years,9.9,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Highland,18-64 years,1.3,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Highland,65+ years,33,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Inverclyde,18+ years,10.2,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Inverclyde,18-64 years,1.3,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Inverclyde,65+ years,36,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Midlothian,18+ years,7.2,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Midlothian,18-64 years,0.7,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Midlothian,65+ years,27.9,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Moray,18+ years,7.9,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Moray,18-64 years,1.6,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Moray,65+ years,25.5,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,North Ayrshire,18+ years,8.5,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,North Ayrshire,18-64 years,1.2,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,North Ayrshire,65+ years,27.9,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,North Lanarkshire,18+ years,5.7,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,North Lanarkshire,18-64 years,0.4,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,North Lanarkshire,65+ years,25.3,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Perth and Kinross,18+ years,10.4,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Perth and Kinross,18-64 years,1.5,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Perth and Kinross,65+ years,32.5,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Renfrewshire,18+ years,8.5,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Renfrewshire,18-64 years,1.1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Renfrewshire,65+ years,33.3,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Scottish Borders,18+ years,8.3,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Scottish Borders,18-64 years,0.5,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Scottish Borders,65+ years,26.3,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Shetland Islands,18+ years,7.6,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Shetland Islands,18-64 years,0.7,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Shetland Islands,65+ years,28.5,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,South Ayrshire,18+ years,11.8,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,South Ayrshire,18-64 years,1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,South Ayrshire,65+ years,36.4,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,South Lanarkshire,18+ years,8.4,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,South Lanarkshire,18-64 years,1.1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,South Lanarkshire,65+ years,31.4,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Stirling,18+ years,8.1,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Stirling,18-64 years,1.4,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,Stirling,65+ years,30.3,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,West Dunbartonshire,18+ years,9.7,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,West Dunbartonshire,18-64 years,1.1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,West Dunbartonshire,65+ years,39,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q2,West Lothian,18+ years,6,8.3,"Rate per 1,000 People"
+2018/19,2018/19 Q2,West Lothian,18-64 years,1.1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q2,West Lothian,65+ years,24.8,32.2,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Scotland (All Areas Submitted),18+ years,8.4,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Scotland (All Areas Submitted),18-64 years,1.1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Scotland (All Areas Submitted),65+ years,32.6,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Aberdeen City,18+ years,9,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Aberdeen City,18-64 years,1.8,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Aberdeen City,65+ years,40.4,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Aberdeenshire,18+ years,9,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Aberdeenshire,18-64 years,1.4,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Aberdeenshire,65+ years,33.1,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Angus,18+ years,11.1,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Angus,18-64 years,1.3,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Angus,65+ years,35,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Argyll and Bute,18+ years,9.2,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Argyll and Bute,18-64 years,1.2,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Argyll and Bute,65+ years,27.1,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,City of Edinburgh,18+ years,6.6,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,City of Edinburgh,18-64 years,0.7,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,City of Edinburgh,65+ years,33.6,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Clackmannanshire,18+ years,7.5,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Clackmannanshire,18-64 years,2.1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Clackmannanshire,65+ years,24,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Dumfries and Galloway,18+ years,9.5,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Dumfries and Galloway,18-64 years,0.8,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Dumfries and Galloway,65+ years,29,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Dundee City,18+ years,9.8,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Dundee City,18-64 years,1.1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Dundee City,65+ years,42.1,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,East Ayrshire,18+ years,8.1,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,East Ayrshire,18-64 years,1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,East Ayrshire,65+ years,29.5,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,East Dunbartonshire,18+ years,10.1,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,East Dunbartonshire,18-64 years,0.6,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,East Dunbartonshire,65+ years,34.9,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,East Lothian,18+ years,8.6,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,East Lothian,18-64 years,0.9,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,East Lothian,65+ years,31.4,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,East Renfrewshire,18+ years,9.9,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,East Renfrewshire,18-64 years,0.6,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,East Renfrewshire,65+ years,36.5,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Falkirk,18+ years,9.1,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Falkirk,18-64 years,1.8,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Falkirk,65+ years,33.2,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Fife,18+ years,9.9,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Fife,18-64 years,1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Fife,65+ years,36.4,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Glasgow City,18+ years,7.9,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Glasgow City,18-64 years,1.5,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Glasgow City,65+ years,40.6,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Highland,18+ years,10,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Highland,18-64 years,1.3,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Highland,65+ years,33.1,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Inverclyde,18+ years,9.2,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Inverclyde,18-64 years,1.2,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Inverclyde,65+ years,32.7,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Midlothian,18+ years,7.3,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Midlothian,18-64 years,0.7,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Midlothian,65+ years,28.5,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Moray,18+ years,8,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Moray,18-64 years,1.5,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Moray,65+ years,26.2,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,North Ayrshire,18+ years,8.2,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,North Ayrshire,18-64 years,1.1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,North Ayrshire,65+ years,26.8,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,North Lanarkshire,18+ years,5.9,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,North Lanarkshire,18-64 years,0.4,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,North Lanarkshire,65+ years,26,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Perth and Kinross,18+ years,10.3,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Perth and Kinross,18-64 years,1.5,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Perth and Kinross,65+ years,32.7,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Renfrewshire,18+ years,8.7,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Renfrewshire,18-64 years,1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Renfrewshire,65+ years,33.9,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Scottish Borders,18+ years,8.4,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Scottish Borders,18-64 years,0.5,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Scottish Borders,65+ years,26.7,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Shetland Islands,18+ years,7.4,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Shetland Islands,18-64 years,0.4,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Shetland Islands,65+ years,28.5,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,South Ayrshire,18+ years,11.8,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,South Ayrshire,18-64 years,1.1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,South Ayrshire,65+ years,36.2,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,South Lanarkshire,18+ years,8.4,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,South Lanarkshire,18-64 years,1.2,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,South Lanarkshire,65+ years,31.6,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Stirling,18+ years,8.1,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Stirling,18-64 years,1.4,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,Stirling,65+ years,30,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,West Dunbartonshire,18+ years,9.7,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,West Dunbartonshire,18-64 years,1.1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,West Dunbartonshire,65+ years,38.7,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q3,West Lothian,18+ years,6.6,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q3,West Lothian,18-64 years,1.1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q3,West Lothian,65+ years,27.5,32.6,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Scotland (All Areas Submitted),18+ years,8.4,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Scotland (All Areas Submitted),18-64 years,1.1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Scotland (All Areas Submitted),65+ years,32.3,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Aberdeen City,18+ years,9.1,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Aberdeen City,18-64 years,1.7,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Aberdeen City,65+ years,40.8,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Aberdeenshire,18+ years,9.1,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Aberdeenshire,18-64 years,1.4,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Aberdeenshire,65+ years,33.6,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Angus,18+ years,10.9,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Angus,18-64 years,1.3,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Angus,65+ years,34.4,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Argyll and Bute,18+ years,9,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Argyll and Bute,18-64 years,1.1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Argyll and Bute,65+ years,26.9,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,City of Edinburgh,18+ years,6.5,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,City of Edinburgh,18-64 years,0.7,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,City of Edinburgh,65+ years,32.7,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Clackmannanshire,18+ years,7.5,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Clackmannanshire,18-64 years,2.1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Clackmannanshire,65+ years,24,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Dumfries and Galloway,18+ years,9.4,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Dumfries and Galloway,18-64 years,0.7,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Dumfries and Galloway,65+ years,28.8,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Dundee City,18+ years,9.8,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Dundee City,18-64 years,1.1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Dundee City,65+ years,41.9,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,East Ayrshire,18+ years,8.1,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,East Ayrshire,18-64 years,1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,East Ayrshire,65+ years,29.5,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,East Dunbartonshire,18+ years,10.4,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,East Dunbartonshire,18-64 years,0.6,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,East Dunbartonshire,65+ years,35.7,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,East Lothian,18+ years,8.6,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,East Lothian,18-64 years,0.9,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,East Lothian,65+ years,31.9,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,East Renfrewshire,18+ years,10.1,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,East Renfrewshire,18-64 years,0.6,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,East Renfrewshire,65+ years,37.3,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Falkirk,18+ years,9,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Falkirk,18-64 years,1.8,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Falkirk,65+ years,32.7,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Fife,18+ years,9.4,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Fife,18-64 years,0.9,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Fife,65+ years,34.6,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Glasgow City,18+ years,7.8,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Glasgow City,18-64 years,1.4,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Glasgow City,65+ years,40.5,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Highland,18+ years,9.5,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Highland,18-64 years,1.4,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Highland,65+ years,31.5,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Inverclyde,18+ years,10.4,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Inverclyde,18-64 years,1.2,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Inverclyde,65+ years,37.5,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Midlothian,18+ years,6.8,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Midlothian,18-64 years,0.8,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Midlothian,65+ years,25.8,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Moray,18+ years,8,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Moray,18-64 years,1.5,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Moray,65+ years,26.2,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,North Ayrshire,18+ years,7.8,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,North Ayrshire,18-64 years,1.2,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,North Ayrshire,65+ years,25.4,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,North Lanarkshire,18+ years,6,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,North Lanarkshire,18-64 years,0.4,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,North Lanarkshire,65+ years,26.3,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Perth and Kinross,18+ years,10.4,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Perth and Kinross,18-64 years,1.4,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Perth and Kinross,65+ years,32.8,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Renfrewshire,18+ years,8.7,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Renfrewshire,18-64 years,1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Renfrewshire,65+ years,34.1,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Scottish Borders,18+ years,8.4,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Scottish Borders,18-64 years,0.5,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Scottish Borders,65+ years,26.5,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Shetland Islands,18+ years,7.6,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Shetland Islands,18-64 years,0.7,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Shetland Islands,65+ years,28.5,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,South Ayrshire,18+ years,11.5,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,South Ayrshire,18-64 years,1.1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,South Ayrshire,65+ years,35.3,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,South Lanarkshire,18+ years,8.3,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,South Lanarkshire,18-64 years,1.2,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,South Lanarkshire,65+ years,31.2,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Stirling,18+ years,7.9,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Stirling,18-64 years,1.4,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,Stirling,65+ years,29.2,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,West Dunbartonshire,18+ years,9.5,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,West Dunbartonshire,18-64 years,1.1,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,West Dunbartonshire,65+ years,37.7,32.3,"Rate per 1,000 People"
+2018/19,2018/19 Q4,West Lothian,18+ years,6.7,8.4,"Rate per 1,000 People"
+2018/19,2018/19 Q4,West Lothian,18-64 years,1.2,1.1,"Rate per 1,000 People"
+2018/19,2018/19 Q4,West Lothian,65+ years,27.5,32.3,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Scotland (All Areas Submitted),18+ years,9.96,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Scotland (All Areas Submitted),18-64 years,1.32,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Scotland (All Areas Submitted),65+ years,38.64,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Aberdeen City,18+ years,10.68,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Aberdeen City,18-64 years,2.16,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Aberdeen City,65+ years,47.28,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Aberdeenshire,18+ years,10.56,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Aberdeenshire,18-64 years,1.56,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Aberdeenshire,65+ years,38.88,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Angus,18+ years,13.2,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Angus,18-64 years,1.68,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Angus,65+ years,41.52,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Argyll and Bute,18+ years,10.92,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Argyll and Bute,18-64 years,1.2,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Argyll and Bute,65+ years,32.76,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,City of Edinburgh,18+ years,8.28,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,City of Edinburgh,18-64 years,0.84,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,City of Edinburgh,65+ years,41.88,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Clackmannanshire,18+ years,8.76,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Clackmannanshire,18-64 years,2.52,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Clackmannanshire,65+ years,28.2,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Dumfries and Galloway,18+ years,11.28,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Dumfries and Galloway,18-64 years,0.96,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Dumfries and Galloway,65+ years,34.32,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Dundee City,18+ years,12,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Dundee City,18-64 years,1.32,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Dundee City,65+ years,51.48,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,East Ayrshire,18+ years,9.72,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,East Ayrshire,18-64 years,1.08,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,East Ayrshire,65+ years,35.64,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,East Dunbartonshire,18+ years,12.12,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,East Dunbartonshire,18-64 years,0.84,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,East Dunbartonshire,65+ years,41.64,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,East Lothian,18+ years,10.08,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,East Lothian,18-64 years,0.96,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,East Lothian,65+ years,37.08,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,East Renfrewshire,18+ years,9.84,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,East Renfrewshire,18-64 years,0.6,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,East Renfrewshire,65+ years,36.24,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Falkirk,18+ years,10.68,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Falkirk,18-64 years,2.16,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Falkirk,65+ years,38.64,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Fife,18+ years,10.92,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Fife,18-64 years,1.08,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Fife,65+ years,39.96,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Glasgow City,18+ years,9.24,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Glasgow City,18-64 years,1.68,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Glasgow City,65+ years,47.88,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Highland,18+ years,12,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Highland,18-64 years,1.56,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Highland,65+ years,39.84,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Inverclyde,18+ years,12.6,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Inverclyde,18-64 years,1.8,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Inverclyde,65+ years,43.92,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Midlothian,18+ years,7.8,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Midlothian,18-64 years,0.72,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Midlothian,65+ years,30.36,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Moray,18+ years,9.48,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Moray,18-64 years,1.8,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Moray,65+ years,30.84,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,North Ayrshire,18+ years,10.68,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,North Ayrshire,18-64 years,1.44,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,North Ayrshire,65+ years,34.92,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,North Lanarkshire,18+ years,7.08,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,North Lanarkshire,18-64 years,0.48,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,North Lanarkshire,65+ years,31.08,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Perth and Kinross,18+ years,12.36,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Perth and Kinross,18-64 years,1.8,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Perth and Kinross,65+ years,39,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Renfrewshire,18+ years,10.2,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Renfrewshire,18-64 years,1.2,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Renfrewshire,65+ years,39.84,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Scottish Borders,18+ years,9.6,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Scottish Borders,18-64 years,0.6,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Scottish Borders,65+ years,30.72,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Shetland Islands,18+ years,9.84,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Shetland Islands,18-64 years,0.84,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Shetland Islands,65+ years,36.84,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,South Ayrshire,18+ years,14.16,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,South Ayrshire,18-64 years,1.2,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,South Ayrshire,65+ years,43.8,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,South Lanarkshire,18+ years,9.84,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,South Lanarkshire,18-64 years,1.32,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,South Lanarkshire,65+ years,36.96,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Stirling,18+ years,9.6,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Stirling,18-64 years,1.68,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,Stirling,65+ years,35.28,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,West Dunbartonshire,18+ years,11.52,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,West Dunbartonshire,18-64 years,1.2,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,West Dunbartonshire,65+ years,46.08,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q1,West Lothian,18+ years,7.68,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q1,West Lothian,18-64 years,1.32,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q1,West Lothian,65+ years,31.8,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Scotland (All Areas Submitted),18+ years,9.96,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Scotland (All Areas Submitted),18-64 years,1.32,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Scotland (All Areas Submitted),65+ years,38.64,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Aberdeen City,18+ years,10.68,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Aberdeen City,18-64 years,2.16,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Aberdeen City,65+ years,47.76,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Aberdeenshire,18+ years,10.68,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Aberdeenshire,18-64 years,1.56,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Aberdeenshire,65+ years,39.48,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Angus,18+ years,13.2,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Angus,18-64 years,1.56,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Angus,65+ years,41.52,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Argyll and Bute,18+ years,10.8,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Argyll and Bute,18-64 years,1.44,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Argyll and Bute,65+ years,31.92,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,City of Edinburgh,18+ years,8.16,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,City of Edinburgh,18-64 years,0.84,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,City of Edinburgh,65+ years,41.76,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Clackmannanshire,18+ years,9,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Clackmannanshire,18-64 years,2.52,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Clackmannanshire,65+ years,28.8,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Dumfries and Galloway,18+ years,11.4,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Dumfries and Galloway,18-64 years,0.96,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Dumfries and Galloway,65+ years,34.68,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Dundee City,18+ years,11.64,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Dundee City,18-64 years,1.2,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Dundee City,65+ years,49.92,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,East Ayrshire,18+ years,9.72,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,East Ayrshire,18-64 years,1.2,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,East Ayrshire,65+ years,35.64,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,East Dunbartonshire,18+ years,12,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,East Dunbartonshire,18-64 years,0.84,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,East Dunbartonshire,65+ years,41.16,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,East Lothian,18+ years,10.08,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,East Lothian,18-64 years,0.96,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,East Lothian,65+ years,37.44,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,East Renfrewshire,18+ years,9.72,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,East Renfrewshire,18-64 years,0.6,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,East Renfrewshire,65+ years,35.88,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Falkirk,18+ years,10.68,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Falkirk,18-64 years,2.16,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Falkirk,65+ years,39,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Fife,18+ years,11.28,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Fife,18-64 years,1.08,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Fife,65+ years,41.52,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Glasgow City,18+ years,9.36,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Glasgow City,18-64 years,1.8,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Glasgow City,65+ years,48.24,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Highland,18+ years,11.88,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Highland,18-64 years,1.56,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Highland,65+ years,39.6,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Inverclyde,18+ years,12.24,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Inverclyde,18-64 years,1.56,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Inverclyde,65+ years,43.2,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Midlothian,18+ years,8.64,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Midlothian,18-64 years,0.84,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Midlothian,65+ years,33.48,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Moray,18+ years,9.48,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Moray,18-64 years,1.92,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Moray,65+ years,30.6,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,North Ayrshire,18+ years,10.2,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,North Ayrshire,18-64 years,1.44,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,North Ayrshire,65+ years,33.48,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,North Lanarkshire,18+ years,6.84,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,North Lanarkshire,18-64 years,0.48,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,North Lanarkshire,65+ years,30.36,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Perth and Kinross,18+ years,12.48,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Perth and Kinross,18-64 years,1.8,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Perth and Kinross,65+ years,39,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Renfrewshire,18+ years,10.2,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Renfrewshire,18-64 years,1.32,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Renfrewshire,65+ years,39.96,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Scottish Borders,18+ years,9.96,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Scottish Borders,18-64 years,0.6,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Scottish Borders,65+ years,31.56,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Shetland Islands,18+ years,9.12,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Shetland Islands,18-64 years,0.84,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Shetland Islands,65+ years,34.2,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,South Ayrshire,18+ years,14.16,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,South Ayrshire,18-64 years,1.2,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,South Ayrshire,65+ years,43.68,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,South Lanarkshire,18+ years,10.08,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,South Lanarkshire,18-64 years,1.32,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,South Lanarkshire,65+ years,37.68,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Stirling,18+ years,9.72,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Stirling,18-64 years,1.68,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,Stirling,65+ years,36.36,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,West Dunbartonshire,18+ years,11.64,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,West Dunbartonshire,18-64 years,1.32,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,West Dunbartonshire,65+ years,46.8,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q2,West Lothian,18+ years,7.2,9.96,"Rate per 1,000 People"
+2019/20,2019/20 Q2,West Lothian,18-64 years,1.32,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q2,West Lothian,65+ years,29.76,38.64,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Scotland (All Areas Submitted),18+ years,10.08,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Scotland (All Areas Submitted),18-64 years,1.32,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Scotland (All Areas Submitted),65+ years,39.12,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Aberdeen City,18+ years,10.8,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Aberdeen City,18-64 years,2.16,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Aberdeen City,65+ years,48.48,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Aberdeenshire,18+ years,10.8,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Aberdeenshire,18-64 years,1.68,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Aberdeenshire,65+ years,39.72,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Angus,18+ years,13.32,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Angus,18-64 years,1.56,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Angus,65+ years,42,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Argyll and Bute,18+ years,11.04,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Argyll and Bute,18-64 years,1.44,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Argyll and Bute,65+ years,32.52,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,City of Edinburgh,18+ years,7.92,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,City of Edinburgh,18-64 years,0.84,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,City of Edinburgh,65+ years,40.32,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Clackmannanshire,18+ years,9,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Clackmannanshire,18-64 years,2.52,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Clackmannanshire,65+ years,28.8,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Dumfries and Galloway,18+ years,11.4,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Dumfries and Galloway,18-64 years,0.96,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Dumfries and Galloway,65+ years,34.8,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Dundee City,18+ years,11.76,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Dundee City,18-64 years,1.32,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Dundee City,65+ years,50.52,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,East Ayrshire,18+ years,9.72,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,East Ayrshire,18-64 years,1.2,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,East Ayrshire,65+ years,35.4,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,East Dunbartonshire,18+ years,12.12,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,East Dunbartonshire,18-64 years,0.72,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,East Dunbartonshire,65+ years,41.88,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,East Lothian,18+ years,10.32,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,East Lothian,18-64 years,1.08,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,East Lothian,65+ years,37.68,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,East Renfrewshire,18+ years,11.88,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,East Renfrewshire,18-64 years,0.72,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,East Renfrewshire,65+ years,43.8,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Falkirk,18+ years,10.92,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Falkirk,18-64 years,2.16,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Falkirk,65+ years,39.84,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Fife,18+ years,11.88,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Fife,18-64 years,1.2,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Fife,65+ years,43.68,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Glasgow City,18+ years,9.48,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Glasgow City,18-64 years,1.8,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Glasgow City,65+ years,48.72,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Highland,18+ years,12,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Highland,18-64 years,1.56,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Highland,65+ years,39.72,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Inverclyde,18+ years,11.04,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Inverclyde,18-64 years,1.44,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Inverclyde,65+ years,39.24,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Midlothian,18+ years,8.76,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Midlothian,18-64 years,0.84,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Midlothian,65+ years,34.2,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Moray,18+ years,9.6,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Moray,18-64 years,1.8,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Moray,65+ years,31.44,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,North Ayrshire,18+ years,9.84,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,North Ayrshire,18-64 years,1.32,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,North Ayrshire,65+ years,32.16,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,North Lanarkshire,18+ years,7.08,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,North Lanarkshire,18-64 years,0.48,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,North Lanarkshire,65+ years,31.2,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Perth and Kinross,18+ years,12.36,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Perth and Kinross,18-64 years,1.8,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Perth and Kinross,65+ years,39.24,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Renfrewshire,18+ years,10.44,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Renfrewshire,18-64 years,1.2,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Renfrewshire,65+ years,40.68,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Scottish Borders,18+ years,10.08,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Scottish Borders,18-64 years,0.6,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Scottish Borders,65+ years,32.04,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Shetland Islands,18+ years,8.88,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Shetland Islands,18-64 years,0.48,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Shetland Islands,65+ years,34.2,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,South Ayrshire,18+ years,14.16,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,South Ayrshire,18-64 years,1.32,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,South Ayrshire,65+ years,43.44,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,South Lanarkshire,18+ years,10.08,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,South Lanarkshire,18-64 years,1.44,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,South Lanarkshire,65+ years,37.92,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Stirling,18+ years,9.72,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Stirling,18-64 years,1.68,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,Stirling,65+ years,36,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,West Dunbartonshire,18+ years,11.64,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,West Dunbartonshire,18-64 years,1.32,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,West Dunbartonshire,65+ years,46.44,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q3,West Lothian,18+ years,7.92,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q3,West Lothian,18-64 years,1.32,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q3,West Lothian,65+ years,33,39.12,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Scotland (All Areas Submitted),18+ years,10.08,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Scotland (All Areas Submitted),18-64 years,1.32,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Scotland (All Areas Submitted),65+ years,38.76,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Aberdeen City,18+ years,10.92,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Aberdeen City,18-64 years,2.04,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Aberdeen City,65+ years,48.96,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Aberdeenshire,18+ years,10.92,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Aberdeenshire,18-64 years,1.68,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Aberdeenshire,65+ years,40.32,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Angus,18+ years,13.08,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Angus,18-64 years,1.56,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Angus,65+ years,41.28,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Argyll and Bute,18+ years,10.8,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Argyll and Bute,18-64 years,1.32,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Argyll and Bute,65+ years,32.28,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,City of Edinburgh,18+ years,7.8,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,City of Edinburgh,18-64 years,0.84,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,City of Edinburgh,65+ years,39.24,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Clackmannanshire,18+ years,9,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Clackmannanshire,18-64 years,2.52,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Clackmannanshire,65+ years,28.8,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Dumfries and Galloway,18+ years,11.28,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Dumfries and Galloway,18-64 years,0.84,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Dumfries and Galloway,65+ years,34.56,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Dundee City,18+ years,11.76,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Dundee City,18-64 years,1.32,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Dundee City,65+ years,50.28,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,East Ayrshire,18+ years,9.72,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,East Ayrshire,18-64 years,1.2,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,East Ayrshire,65+ years,35.4,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,East Dunbartonshire,18+ years,12.48,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,East Dunbartonshire,18-64 years,0.72,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,East Dunbartonshire,65+ years,42.84,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,East Lothian,18+ years,10.32,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,East Lothian,18-64 years,1.08,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,East Lothian,65+ years,38.28,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,East Renfrewshire,18+ years,12.12,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,East Renfrewshire,18-64 years,0.72,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,East Renfrewshire,65+ years,44.76,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Falkirk,18+ years,10.8,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Falkirk,18-64 years,2.16,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Falkirk,65+ years,39.24,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Fife,18+ years,11.28,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Fife,18-64 years,1.08,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Fife,65+ years,41.52,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Glasgow City,18+ years,9.36,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Glasgow City,18-64 years,1.68,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Glasgow City,65+ years,48.6,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Highland,18+ years,11.4,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Highland,18-64 years,1.68,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Highland,65+ years,37.8,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Inverclyde,18+ years,12.48,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Inverclyde,18-64 years,1.44,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Inverclyde,65+ years,45,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Midlothian,18+ years,8.16,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Midlothian,18-64 years,0.96,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Midlothian,65+ years,30.96,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Moray,18+ years,9.6,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Moray,18-64 years,1.8,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Moray,65+ years,31.44,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,North Ayrshire,18+ years,9.36,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,North Ayrshire,18-64 years,1.44,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,North Ayrshire,65+ years,30.48,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,North Lanarkshire,18+ years,7.2,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,North Lanarkshire,18-64 years,0.48,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,North Lanarkshire,65+ years,31.56,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Perth and Kinross,18+ years,12.48,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Perth and Kinross,18-64 years,1.68,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Perth and Kinross,65+ years,39.36,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Renfrewshire,18+ years,10.44,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Renfrewshire,18-64 years,1.2,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Renfrewshire,65+ years,40.92,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Scottish Borders,18+ years,10.08,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Scottish Borders,18-64 years,0.6,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Scottish Borders,65+ years,31.8,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Shetland Islands,18+ years,9.12,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Shetland Islands,18-64 years,0.84,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Shetland Islands,65+ years,34.2,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,South Ayrshire,18+ years,13.8,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,South Ayrshire,18-64 years,1.32,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,South Ayrshire,65+ years,42.36,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,South Lanarkshire,18+ years,9.96,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,South Lanarkshire,18-64 years,1.44,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,South Lanarkshire,65+ years,37.44,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Stirling,18+ years,9.48,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Stirling,18-64 years,1.68,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,Stirling,65+ years,35.04,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,West Dunbartonshire,18+ years,11.4,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,West Dunbartonshire,18-64 years,1.32,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,West Dunbartonshire,65+ years,45.24,38.76,"Rate per 1,000 People"
+2019/20,2019/20 Q4,West Lothian,18+ years,8.04,10.08,"Rate per 1,000 People"
+2019/20,2019/20 Q4,West Lothian,18-64 years,1.44,1.32,"Rate per 1,000 People"
+2019/20,2019/20 Q4,West Lothian,65+ years,33,38.76,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Scotland (All Areas Submitted),18+ years,11.952,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Scotland (All Areas Submitted),18-64 years,1.584,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Scotland (All Areas Submitted),65+ years,46.368,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Aberdeen City,18+ years,12.816,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Aberdeen City,18-64 years,2.592,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Aberdeen City,65+ years,56.736,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Aberdeenshire,18+ years,12.672,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Aberdeenshire,18-64 years,1.872,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Aberdeenshire,65+ years,46.656,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Angus,18+ years,15.84,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Angus,18-64 years,2.016,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Angus,65+ years,49.824,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Argyll and Bute,18+ years,13.104,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Argyll and Bute,18-64 years,1.44,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Argyll and Bute,65+ years,39.312,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,City of Edinburgh,18+ years,9.936,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,City of Edinburgh,18-64 years,1.008,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,City of Edinburgh,65+ years,50.256,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Clackmannanshire,18+ years,10.512,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Clackmannanshire,18-64 years,3.024,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Clackmannanshire,65+ years,33.84,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Dumfries and Galloway,18+ years,13.536,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Dumfries and Galloway,18-64 years,1.152,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Dumfries and Galloway,65+ years,41.184,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Dundee City,18+ years,14.4,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Dundee City,18-64 years,1.584,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Dundee City,65+ years,61.776,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,East Ayrshire,18+ years,11.664,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,East Ayrshire,18-64 years,1.296,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,East Ayrshire,65+ years,42.768,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,East Dunbartonshire,18+ years,14.544,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,East Dunbartonshire,18-64 years,1.008,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,East Dunbartonshire,65+ years,49.968,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,East Lothian,18+ years,12.096,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,East Lothian,18-64 years,1.152,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,East Lothian,65+ years,44.496,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,East Renfrewshire,18+ years,11.808,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,East Renfrewshire,18-64 years,0.72,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,East Renfrewshire,65+ years,43.488,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Falkirk,18+ years,12.816,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Falkirk,18-64 years,2.592,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Falkirk,65+ years,46.368,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Fife,18+ years,13.104,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Fife,18-64 years,1.296,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Fife,65+ years,47.952,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Glasgow City,18+ years,11.088,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Glasgow City,18-64 years,2.016,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Glasgow City,65+ years,57.456,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Highland,18+ years,14.4,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Highland,18-64 years,1.872,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Highland,65+ years,47.808,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Inverclyde,18+ years,15.12,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Inverclyde,18-64 years,2.16,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Inverclyde,65+ years,52.704,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Midlothian,18+ years,9.36,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Midlothian,18-64 years,0.864,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Midlothian,65+ years,36.432,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Moray,18+ years,11.376,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Moray,18-64 years,2.16,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Moray,65+ years,37.008,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,North Ayrshire,18+ years,12.816,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,North Ayrshire,18-64 years,1.728,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,North Ayrshire,65+ years,41.904,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,North Lanarkshire,18+ years,8.496,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,North Lanarkshire,18-64 years,0.576,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,North Lanarkshire,65+ years,37.296,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Perth and Kinross,18+ years,14.832,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Perth and Kinross,18-64 years,2.16,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Perth and Kinross,65+ years,46.8,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Renfrewshire,18+ years,12.24,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Renfrewshire,18-64 years,1.44,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Renfrewshire,65+ years,47.808,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Scottish Borders,18+ years,11.52,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Scottish Borders,18-64 years,0.72,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Scottish Borders,65+ years,36.864,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Shetland Islands,18+ years,11.808,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Shetland Islands,18-64 years,1.008,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Shetland Islands,65+ years,44.208,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,South Ayrshire,18+ years,16.992,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,South Ayrshire,18-64 years,1.44,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,South Ayrshire,65+ years,52.56,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,South Lanarkshire,18+ years,11.808,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,South Lanarkshire,18-64 years,1.584,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,South Lanarkshire,65+ years,44.352,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Stirling,18+ years,11.52,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Stirling,18-64 years,2.016,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,Stirling,65+ years,42.336,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,West Dunbartonshire,18+ years,13.824,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,West Dunbartonshire,18-64 years,1.44,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,West Dunbartonshire,65+ years,55.296,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q1,West Lothian,18+ years,9.216,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q1,West Lothian,18-64 years,1.584,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q1,West Lothian,65+ years,38.16,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Scotland (All Areas Submitted),18+ years,11.952,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Scotland (All Areas Submitted),18-64 years,1.584,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Scotland (All Areas Submitted),65+ years,46.368,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Aberdeen City,18+ years,12.816,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Aberdeen City,18-64 years,2.592,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Aberdeen City,65+ years,57.312,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Aberdeenshire,18+ years,12.816,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Aberdeenshire,18-64 years,1.872,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Aberdeenshire,65+ years,47.376,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Angus,18+ years,15.84,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Angus,18-64 years,1.872,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Angus,65+ years,49.824,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Argyll and Bute,18+ years,12.96,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Argyll and Bute,18-64 years,1.728,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Argyll and Bute,65+ years,38.304,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,City of Edinburgh,18+ years,9.792,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,City of Edinburgh,18-64 years,1.008,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,City of Edinburgh,65+ years,50.112,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Clackmannanshire,18+ years,10.8,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Clackmannanshire,18-64 years,3.024,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Clackmannanshire,65+ years,34.56,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Dumfries and Galloway,18+ years,13.68,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Dumfries and Galloway,18-64 years,1.152,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Dumfries and Galloway,65+ years,41.616,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Dundee City,18+ years,13.968,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Dundee City,18-64 years,1.44,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Dundee City,65+ years,59.904,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,East Ayrshire,18+ years,11.664,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,East Ayrshire,18-64 years,1.44,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,East Ayrshire,65+ years,42.768,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,East Dunbartonshire,18+ years,14.4,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,East Dunbartonshire,18-64 years,1.008,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,East Dunbartonshire,65+ years,49.392,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,East Lothian,18+ years,12.096,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,East Lothian,18-64 years,1.152,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,East Lothian,65+ years,44.928,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,East Renfrewshire,18+ years,11.664,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,East Renfrewshire,18-64 years,0.72,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,East Renfrewshire,65+ years,43.056,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Falkirk,18+ years,12.816,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Falkirk,18-64 years,2.592,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Falkirk,65+ years,46.8,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Fife,18+ years,13.536,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Fife,18-64 years,1.296,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Fife,65+ years,49.824,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Glasgow City,18+ years,11.232,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Glasgow City,18-64 years,2.16,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Glasgow City,65+ years,57.888,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Highland,18+ years,14.256,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Highland,18-64 years,1.872,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Highland,65+ years,47.52,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Inverclyde,18+ years,14.688,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Inverclyde,18-64 years,1.872,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Inverclyde,65+ years,51.84,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Midlothian,18+ years,10.368,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Midlothian,18-64 years,1.008,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Midlothian,65+ years,40.176,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Moray,18+ years,11.376,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Moray,18-64 years,2.304,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Moray,65+ years,36.72,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,North Ayrshire,18+ years,12.24,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,North Ayrshire,18-64 years,1.728,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,North Ayrshire,65+ years,40.176,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,North Lanarkshire,18+ years,8.208,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,North Lanarkshire,18-64 years,0.576,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,North Lanarkshire,65+ years,36.432,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Perth and Kinross,18+ years,14.976,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Perth and Kinross,18-64 years,2.16,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Perth and Kinross,65+ years,46.8,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Renfrewshire,18+ years,12.24,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Renfrewshire,18-64 years,1.584,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Renfrewshire,65+ years,47.952,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Scottish Borders,18+ years,11.952,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Scottish Borders,18-64 years,0.72,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Scottish Borders,65+ years,37.872,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Shetland Islands,18+ years,10.944,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Shetland Islands,18-64 years,1.008,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Shetland Islands,65+ years,41.04,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,South Ayrshire,18+ years,16.992,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,South Ayrshire,18-64 years,1.44,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,South Ayrshire,65+ years,52.416,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,South Lanarkshire,18+ years,12.096,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,South Lanarkshire,18-64 years,1.584,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,South Lanarkshire,65+ years,45.216,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Stirling,18+ years,11.664,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Stirling,18-64 years,2.016,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,Stirling,65+ years,43.632,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,West Dunbartonshire,18+ years,13.968,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,West Dunbartonshire,18-64 years,1.584,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,West Dunbartonshire,65+ years,56.16,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q2,West Lothian,18+ years,8.64,11.952,"Rate per 1,000 People"
+2020/21,2020/21 Q2,West Lothian,18-64 years,1.584,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q2,West Lothian,65+ years,35.712,46.368,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Scotland (All Areas Submitted),18+ years,12.096,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Scotland (All Areas Submitted),18-64 years,1.584,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Scotland (All Areas Submitted),65+ years,46.944,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Aberdeen City,18+ years,12.96,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Aberdeen City,18-64 years,2.592,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Aberdeen City,65+ years,58.176,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Aberdeenshire,18+ years,12.96,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Aberdeenshire,18-64 years,2.016,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Aberdeenshire,65+ years,47.664,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Angus,18+ years,15.984,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Angus,18-64 years,1.872,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Angus,65+ years,50.4,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Argyll and Bute,18+ years,13.248,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Argyll and Bute,18-64 years,1.728,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Argyll and Bute,65+ years,39.024,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,City of Edinburgh,18+ years,9.504,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,City of Edinburgh,18-64 years,1.008,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,City of Edinburgh,65+ years,48.384,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Clackmannanshire,18+ years,10.8,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Clackmannanshire,18-64 years,3.024,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Clackmannanshire,65+ years,34.56,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Dumfries and Galloway,18+ years,13.68,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Dumfries and Galloway,18-64 years,1.152,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Dumfries and Galloway,65+ years,41.76,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Dundee City,18+ years,14.112,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Dundee City,18-64 years,1.584,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Dundee City,65+ years,60.624,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,East Ayrshire,18+ years,11.664,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,East Ayrshire,18-64 years,1.44,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,East Ayrshire,65+ years,42.48,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,East Dunbartonshire,18+ years,14.544,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,East Dunbartonshire,18-64 years,0.864,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,East Dunbartonshire,65+ years,50.256,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,East Lothian,18+ years,12.384,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,East Lothian,18-64 years,1.296,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,East Lothian,65+ years,45.216,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,East Renfrewshire,18+ years,14.256,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,East Renfrewshire,18-64 years,0.864,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,East Renfrewshire,65+ years,52.56,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Falkirk,18+ years,13.104,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Falkirk,18-64 years,2.592,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Falkirk,65+ years,47.808,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Fife,18+ years,14.256,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Fife,18-64 years,1.44,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Fife,65+ years,52.416,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Glasgow City,18+ years,11.376,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Glasgow City,18-64 years,2.16,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Glasgow City,65+ years,58.464,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Highland,18+ years,14.4,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Highland,18-64 years,1.872,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Highland,65+ years,47.664,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Inverclyde,18+ years,13.248,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Inverclyde,18-64 years,1.728,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Inverclyde,65+ years,47.088,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Midlothian,18+ years,10.512,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Midlothian,18-64 years,1.008,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Midlothian,65+ years,41.04,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Moray,18+ years,11.52,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Moray,18-64 years,2.16,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Moray,65+ years,37.728,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,North Ayrshire,18+ years,11.808,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,North Ayrshire,18-64 years,1.584,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,North Ayrshire,65+ years,38.592,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,North Lanarkshire,18+ years,8.496,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,North Lanarkshire,18-64 years,0.576,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,North Lanarkshire,65+ years,37.44,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Perth and Kinross,18+ years,14.832,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Perth and Kinross,18-64 years,2.16,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Perth and Kinross,65+ years,47.088,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Renfrewshire,18+ years,12.528,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Renfrewshire,18-64 years,1.44,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Renfrewshire,65+ years,48.816,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Scottish Borders,18+ years,12.096,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Scottish Borders,18-64 years,0.72,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Scottish Borders,65+ years,38.448,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Shetland Islands,18+ years,10.656,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Shetland Islands,18-64 years,0.576,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Shetland Islands,65+ years,41.04,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,South Ayrshire,18+ years,16.992,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,South Ayrshire,18-64 years,1.584,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,South Ayrshire,65+ years,52.128,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,South Lanarkshire,18+ years,12.096,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,South Lanarkshire,18-64 years,1.728,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,South Lanarkshire,65+ years,45.504,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Stirling,18+ years,11.664,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Stirling,18-64 years,2.016,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,Stirling,65+ years,43.2,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,West Dunbartonshire,18+ years,13.968,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,West Dunbartonshire,18-64 years,1.584,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,West Dunbartonshire,65+ years,55.728,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q3,West Lothian,18+ years,9.504,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q3,West Lothian,18-64 years,1.584,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q3,West Lothian,65+ years,39.6,46.944,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Scotland (All Areas Submitted),18+ years,12.096,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Scotland (All Areas Submitted),18-64 years,1.584,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Scotland (All Areas Submitted),65+ years,46.512,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Aberdeen City,18+ years,13.104,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Aberdeen City,18-64 years,2.448,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Aberdeen City,65+ years,58.752,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Aberdeenshire,18+ years,13.104,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Aberdeenshire,18-64 years,2.016,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Aberdeenshire,65+ years,48.384,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Angus,18+ years,15.696,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Angus,18-64 years,1.872,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Angus,65+ years,49.536,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Argyll and Bute,18+ years,12.96,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Argyll and Bute,18-64 years,1.584,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Argyll and Bute,65+ years,38.736,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,City of Edinburgh,18+ years,9.36,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,City of Edinburgh,18-64 years,1.008,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,City of Edinburgh,65+ years,47.088,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Clackmannanshire,18+ years,10.8,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Clackmannanshire,18-64 years,3.024,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Clackmannanshire,65+ years,34.56,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Dumfries and Galloway,18+ years,13.536,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Dumfries and Galloway,18-64 years,1.008,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Dumfries and Galloway,65+ years,41.472,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Dundee City,18+ years,14.112,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Dundee City,18-64 years,1.584,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Dundee City,65+ years,60.336,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,East Ayrshire,18+ years,11.664,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,East Ayrshire,18-64 years,1.44,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,East Ayrshire,65+ years,42.48,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,East Dunbartonshire,18+ years,14.976,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,East Dunbartonshire,18-64 years,0.864,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,East Dunbartonshire,65+ years,51.408,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,East Lothian,18+ years,12.384,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,East Lothian,18-64 years,1.296,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,East Lothian,65+ years,45.936,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,East Renfrewshire,18+ years,14.544,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,East Renfrewshire,18-64 years,0.864,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,East Renfrewshire,65+ years,53.712,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Falkirk,18+ years,12.96,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Falkirk,18-64 years,2.592,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Falkirk,65+ years,47.088,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Fife,18+ years,13.536,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Fife,18-64 years,1.296,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Fife,65+ years,49.824,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Glasgow City,18+ years,11.232,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Glasgow City,18-64 years,2.016,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Glasgow City,65+ years,58.32,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Highland,18+ years,13.68,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Highland,18-64 years,2.016,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Highland,65+ years,45.36,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Inverclyde,18+ years,14.976,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Inverclyde,18-64 years,1.728,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Inverclyde,65+ years,54,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Midlothian,18+ years,9.792,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Midlothian,18-64 years,1.152,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Midlothian,65+ years,37.152,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Moray,18+ years,11.52,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Moray,18-64 years,2.16,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Moray,65+ years,37.728,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,North Ayrshire,18+ years,11.232,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,North Ayrshire,18-64 years,1.728,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,North Ayrshire,65+ years,36.576,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,North Lanarkshire,18+ years,8.64,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,North Lanarkshire,18-64 years,0.576,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,North Lanarkshire,65+ years,37.872,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Perth and Kinross,18+ years,14.976,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Perth and Kinross,18-64 years,2.016,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Perth and Kinross,65+ years,47.232,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Renfrewshire,18+ years,12.528,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Renfrewshire,18-64 years,1.44,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Renfrewshire,65+ years,49.104,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Scottish Borders,18+ years,12.096,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Scottish Borders,18-64 years,0.72,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Scottish Borders,65+ years,38.16,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Shetland Islands,18+ years,10.944,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Shetland Islands,18-64 years,1.008,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Shetland Islands,65+ years,41.04,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,South Ayrshire,18+ years,16.56,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,South Ayrshire,18-64 years,1.584,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,South Ayrshire,65+ years,50.832,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,South Lanarkshire,18+ years,11.952,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,South Lanarkshire,18-64 years,1.728,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,South Lanarkshire,65+ years,44.928,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Stirling,18+ years,11.376,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Stirling,18-64 years,2.016,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,Stirling,65+ years,42.048,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,West Dunbartonshire,18+ years,13.68,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,West Dunbartonshire,18-64 years,1.584,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,West Dunbartonshire,65+ years,54.288,46.512,"Rate per 1,000 People"
+2020/21,2020/21 Q4,West Lothian,18+ years,9.648,12.096,"Rate per 1,000 People"
+2020/21,2020/21 Q4,West Lothian,18-64 years,1.728,1.584,"Rate per 1,000 People"
+2020/21,2020/21 Q4,West Lothian,65+ years,39.6,46.512,"Rate per 1,000 People"

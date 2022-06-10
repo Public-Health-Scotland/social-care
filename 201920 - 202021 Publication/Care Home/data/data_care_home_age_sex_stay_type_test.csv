@@ -1,0 +1,1123 @@
+financial_year,sending_location,age_group,sex,stay_type,nclients
+2018,Aberdeen City,18-64,Female,Short Stay / Respite,61
+2018,Aberdeen City,18-64,Female,Long Stay,113
+2018,Aberdeen City,18-64,Male,Short Stay / Respite,62
+2018,Aberdeen City,18-64,Male,Long Stay,193
+2018,Aberdeen City,65-74,Female,Short Stay / Respite,19
+2018,Aberdeen City,65-74,Female,Long Stay,112
+2018,Aberdeen City,65-74,Male,Short Stay / Respite,23
+2018,Aberdeen City,65-74,Male,Long Stay,124
+2018,Aberdeen City,75-84,Female,Short Stay / Respite,60
+2018,Aberdeen City,75-84,Female,Long Stay,373
+2018,Aberdeen City,75-84,Male,Short Stay / Respite,59
+2018,Aberdeen City,75-84,Male,Long Stay,202
+2018,Aberdeen City,75-84,Not Known / Unspecified,Long Stay,1
+2018,Aberdeen City,85+,Female,Short Stay / Respite,72
+2018,Aberdeen City,85+,Female,Long Stay,734
+2018,Aberdeen City,85+,Male,Short Stay / Respite,46
+2018,Aberdeen City,85+,Male,Long Stay,255
+2018,Aberdeen City,Over 18s,Female,Short Stay / Respite,61
+2018,Aberdeen City,Over 18s,Female,Long Stay,113
+2018,Aberdeen City,Over 18s,Male,Short Stay / Respite,62
+2018,Aberdeen City,Over 18s,Male,Long Stay,193
+2018,Aberdeen City,Over 18s,Female,Short Stay / Respite,19
+2018,Aberdeen City,Over 18s,Female,Long Stay,112
+2018,Aberdeen City,Over 18s,Male,Short Stay / Respite,23
+2018,Aberdeen City,Over 18s,Male,Long Stay,124
+2018,Aberdeen City,Over 18s,Female,Short Stay / Respite,60
+2018,Aberdeen City,Over 18s,Female,Long Stay,373
+2018,Aberdeen City,Over 18s,Male,Short Stay / Respite,59
+2018,Aberdeen City,Over 18s,Male,Long Stay,202
+2018,Aberdeen City,Over 18s,Not Known / Unspecified,Long Stay,1
+2018,Aberdeen City,Over 18s,Female,Short Stay / Respite,72
+2018,Aberdeen City,Over 18s,Female,Long Stay,734
+2018,Aberdeen City,Over 18s,Male,Short Stay / Respite,46
+2018,Aberdeen City,Over 18s,Male,Long Stay,255
+2018,Aberdeen City,Over 65,Female,Short Stay / Respite,151
+2018,Aberdeen City,Over 65,Female,Long Stay,1219
+2018,Aberdeen City,Over 65,Male,Short Stay / Respite,128
+2018,Aberdeen City,Over 65,Male,Long Stay,581
+2018,Aberdeen City,Over 65,Not Known / Unspecified,Long Stay,1
+2018,Aberdeenshire,18-64,Female,Short Stay / Respite,32
+2018,Aberdeenshire,18-64,Female,Long Stay,108
+2018,Aberdeenshire,18-64,Male,Short Stay / Respite,48
+2018,Aberdeenshire,18-64,Male,Long Stay,127
+2018,Aberdeenshire,65-74,Female,Short Stay / Respite,20
+2018,Aberdeenshire,65-74,Female,Long Stay,123
+2018,Aberdeenshire,65-74,Male,Short Stay / Respite,29
+2018,Aberdeenshire,65-74,Male,Long Stay,101
+2018,Aberdeenshire,75-84,Female,Short Stay / Respite,62
+2018,Aberdeenshire,75-84,Female,Long Stay,399
+2018,Aberdeenshire,75-84,Male,Short Stay / Respite,65
+2018,Aberdeenshire,75-84,Male,Long Stay,258
+2018,Aberdeenshire,75-84,Not Known / Unspecified,Short Stay / Respite,3
+2018,Aberdeenshire,75-84,Not Known / Unspecified,Long Stay,3
+2018,Aberdeenshire,85+,Female,Short Stay / Respite,92
+2018,Aberdeenshire,85+,Female,Long Stay,857
+2018,Aberdeenshire,85+,Male,Short Stay / Respite,65
+2018,Aberdeenshire,85+,Male,Long Stay,293
+2018,Aberdeenshire,85+,Not Known / Unspecified,Short Stay / Respite,1
+2018,Aberdeenshire,85+,Not Known / Unspecified,Long Stay,12
+2018,Aberdeenshire,Over 18s,Female,Short Stay / Respite,32
+2018,Aberdeenshire,Over 18s,Female,Long Stay,108
+2018,Aberdeenshire,Over 18s,Male,Short Stay / Respite,48
+2018,Aberdeenshire,Over 18s,Male,Long Stay,127
+2018,Aberdeenshire,Over 18s,Female,Short Stay / Respite,20
+2018,Aberdeenshire,Over 18s,Female,Long Stay,123
+2018,Aberdeenshire,Over 18s,Male,Short Stay / Respite,29
+2018,Aberdeenshire,Over 18s,Male,Long Stay,101
+2018,Aberdeenshire,Over 18s,Female,Short Stay / Respite,62
+2018,Aberdeenshire,Over 18s,Female,Long Stay,399
+2018,Aberdeenshire,Over 18s,Male,Short Stay / Respite,65
+2018,Aberdeenshire,Over 18s,Male,Long Stay,258
+2018,Aberdeenshire,Over 18s,Not Known / Unspecified,Short Stay / Respite,3
+2018,Aberdeenshire,Over 18s,Not Known / Unspecified,Long Stay,3
+2018,Aberdeenshire,Over 18s,Female,Short Stay / Respite,92
+2018,Aberdeenshire,Over 18s,Female,Long Stay,857
+2018,Aberdeenshire,Over 18s,Male,Short Stay / Respite,65
+2018,Aberdeenshire,Over 18s,Male,Long Stay,293
+2018,Aberdeenshire,Over 18s,Not Known / Unspecified,Short Stay / Respite,1
+2018,Aberdeenshire,Over 18s,Not Known / Unspecified,Long Stay,12
+2018,Aberdeenshire,Over 65,Female,Short Stay / Respite,174
+2018,Aberdeenshire,Over 65,Female,Long Stay,1379
+2018,Aberdeenshire,Over 65,Male,Short Stay / Respite,159
+2018,Aberdeenshire,Over 65,Male,Long Stay,652
+2018,Aberdeenshire,Over 65,Not Known / Unspecified,Short Stay / Respite,4
+2018,Aberdeenshire,Over 65,Not Known / Unspecified,Long Stay,15
+2018,Angus,18-64,Female,Short Stay / Respite,21
+2018,Angus,18-64,Female,Long Stay,42
+2018,Angus,18-64,Male,Short Stay / Respite,27
+2018,Angus,18-64,Male,Long Stay,57
+2018,Angus,65-74,Female,Short Stay / Respite,26
+2018,Angus,65-74,Female,Long Stay,62
+2018,Angus,65-74,Male,Short Stay / Respite,26
+2018,Angus,65-74,Male,Long Stay,57
+2018,Angus,75-84,Female,Short Stay / Respite,43
+2018,Angus,75-84,Female,Long Stay,220
+2018,Angus,75-84,Male,Short Stay / Respite,41
+2018,Angus,75-84,Male,Long Stay,130
+2018,Angus,85+,Female,Short Stay / Respite,91
+2018,Angus,85+,Female,Long Stay,534
+2018,Angus,85+,Male,Short Stay / Respite,54
+2018,Angus,85+,Male,Long Stay,188
+2018,Angus,Over 18s,Female,Short Stay / Respite,21
+2018,Angus,Over 18s,Female,Long Stay,42
+2018,Angus,Over 18s,Male,Short Stay / Respite,27
+2018,Angus,Over 18s,Male,Long Stay,57
+2018,Angus,Over 18s,Female,Short Stay / Respite,26
+2018,Angus,Over 18s,Female,Long Stay,62
+2018,Angus,Over 18s,Male,Short Stay / Respite,26
+2018,Angus,Over 18s,Male,Long Stay,57
+2018,Angus,Over 18s,Female,Short Stay / Respite,43
+2018,Angus,Over 18s,Female,Long Stay,220
+2018,Angus,Over 18s,Male,Short Stay / Respite,41
+2018,Angus,Over 18s,Male,Long Stay,130
+2018,Angus,Over 18s,Female,Short Stay / Respite,91
+2018,Angus,Over 18s,Female,Long Stay,534
+2018,Angus,Over 18s,Male,Short Stay / Respite,54
+2018,Angus,Over 18s,Male,Long Stay,188
+2018,Angus,Over 65,Female,Short Stay / Respite,160
+2018,Angus,Over 65,Female,Long Stay,816
+2018,Angus,Over 65,Male,Short Stay / Respite,121
+2018,Angus,Over 65,Male,Long Stay,375
+2018,Argyll and Bute,18-64,Female,Short Stay / Respite,4
+2018,Argyll and Bute,18-64,Female,Long Stay,26
+2018,Argyll and Bute,18-64,Male,Short Stay / Respite,1
+2018,Argyll and Bute,18-64,Male,Long Stay,43
+2018,Argyll and Bute,65-74,Female,Short Stay / Respite,1
+2018,Argyll and Bute,65-74,Female,Long Stay,41
+2018,Argyll and Bute,65-74,Male,Short Stay / Respite,6
+2018,Argyll and Bute,65-74,Male,Long Stay,47
+2018,Argyll and Bute,75-84,Female,Short Stay / Respite,11
+2018,Argyll and Bute,75-84,Female,Long Stay,164
+2018,Argyll and Bute,75-84,Male,Short Stay / Respite,9
+2018,Argyll and Bute,75-84,Male,Long Stay,81
+2018,Argyll and Bute,85+,Female,Short Stay / Respite,13
+2018,Argyll and Bute,85+,Female,Long Stay,330
+2018,Argyll and Bute,85+,Male,Short Stay / Respite,7
+2018,Argyll and Bute,85+,Male,Long Stay,97
+2018,Argyll and Bute,Over 18s,Female,Short Stay / Respite,4
+2018,Argyll and Bute,Over 18s,Female,Long Stay,26
+2018,Argyll and Bute,Over 18s,Male,Short Stay / Respite,1
+2018,Argyll and Bute,Over 18s,Male,Long Stay,43
+2018,Argyll and Bute,Over 18s,Female,Short Stay / Respite,1
+2018,Argyll and Bute,Over 18s,Female,Long Stay,41
+2018,Argyll and Bute,Over 18s,Male,Short Stay / Respite,6
+2018,Argyll and Bute,Over 18s,Male,Long Stay,47
+2018,Argyll and Bute,Over 18s,Female,Short Stay / Respite,11
+2018,Argyll and Bute,Over 18s,Female,Long Stay,164
+2018,Argyll and Bute,Over 18s,Male,Short Stay / Respite,9
+2018,Argyll and Bute,Over 18s,Male,Long Stay,81
+2018,Argyll and Bute,Over 18s,Female,Short Stay / Respite,13
+2018,Argyll and Bute,Over 18s,Female,Long Stay,330
+2018,Argyll and Bute,Over 18s,Male,Short Stay / Respite,7
+2018,Argyll and Bute,Over 18s,Male,Long Stay,97
+2018,Argyll and Bute,Over 65,Female,Short Stay / Respite,25
+2018,Argyll and Bute,Over 65,Female,Long Stay,535
+2018,Argyll and Bute,Over 65,Male,Short Stay / Respite,22
+2018,Argyll and Bute,Over 65,Male,Long Stay,225
+2018,Clackmannanshire,18-64,Female,Short Stay / Respite,2
+2018,Clackmannanshire,18-64,Female,Long Stay,23
+2018,Clackmannanshire,18-64,Male,Short Stay / Respite,5
+2018,Clackmannanshire,18-64,Male,Long Stay,47
+2018,Clackmannanshire,65-74,Female,Short Stay / Respite,3
+2018,Clackmannanshire,65-74,Female,Long Stay,17
+2018,Clackmannanshire,65-74,Male,Short Stay / Respite,4
+2018,Clackmannanshire,65-74,Male,Long Stay,28
+2018,Clackmannanshire,75-84,Female,Short Stay / Respite,10
+2018,Clackmannanshire,75-84,Female,Long Stay,71
+2018,Clackmannanshire,75-84,Male,Short Stay / Respite,8
+2018,Clackmannanshire,75-84,Male,Long Stay,42
+2018,Clackmannanshire,85+,Female,Short Stay / Respite,12
+2018,Clackmannanshire,85+,Female,Long Stay,119
+2018,Clackmannanshire,85+,Male,Short Stay / Respite,6
+2018,Clackmannanshire,85+,Male,Long Stay,25
+2018,Clackmannanshire,Over 18s,Female,Short Stay / Respite,2
+2018,Clackmannanshire,Over 18s,Female,Long Stay,23
+2018,Clackmannanshire,Over 18s,Male,Short Stay / Respite,5
+2018,Clackmannanshire,Over 18s,Male,Long Stay,47
+2018,Clackmannanshire,Over 18s,Female,Short Stay / Respite,3
+2018,Clackmannanshire,Over 18s,Female,Long Stay,17
+2018,Clackmannanshire,Over 18s,Male,Short Stay / Respite,4
+2018,Clackmannanshire,Over 18s,Male,Long Stay,28
+2018,Clackmannanshire,Over 18s,Female,Short Stay / Respite,10
+2018,Clackmannanshire,Over 18s,Female,Long Stay,71
+2018,Clackmannanshire,Over 18s,Male,Short Stay / Respite,8
+2018,Clackmannanshire,Over 18s,Male,Long Stay,42
+2018,Clackmannanshire,Over 18s,Female,Short Stay / Respite,12
+2018,Clackmannanshire,Over 18s,Female,Long Stay,119
+2018,Clackmannanshire,Over 18s,Male,Short Stay / Respite,6
+2018,Clackmannanshire,Over 18s,Male,Long Stay,25
+2018,Clackmannanshire,Over 65,Female,Short Stay / Respite,25
+2018,Clackmannanshire,Over 65,Female,Long Stay,207
+2018,Clackmannanshire,Over 65,Male,Short Stay / Respite,18
+2018,Clackmannanshire,Over 65,Male,Long Stay,95
+2018,Dumfries and Galloway,18-64,Female,Short Stay / Respite,3
+2018,Dumfries and Galloway,18-64,Female,Long Stay,25
+2018,Dumfries and Galloway,18-64,Male,Short Stay / Respite,4
+2018,Dumfries and Galloway,18-64,Male,Long Stay,43
+2018,Dumfries and Galloway,65-74,Female,Short Stay / Respite,17
+2018,Dumfries and Galloway,65-74,Female,Long Stay,70
+2018,Dumfries and Galloway,65-74,Male,Short Stay / Respite,9
+2018,Dumfries and Galloway,65-74,Male,Long Stay,73
+2018,Dumfries and Galloway,75-84,Female,Short Stay / Respite,27
+2018,Dumfries and Galloway,75-84,Female,Long Stay,263
+2018,Dumfries and Galloway,75-84,Male,Short Stay / Respite,22
+2018,Dumfries and Galloway,75-84,Male,Long Stay,160
+2018,Dumfries and Galloway,75-84,Not Known / Unspecified,Short Stay / Respite,2
+2018,Dumfries and Galloway,85+,Female,Short Stay / Respite,44
+2018,Dumfries and Galloway,85+,Female,Long Stay,614
+2018,Dumfries and Galloway,85+,Male,Short Stay / Respite,27
+2018,Dumfries and Galloway,85+,Male,Long Stay,200
+2018,Dumfries and Galloway,85+,Not Known / Unspecified,Long Stay,1
+2018,Dumfries and Galloway,Over 18s,Female,Short Stay / Respite,3
+2018,Dumfries and Galloway,Over 18s,Female,Long Stay,25
+2018,Dumfries and Galloway,Over 18s,Male,Short Stay / Respite,4
+2018,Dumfries and Galloway,Over 18s,Male,Long Stay,43
+2018,Dumfries and Galloway,Over 18s,Female,Short Stay / Respite,17
+2018,Dumfries and Galloway,Over 18s,Female,Long Stay,70
+2018,Dumfries and Galloway,Over 18s,Male,Short Stay / Respite,9
+2018,Dumfries and Galloway,Over 18s,Male,Long Stay,73
+2018,Dumfries and Galloway,Over 18s,Female,Short Stay / Respite,27
+2018,Dumfries and Galloway,Over 18s,Female,Long Stay,263
+2018,Dumfries and Galloway,Over 18s,Male,Short Stay / Respite,22
+2018,Dumfries and Galloway,Over 18s,Male,Long Stay,160
+2018,Dumfries and Galloway,Over 18s,Not Known / Unspecified,Short Stay / Respite,2
+2018,Dumfries and Galloway,Over 18s,Female,Short Stay / Respite,44
+2018,Dumfries and Galloway,Over 18s,Female,Long Stay,614
+2018,Dumfries and Galloway,Over 18s,Male,Short Stay / Respite,27
+2018,Dumfries and Galloway,Over 18s,Male,Long Stay,200
+2018,Dumfries and Galloway,Over 18s,Not Known / Unspecified,Long Stay,1
+2018,Dumfries and Galloway,Over 65,Female,Short Stay / Respite,88
+2018,Dumfries and Galloway,Over 65,Female,Long Stay,947
+2018,Dumfries and Galloway,Over 65,Male,Short Stay / Respite,58
+2018,Dumfries and Galloway,Over 65,Male,Long Stay,433
+2018,Dumfries and Galloway,Over 65,Not Known / Unspecified,Short Stay / Respite,2
+2018,Dumfries and Galloway,Over 65,Not Known / Unspecified,Long Stay,1
+2018,Dundee City,18-64,Female,Long Stay,50
+2018,Dundee City,18-64,Male,Long Stay,66
+2018,Dundee City,65-74,Female,Short Stay / Respite,1
+2018,Dundee City,65-74,Female,Long Stay,76
+2018,Dundee City,65-74,Male,Short Stay / Respite,5
+2018,Dundee City,65-74,Male,Long Stay,76
+2018,Dundee City,75-84,Female,Short Stay / Respite,8
+2018,Dundee City,75-84,Female,Long Stay,290
+2018,Dundee City,75-84,Male,Short Stay / Respite,1
+2018,Dundee City,75-84,Male,Long Stay,145
+2018,Dundee City,85+,Female,Short Stay / Respite,12
+2018,Dundee City,85+,Female,Long Stay,590
+2018,Dundee City,85+,Male,Short Stay / Respite,3
+2018,Dundee City,85+,Male,Long Stay,180
+2018,Dundee City,Over 18s,Female,Long Stay,50
+2018,Dundee City,Over 18s,Male,Long Stay,66
+2018,Dundee City,Over 18s,Female,Short Stay / Respite,1
+2018,Dundee City,Over 18s,Female,Long Stay,76
+2018,Dundee City,Over 18s,Male,Short Stay / Respite,5
+2018,Dundee City,Over 18s,Male,Long Stay,76
+2018,Dundee City,Over 18s,Female,Short Stay / Respite,8
+2018,Dundee City,Over 18s,Female,Long Stay,290
+2018,Dundee City,Over 18s,Male,Short Stay / Respite,1
+2018,Dundee City,Over 18s,Male,Long Stay,145
+2018,Dundee City,Over 18s,Female,Short Stay / Respite,12
+2018,Dundee City,Over 18s,Female,Long Stay,590
+2018,Dundee City,Over 18s,Male,Short Stay / Respite,3
+2018,Dundee City,Over 18s,Male,Long Stay,180
+2018,Dundee City,Over 65,Female,Short Stay / Respite,21
+2018,Dundee City,Over 65,Female,Long Stay,956
+2018,Dundee City,Over 65,Male,Short Stay / Respite,9
+2018,Dundee City,Over 65,Male,Long Stay,401
+2018,East Ayrshire,18-64,Female,Short Stay / Respite,1
+2018,East Ayrshire,18-64,Female,Long Stay,40
+2018,East Ayrshire,18-64,Male,Short Stay / Respite,2
+2018,East Ayrshire,18-64,Male,Long Stay,45
+2018,East Ayrshire,65-74,Female,Short Stay / Respite,1
+2018,East Ayrshire,65-74,Female,Long Stay,48
+2018,East Ayrshire,65-74,Male,Short Stay / Respite,4
+2018,East Ayrshire,65-74,Male,Long Stay,54
+2018,East Ayrshire,75-84,Female,Short Stay / Respite,9
+2018,East Ayrshire,75-84,Female,Long Stay,203
+2018,East Ayrshire,75-84,Male,Short Stay / Respite,10
+2018,East Ayrshire,75-84,Male,Long Stay,125
+2018,East Ayrshire,85+,Female,Short Stay / Respite,8
+2018,East Ayrshire,85+,Female,Long Stay,354
+2018,East Ayrshire,85+,Male,Short Stay / Respite,3
+2018,East Ayrshire,85+,Male,Long Stay,123
+2018,East Ayrshire,Over 18s,Female,Short Stay / Respite,1
+2018,East Ayrshire,Over 18s,Female,Long Stay,40
+2018,East Ayrshire,Over 18s,Male,Short Stay / Respite,2
+2018,East Ayrshire,Over 18s,Male,Long Stay,45
+2018,East Ayrshire,Over 18s,Female,Short Stay / Respite,1
+2018,East Ayrshire,Over 18s,Female,Long Stay,48
+2018,East Ayrshire,Over 18s,Male,Short Stay / Respite,4
+2018,East Ayrshire,Over 18s,Male,Long Stay,54
+2018,East Ayrshire,Over 18s,Female,Short Stay / Respite,9
+2018,East Ayrshire,Over 18s,Female,Long Stay,203
+2018,East Ayrshire,Over 18s,Male,Short Stay / Respite,10
+2018,East Ayrshire,Over 18s,Male,Long Stay,125
+2018,East Ayrshire,Over 18s,Female,Short Stay / Respite,8
+2018,East Ayrshire,Over 18s,Female,Long Stay,354
+2018,East Ayrshire,Over 18s,Male,Short Stay / Respite,3
+2018,East Ayrshire,Over 18s,Male,Long Stay,123
+2018,East Ayrshire,Over 65,Female,Short Stay / Respite,18
+2018,East Ayrshire,Over 65,Female,Long Stay,605
+2018,East Ayrshire,Over 65,Male,Short Stay / Respite,17
+2018,East Ayrshire,Over 65,Male,Long Stay,302
+2018,East Dunbartonshire,18-64,Female,Short Stay / Respite,37
+2018,East Dunbartonshire,18-64,Female,Long Stay,25
+2018,East Dunbartonshire,18-64,Male,Short Stay / Respite,48
+2018,East Dunbartonshire,18-64,Male,Long Stay,25
+2018,East Dunbartonshire,65-74,Female,Short Stay / Respite,4
+2018,East Dunbartonshire,65-74,Female,Long Stay,56
+2018,East Dunbartonshire,65-74,Male,Short Stay / Respite,6
+2018,East Dunbartonshire,65-74,Male,Long Stay,35
+2018,East Dunbartonshire,75-84,Female,Short Stay / Respite,16
+2018,East Dunbartonshire,75-84,Female,Long Stay,207
+2018,East Dunbartonshire,75-84,Male,Short Stay / Respite,24
+2018,East Dunbartonshire,75-84,Male,Long Stay,111
+2018,East Dunbartonshire,75-84,Not Known / Unspecified,Long Stay,1
+2018,East Dunbartonshire,85+,Female,Short Stay / Respite,25
+2018,East Dunbartonshire,85+,Female,Long Stay,501
+2018,East Dunbartonshire,85+,Male,Short Stay / Respite,22
+2018,East Dunbartonshire,85+,Male,Long Stay,157
+2018,East Dunbartonshire,85+,Not Known / Unspecified,Short Stay / Respite,1
+2018,East Dunbartonshire,Over 18s,Female,Short Stay / Respite,37
+2018,East Dunbartonshire,Over 18s,Female,Long Stay,25
+2018,East Dunbartonshire,Over 18s,Male,Short Stay / Respite,48
+2018,East Dunbartonshire,Over 18s,Male,Long Stay,25
+2018,East Dunbartonshire,Over 18s,Female,Short Stay / Respite,4
+2018,East Dunbartonshire,Over 18s,Female,Long Stay,56
+2018,East Dunbartonshire,Over 18s,Male,Short Stay / Respite,6
+2018,East Dunbartonshire,Over 18s,Male,Long Stay,35
+2018,East Dunbartonshire,Over 18s,Female,Short Stay / Respite,16
+2018,East Dunbartonshire,Over 18s,Female,Long Stay,207
+2018,East Dunbartonshire,Over 18s,Male,Short Stay / Respite,24
+2018,East Dunbartonshire,Over 18s,Male,Long Stay,111
+2018,East Dunbartonshire,Over 18s,Not Known / Unspecified,Long Stay,1
+2018,East Dunbartonshire,Over 18s,Female,Short Stay / Respite,25
+2018,East Dunbartonshire,Over 18s,Female,Long Stay,501
+2018,East Dunbartonshire,Over 18s,Male,Short Stay / Respite,22
+2018,East Dunbartonshire,Over 18s,Male,Long Stay,157
+2018,East Dunbartonshire,Over 18s,Not Known / Unspecified,Short Stay / Respite,1
+2018,East Dunbartonshire,Over 65,Female,Short Stay / Respite,45
+2018,East Dunbartonshire,Over 65,Female,Long Stay,764
+2018,East Dunbartonshire,Over 65,Male,Short Stay / Respite,52
+2018,East Dunbartonshire,Over 65,Male,Long Stay,303
+2018,East Dunbartonshire,Over 65,Not Known / Unspecified,Short Stay / Respite,1
+2018,East Dunbartonshire,Over 65,Not Known / Unspecified,Long Stay,1
+2018,East Lothian,18-64,Female,Short Stay / Respite,10
+2018,East Lothian,18-64,Female,Long Stay,21
+2018,East Lothian,18-64,Male,Short Stay / Respite,6
+2018,East Lothian,18-64,Male,Long Stay,37
+2018,East Lothian,65-74,Female,Short Stay / Respite,7
+2018,East Lothian,65-74,Female,Long Stay,38
+2018,East Lothian,65-74,Male,Short Stay / Respite,9
+2018,East Lothian,65-74,Male,Long Stay,42
+2018,East Lothian,75-84,Female,Short Stay / Respite,26
+2018,East Lothian,75-84,Female,Long Stay,176
+2018,East Lothian,75-84,Male,Short Stay / Respite,19
+2018,East Lothian,75-84,Male,Long Stay,90
+2018,East Lothian,85+,Female,Short Stay / Respite,30
+2018,East Lothian,85+,Female,Long Stay,374
+2018,East Lothian,85+,Male,Short Stay / Respite,22
+2018,East Lothian,85+,Male,Long Stay,128
+2018,East Lothian,Over 18s,Female,Short Stay / Respite,10
+2018,East Lothian,Over 18s,Female,Long Stay,21
+2018,East Lothian,Over 18s,Male,Short Stay / Respite,6
+2018,East Lothian,Over 18s,Male,Long Stay,37
+2018,East Lothian,Over 18s,Female,Short Stay / Respite,7
+2018,East Lothian,Over 18s,Female,Long Stay,38
+2018,East Lothian,Over 18s,Male,Short Stay / Respite,9
+2018,East Lothian,Over 18s,Male,Long Stay,42
+2018,East Lothian,Over 18s,Female,Short Stay / Respite,26
+2018,East Lothian,Over 18s,Female,Long Stay,176
+2018,East Lothian,Over 18s,Male,Short Stay / Respite,19
+2018,East Lothian,Over 18s,Male,Long Stay,90
+2018,East Lothian,Over 18s,Female,Short Stay / Respite,30
+2018,East Lothian,Over 18s,Female,Long Stay,374
+2018,East Lothian,Over 18s,Male,Short Stay / Respite,22
+2018,East Lothian,Over 18s,Male,Long Stay,128
+2018,East Lothian,Over 65,Female,Short Stay / Respite,63
+2018,East Lothian,Over 65,Female,Long Stay,588
+2018,East Lothian,Over 65,Male,Short Stay / Respite,50
+2018,East Lothian,Over 65,Male,Long Stay,260
+2018,East Renfrewshire,18-64,Female,Long Stay,15
+2018,East Renfrewshire,18-64,Male,Short Stay / Respite,1
+2018,East Renfrewshire,18-64,Male,Long Stay,20
+2018,East Renfrewshire,65-74,Female,Long Stay,36
+2018,East Renfrewshire,65-74,Male,Long Stay,36
+2018,East Renfrewshire,75-84,Female,Short Stay / Respite,3
+2018,East Renfrewshire,75-84,Female,Long Stay,167
+2018,East Renfrewshire,75-84,Male,Short Stay / Respite,1
+2018,East Renfrewshire,75-84,Male,Long Stay,73
+2018,East Renfrewshire,85+,Female,Short Stay / Respite,7
+2018,East Renfrewshire,85+,Female,Long Stay,350
+2018,East Renfrewshire,85+,Male,Short Stay / Respite,2
+2018,East Renfrewshire,85+,Male,Long Stay,127
+2018,East Renfrewshire,Over 18s,Female,Long Stay,15
+2018,East Renfrewshire,Over 18s,Male,Short Stay / Respite,1
+2018,East Renfrewshire,Over 18s,Male,Long Stay,20
+2018,East Renfrewshire,Over 18s,Female,Long Stay,36
+2018,East Renfrewshire,Over 18s,Male,Long Stay,36
+2018,East Renfrewshire,Over 18s,Female,Short Stay / Respite,3
+2018,East Renfrewshire,Over 18s,Female,Long Stay,167
+2018,East Renfrewshire,Over 18s,Male,Short Stay / Respite,1
+2018,East Renfrewshire,Over 18s,Male,Long Stay,73
+2018,East Renfrewshire,Over 18s,Female,Short Stay / Respite,7
+2018,East Renfrewshire,Over 18s,Female,Long Stay,350
+2018,East Renfrewshire,Over 18s,Male,Short Stay / Respite,2
+2018,East Renfrewshire,Over 18s,Male,Long Stay,127
+2018,East Renfrewshire,Over 65,Female,Short Stay / Respite,10
+2018,East Renfrewshire,Over 65,Female,Long Stay,553
+2018,East Renfrewshire,Over 65,Male,Short Stay / Respite,3
+2018,East Renfrewshire,Over 65,Male,Long Stay,236
+2018,City of Edinburgh,18-64,Female,Short Stay / Respite,17
+2018,City of Edinburgh,18-64,Female,Long Stay,118
+2018,City of Edinburgh,18-64,Male,Short Stay / Respite,13
+2018,City of Edinburgh,18-64,Male,Long Stay,154
+2018,City of Edinburgh,65-74,Female,Short Stay / Respite,14
+2018,City of Edinburgh,65-74,Female,Long Stay,165
+2018,City of Edinburgh,65-74,Male,Short Stay / Respite,20
+2018,City of Edinburgh,65-74,Male,Long Stay,178
+2018,City of Edinburgh,75-84,Female,Short Stay / Respite,34
+2018,City of Edinburgh,75-84,Female,Long Stay,612
+2018,City of Edinburgh,75-84,Male,Short Stay / Respite,41
+2018,City of Edinburgh,75-84,Male,Long Stay,369
+2018,City of Edinburgh,85+,Female,Short Stay / Respite,66
+2018,City of Edinburgh,85+,Female,Long Stay,1598
+2018,City of Edinburgh,85+,Male,Short Stay / Respite,32
+2018,City of Edinburgh,85+,Male,Long Stay,453
+2018,City of Edinburgh,Over 18s,Female,Short Stay / Respite,17
+2018,City of Edinburgh,Over 18s,Female,Long Stay,118
+2018,City of Edinburgh,Over 18s,Male,Short Stay / Respite,13
+2018,City of Edinburgh,Over 18s,Male,Long Stay,154
+2018,City of Edinburgh,Over 18s,Female,Short Stay / Respite,14
+2018,City of Edinburgh,Over 18s,Female,Long Stay,165
+2018,City of Edinburgh,Over 18s,Male,Short Stay / Respite,20
+2018,City of Edinburgh,Over 18s,Male,Long Stay,178
+2018,City of Edinburgh,Over 18s,Female,Short Stay / Respite,34
+2018,City of Edinburgh,Over 18s,Female,Long Stay,612
+2018,City of Edinburgh,Over 18s,Male,Short Stay / Respite,41
+2018,City of Edinburgh,Over 18s,Male,Long Stay,369
+2018,City of Edinburgh,Over 18s,Female,Short Stay / Respite,66
+2018,City of Edinburgh,Over 18s,Female,Long Stay,1598
+2018,City of Edinburgh,Over 18s,Male,Short Stay / Respite,32
+2018,City of Edinburgh,Over 18s,Male,Long Stay,453
+2018,City of Edinburgh,Over 65,Female,Short Stay / Respite,114
+2018,City of Edinburgh,Over 65,Female,Long Stay,2375
+2018,City of Edinburgh,Over 65,Male,Short Stay / Respite,93
+2018,City of Edinburgh,Over 65,Male,Long Stay,1000
+2018,Falkirk,18-64,Female,Short Stay / Respite,39
+2018,Falkirk,18-64,Female,Long Stay,74
+2018,Falkirk,18-64,Male,Short Stay / Respite,46
+2018,Falkirk,18-64,Male,Long Stay,117
+2018,Falkirk,65-74,Female,Short Stay / Respite,9
+2018,Falkirk,65-74,Female,Long Stay,84
+2018,Falkirk,65-74,Male,Short Stay / Respite,12
+2018,Falkirk,65-74,Male,Long Stay,94
+2018,Falkirk,75-84,Female,Short Stay / Respite,27
+2018,Falkirk,75-84,Female,Long Stay,271
+2018,Falkirk,75-84,Male,Short Stay / Respite,32
+2018,Falkirk,75-84,Male,Long Stay,160
+2018,Falkirk,85+,Female,Short Stay / Respite,38
+2018,Falkirk,85+,Female,Long Stay,449
+2018,Falkirk,85+,Male,Short Stay / Respite,21
+2018,Falkirk,85+,Male,Long Stay,161
+2018,Falkirk,Over 18s,Female,Short Stay / Respite,39
+2018,Falkirk,Over 18s,Female,Long Stay,74
+2018,Falkirk,Over 18s,Male,Short Stay / Respite,46
+2018,Falkirk,Over 18s,Male,Long Stay,117
+2018,Falkirk,Over 18s,Female,Short Stay / Respite,9
+2018,Falkirk,Over 18s,Female,Long Stay,84
+2018,Falkirk,Over 18s,Male,Short Stay / Respite,12
+2018,Falkirk,Over 18s,Male,Long Stay,94
+2018,Falkirk,Over 18s,Female,Short Stay / Respite,27
+2018,Falkirk,Over 18s,Female,Long Stay,271
+2018,Falkirk,Over 18s,Male,Short Stay / Respite,32
+2018,Falkirk,Over 18s,Male,Long Stay,160
+2018,Falkirk,Over 18s,Female,Short Stay / Respite,38
+2018,Falkirk,Over 18s,Female,Long Stay,449
+2018,Falkirk,Over 18s,Male,Short Stay / Respite,21
+2018,Falkirk,Over 18s,Male,Long Stay,161
+2018,Falkirk,Over 65,Female,Short Stay / Respite,74
+2018,Falkirk,Over 65,Female,Long Stay,804
+2018,Falkirk,Over 65,Male,Short Stay / Respite,65
+2018,Falkirk,Over 65,Male,Long Stay,415
+2018,Fife,18-64,Female,Short Stay / Respite,112
+2018,Fife,18-64,Female,Long Stay,98
+2018,Fife,18-64,Male,Short Stay / Respite,118
+2018,Fife,18-64,Male,Long Stay,127
+2018,Fife,65-74,Female,Short Stay / Respite,35
+2018,Fife,65-74,Female,Long Stay,233
+2018,Fife,65-74,Male,Short Stay / Respite,31
+2018,Fife,65-74,Male,Long Stay,165
+2018,Fife,75-84,Female,Short Stay / Respite,90
+2018,Fife,75-84,Female,Long Stay,703
+2018,Fife,75-84,Male,Short Stay / Respite,69
+2018,Fife,75-84,Male,Long Stay,416
+2018,Fife,85+,Female,Short Stay / Respite,154
+2018,Fife,85+,Female,Long Stay,1383
+2018,Fife,85+,Male,Short Stay / Respite,75
+2018,Fife,85+,Male,Long Stay,460
+2018,Fife,Over 18s,Female,Short Stay / Respite,112
+2018,Fife,Over 18s,Female,Long Stay,98
+2018,Fife,Over 18s,Male,Short Stay / Respite,118
+2018,Fife,Over 18s,Male,Long Stay,127
+2018,Fife,Over 18s,Female,Short Stay / Respite,35
+2018,Fife,Over 18s,Female,Long Stay,233
+2018,Fife,Over 18s,Male,Short Stay / Respite,31
+2018,Fife,Over 18s,Male,Long Stay,165
+2018,Fife,Over 18s,Female,Short Stay / Respite,90
+2018,Fife,Over 18s,Female,Long Stay,703
+2018,Fife,Over 18s,Male,Short Stay / Respite,69
+2018,Fife,Over 18s,Male,Long Stay,416
+2018,Fife,Over 18s,Female,Short Stay / Respite,154
+2018,Fife,Over 18s,Female,Long Stay,1383
+2018,Fife,Over 18s,Male,Short Stay / Respite,75
+2018,Fife,Over 18s,Male,Long Stay,460
+2018,Fife,Over 65,Female,Short Stay / Respite,279
+2018,Fife,Over 65,Female,Long Stay,2319
+2018,Fife,Over 65,Male,Short Stay / Respite,175
+2018,Fife,Over 65,Male,Long Stay,1041
+2018,Glasgow City,18-64,Female,Short Stay / Respite,67
+2018,Glasgow City,18-64,Female,Long Stay,255
+2018,Glasgow City,18-64,Male,Short Stay / Respite,147
+2018,Glasgow City,18-64,Male,Long Stay,498
+2018,Glasgow City,65-74,Female,Short Stay / Respite,21
+2018,Glasgow City,65-74,Female,Long Stay,308
+2018,Glasgow City,65-74,Male,Short Stay / Respite,26
+2018,Glasgow City,65-74,Male,Long Stay,356
+2018,Glasgow City,75-84,Female,Short Stay / Respite,80
+2018,Glasgow City,75-84,Female,Long Stay,916
+2018,Glasgow City,75-84,Male,Short Stay / Respite,63
+2018,Glasgow City,75-84,Male,Long Stay,546
+2018,Glasgow City,75-84,Not Known / Unspecified,Long Stay,1
+2018,Glasgow City,85+,Female,Short Stay / Respite,95
+2018,Glasgow City,85+,Female,Long Stay,1587
+2018,Glasgow City,85+,Male,Short Stay / Respite,55
+2018,Glasgow City,85+,Male,Long Stay,445
+2018,Glasgow City,Over 18s,Female,Short Stay / Respite,67
+2018,Glasgow City,Over 18s,Female,Long Stay,255
+2018,Glasgow City,Over 18s,Male,Short Stay / Respite,147
+2018,Glasgow City,Over 18s,Male,Long Stay,498
+2018,Glasgow City,Over 18s,Female,Short Stay / Respite,21
+2018,Glasgow City,Over 18s,Female,Long Stay,308
+2018,Glasgow City,Over 18s,Male,Short Stay / Respite,26
+2018,Glasgow City,Over 18s,Male,Long Stay,356
+2018,Glasgow City,Over 18s,Female,Short Stay / Respite,80
+2018,Glasgow City,Over 18s,Female,Long Stay,916
+2018,Glasgow City,Over 18s,Male,Short Stay / Respite,63
+2018,Glasgow City,Over 18s,Male,Long Stay,546
+2018,Glasgow City,Over 18s,Not Known / Unspecified,Long Stay,1
+2018,Glasgow City,Over 18s,Female,Short Stay / Respite,95
+2018,Glasgow City,Over 18s,Female,Long Stay,1587
+2018,Glasgow City,Over 18s,Male,Short Stay / Respite,55
+2018,Glasgow City,Over 18s,Male,Long Stay,445
+2018,Glasgow City,Over 65,Female,Short Stay / Respite,196
+2018,Glasgow City,Over 65,Female,Long Stay,2811
+2018,Glasgow City,Over 65,Male,Short Stay / Respite,144
+2018,Glasgow City,Over 65,Male,Long Stay,1347
+2018,Glasgow City,Over 65,Not Known / Unspecified,Long Stay,1
+2018,Highland,18-64,Female,Short Stay / Respite,24
+2018,Highland,18-64,Female,Long Stay,94
+2018,Highland,18-64,Male,Short Stay / Respite,30
+2018,Highland,18-64,Male,Long Stay,118
+2018,Highland,65-74,Female,Short Stay / Respite,14
+2018,Highland,65-74,Female,Long Stay,107
+2018,Highland,65-74,Male,Short Stay / Respite,23
+2018,Highland,65-74,Male,Long Stay,121
+2018,Highland,75-84,Female,Short Stay / Respite,42
+2018,Highland,75-84,Female,Long Stay,415
+2018,Highland,75-84,Male,Short Stay / Respite,31
+2018,Highland,75-84,Male,Long Stay,248
+2018,Highland,85+,Female,Short Stay / Respite,52
+2018,Highland,85+,Female,Long Stay,891
+2018,Highland,85+,Male,Short Stay / Respite,37
+2018,Highland,85+,Male,Long Stay,310
+2018,Highland,Over 18s,Female,Short Stay / Respite,24
+2018,Highland,Over 18s,Female,Long Stay,94
+2018,Highland,Over 18s,Male,Short Stay / Respite,30
+2018,Highland,Over 18s,Male,Long Stay,118
+2018,Highland,Over 18s,Female,Short Stay / Respite,14
+2018,Highland,Over 18s,Female,Long Stay,107
+2018,Highland,Over 18s,Male,Short Stay / Respite,23
+2018,Highland,Over 18s,Male,Long Stay,121
+2018,Highland,Over 18s,Female,Short Stay / Respite,42
+2018,Highland,Over 18s,Female,Long Stay,415
+2018,Highland,Over 18s,Male,Short Stay / Respite,31
+2018,Highland,Over 18s,Male,Long Stay,248
+2018,Highland,Over 18s,Female,Short Stay / Respite,52
+2018,Highland,Over 18s,Female,Long Stay,891
+2018,Highland,Over 18s,Male,Short Stay / Respite,37
+2018,Highland,Over 18s,Male,Long Stay,310
+2018,Highland,Over 65,Female,Short Stay / Respite,108
+2018,Highland,Over 65,Female,Long Stay,1413
+2018,Highland,Over 65,Male,Short Stay / Respite,91
+2018,Highland,Over 65,Male,Long Stay,679
+2018,Inverclyde,18-64,Female,Short Stay / Respite,23
+2018,Inverclyde,18-64,Female,Long Stay,31
+2018,Inverclyde,18-64,Male,Short Stay / Respite,33
+2018,Inverclyde,18-64,Male,Long Stay,43
+2018,Inverclyde,65-74,Female,Short Stay / Respite,11
+2018,Inverclyde,65-74,Female,Long Stay,41
+2018,Inverclyde,65-74,Male,Short Stay / Respite,25
+2018,Inverclyde,65-74,Male,Long Stay,46
+2018,Inverclyde,75-84,Female,Short Stay / Respite,32
+2018,Inverclyde,75-84,Female,Long Stay,156
+2018,Inverclyde,75-84,Male,Short Stay / Respite,34
+2018,Inverclyde,75-84,Male,Long Stay,79
+2018,Inverclyde,85+,Female,Short Stay / Respite,36
+2018,Inverclyde,85+,Female,Long Stay,339
+2018,Inverclyde,85+,Male,Short Stay / Respite,23
+2018,Inverclyde,85+,Male,Long Stay,95
+2018,Inverclyde,Over 18s,Female,Short Stay / Respite,23
+2018,Inverclyde,Over 18s,Female,Long Stay,31
+2018,Inverclyde,Over 18s,Male,Short Stay / Respite,33
+2018,Inverclyde,Over 18s,Male,Long Stay,43
+2018,Inverclyde,Over 18s,Female,Short Stay / Respite,11
+2018,Inverclyde,Over 18s,Female,Long Stay,41
+2018,Inverclyde,Over 18s,Male,Short Stay / Respite,25
+2018,Inverclyde,Over 18s,Male,Long Stay,46
+2018,Inverclyde,Over 18s,Female,Short Stay / Respite,32
+2018,Inverclyde,Over 18s,Female,Long Stay,156
+2018,Inverclyde,Over 18s,Male,Short Stay / Respite,34
+2018,Inverclyde,Over 18s,Male,Long Stay,79
+2018,Inverclyde,Over 18s,Female,Short Stay / Respite,36
+2018,Inverclyde,Over 18s,Female,Long Stay,339
+2018,Inverclyde,Over 18s,Male,Short Stay / Respite,23
+2018,Inverclyde,Over 18s,Male,Long Stay,95
+2018,Inverclyde,Over 65,Female,Short Stay / Respite,79
+2018,Inverclyde,Over 65,Female,Long Stay,536
+2018,Inverclyde,Over 65,Male,Short Stay / Respite,82
+2018,Inverclyde,Over 65,Male,Long Stay,220
+2018,Midlothian,18-64,Female,Short Stay / Respite,1
+2018,Midlothian,18-64,Female,Long Stay,28
+2018,Midlothian,18-64,Male,Short Stay / Respite,6
+2018,Midlothian,18-64,Male,Long Stay,20
+2018,Midlothian,65-74,Female,Short Stay / Respite,10
+2018,Midlothian,65-74,Female,Long Stay,32
+2018,Midlothian,65-74,Male,Short Stay / Respite,14
+2018,Midlothian,65-74,Male,Long Stay,37
+2018,Midlothian,75-84,Female,Short Stay / Respite,26
+2018,Midlothian,75-84,Female,Long Stay,122
+2018,Midlothian,75-84,Male,Short Stay / Respite,31
+2018,Midlothian,75-84,Male,Long Stay,61
+2018,Midlothian,85+,Female,Short Stay / Respite,30
+2018,Midlothian,85+,Female,Long Stay,244
+2018,Midlothian,85+,Male,Short Stay / Respite,19
+2018,Midlothian,85+,Male,Long Stay,85
+2018,Midlothian,Over 18s,Female,Short Stay / Respite,1
+2018,Midlothian,Over 18s,Female,Long Stay,28
+2018,Midlothian,Over 18s,Male,Short Stay / Respite,6
+2018,Midlothian,Over 18s,Male,Long Stay,20
+2018,Midlothian,Over 18s,Female,Short Stay / Respite,10
+2018,Midlothian,Over 18s,Female,Long Stay,32
+2018,Midlothian,Over 18s,Male,Short Stay / Respite,14
+2018,Midlothian,Over 18s,Male,Long Stay,37
+2018,Midlothian,Over 18s,Female,Short Stay / Respite,26
+2018,Midlothian,Over 18s,Female,Long Stay,122
+2018,Midlothian,Over 18s,Male,Short Stay / Respite,31
+2018,Midlothian,Over 18s,Male,Long Stay,61
+2018,Midlothian,Over 18s,Female,Short Stay / Respite,30
+2018,Midlothian,Over 18s,Female,Long Stay,244
+2018,Midlothian,Over 18s,Male,Short Stay / Respite,19
+2018,Midlothian,Over 18s,Male,Long Stay,85
+2018,Midlothian,Over 65,Female,Short Stay / Respite,66
+2018,Midlothian,Over 65,Female,Long Stay,398
+2018,Midlothian,Over 65,Male,Short Stay / Respite,64
+2018,Midlothian,Over 65,Male,Long Stay,183
+2018,Moray,18-64,Female,Short Stay / Respite,4
+2018,Moray,18-64,Female,Long Stay,44
+2018,Moray,18-64,Male,Short Stay / Respite,7
+2018,Moray,18-64,Male,Long Stay,52
+2018,Moray,65-74,Female,Short Stay / Respite,10
+2018,Moray,65-74,Female,Long Stay,36
+2018,Moray,65-74,Male,Short Stay / Respite,6
+2018,Moray,65-74,Male,Long Stay,32
+2018,Moray,75-84,Female,Short Stay / Respite,22
+2018,Moray,75-84,Female,Long Stay,144
+2018,Moray,75-84,Male,Short Stay / Respite,14
+2018,Moray,75-84,Male,Long Stay,69
+2018,Moray,85+,Female,Short Stay / Respite,27
+2018,Moray,85+,Female,Long Stay,301
+2018,Moray,85+,Male,Short Stay / Respite,19
+2018,Moray,85+,Male,Long Stay,88
+2018,Moray,Over 18s,Female,Short Stay / Respite,4
+2018,Moray,Over 18s,Female,Long Stay,44
+2018,Moray,Over 18s,Male,Short Stay / Respite,7
+2018,Moray,Over 18s,Male,Long Stay,52
+2018,Moray,Over 18s,Female,Short Stay / Respite,10
+2018,Moray,Over 18s,Female,Long Stay,36
+2018,Moray,Over 18s,Male,Short Stay / Respite,6
+2018,Moray,Over 18s,Male,Long Stay,32
+2018,Moray,Over 18s,Female,Short Stay / Respite,22
+2018,Moray,Over 18s,Female,Long Stay,144
+2018,Moray,Over 18s,Male,Short Stay / Respite,14
+2018,Moray,Over 18s,Male,Long Stay,69
+2018,Moray,Over 18s,Female,Short Stay / Respite,27
+2018,Moray,Over 18s,Female,Long Stay,301
+2018,Moray,Over 18s,Male,Short Stay / Respite,19
+2018,Moray,Over 18s,Male,Long Stay,88
+2018,Moray,Over 65,Female,Short Stay / Respite,59
+2018,Moray,Over 65,Female,Long Stay,481
+2018,Moray,Over 65,Male,Short Stay / Respite,39
+2018,Moray,Over 65,Male,Long Stay,189
+2018,North Ayrshire,18-64,Female,Long Stay,53
+2018,North Ayrshire,18-64,Male,Long Stay,50
+2018,North Ayrshire,65-74,Female,Short Stay / Respite,1
+2018,North Ayrshire,65-74,Female,Long Stay,57
+2018,North Ayrshire,65-74,Male,Long Stay,57
+2018,North Ayrshire,75-84,Female,Short Stay / Respite,3
+2018,North Ayrshire,75-84,Female,Long Stay,249
+2018,North Ayrshire,75-84,Male,Short Stay / Respite,4
+2018,North Ayrshire,75-84,Male,Long Stay,113
+2018,North Ayrshire,75-84,Not Known / Unspecified,Long Stay,2
+2018,North Ayrshire,85+,Female,Short Stay / Respite,5
+2018,North Ayrshire,85+,Female,Long Stay,385
+2018,North Ayrshire,85+,Male,Short Stay / Respite,7
+2018,North Ayrshire,85+,Male,Long Stay,114
+2018,North Ayrshire,Over 18s,Female,Long Stay,53
+2018,North Ayrshire,Over 18s,Male,Long Stay,50
+2018,North Ayrshire,Over 18s,Female,Short Stay / Respite,1
+2018,North Ayrshire,Over 18s,Female,Long Stay,57
+2018,North Ayrshire,Over 18s,Male,Long Stay,57
+2018,North Ayrshire,Over 18s,Female,Short Stay / Respite,3
+2018,North Ayrshire,Over 18s,Female,Long Stay,249
+2018,North Ayrshire,Over 18s,Male,Short Stay / Respite,4
+2018,North Ayrshire,Over 18s,Male,Long Stay,113
+2018,North Ayrshire,Over 18s,Not Known / Unspecified,Long Stay,2
+2018,North Ayrshire,Over 18s,Female,Short Stay / Respite,5
+2018,North Ayrshire,Over 18s,Female,Long Stay,385
+2018,North Ayrshire,Over 18s,Male,Short Stay / Respite,7
+2018,North Ayrshire,Over 18s,Male,Long Stay,114
+2018,North Ayrshire,Over 65,Female,Short Stay / Respite,9
+2018,North Ayrshire,Over 65,Female,Long Stay,691
+2018,North Ayrshire,Over 65,Male,Short Stay / Respite,11
+2018,North Ayrshire,Over 65,Male,Long Stay,284
+2018,North Ayrshire,Over 65,Not Known / Unspecified,Long Stay,2
+2018,North Lanarkshire,18-64,Female,Short Stay / Respite,66
+2018,North Lanarkshire,18-64,Female,Long Stay,45
+2018,North Lanarkshire,18-64,Male,Short Stay / Respite,63
+2018,North Lanarkshire,18-64,Male,Long Stay,51
+2018,North Lanarkshire,65-74,Female,Short Stay / Respite,38
+2018,North Lanarkshire,65-74,Female,Long Stay,128
+2018,North Lanarkshire,65-74,Male,Short Stay / Respite,37
+2018,North Lanarkshire,65-74,Male,Long Stay,107
+2018,North Lanarkshire,75-84,Female,Short Stay / Respite,68
+2018,North Lanarkshire,75-84,Female,Long Stay,469
+2018,North Lanarkshire,75-84,Male,Short Stay / Respite,58
+2018,North Lanarkshire,75-84,Male,Long Stay,233
+2018,North Lanarkshire,85+,Female,Short Stay / Respite,84
+2018,North Lanarkshire,85+,Female,Long Stay,743
+2018,North Lanarkshire,85+,Male,Short Stay / Respite,40
+2018,North Lanarkshire,85+,Male,Long Stay,206
+2018,North Lanarkshire,Over 18s,Female,Short Stay / Respite,66
+2018,North Lanarkshire,Over 18s,Female,Long Stay,45
+2018,North Lanarkshire,Over 18s,Male,Short Stay / Respite,63
+2018,North Lanarkshire,Over 18s,Male,Long Stay,51
+2018,North Lanarkshire,Over 18s,Female,Short Stay / Respite,38
+2018,North Lanarkshire,Over 18s,Female,Long Stay,128
+2018,North Lanarkshire,Over 18s,Male,Short Stay / Respite,37
+2018,North Lanarkshire,Over 18s,Male,Long Stay,107
+2018,North Lanarkshire,Over 18s,Female,Short Stay / Respite,68
+2018,North Lanarkshire,Over 18s,Female,Long Stay,469
+2018,North Lanarkshire,Over 18s,Male,Short Stay / Respite,58
+2018,North Lanarkshire,Over 18s,Male,Long Stay,233
+2018,North Lanarkshire,Over 18s,Female,Short Stay / Respite,84
+2018,North Lanarkshire,Over 18s,Female,Long Stay,743
+2018,North Lanarkshire,Over 18s,Male,Short Stay / Respite,40
+2018,North Lanarkshire,Over 18s,Male,Long Stay,206
+2018,North Lanarkshire,Over 65,Female,Short Stay / Respite,190
+2018,North Lanarkshire,Over 65,Female,Long Stay,1340
+2018,North Lanarkshire,Over 65,Male,Short Stay / Respite,135
+2018,North Lanarkshire,Over 65,Male,Long Stay,546
+2018,Perth and Kinross,18-64,Female,Short Stay / Respite,11
+2018,Perth and Kinross,18-64,Female,Long Stay,54
+2018,Perth and Kinross,18-64,Male,Short Stay / Respite,15
+2018,Perth and Kinross,18-64,Male,Long Stay,89
+2018,Perth and Kinross,65-74,Female,Short Stay / Respite,13
+2018,Perth and Kinross,65-74,Female,Long Stay,59
+2018,Perth and Kinross,65-74,Male,Short Stay / Respite,13
+2018,Perth and Kinross,65-74,Male,Long Stay,81
+2018,Perth and Kinross,75-84,Female,Short Stay / Respite,44
+2018,Perth and Kinross,75-84,Female,Long Stay,267
+2018,Perth and Kinross,75-84,Male,Short Stay / Respite,33
+2018,Perth and Kinross,75-84,Male,Long Stay,160
+2018,Perth and Kinross,85+,Female,Short Stay / Respite,73
+2018,Perth and Kinross,85+,Female,Long Stay,676
+2018,Perth and Kinross,85+,Male,Short Stay / Respite,45
+2018,Perth and Kinross,85+,Male,Long Stay,224
+2018,Perth and Kinross,Over 18s,Female,Short Stay / Respite,11
+2018,Perth and Kinross,Over 18s,Female,Long Stay,54
+2018,Perth and Kinross,Over 18s,Male,Short Stay / Respite,15
+2018,Perth and Kinross,Over 18s,Male,Long Stay,89
+2018,Perth and Kinross,Over 18s,Female,Short Stay / Respite,13
+2018,Perth and Kinross,Over 18s,Female,Long Stay,59
+2018,Perth and Kinross,Over 18s,Male,Short Stay / Respite,13
+2018,Perth and Kinross,Over 18s,Male,Long Stay,81
+2018,Perth and Kinross,Over 18s,Female,Short Stay / Respite,44
+2018,Perth and Kinross,Over 18s,Female,Long Stay,267
+2018,Perth and Kinross,Over 18s,Male,Short Stay / Respite,33
+2018,Perth and Kinross,Over 18s,Male,Long Stay,160
+2018,Perth and Kinross,Over 18s,Female,Short Stay / Respite,73
+2018,Perth and Kinross,Over 18s,Female,Long Stay,676
+2018,Perth and Kinross,Over 18s,Male,Short Stay / Respite,45
+2018,Perth and Kinross,Over 18s,Male,Long Stay,224
+2018,Perth and Kinross,Over 65,Female,Short Stay / Respite,130
+2018,Perth and Kinross,Over 65,Female,Long Stay,1002
+2018,Perth and Kinross,Over 65,Male,Short Stay / Respite,91
+2018,Perth and Kinross,Over 65,Male,Long Stay,465
+2018,Renfrewshire,18-64,Female,Short Stay / Respite,3
+2018,Renfrewshire,18-64,Female,Long Stay,50
+2018,Renfrewshire,18-64,Male,Short Stay / Respite,1
+2018,Renfrewshire,18-64,Male,Long Stay,77
+2018,Renfrewshire,65-74,Female,Short Stay / Respite,2
+2018,Renfrewshire,65-74,Female,Long Stay,99
+2018,Renfrewshire,65-74,Male,Short Stay / Respite,2
+2018,Renfrewshire,65-74,Male,Long Stay,78
+2018,Renfrewshire,75-84,Female,Short Stay / Respite,14
+2018,Renfrewshire,75-84,Female,Long Stay,318
+2018,Renfrewshire,75-84,Male,Short Stay / Respite,8
+2018,Renfrewshire,75-84,Male,Long Stay,208
+2018,Renfrewshire,85+,Female,Short Stay / Respite,23
+2018,Renfrewshire,85+,Female,Long Stay,570
+2018,Renfrewshire,85+,Male,Short Stay / Respite,8
+2018,Renfrewshire,85+,Male,Long Stay,156
+2018,Renfrewshire,Over 18s,Female,Short Stay / Respite,3
+2018,Renfrewshire,Over 18s,Female,Long Stay,50
+2018,Renfrewshire,Over 18s,Male,Short Stay / Respite,1
+2018,Renfrewshire,Over 18s,Male,Long Stay,77
+2018,Renfrewshire,Over 18s,Female,Short Stay / Respite,2
+2018,Renfrewshire,Over 18s,Female,Long Stay,99
+2018,Renfrewshire,Over 18s,Male,Short Stay / Respite,2
+2018,Renfrewshire,Over 18s,Male,Long Stay,78
+2018,Renfrewshire,Over 18s,Female,Short Stay / Respite,14
+2018,Renfrewshire,Over 18s,Female,Long Stay,318
+2018,Renfrewshire,Over 18s,Male,Short Stay / Respite,8
+2018,Renfrewshire,Over 18s,Male,Long Stay,208
+2018,Renfrewshire,Over 18s,Female,Short Stay / Respite,23
+2018,Renfrewshire,Over 18s,Female,Long Stay,570
+2018,Renfrewshire,Over 18s,Male,Short Stay / Respite,8
+2018,Renfrewshire,Over 18s,Male,Long Stay,156
+2018,Renfrewshire,Over 65,Female,Short Stay / Respite,39
+2018,Renfrewshire,Over 65,Female,Long Stay,987
+2018,Renfrewshire,Over 65,Male,Short Stay / Respite,18
+2018,Renfrewshire,Over 65,Male,Long Stay,442
+2018,Scottish Borders,18-64,Female,Long Stay,16
+2018,Scottish Borders,18-64,Male,Long Stay,22
+2018,Scottish Borders,65-74,Female,Short Stay / Respite,1
+2018,Scottish Borders,65-74,Female,Long Stay,40
+2018,Scottish Borders,65-74,Male,Short Stay / Respite,1
+2018,Scottish Borders,65-74,Male,Long Stay,35
+2018,Scottish Borders,75-84,Female,Short Stay / Respite,5
+2018,Scottish Borders,75-84,Female,Long Stay,178
+2018,Scottish Borders,75-84,Male,Short Stay / Respite,4
+2018,Scottish Borders,75-84,Male,Long Stay,92
+2018,Scottish Borders,85+,Female,Short Stay / Respite,10
+2018,Scottish Borders,85+,Female,Long Stay,454
+2018,Scottish Borders,85+,Male,Short Stay / Respite,4
+2018,Scottish Borders,85+,Male,Long Stay,143
+2018,Scottish Borders,Over 18s,Female,Long Stay,16
+2018,Scottish Borders,Over 18s,Male,Long Stay,22
+2018,Scottish Borders,Over 18s,Female,Short Stay / Respite,1
+2018,Scottish Borders,Over 18s,Female,Long Stay,40
+2018,Scottish Borders,Over 18s,Male,Short Stay / Respite,1
+2018,Scottish Borders,Over 18s,Male,Long Stay,35
+2018,Scottish Borders,Over 18s,Female,Short Stay / Respite,5
+2018,Scottish Borders,Over 18s,Female,Long Stay,178
+2018,Scottish Borders,Over 18s,Male,Short Stay / Respite,4
+2018,Scottish Borders,Over 18s,Male,Long Stay,92
+2018,Scottish Borders,Over 18s,Female,Short Stay / Respite,10
+2018,Scottish Borders,Over 18s,Female,Long Stay,454
+2018,Scottish Borders,Over 18s,Male,Short Stay / Respite,4
+2018,Scottish Borders,Over 18s,Male,Long Stay,143
+2018,Scottish Borders,Over 65,Female,Short Stay / Respite,16
+2018,Scottish Borders,Over 65,Female,Long Stay,672
+2018,Scottish Borders,Over 65,Male,Short Stay / Respite,9
+2018,Scottish Borders,Over 65,Male,Long Stay,270
+2018,Shetland,18-64,Female,Short Stay / Respite,4
+2018,Shetland,18-64,Female,Long Stay,8
+2018,Shetland,18-64,Male,Short Stay / Respite,4
+2018,Shetland,18-64,Male,Long Stay,3
+2018,Shetland,65-74,Female,Short Stay / Respite,5
+2018,Shetland,65-74,Female,Long Stay,10
+2018,Shetland,65-74,Male,Short Stay / Respite,7
+2018,Shetland,65-74,Male,Long Stay,11
+2018,Shetland,75-84,Female,Short Stay / Respite,19
+2018,Shetland,75-84,Female,Long Stay,29
+2018,Shetland,75-84,Male,Short Stay / Respite,12
+2018,Shetland,75-84,Male,Long Stay,28
+2018,Shetland,85+,Female,Short Stay / Respite,32
+2018,Shetland,85+,Female,Long Stay,70
+2018,Shetland,85+,Male,Short Stay / Respite,16
+2018,Shetland,85+,Male,Long Stay,34
+2018,Shetland,Over 18s,Female,Short Stay / Respite,4
+2018,Shetland,Over 18s,Female,Long Stay,8
+2018,Shetland,Over 18s,Male,Short Stay / Respite,4
+2018,Shetland,Over 18s,Male,Long Stay,3
+2018,Shetland,Over 18s,Female,Short Stay / Respite,5
+2018,Shetland,Over 18s,Female,Long Stay,10
+2018,Shetland,Over 18s,Male,Short Stay / Respite,7
+2018,Shetland,Over 18s,Male,Long Stay,11
+2018,Shetland,Over 18s,Female,Short Stay / Respite,19
+2018,Shetland,Over 18s,Female,Long Stay,29
+2018,Shetland,Over 18s,Male,Short Stay / Respite,12
+2018,Shetland,Over 18s,Male,Long Stay,28
+2018,Shetland,Over 18s,Female,Short Stay / Respite,32
+2018,Shetland,Over 18s,Female,Long Stay,70
+2018,Shetland,Over 18s,Male,Short Stay / Respite,16
+2018,Shetland,Over 18s,Male,Long Stay,34
+2018,Shetland,Over 65,Female,Short Stay / Respite,56
+2018,Shetland,Over 65,Female,Long Stay,109
+2018,Shetland,Over 65,Male,Short Stay / Respite,35
+2018,Shetland,Over 65,Male,Long Stay,73
+2018,South Ayrshire,18-64,Female,Short Stay / Respite,23
+2018,South Ayrshire,18-64,Female,Long Stay,38
+2018,South Ayrshire,18-64,Male,Short Stay / Respite,36
+2018,South Ayrshire,18-64,Male,Long Stay,38
+2018,South Ayrshire,65-74,Female,Short Stay / Respite,10
+2018,South Ayrshire,65-74,Female,Long Stay,62
+2018,South Ayrshire,65-74,Male,Short Stay / Respite,17
+2018,South Ayrshire,65-74,Male,Long Stay,64
+2018,South Ayrshire,75-84,Female,Short Stay / Respite,30
+2018,South Ayrshire,75-84,Female,Long Stay,247
+2018,South Ayrshire,75-84,Male,Short Stay / Respite,42
+2018,South Ayrshire,75-84,Male,Long Stay,153
+2018,South Ayrshire,85+,Female,Short Stay / Respite,53
+2018,South Ayrshire,85+,Female,Long Stay,536
+2018,South Ayrshire,85+,Male,Short Stay / Respite,27
+2018,South Ayrshire,85+,Male,Long Stay,168
+2018,South Ayrshire,Over 18s,Female,Short Stay / Respite,23
+2018,South Ayrshire,Over 18s,Female,Long Stay,38
+2018,South Ayrshire,Over 18s,Male,Short Stay / Respite,36
+2018,South Ayrshire,Over 18s,Male,Long Stay,38
+2018,South Ayrshire,Over 18s,Female,Short Stay / Respite,10
+2018,South Ayrshire,Over 18s,Female,Long Stay,62
+2018,South Ayrshire,Over 18s,Male,Short Stay / Respite,17
+2018,South Ayrshire,Over 18s,Male,Long Stay,64
+2018,South Ayrshire,Over 18s,Female,Short Stay / Respite,30
+2018,South Ayrshire,Over 18s,Female,Long Stay,247
+2018,South Ayrshire,Over 18s,Male,Short Stay / Respite,42
+2018,South Ayrshire,Over 18s,Male,Long Stay,153
+2018,South Ayrshire,Over 18s,Female,Short Stay / Respite,53
+2018,South Ayrshire,Over 18s,Female,Long Stay,536
+2018,South Ayrshire,Over 18s,Male,Short Stay / Respite,27
+2018,South Ayrshire,Over 18s,Male,Long Stay,168
+2018,South Ayrshire,Over 65,Female,Short Stay / Respite,93
+2018,South Ayrshire,Over 65,Female,Long Stay,845
+2018,South Ayrshire,Over 65,Male,Short Stay / Respite,86
+2018,South Ayrshire,Over 65,Male,Long Stay,385
+2018,South Lanarkshire,18-64,Female,Short Stay / Respite,2
+2018,South Lanarkshire,18-64,Female,Long Stay,110
+2018,South Lanarkshire,18-64,Male,Short Stay / Respite,5
+2018,South Lanarkshire,18-64,Male,Long Stay,145
+2018,South Lanarkshire,65-74,Female,Short Stay / Respite,5
+2018,South Lanarkshire,65-74,Female,Long Stay,142
+2018,South Lanarkshire,65-74,Male,Long Stay,144
+2018,South Lanarkshire,75-84,Female,Short Stay / Respite,10
+2018,South Lanarkshire,75-84,Female,Long Stay,517
+2018,South Lanarkshire,75-84,Male,Short Stay / Respite,3
+2018,South Lanarkshire,75-84,Male,Long Stay,278
+2018,South Lanarkshire,85+,Female,Short Stay / Respite,19
+2018,South Lanarkshire,85+,Female,Long Stay,1002
+2018,South Lanarkshire,85+,Male,Short Stay / Respite,12
+2018,South Lanarkshire,85+,Male,Long Stay,301
+2018,South Lanarkshire,Over 18s,Female,Short Stay / Respite,2
+2018,South Lanarkshire,Over 18s,Female,Long Stay,110
+2018,South Lanarkshire,Over 18s,Male,Short Stay / Respite,5
+2018,South Lanarkshire,Over 18s,Male,Long Stay,145
+2018,South Lanarkshire,Over 18s,Female,Short Stay / Respite,5
+2018,South Lanarkshire,Over 18s,Female,Long Stay,142
+2018,South Lanarkshire,Over 18s,Male,Long Stay,144
+2018,South Lanarkshire,Over 18s,Female,Short Stay / Respite,10
+2018,South Lanarkshire,Over 18s,Female,Long Stay,517
+2018,South Lanarkshire,Over 18s,Male,Short Stay / Respite,3
+2018,South Lanarkshire,Over 18s,Male,Long Stay,278
+2018,South Lanarkshire,Over 18s,Female,Short Stay / Respite,19
+2018,South Lanarkshire,Over 18s,Female,Long Stay,1002
+2018,South Lanarkshire,Over 18s,Male,Short Stay / Respite,12
+2018,South Lanarkshire,Over 18s,Male,Long Stay,301
+2018,South Lanarkshire,Over 65,Female,Short Stay / Respite,34
+2018,South Lanarkshire,Over 65,Female,Long Stay,1661
+2018,South Lanarkshire,Over 65,Male,Short Stay / Respite,15
+2018,South Lanarkshire,Over 65,Male,Long Stay,723
+2018,Stirling,18-64,Female,Short Stay / Respite,8
+2018,Stirling,18-64,Female,Long Stay,30
+2018,Stirling,18-64,Male,Short Stay / Respite,11
+2018,Stirling,18-64,Male,Long Stay,65
+2018,Stirling,65-74,Female,Short Stay / Respite,6
+2018,Stirling,65-74,Female,Long Stay,35
+2018,Stirling,65-74,Male,Short Stay / Respite,6
+2018,Stirling,65-74,Male,Long Stay,29
+2018,Stirling,75-84,Female,Short Stay / Respite,25
+2018,Stirling,75-84,Female,Long Stay,143
+2018,Stirling,75-84,Male,Short Stay / Respite,26
+2018,Stirling,75-84,Male,Long Stay,87
+2018,Stirling,85+,Female,Short Stay / Respite,35
+2018,Stirling,85+,Female,Long Stay,278
+2018,Stirling,85+,Male,Short Stay / Respite,19
+2018,Stirling,85+,Male,Long Stay,102
+2018,Stirling,Over 18s,Female,Short Stay / Respite,8
+2018,Stirling,Over 18s,Female,Long Stay,30
+2018,Stirling,Over 18s,Male,Short Stay / Respite,11
+2018,Stirling,Over 18s,Male,Long Stay,65
+2018,Stirling,Over 18s,Female,Short Stay / Respite,6
+2018,Stirling,Over 18s,Female,Long Stay,35
+2018,Stirling,Over 18s,Male,Short Stay / Respite,6
+2018,Stirling,Over 18s,Male,Long Stay,29
+2018,Stirling,Over 18s,Female,Short Stay / Respite,25
+2018,Stirling,Over 18s,Female,Long Stay,143
+2018,Stirling,Over 18s,Male,Short Stay / Respite,26
+2018,Stirling,Over 18s,Male,Long Stay,87
+2018,Stirling,Over 18s,Female,Short Stay / Respite,35
+2018,Stirling,Over 18s,Female,Long Stay,278
+2018,Stirling,Over 18s,Male,Short Stay / Respite,19
+2018,Stirling,Over 18s,Male,Long Stay,102
+2018,Stirling,Over 65,Female,Short Stay / Respite,66
+2018,Stirling,Over 65,Female,Long Stay,456
+2018,Stirling,Over 65,Male,Short Stay / Respite,51
+2018,Stirling,Over 65,Male,Long Stay,218
+2018,West Dunbartonshire,18-64,Female,Long Stay,21
+2018,West Dunbartonshire,18-64,Male,Short Stay / Respite,1
+2018,West Dunbartonshire,18-64,Male,Long Stay,45
+2018,West Dunbartonshire,65-74,Female,Short Stay / Respite,2
+2018,West Dunbartonshire,65-74,Female,Long Stay,45
+2018,West Dunbartonshire,65-74,Male,Short Stay / Respite,3
+2018,West Dunbartonshire,65-74,Male,Long Stay,48
+2018,West Dunbartonshire,75-84,Female,Short Stay / Respite,6
+2018,West Dunbartonshire,75-84,Female,Long Stay,189
+2018,West Dunbartonshire,75-84,Male,Short Stay / Respite,7
+2018,West Dunbartonshire,75-84,Male,Long Stay,89
+2018,West Dunbartonshire,85+,Female,Short Stay / Respite,5
+2018,West Dunbartonshire,85+,Female,Long Stay,329
+2018,West Dunbartonshire,85+,Male,Short Stay / Respite,3
+2018,West Dunbartonshire,85+,Male,Long Stay,81
+2018,West Dunbartonshire,Over 18s,Female,Long Stay,21
+2018,West Dunbartonshire,Over 18s,Male,Short Stay / Respite,1
+2018,West Dunbartonshire,Over 18s,Male,Long Stay,45
+2018,West Dunbartonshire,Over 18s,Female,Short Stay / Respite,2
+2018,West Dunbartonshire,Over 18s,Female,Long Stay,45
+2018,West Dunbartonshire,Over 18s,Male,Short Stay / Respite,3
+2018,West Dunbartonshire,Over 18s,Male,Long Stay,48
+2018,West Dunbartonshire,Over 18s,Female,Short Stay / Respite,6
+2018,West Dunbartonshire,Over 18s,Female,Long Stay,189
+2018,West Dunbartonshire,Over 18s,Male,Short Stay / Respite,7
+2018,West Dunbartonshire,Over 18s,Male,Long Stay,89
+2018,West Dunbartonshire,Over 18s,Female,Short Stay / Respite,5
+2018,West Dunbartonshire,Over 18s,Female,Long Stay,329
+2018,West Dunbartonshire,Over 18s,Male,Short Stay / Respite,3
+2018,West Dunbartonshire,Over 18s,Male,Long Stay,81
+2018,West Dunbartonshire,Over 65,Female,Short Stay / Respite,13
+2018,West Dunbartonshire,Over 65,Female,Long Stay,563
+2018,West Dunbartonshire,Over 65,Male,Short Stay / Respite,13
+2018,West Dunbartonshire,Over 65,Male,Long Stay,218
+2018,West Lothian,18-64,Female,Short Stay / Respite,51
+2018,West Lothian,18-64,Female,Long Stay,64
+2018,West Lothian,18-64,Male,Short Stay / Respite,45
+2018,West Lothian,18-64,Male,Long Stay,75
+2018,West Lothian,65-74,Female,Short Stay / Respite,6
+2018,West Lothian,65-74,Female,Long Stay,67
+2018,West Lothian,65-74,Male,Short Stay / Respite,10
+2018,West Lothian,65-74,Male,Long Stay,50
+2018,West Lothian,75-84,Female,Short Stay / Respite,15
+2018,West Lothian,75-84,Female,Long Stay,244
+2018,West Lothian,75-84,Male,Short Stay / Respite,24
+2018,West Lothian,75-84,Male,Long Stay,136
+2018,West Lothian,85+,Female,Short Stay / Respite,16
+2018,West Lothian,85+,Female,Long Stay,371
+2018,West Lothian,85+,Male,Short Stay / Respite,14
+2018,West Lothian,85+,Male,Long Stay,151
+2018,West Lothian,85+,Not Known / Unspecified,Long Stay,1
+2018,West Lothian,Over 18s,Female,Short Stay / Respite,51
+2018,West Lothian,Over 18s,Female,Long Stay,64
+2018,West Lothian,Over 18s,Male,Short Stay / Respite,45
+2018,West Lothian,Over 18s,Male,Long Stay,75
+2018,West Lothian,Over 18s,Female,Short Stay / Respite,6
+2018,West Lothian,Over 18s,Female,Long Stay,67
+2018,West Lothian,Over 18s,Male,Short Stay / Respite,10
+2018,West Lothian,Over 18s,Male,Long Stay,50
+2018,West Lothian,Over 18s,Female,Short Stay / Respite,15
+2018,West Lothian,Over 18s,Female,Long Stay,244
+2018,West Lothian,Over 18s,Male,Short Stay / Respite,24
+2018,West Lothian,Over 18s,Male,Long Stay,136
+2018,West Lothian,Over 18s,Female,Short Stay / Respite,16
+2018,West Lothian,Over 18s,Female,Long Stay,371
+2018,West Lothian,Over 18s,Male,Short Stay / Respite,14
+2018,West Lothian,Over 18s,Male,Long Stay,151
+2018,West Lothian,Over 18s,Not Known / Unspecified,Long Stay,1
+2018,West Lothian,Over 65,Female,Short Stay / Respite,37
+2018,West Lothian,Over 65,Female,Long Stay,682
+2018,West Lothian,Over 65,Male,Short Stay / Respite,48
+2018,West Lothian,Over 65,Male,Long Stay,337
+2018,West Lothian,Over 65,Not Known / Unspecified,Long Stay,1
+2018,Scotland,18-64,Female,Short Stay / Respite,626
+2018,Scotland,18-64,Female,Long Stay,1719
+2018,Scotland,18-64,Male,Short Stay / Respite,785
+2018,Scotland,18-64,Male,Long Stay,2492
+2018,Scotland,65-74,Female,Short Stay / Respite,312
+2018,Scotland,65-74,Female,Long Stay,2429
+2018,Scotland,65-74,Male,Short Stay / Respite,374
+2018,Scotland,65-74,Male,Long Stay,2406
+2018,Scotland,75-84,Female,Short Stay / Respite,867
+2018,Scotland,75-84,Female,Long Stay,8722
+2018,Scotland,75-84,Male,Short Stay / Respite,795
+2018,Scotland,75-84,Male,Long Stay,4942
+2018,Scotland,75-84,Not Known / Unspecified,Short Stay / Respite,5
+2018,Scotland,75-84,Not Known / Unspecified,Long Stay,8
+2018,Scotland,85+,Female,Short Stay / Respite,1259
+2018,Scotland,85+,Female,Long Stay,17563
+2018,Scotland,85+,Male,Short Stay / Respite,733
+2018,Scotland,85+,Male,Long Stay,5550
+2018,Scotland,85+,Not Known / Unspecified,Short Stay / Respite,2
+2018,Scotland,85+,Not Known / Unspecified,Long Stay,14
+2018,Scotland,Over 18s,Female,Short Stay / Respite,3064
+2018,Scotland,Over 18s,Female,Long Stay,30433
+2018,Scotland,Over 18s,Male,Short Stay / Respite,2687
+2018,Scotland,Over 18s,Male,Long Stay,15390
+2018,Scotland,Over 18s,Not Known / Unspecified,Short Stay / Respite,7
+2018,Scotland,Over 18s,Not Known / Unspecified,Long Stay,22
+2018,Scotland,Over 65,Female,Short Stay / Respite,2438
+2018,Scotland,Over 65,Female,Long Stay,28714
+2018,Scotland,Over 65,Male,Short Stay / Respite,1902
+2018,Scotland,Over 65,Male,Long Stay,12898
+2018,Scotland,Over 65,Not Known / Unspecified,Short Stay / Respite,7
+2018,Scotland,Over 65,Not Known / Unspecified,Long Stay,22

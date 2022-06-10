@@ -1,0 +1,876 @@
+financial_year,sending_location,age_group,stay_type,median_los,scotland_median_los
+2017/18,Scotland (All Areas Submitted),All Ages,Long Stay,425,425
+2017/18,Scotland (All Areas Submitted),0-17 years,Long Stay,100,100
+2017/18,Scotland (All Areas Submitted),18-64 years,Long Stay,365,365
+2017/18,Scotland (All Areas Submitted),65-74 years,Long Stay,300,300
+2017/18,Scotland (All Areas Submitted),75-84 years,Long Stay,360,360
+2017/18,Scotland (All Areas Submitted),85+ years,Long Stay,480,480
+2017/18,Scotland (All Areas Submitted),Unknown,Long Stay,0,0
+2017/18,Aberdeen City,All Ages,Long Stay,360,425
+2017/18,Aberdeen City,0-17 years,Long Stay,65,100
+2017/18,Aberdeen City,18-64 years,Long Stay,305,365
+2017/18,Aberdeen City,65-74 years,Long Stay,150,300
+2017/18,Aberdeen City,75-84 years,Long Stay,360,360
+2017/18,Aberdeen City,85+ years,Long Stay,430,480
+2017/18,Aberdeen City,Unknown,Long Stay,0,0
+2017/18,Aberdeenshire,All Ages,Long Stay,390,425
+2017/18,Aberdeenshire,0-17 years,Long Stay,0,100
+2017/18,Aberdeenshire,18-64 years,Long Stay,675,365
+2017/18,Aberdeenshire,65-74 years,Long Stay,485,300
+2017/18,Aberdeenshire,75-84 years,Long Stay,210,360
+2017/18,Aberdeenshire,85+ years,Long Stay,465,480
+2017/18,Aberdeenshire,Unknown,Long Stay,0,0
+2017/18,Angus,All Ages,Long Stay,360,425
+2017/18,Angus,0-17 years,Long Stay,0,100
+2017/18,Angus,18-64 years,Long Stay,555,365
+2017/18,Angus,65-74 years,Long Stay,255,300
+2017/18,Angus,75-84 years,Long Stay,400,360
+2017/18,Angus,85+ years,Long Stay,375,480
+2017/18,Angus,Unknown,Long Stay,0,0
+2017/18,Argyll and Bute,All Ages,Long Stay,390,425
+2017/18,Argyll and Bute,0-17 years,Long Stay,0,100
+2017/18,Argyll and Bute,18-64 years,Long Stay,275,365
+2017/18,Argyll and Bute,65-74 years,Long Stay,580,300
+2017/18,Argyll and Bute,75-84 years,Long Stay,265,360
+2017/18,Argyll and Bute,85+ years,Long Stay,470,480
+2017/18,Argyll and Bute,Unknown,Long Stay,0,0
+2017/18,City of Edinburgh,All Ages,Long Stay,525,425
+2017/18,City of Edinburgh,0-17 years,Long Stay,0,100
+2017/18,City of Edinburgh,18-64 years,Long Stay,660,365
+2017/18,City of Edinburgh,65-74 years,Long Stay,250,300
+2017/18,City of Edinburgh,75-84 years,Long Stay,510,360
+2017/18,City of Edinburgh,85+ years,Long Stay,555,480
+2017/18,City of Edinburgh,Unknown,Long Stay,0,0
+2017/18,Clackmannanshire,All Ages,Long Stay,380,425
+2017/18,Clackmannanshire,0-17 years,Long Stay,0,100
+2017/18,Clackmannanshire,18-64 years,Long Stay,570,365
+2017/18,Clackmannanshire,65-74 years,Long Stay,45,300
+2017/18,Clackmannanshire,75-84 years,Long Stay,125,360
+2017/18,Clackmannanshire,85+ years,Long Stay,605,480
+2017/18,Clackmannanshire,Unknown,Long Stay,0,0
+2017/18,Dumfries and Galloway,All Ages,Long Stay,465,425
+2017/18,Dumfries and Galloway,0-17 years,Long Stay,1060,100
+2017/18,Dumfries and Galloway,18-64 years,Long Stay,415,365
+2017/18,Dumfries and Galloway,65-74 years,Long Stay,395,300
+2017/18,Dumfries and Galloway,75-84 years,Long Stay,295,360
+2017/18,Dumfries and Galloway,85+ years,Long Stay,495,480
+2017/18,Dumfries and Galloway,Unknown,Long Stay,0,0
+2017/18,Dundee City,All Ages,Long Stay,640,425
+2017/18,Dundee City,0-17 years,Long Stay,0,100
+2017/18,Dundee City,18-64 years,Long Stay,700,365
+2017/18,Dundee City,65-74 years,Long Stay,490,300
+2017/18,Dundee City,75-84 years,Long Stay,685,360
+2017/18,Dundee City,85+ years,Long Stay,640,480
+2017/18,Dundee City,Unknown,Long Stay,0,0
+2017/18,East Ayrshire,All Ages,Long Stay,370,425
+2017/18,East Ayrshire,0-17 years,Long Stay,0,100
+2017/18,East Ayrshire,18-64 years,Long Stay,0,365
+2017/18,East Ayrshire,65-74 years,Long Stay,380,300
+2017/18,East Ayrshire,75-84 years,Long Stay,215,360
+2017/18,East Ayrshire,85+ years,Long Stay,385,480
+2017/18,East Ayrshire,Unknown,Long Stay,0,0
+2017/18,East Dunbartonshire,All Ages,Long Stay,590,425
+2017/18,East Dunbartonshire,0-17 years,Long Stay,0,100
+2017/18,East Dunbartonshire,18-64 years,Long Stay,380,365
+2017/18,East Dunbartonshire,65-74 years,Long Stay,630,300
+2017/18,East Dunbartonshire,75-84 years,Long Stay,335,360
+2017/18,East Dunbartonshire,85+ years,Long Stay,720,480
+2017/18,East Dunbartonshire,Unknown,Long Stay,0,0
+2017/18,East Lothian,All Ages,Long Stay,675,425
+2017/18,East Lothian,0-17 years,Long Stay,0,100
+2017/18,East Lothian,18-64 years,Long Stay,895,365
+2017/18,East Lothian,65-74 years,Long Stay,690,300
+2017/18,East Lothian,75-84 years,Long Stay,465,360
+2017/18,East Lothian,85+ years,Long Stay,685,480
+2017/18,East Lothian,Unknown,Long Stay,0,0
+2017/18,East Renfrewshire,All Ages,Long Stay,740,425
+2017/18,East Renfrewshire,0-17 years,Long Stay,0,100
+2017/18,East Renfrewshire,18-64 years,Long Stay,0,365
+2017/18,East Renfrewshire,65-74 years,Long Stay,775,300
+2017/18,East Renfrewshire,75-84 years,Long Stay,565,360
+2017/18,East Renfrewshire,85+ years,Long Stay,710,480
+2017/18,East Renfrewshire,Unknown,Long Stay,0,0
+2017/18,Falkirk,All Ages,Long Stay,235,425
+2017/18,Falkirk,0-17 years,Long Stay,0,100
+2017/18,Falkirk,18-64 years,Long Stay,240,365
+2017/18,Falkirk,65-74 years,Long Stay,230,300
+2017/18,Falkirk,75-84 years,Long Stay,250,360
+2017/18,Falkirk,85+ years,Long Stay,225,480
+2017/18,Falkirk,Unknown,Long Stay,0,0
+2017/18,Fife,All Ages,Long Stay,460,425
+2017/18,Fife,0-17 years,Long Stay,50,100
+2017/18,Fife,18-64 years,Long Stay,445,365
+2017/18,Fife,65-74 years,Long Stay,195,300
+2017/18,Fife,75-84 years,Long Stay,380,360
+2017/18,Fife,85+ years,Long Stay,500,480
+2017/18,Fife,Unknown,Long Stay,0,0
+2017/18,Highland,All Ages,Long Stay,570,425
+2017/18,Highland,0-17 years,Long Stay,0,100
+2017/18,Highland,18-64 years,Long Stay,575,365
+2017/18,Highland,65-74 years,Long Stay,355,300
+2017/18,Highland,75-84 years,Long Stay,490,360
+2017/18,Highland,85+ years,Long Stay,590,480
+2017/18,Highland,Unknown,Long Stay,0,0
+2017/18,Inverclyde,All Ages,Long Stay,370,425
+2017/18,Inverclyde,0-17 years,Long Stay,0,100
+2017/18,Inverclyde,18-64 years,Long Stay,1005,365
+2017/18,Inverclyde,65-74 years,Long Stay,370,300
+2017/18,Inverclyde,75-84 years,Long Stay,415,360
+2017/18,Inverclyde,85+ years,Long Stay,355,480
+2017/18,Inverclyde,Unknown,Long Stay,0,0
+2017/18,Midlothian,All Ages,Long Stay,265,425
+2017/18,Midlothian,0-17 years,Long Stay,240,100
+2017/18,Midlothian,18-64 years,Long Stay,225,365
+2017/18,Midlothian,65-74 years,Long Stay,175,300
+2017/18,Midlothian,75-84 years,Long Stay,110,360
+2017/18,Midlothian,85+ years,Long Stay,535,480
+2017/18,Midlothian,Unknown,Long Stay,0,0
+2017/18,Moray,All Ages,Long Stay,400,425
+2017/18,Moray,0-17 years,Long Stay,0,100
+2017/18,Moray,18-64 years,Long Stay,740,365
+2017/18,Moray,65-74 years,Long Stay,315,300
+2017/18,Moray,75-84 years,Long Stay,445,360
+2017/18,Moray,85+ years,Long Stay,390,480
+2017/18,Moray,Unknown,Long Stay,0,0
+2017/18,North Ayrshire,All Ages,Long Stay,665,425
+2017/18,North Ayrshire,0-17 years,Long Stay,0,100
+2017/18,North Ayrshire,18-64 years,Long Stay,815,365
+2017/18,North Ayrshire,65-74 years,Long Stay,270,300
+2017/18,North Ayrshire,75-84 years,Long Stay,490,360
+2017/18,North Ayrshire,85+ years,Long Stay,710,480
+2017/18,North Ayrshire,Unknown,Long Stay,0,0
+2017/18,North Lanarkshire,All Ages,Long Stay,580,425
+2017/18,North Lanarkshire,0-17 years,Long Stay,0,100
+2017/18,North Lanarkshire,18-64 years,Long Stay,45,365
+2017/18,North Lanarkshire,65-74 years,Long Stay,620,300
+2017/18,North Lanarkshire,75-84 years,Long Stay,655,360
+2017/18,North Lanarkshire,85+ years,Long Stay,545,480
+2017/18,North Lanarkshire,Unknown,Long Stay,0,0
+2017/18,Orkney Islands,All Ages,Long Stay,625,425
+2017/18,Orkney Islands,0-17 years,Long Stay,0,100
+2017/18,Orkney Islands,18-64 years,Long Stay,0,365
+2017/18,Orkney Islands,65-74 years,Long Stay,0,300
+2017/18,Orkney Islands,75-84 years,Long Stay,360,360
+2017/18,Orkney Islands,85+ years,Long Stay,695,480
+2017/18,Orkney Islands,Unknown,Long Stay,0,0
+2017/18,Perth and Kinross,All Ages,Long Stay,385,425
+2017/18,Perth and Kinross,0-17 years,Long Stay,0,100
+2017/18,Perth and Kinross,18-64 years,Long Stay,275,365
+2017/18,Perth and Kinross,65-74 years,Long Stay,280,300
+2017/18,Perth and Kinross,75-84 years,Long Stay,280,360
+2017/18,Perth and Kinross,85+ years,Long Stay,455,480
+2017/18,Perth and Kinross,Unknown,Long Stay,0,0
+2017/18,Renfrewshire,All Ages,Long Stay,480,425
+2017/18,Renfrewshire,0-17 years,Long Stay,0,100
+2017/18,Renfrewshire,18-64 years,Long Stay,360,365
+2017/18,Renfrewshire,65-74 years,Long Stay,350,300
+2017/18,Renfrewshire,75-84 years,Long Stay,465,360
+2017/18,Renfrewshire,85+ years,Long Stay,620,480
+2017/18,Renfrewshire,Unknown,Long Stay,0,0
+2017/18,Scottish Borders,All Ages,Long Stay,420,425
+2017/18,Scottish Borders,0-17 years,Long Stay,0,100
+2017/18,Scottish Borders,18-64 years,Long Stay,0,365
+2017/18,Scottish Borders,65-74 years,Long Stay,855,300
+2017/18,Scottish Borders,75-84 years,Long Stay,325,360
+2017/18,Scottish Borders,85+ years,Long Stay,505,480
+2017/18,Scottish Borders,Unknown,Long Stay,0,0
+2017/18,Shetland Islands,All Ages,Long Stay,265,425
+2017/18,Shetland Islands,0-17 years,Long Stay,0,100
+2017/18,Shetland Islands,18-64 years,Long Stay,0,365
+2017/18,Shetland Islands,65-74 years,Long Stay,155,300
+2017/18,Shetland Islands,75-84 years,Long Stay,240,360
+2017/18,Shetland Islands,85+ years,Long Stay,290,480
+2017/18,Shetland Islands,Unknown,Long Stay,0,0
+2017/18,South Ayrshire,All Ages,Long Stay,235,425
+2017/18,South Ayrshire,0-17 years,Long Stay,0,100
+2017/18,South Ayrshire,18-64 years,Long Stay,365,365
+2017/18,South Ayrshire,65-74 years,Long Stay,0,300
+2017/18,South Ayrshire,75-84 years,Long Stay,980,360
+2017/18,South Ayrshire,85+ years,Long Stay,95,480
+2017/18,South Ayrshire,Unknown,Long Stay,0,0
+2017/18,South Lanarkshire,All Ages,Long Stay,515,425
+2017/18,South Lanarkshire,0-17 years,Long Stay,0,100
+2017/18,South Lanarkshire,18-64 years,Long Stay,335,365
+2017/18,South Lanarkshire,65-74 years,Long Stay,340,300
+2017/18,South Lanarkshire,75-84 years,Long Stay,440,360
+2017/18,South Lanarkshire,85+ years,Long Stay,645,480
+2017/18,South Lanarkshire,Unknown,Long Stay,0,0
+2017/18,Stirling,All Ages,Long Stay,55,425
+2017/18,Stirling,0-17 years,Long Stay,0,100
+2017/18,Stirling,18-64 years,Long Stay,0,365
+2017/18,Stirling,65-74 years,Long Stay,45,300
+2017/18,Stirling,75-84 years,Long Stay,50,360
+2017/18,Stirling,85+ years,Long Stay,65,480
+2017/18,Stirling,Unknown,Long Stay,0,0
+2017/18,West Dunbartonshire,All Ages,Long Stay,675,425
+2017/18,West Dunbartonshire,0-17 years,Long Stay,0,100
+2017/18,West Dunbartonshire,18-64 years,Long Stay,1230,365
+2017/18,West Dunbartonshire,65-74 years,Long Stay,690,300
+2017/18,West Dunbartonshire,75-84 years,Long Stay,390,360
+2017/18,West Dunbartonshire,85+ years,Long Stay,755,480
+2017/18,West Dunbartonshire,Unknown,Long Stay,0,0
+2017/18,West Lothian,All Ages,Long Stay,440,425
+2017/18,West Lothian,0-17 years,Long Stay,0,100
+2017/18,West Lothian,18-64 years,Long Stay,150,365
+2017/18,West Lothian,65-74 years,Long Stay,380,300
+2017/18,West Lothian,75-84 years,Long Stay,385,360
+2017/18,West Lothian,85+ years,Long Stay,650,480
+2017/18,West Lothian,Unknown,Long Stay,0,0
+2018/19,Scotland (All Areas Submitted),All Ages,Long Stay,445,445
+2018/19,Scotland (All Areas Submitted),0-17 years,Long Stay,265,265
+2018/19,Scotland (All Areas Submitted),18-64 years,Long Stay,320,320
+2018/19,Scotland (All Areas Submitted),65-74 years,Long Stay,330,330
+2018/19,Scotland (All Areas Submitted),75-84 years,Long Stay,395,395
+2018/19,Scotland (All Areas Submitted),85+ years,Long Stay,505,505
+2018/19,Scotland (All Areas Submitted),Unknown,Long Stay,45,45
+2018/19,Aberdeen City,All Ages,Long Stay,450,445
+2018/19,Aberdeen City,0-17 years,Long Stay,280,265
+2018/19,Aberdeen City,18-64 years,Long Stay,420,320
+2018/19,Aberdeen City,65-74 years,Long Stay,310,330
+2018/19,Aberdeen City,75-84 years,Long Stay,465,395
+2018/19,Aberdeen City,85+ years,Long Stay,460,505
+2018/19,Aberdeen City,Unknown,Long Stay,0,45
+2018/19,Aberdeenshire,All Ages,Long Stay,370,445
+2018/19,Aberdeenshire,0-17 years,Long Stay,0,265
+2018/19,Aberdeenshire,18-64 years,Long Stay,425,320
+2018/19,Aberdeenshire,65-74 years,Long Stay,280,330
+2018/19,Aberdeenshire,75-84 years,Long Stay,310,395
+2018/19,Aberdeenshire,85+ years,Long Stay,415,505
+2018/19,Aberdeenshire,Unknown,Long Stay,0,45
+2018/19,Angus,All Ages,Long Stay,400,445
+2018/19,Angus,0-17 years,Long Stay,0,265
+2018/19,Angus,18-64 years,Long Stay,875,320
+2018/19,Angus,65-74 years,Long Stay,315,330
+2018/19,Angus,75-84 years,Long Stay,310,395
+2018/19,Angus,85+ years,Long Stay,415,505
+2018/19,Angus,Unknown,Long Stay,0,45
+2018/19,Argyll and Bute,All Ages,Long Stay,445,445
+2018/19,Argyll and Bute,0-17 years,Long Stay,0,265
+2018/19,Argyll and Bute,18-64 years,Long Stay,85,320
+2018/19,Argyll and Bute,65-74 years,Long Stay,205,330
+2018/19,Argyll and Bute,75-84 years,Long Stay,370,395
+2018/19,Argyll and Bute,85+ years,Long Stay,590,505
+2018/19,Argyll and Bute,Unknown,Long Stay,0,45
+2018/19,City of Edinburgh,All Ages,Long Stay,435,445
+2018/19,City of Edinburgh,0-17 years,Long Stay,0,265
+2018/19,City of Edinburgh,18-64 years,Long Stay,300,320
+2018/19,City of Edinburgh,65-74 years,Long Stay,380,330
+2018/19,City of Edinburgh,75-84 years,Long Stay,390,395
+2018/19,City of Edinburgh,85+ years,Long Stay,475,505
+2018/19,City of Edinburgh,Unknown,Long Stay,0,45
+2018/19,Clackmannanshire,All Ages,Long Stay,485,445
+2018/19,Clackmannanshire,0-17 years,Long Stay,0,265
+2018/19,Clackmannanshire,18-64 years,Long Stay,455,320
+2018/19,Clackmannanshire,65-74 years,Long Stay,105,330
+2018/19,Clackmannanshire,75-84 years,Long Stay,575,395
+2018/19,Clackmannanshire,85+ years,Long Stay,560,505
+2018/19,Clackmannanshire,Unknown,Long Stay,0,45
+2018/19,Dumfries and Galloway,All Ages,Long Stay,490,445
+2018/19,Dumfries and Galloway,0-17 years,Long Stay,0,265
+2018/19,Dumfries and Galloway,18-64 years,Long Stay,460,320
+2018/19,Dumfries and Galloway,65-74 years,Long Stay,340,330
+2018/19,Dumfries and Galloway,75-84 years,Long Stay,430,395
+2018/19,Dumfries and Galloway,85+ years,Long Stay,530,505
+2018/19,Dumfries and Galloway,Unknown,Long Stay,0,45
+2018/19,Dundee City,All Ages,Long Stay,580,445
+2018/19,Dundee City,0-17 years,Long Stay,0,265
+2018/19,Dundee City,18-64 years,Long Stay,1405,320
+2018/19,Dundee City,65-74 years,Long Stay,765,330
+2018/19,Dundee City,75-84 years,Long Stay,545,395
+2018/19,Dundee City,85+ years,Long Stay,580,505
+2018/19,Dundee City,Unknown,Long Stay,0,45
+2018/19,East Ayrshire,All Ages,Long Stay,450,445
+2018/19,East Ayrshire,0-17 years,Long Stay,0,265
+2018/19,East Ayrshire,18-64 years,Long Stay,205,320
+2018/19,East Ayrshire,65-74 years,Long Stay,435,330
+2018/19,East Ayrshire,75-84 years,Long Stay,355,395
+2018/19,East Ayrshire,85+ years,Long Stay,480,505
+2018/19,East Ayrshire,Unknown,Long Stay,0,45
+2018/19,East Dunbartonshire,All Ages,Long Stay,615,445
+2018/19,East Dunbartonshire,0-17 years,Long Stay,0,265
+2018/19,East Dunbartonshire,18-64 years,Long Stay,185,320
+2018/19,East Dunbartonshire,65-74 years,Long Stay,350,330
+2018/19,East Dunbartonshire,75-84 years,Long Stay,520,395
+2018/19,East Dunbartonshire,85+ years,Long Stay,795,505
+2018/19,East Dunbartonshire,Unknown,Long Stay,0,45
+2018/19,East Lothian,All Ages,Long Stay,580,445
+2018/19,East Lothian,0-17 years,Long Stay,0,265
+2018/19,East Lothian,18-64 years,Long Stay,140,320
+2018/19,East Lothian,65-74 years,Long Stay,480,330
+2018/19,East Lothian,75-84 years,Long Stay,525,395
+2018/19,East Lothian,85+ years,Long Stay,645,505
+2018/19,East Lothian,Unknown,Long Stay,0,45
+2018/19,East Renfrewshire,All Ages,Long Stay,405,445
+2018/19,East Renfrewshire,0-17 years,Long Stay,0,265
+2018/19,East Renfrewshire,18-64 years,Long Stay,1375,320
+2018/19,East Renfrewshire,65-74 years,Long Stay,430,330
+2018/19,East Renfrewshire,75-84 years,Long Stay,350,395
+2018/19,East Renfrewshire,85+ years,Long Stay,445,505
+2018/19,East Renfrewshire,Unknown,Long Stay,0,45
+2018/19,Falkirk,All Ages,Long Stay,300,445
+2018/19,Falkirk,0-17 years,Long Stay,0,265
+2018/19,Falkirk,18-64 years,Long Stay,340,320
+2018/19,Falkirk,65-74 years,Long Stay,175,330
+2018/19,Falkirk,75-84 years,Long Stay,320,395
+2018/19,Falkirk,85+ years,Long Stay,300,505
+2018/19,Falkirk,Unknown,Long Stay,0,45
+2018/19,Fife,All Ages,Long Stay,250,445
+2018/19,Fife,0-17 years,Long Stay,135,265
+2018/19,Fife,18-64 years,Long Stay,485,320
+2018/19,Fife,65-74 years,Long Stay,185,330
+2018/19,Fife,75-84 years,Long Stay,200,395
+2018/19,Fife,85+ years,Long Stay,300,505
+2018/19,Fife,Unknown,Long Stay,45,45
+2018/19,Glasgow City,All Ages,Long Stay,495,445
+2018/19,Glasgow City,0-17 years,Long Stay,0,265
+2018/19,Glasgow City,18-64 years,Long Stay,180,320
+2018/19,Glasgow City,65-74 years,Long Stay,520,330
+2018/19,Glasgow City,75-84 years,Long Stay,480,395
+2018/19,Glasgow City,85+ years,Long Stay,650,505
+2018/19,Glasgow City,Unknown,Long Stay,125,45
+2018/19,Highland,All Ages,Long Stay,555,445
+2018/19,Highland,0-17 years,Long Stay,0,265
+2018/19,Highland,18-64 years,Long Stay,560,320
+2018/19,Highland,65-74 years,Long Stay,590,330
+2018/19,Highland,75-84 years,Long Stay,490,395
+2018/19,Highland,85+ years,Long Stay,585,505
+2018/19,Highland,Unknown,Long Stay,0,45
+2018/19,Inverclyde,All Ages,Long Stay,675,445
+2018/19,Inverclyde,0-17 years,Long Stay,0,265
+2018/19,Inverclyde,18-64 years,Long Stay,965,320
+2018/19,Inverclyde,65-74 years,Long Stay,505,330
+2018/19,Inverclyde,75-84 years,Long Stay,415,395
+2018/19,Inverclyde,85+ years,Long Stay,665,505
+2018/19,Inverclyde,Unknown,Long Stay,0,45
+2018/19,Midlothian,All Ages,Long Stay,220,445
+2018/19,Midlothian,0-17 years,Long Stay,0,265
+2018/19,Midlothian,18-64 years,Long Stay,220,320
+2018/19,Midlothian,65-74 years,Long Stay,155,330
+2018/19,Midlothian,75-84 years,Long Stay,215,395
+2018/19,Midlothian,85+ years,Long Stay,280,505
+2018/19,Midlothian,Unknown,Long Stay,0,45
+2018/19,Moray,All Ages,Long Stay,545,445
+2018/19,Moray,0-17 years,Long Stay,0,265
+2018/19,Moray,18-64 years,Long Stay,770,320
+2018/19,Moray,65-74 years,Long Stay,205,330
+2018/19,Moray,75-84 years,Long Stay,455,395
+2018/19,Moray,85+ years,Long Stay,610,505
+2018/19,Moray,Unknown,Long Stay,0,45
+2018/19,North Ayrshire,All Ages,Long Stay,575,445
+2018/19,North Ayrshire,0-17 years,Long Stay,0,265
+2018/19,North Ayrshire,18-64 years,Long Stay,720,320
+2018/19,North Ayrshire,65-74 years,Long Stay,630,330
+2018/19,North Ayrshire,75-84 years,Long Stay,585,395
+2018/19,North Ayrshire,85+ years,Long Stay,550,505
+2018/19,North Ayrshire,Unknown,Long Stay,0,45
+2018/19,North Lanarkshire,All Ages,Long Stay,525,445
+2018/19,North Lanarkshire,0-17 years,Long Stay,0,265
+2018/19,North Lanarkshire,18-64 years,Long Stay,140,320
+2018/19,North Lanarkshire,65-74 years,Long Stay,485,330
+2018/19,North Lanarkshire,75-84 years,Long Stay,485,395
+2018/19,North Lanarkshire,85+ years,Long Stay,600,505
+2018/19,North Lanarkshire,Unknown,Long Stay,0,45
+2018/19,Perth and Kinross,All Ages,Long Stay,430,445
+2018/19,Perth and Kinross,0-17 years,Long Stay,0,265
+2018/19,Perth and Kinross,18-64 years,Long Stay,805,320
+2018/19,Perth and Kinross,65-74 years,Long Stay,240,330
+2018/19,Perth and Kinross,75-84 years,Long Stay,370,395
+2018/19,Perth and Kinross,85+ years,Long Stay,445,505
+2018/19,Perth and Kinross,Unknown,Long Stay,0,45
+2018/19,Renfrewshire,All Ages,Long Stay,420,445
+2018/19,Renfrewshire,0-17 years,Long Stay,0,265
+2018/19,Renfrewshire,18-64 years,Long Stay,785,320
+2018/19,Renfrewshire,65-74 years,Long Stay,195,330
+2018/19,Renfrewshire,75-84 years,Long Stay,420,395
+2018/19,Renfrewshire,85+ years,Long Stay,450,505
+2018/19,Renfrewshire,Unknown,Long Stay,0,45
+2018/19,Scottish Borders,All Ages,Long Stay,460,445
+2018/19,Scottish Borders,0-17 years,Long Stay,0,265
+2018/19,Scottish Borders,18-64 years,Long Stay,215,320
+2018/19,Scottish Borders,65-74 years,Long Stay,205,330
+2018/19,Scottish Borders,75-84 years,Long Stay,285,395
+2018/19,Scottish Borders,85+ years,Long Stay,550,505
+2018/19,Scottish Borders,Unknown,Long Stay,0,45
+2018/19,Shetland Islands,All Ages,Long Stay,175,445
+2018/19,Shetland Islands,0-17 years,Long Stay,0,265
+2018/19,Shetland Islands,18-64 years,Long Stay,190,320
+2018/19,Shetland Islands,65-74 years,Long Stay,80,330
+2018/19,Shetland Islands,75-84 years,Long Stay,180,395
+2018/19,Shetland Islands,85+ years,Long Stay,175,505
+2018/19,Shetland Islands,Unknown,Long Stay,0,45
+2018/19,South Ayrshire,All Ages,Long Stay,680,445
+2018/19,South Ayrshire,0-17 years,Long Stay,0,265
+2018/19,South Ayrshire,18-64 years,Long Stay,550,320
+2018/19,South Ayrshire,65-74 years,Long Stay,665,330
+2018/19,South Ayrshire,75-84 years,Long Stay,540,395
+2018/19,South Ayrshire,85+ years,Long Stay,745,505
+2018/19,South Ayrshire,Unknown,Long Stay,0,45
+2018/19,South Lanarkshire,All Ages,Long Stay,655,445
+2018/19,South Lanarkshire,0-17 years,Long Stay,0,265
+2018/19,South Lanarkshire,18-64 years,Long Stay,815,320
+2018/19,South Lanarkshire,65-74 years,Long Stay,580,330
+2018/19,South Lanarkshire,75-84 years,Long Stay,555,395
+2018/19,South Lanarkshire,85+ years,Long Stay,715,505
+2018/19,South Lanarkshire,Unknown,Long Stay,0,45
+2018/19,Stirling,All Ages,Long Stay,450,445
+2018/19,Stirling,0-17 years,Long Stay,0,265
+2018/19,Stirling,18-64 years,Long Stay,465,320
+2018/19,Stirling,65-74 years,Long Stay,425,330
+2018/19,Stirling,75-84 years,Long Stay,395,395
+2018/19,Stirling,85+ years,Long Stay,485,505
+2018/19,Stirling,Unknown,Long Stay,0,45
+2018/19,West Dunbartonshire,All Ages,Long Stay,425,445
+2018/19,West Dunbartonshire,0-17 years,Long Stay,0,265
+2018/19,West Dunbartonshire,18-64 years,Long Stay,1155,320
+2018/19,West Dunbartonshire,65-74 years,Long Stay,330,330
+2018/19,West Dunbartonshire,75-84 years,Long Stay,415,395
+2018/19,West Dunbartonshire,85+ years,Long Stay,435,505
+2018/19,West Dunbartonshire,Unknown,Long Stay,0,45
+2018/19,West Lothian,All Ages,Long Stay,520,445
+2018/19,West Lothian,0-17 years,Long Stay,0,265
+2018/19,West Lothian,18-64 years,Long Stay,435,320
+2018/19,West Lothian,65-74 years,Long Stay,500,330
+2018/19,West Lothian,75-84 years,Long Stay,515,395
+2018/19,West Lothian,85+ years,Long Stay,550,505
+2018/19,West Lothian,Unknown,Long Stay,0,45
+2019/20,Scotland (All Areas Submitted),All Ages,Long Stay,510,510
+2019/20,Scotland (All Areas Submitted),0-17 years,Long Stay,190,190
+2019/20,Scotland (All Areas Submitted),18-64 years,Long Stay,350,350
+2019/20,Scotland (All Areas Submitted),65-74 years,Long Stay,405,405
+2019/20,Scotland (All Areas Submitted),75-84 years,Long Stay,475,475
+2019/20,Scotland (All Areas Submitted),85+ years,Long Stay,545,545
+2019/20,Scotland (All Areas Submitted),Unknown,Long Stay,450,450
+2019/20,Aberdeenshire,All Ages,Long Stay,435,510
+2019/20,Aberdeenshire,0-17 years,Long Stay,0,190
+2019/20,Aberdeenshire,18-64 years,Long Stay,1025,350
+2019/20,Aberdeenshire,65-74 years,Long Stay,285,405
+2019/20,Aberdeenshire,75-84 years,Long Stay,350,475
+2019/20,Aberdeenshire,85+ years,Long Stay,455,545
+2019/20,Aberdeenshire,Unknown,Long Stay,0,450
+2019/20,Angus,All Ages,Long Stay,400,510
+2019/20,Angus,0-17 years,Long Stay,0,190
+2019/20,Angus,18-64 years,Long Stay,335,350
+2019/20,Angus,65-74 years,Long Stay,150,405
+2019/20,Angus,75-84 years,Long Stay,405,475
+2019/20,Angus,85+ years,Long Stay,440,545
+2019/20,Angus,Unknown,Long Stay,0,450
+2019/20,Argyll and Bute,All Ages,Long Stay,575,510
+2019/20,Argyll and Bute,0-17 years,Long Stay,0,190
+2019/20,Argyll and Bute,18-64 years,Long Stay,125,350
+2019/20,Argyll and Bute,65-74 years,Long Stay,845,405
+2019/20,Argyll and Bute,75-84 years,Long Stay,565,475
+2019/20,Argyll and Bute,85+ years,Long Stay,585,545
+2019/20,Argyll and Bute,Unknown,Long Stay,0,450
+2019/20,City of Edinburgh,All Ages,Long Stay,600,510
+2019/20,City of Edinburgh,0-17 years,Long Stay,0,190
+2019/20,City of Edinburgh,18-64 years,Long Stay,1415,350
+2019/20,City of Edinburgh,65-74 years,Long Stay,540,405
+2019/20,City of Edinburgh,75-84 years,Long Stay,460,475
+2019/20,City of Edinburgh,85+ years,Long Stay,650,545
+2019/20,City of Edinburgh,Unknown,Long Stay,0,450
+2019/20,Clackmannanshire,All Ages,Long Stay,520,510
+2019/20,Clackmannanshire,0-17 years,Long Stay,0,190
+2019/20,Clackmannanshire,18-64 years,Long Stay,1640,350
+2019/20,Clackmannanshire,65-74 years,Long Stay,325,405
+2019/20,Clackmannanshire,75-84 years,Long Stay,585,475
+2019/20,Clackmannanshire,85+ years,Long Stay,350,545
+2019/20,Clackmannanshire,Unknown,Long Stay,0,450
+2019/20,Dumfries and Galloway,All Ages,Long Stay,470,510
+2019/20,Dumfries and Galloway,0-17 years,Long Stay,0,190
+2019/20,Dumfries and Galloway,18-64 years,Long Stay,355,350
+2019/20,Dumfries and Galloway,65-74 years,Long Stay,435,405
+2019/20,Dumfries and Galloway,75-84 years,Long Stay,400,475
+2019/20,Dumfries and Galloway,85+ years,Long Stay,535,545
+2019/20,Dumfries and Galloway,Unknown,Long Stay,0,450
+2019/20,Dundee City,All Ages,Long Stay,490,510
+2019/20,Dundee City,0-17 years,Long Stay,0,190
+2019/20,Dundee City,18-64 years,Long Stay,300,350
+2019/20,Dundee City,65-74 years,Long Stay,375,405
+2019/20,Dundee City,75-84 years,Long Stay,565,475
+2019/20,Dundee City,85+ years,Long Stay,510,545
+2019/20,Dundee City,Unknown,Long Stay,0,450
+2019/20,East Ayrshire,All Ages,Long Stay,560,510
+2019/20,East Ayrshire,0-17 years,Long Stay,0,190
+2019/20,East Ayrshire,18-64 years,Long Stay,325,350
+2019/20,East Ayrshire,65-74 years,Long Stay,430,405
+2019/20,East Ayrshire,75-84 years,Long Stay,500,475
+2019/20,East Ayrshire,85+ years,Long Stay,665,545
+2019/20,East Ayrshire,Unknown,Long Stay,0,450
+2019/20,East Dunbartonshire,All Ages,Long Stay,505,510
+2019/20,East Dunbartonshire,0-17 years,Long Stay,0,190
+2019/20,East Dunbartonshire,18-64 years,Long Stay,140,350
+2019/20,East Dunbartonshire,65-74 years,Long Stay,265,405
+2019/20,East Dunbartonshire,75-84 years,Long Stay,430,475
+2019/20,East Dunbartonshire,85+ years,Long Stay,555,545
+2019/20,East Dunbartonshire,Unknown,Long Stay,0,450
+2019/20,East Lothian,All Ages,Long Stay,570,510
+2019/20,East Lothian,0-17 years,Long Stay,0,190
+2019/20,East Lothian,18-64 years,Long Stay,385,350
+2019/20,East Lothian,65-74 years,Long Stay,275,405
+2019/20,East Lothian,75-84 years,Long Stay,625,475
+2019/20,East Lothian,85+ years,Long Stay,595,545
+2019/20,East Lothian,Unknown,Long Stay,0,450
+2019/20,East Renfrewshire,All Ages,Long Stay,475,510
+2019/20,East Renfrewshire,0-17 years,Long Stay,125,190
+2019/20,East Renfrewshire,18-64 years,Long Stay,180,350
+2019/20,East Renfrewshire,65-74 years,Long Stay,315,405
+2019/20,East Renfrewshire,75-84 years,Long Stay,450,475
+2019/20,East Renfrewshire,85+ years,Long Stay,560,545
+2019/20,East Renfrewshire,Unknown,Long Stay,0,450
+2019/20,Falkirk,All Ages,Long Stay,520,510
+2019/20,Falkirk,0-17 years,Long Stay,45,190
+2019/20,Falkirk,18-64 years,Long Stay,1330,350
+2019/20,Falkirk,65-74 years,Long Stay,480,405
+2019/20,Falkirk,75-84 years,Long Stay,545,475
+2019/20,Falkirk,85+ years,Long Stay,490,545
+2019/20,Falkirk,Unknown,Long Stay,0,450
+2019/20,Fife,All Ages,Long Stay,515,510
+2019/20,Fife,0-17 years,Long Stay,0,190
+2019/20,Fife,18-64 years,Long Stay,925,350
+2019/20,Fife,65-74 years,Long Stay,280,405
+2019/20,Fife,75-84 years,Long Stay,440,475
+2019/20,Fife,85+ years,Long Stay,580,545
+2019/20,Fife,Unknown,Long Stay,90,450
+2019/20,Glasgow City,All Ages,Long Stay,440,510
+2019/20,Glasgow City,0-17 years,Long Stay,0,190
+2019/20,Glasgow City,18-64 years,Long Stay,180,350
+2019/20,Glasgow City,65-74 years,Long Stay,490,405
+2019/20,Glasgow City,75-84 years,Long Stay,470,475
+2019/20,Glasgow City,85+ years,Long Stay,525,545
+2019/20,Glasgow City,Unknown,Long Stay,0,450
+2019/20,Highland,All Ages,Long Stay,495,510
+2019/20,Highland,0-17 years,Long Stay,0,190
+2019/20,Highland,18-64 years,Long Stay,465,350
+2019/20,Highland,65-74 years,Long Stay,265,405
+2019/20,Highland,75-84 years,Long Stay,480,475
+2019/20,Highland,85+ years,Long Stay,525,545
+2019/20,Highland,Unknown,Long Stay,0,450
+2019/20,Inverclyde,All Ages,Long Stay,615,510
+2019/20,Inverclyde,0-17 years,Long Stay,0,190
+2019/20,Inverclyde,18-64 years,Long Stay,1490,350
+2019/20,Inverclyde,65-74 years,Long Stay,220,405
+2019/20,Inverclyde,75-84 years,Long Stay,560,475
+2019/20,Inverclyde,85+ years,Long Stay,645,545
+2019/20,Inverclyde,Unknown,Long Stay,0,450
+2019/20,Midlothian,All Ages,Long Stay,445,510
+2019/20,Midlothian,0-17 years,Long Stay,980,190
+2019/20,Midlothian,18-64 years,Long Stay,755,350
+2019/20,Midlothian,65-74 years,Long Stay,370,405
+2019/20,Midlothian,75-84 years,Long Stay,415,475
+2019/20,Midlothian,85+ years,Long Stay,425,545
+2019/20,Midlothian,Unknown,Long Stay,0,450
+2019/20,Moray,All Ages,Long Stay,370,510
+2019/20,Moray,0-17 years,Long Stay,0,190
+2019/20,Moray,18-64 years,Long Stay,265,350
+2019/20,Moray,65-74 years,Long Stay,530,405
+2019/20,Moray,75-84 years,Long Stay,285,475
+2019/20,Moray,85+ years,Long Stay,500,545
+2019/20,Moray,Unknown,Long Stay,0,450
+2019/20,North Ayrshire,All Ages,Long Stay,605,510
+2019/20,North Ayrshire,0-17 years,Long Stay,0,190
+2019/20,North Ayrshire,18-64 years,Long Stay,1560,350
+2019/20,North Ayrshire,65-74 years,Long Stay,475,405
+2019/20,North Ayrshire,75-84 years,Long Stay,535,475
+2019/20,North Ayrshire,85+ years,Long Stay,615,545
+2019/20,North Ayrshire,Unknown,Long Stay,0,450
+2019/20,North Lanarkshire,All Ages,Long Stay,610,510
+2019/20,North Lanarkshire,0-17 years,Long Stay,0,190
+2019/20,North Lanarkshire,18-64 years,Long Stay,530,350
+2019/20,North Lanarkshire,65-74 years,Long Stay,525,405
+2019/20,North Lanarkshire,75-84 years,Long Stay,600,475
+2019/20,North Lanarkshire,85+ years,Long Stay,625,545
+2019/20,North Lanarkshire,Unknown,Long Stay,0,450
+2019/20,Orkney Islands,All Ages,Long Stay,0,510
+2019/20,Orkney Islands,0-17 years,Long Stay,0,190
+2019/20,Orkney Islands,18-64 years,Long Stay,0,350
+2019/20,Orkney Islands,65-74 years,Long Stay,0,405
+2019/20,Orkney Islands,75-84 years,Long Stay,0,475
+2019/20,Orkney Islands,85+ years,Long Stay,0,545
+2019/20,Orkney Islands,Unknown,Long Stay,0,450
+2019/20,Perth and Kinross,All Ages,Long Stay,460,510
+2019/20,Perth and Kinross,0-17 years,Long Stay,0,190
+2019/20,Perth and Kinross,18-64 years,Long Stay,545,350
+2019/20,Perth and Kinross,65-74 years,Long Stay,245,405
+2019/20,Perth and Kinross,75-84 years,Long Stay,560,475
+2019/20,Perth and Kinross,85+ years,Long Stay,450,545
+2019/20,Perth and Kinross,Unknown,Long Stay,0,450
+2019/20,Renfrewshire,All Ages,Long Stay,375,510
+2019/20,Renfrewshire,0-17 years,Long Stay,0,190
+2019/20,Renfrewshire,18-64 years,Long Stay,815,350
+2019/20,Renfrewshire,65-74 years,Long Stay,335,405
+2019/20,Renfrewshire,75-84 years,Long Stay,395,475
+2019/20,Renfrewshire,85+ years,Long Stay,370,545
+2019/20,Renfrewshire,Unknown,Long Stay,565,450
+2019/20,Scottish Borders,All Ages,Long Stay,545,510
+2019/20,Scottish Borders,0-17 years,Long Stay,0,190
+2019/20,Scottish Borders,18-64 years,Long Stay,595,350
+2019/20,Scottish Borders,65-74 years,Long Stay,320,405
+2019/20,Scottish Borders,75-84 years,Long Stay,485,475
+2019/20,Scottish Borders,85+ years,Long Stay,555,545
+2019/20,Scottish Borders,Unknown,Long Stay,0,450
+2019/20,Shetland Islands,All Ages,Long Stay,190,510
+2019/20,Shetland Islands,0-17 years,Long Stay,490,190
+2019/20,Shetland Islands,18-64 years,Long Stay,90,350
+2019/20,Shetland Islands,65-74 years,Long Stay,85,405
+2019/20,Shetland Islands,75-84 years,Long Stay,165,475
+2019/20,Shetland Islands,85+ years,Long Stay,235,545
+2019/20,Shetland Islands,Unknown,Long Stay,0,450
+2019/20,South Ayrshire,All Ages,Long Stay,690,510
+2019/20,South Ayrshire,0-17 years,Long Stay,0,190
+2019/20,South Ayrshire,18-64 years,Long Stay,340,350
+2019/20,South Ayrshire,65-74 years,Long Stay,825,405
+2019/20,South Ayrshire,75-84 years,Long Stay,595,475
+2019/20,South Ayrshire,85+ years,Long Stay,770,545
+2019/20,South Ayrshire,Unknown,Long Stay,0,450
+2019/20,South Lanarkshire,All Ages,Long Stay,620,510
+2019/20,South Lanarkshire,0-17 years,Long Stay,0,190
+2019/20,South Lanarkshire,18-64 years,Long Stay,975,350
+2019/20,South Lanarkshire,65-74 years,Long Stay,775,405
+2019/20,South Lanarkshire,75-84 years,Long Stay,560,475
+2019/20,South Lanarkshire,85+ years,Long Stay,620,545
+2019/20,South Lanarkshire,Unknown,Long Stay,0,450
+2019/20,Stirling,All Ages,Long Stay,480,510
+2019/20,Stirling,0-17 years,Long Stay,0,190
+2019/20,Stirling,18-64 years,Long Stay,125,350
+2019/20,Stirling,65-74 years,Long Stay,335,405
+2019/20,Stirling,75-84 years,Long Stay,595,475
+2019/20,Stirling,85+ years,Long Stay,520,545
+2019/20,Stirling,Unknown,Long Stay,0,450
+2019/20,West Dunbartonshire,All Ages,Long Stay,445,510
+2019/20,West Dunbartonshire,0-17 years,Long Stay,0,190
+2019/20,West Dunbartonshire,18-64 years,Long Stay,180,350
+2019/20,West Dunbartonshire,65-74 years,Long Stay,375,405
+2019/20,West Dunbartonshire,75-84 years,Long Stay,440,475
+2019/20,West Dunbartonshire,85+ years,Long Stay,460,545
+2019/20,West Dunbartonshire,Unknown,Long Stay,0,450
+2019/20,West Lothian,All Ages,Long Stay,550,510
+2019/20,West Lothian,0-17 years,Long Stay,0,190
+2019/20,West Lothian,18-64 years,Long Stay,375,350
+2019/20,West Lothian,65-74 years,Long Stay,530,405
+2019/20,West Lothian,75-84 years,Long Stay,605,475
+2019/20,West Lothian,85+ years,Long Stay,525,545
+2019/20,West Lothian,Unknown,Long Stay,0,450
+2020/21,Scotland (All Areas Submitted),All Ages,Long Stay,520,520
+2020/21,Scotland (All Areas Submitted),0-17 years,Long Stay,580,580
+2020/21,Scotland (All Areas Submitted),18-64 years,Long Stay,275,275
+2020/21,Scotland (All Areas Submitted),65-74 years,Long Stay,460,460
+2020/21,Scotland (All Areas Submitted),75-84 years,Long Stay,460,460
+2020/21,Scotland (All Areas Submitted),85+ years,Long Stay,575,575
+2020/21,Scotland (All Areas Submitted),Unknown,Long Stay,0,0
+2020/21,Aberdeen City,All Ages,Long Stay,420,520
+2020/21,Aberdeen City,0-17 years,Long Stay,750,580
+2020/21,Aberdeen City,18-64 years,Long Stay,270,275
+2020/21,Aberdeen City,65-74 years,Long Stay,225,460
+2020/21,Aberdeen City,75-84 years,Long Stay,330,460
+2020/21,Aberdeen City,85+ years,Long Stay,495,575
+2020/21,Aberdeen City,Unknown,Long Stay,0,0
+2020/21,Aberdeenshire,All Ages,Long Stay,450,520
+2020/21,Aberdeenshire,0-17 years,Long Stay,0,580
+2020/21,Aberdeenshire,18-64 years,Long Stay,530,275
+2020/21,Aberdeenshire,65-74 years,Long Stay,415,460
+2020/21,Aberdeenshire,75-84 years,Long Stay,435,460
+2020/21,Aberdeenshire,85+ years,Long Stay,460,575
+2020/21,Aberdeenshire,Unknown,Long Stay,0,0
+2020/21,Angus,All Ages,Long Stay,375,520
+2020/21,Angus,0-17 years,Long Stay,0,580
+2020/21,Angus,18-64 years,Long Stay,265,275
+2020/21,Angus,65-74 years,Long Stay,230,460
+2020/21,Angus,75-84 years,Long Stay,340,460
+2020/21,Angus,85+ years,Long Stay,400,575
+2020/21,Angus,Unknown,Long Stay,0,0
+2020/21,Argyll and Bute,All Ages,Long Stay,465,520
+2020/21,Argyll and Bute,0-17 years,Long Stay,0,580
+2020/21,Argyll and Bute,18-64 years,Long Stay,605,275
+2020/21,Argyll and Bute,65-74 years,Long Stay,500,460
+2020/21,Argyll and Bute,75-84 years,Long Stay,370,460
+2020/21,Argyll and Bute,85+ years,Long Stay,535,575
+2020/21,Argyll and Bute,Unknown,Long Stay,0,0
+2020/21,City of Edinburgh,All Ages,Long Stay,585,520
+2020/21,City of Edinburgh,0-17 years,Long Stay,620,580
+2020/21,City of Edinburgh,18-64 years,Long Stay,395,275
+2020/21,City of Edinburgh,65-74 years,Long Stay,515,460
+2020/21,City of Edinburgh,75-84 years,Long Stay,575,460
+2020/21,City of Edinburgh,85+ years,Long Stay,605,575
+2020/21,City of Edinburgh,Unknown,Long Stay,0,0
+2020/21,Clackmannanshire,All Ages,Long Stay,630,520
+2020/21,Clackmannanshire,0-17 years,Long Stay,0,580
+2020/21,Clackmannanshire,18-64 years,Long Stay,1720,275
+2020/21,Clackmannanshire,65-74 years,Long Stay,430,460
+2020/21,Clackmannanshire,75-84 years,Long Stay,610,460
+2020/21,Clackmannanshire,85+ years,Long Stay,615,575
+2020/21,Clackmannanshire,Unknown,Long Stay,0,0
+2020/21,Dumfries and Galloway,All Ages,Long Stay,510,520
+2020/21,Dumfries and Galloway,0-17 years,Long Stay,0,580
+2020/21,Dumfries and Galloway,18-64 years,Long Stay,270,275
+2020/21,Dumfries and Galloway,65-74 years,Long Stay,570,460
+2020/21,Dumfries and Galloway,75-84 years,Long Stay,355,460
+2020/21,Dumfries and Galloway,85+ years,Long Stay,540,575
+2020/21,Dumfries and Galloway,Unknown,Long Stay,0,0
+2020/21,Dundee City,All Ages,Long Stay,555,520
+2020/21,Dundee City,0-17 years,Long Stay,0,580
+2020/21,Dundee City,18-64 years,Long Stay,340,275
+2020/21,Dundee City,65-74 years,Long Stay,725,460
+2020/21,Dundee City,75-84 years,Long Stay,490,460
+2020/21,Dundee City,85+ years,Long Stay,640,575
+2020/21,Dundee City,Unknown,Long Stay,0,0
+2020/21,East Ayrshire,All Ages,Long Stay,385,520
+2020/21,East Ayrshire,0-17 years,Long Stay,0,580
+2020/21,East Ayrshire,18-64 years,Long Stay,190,275
+2020/21,East Ayrshire,65-74 years,Long Stay,400,460
+2020/21,East Ayrshire,75-84 years,Long Stay,380,460
+2020/21,East Ayrshire,85+ years,Long Stay,400,575
+2020/21,East Ayrshire,Unknown,Long Stay,0,0
+2020/21,East Dunbartonshire,All Ages,Long Stay,415,520
+2020/21,East Dunbartonshire,0-17 years,Long Stay,0,580
+2020/21,East Dunbartonshire,18-64 years,Long Stay,170,275
+2020/21,East Dunbartonshire,65-74 years,Long Stay,510,460
+2020/21,East Dunbartonshire,75-84 years,Long Stay,400,460
+2020/21,East Dunbartonshire,85+ years,Long Stay,420,575
+2020/21,East Dunbartonshire,Unknown,Long Stay,0,0
+2020/21,East Lothian,All Ages,Long Stay,690,520
+2020/21,East Lothian,0-17 years,Long Stay,0,580
+2020/21,East Lothian,18-64 years,Long Stay,2315,275
+2020/21,East Lothian,65-74 years,Long Stay,360,460
+2020/21,East Lothian,75-84 years,Long Stay,655,460
+2020/21,East Lothian,85+ years,Long Stay,770,575
+2020/21,East Lothian,Unknown,Long Stay,0,0
+2020/21,East Renfrewshire,All Ages,Long Stay,470,520
+2020/21,East Renfrewshire,0-17 years,Long Stay,85,580
+2020/21,East Renfrewshire,18-64 years,Long Stay,55,275
+2020/21,East Renfrewshire,65-74 years,Long Stay,370,460
+2020/21,East Renfrewshire,75-84 years,Long Stay,500,460
+2020/21,East Renfrewshire,85+ years,Long Stay,500,575
+2020/21,East Renfrewshire,Unknown,Long Stay,0,0
+2020/21,Falkirk,All Ages,Long Stay,635,520
+2020/21,Falkirk,0-17 years,Long Stay,0,580
+2020/21,Falkirk,18-64 years,Long Stay,480,275
+2020/21,Falkirk,65-74 years,Long Stay,460,460
+2020/21,Falkirk,75-84 years,Long Stay,510,460
+2020/21,Falkirk,85+ years,Long Stay,725,575
+2020/21,Falkirk,Unknown,Long Stay,0,0
+2020/21,Fife,All Ages,Long Stay,630,520
+2020/21,Fife,0-17 years,Long Stay,0,580
+2020/21,Fife,18-64 years,Long Stay,950,275
+2020/21,Fife,65-74 years,Long Stay,470,460
+2020/21,Fife,75-84 years,Long Stay,535,460
+2020/21,Fife,85+ years,Long Stay,675,575
+2020/21,Fife,Unknown,Long Stay,0,0
+2020/21,Glasgow City,All Ages,Long Stay,415,520
+2020/21,Glasgow City,0-17 years,Long Stay,0,580
+2020/21,Glasgow City,18-64 years,Long Stay,105,275
+2020/21,Glasgow City,65-74 years,Long Stay,485,460
+2020/21,Glasgow City,75-84 years,Long Stay,435,460
+2020/21,Glasgow City,85+ years,Long Stay,475,575
+2020/21,Glasgow City,Unknown,Long Stay,0,0
+2020/21,Highland,All Ages,Long Stay,565,520
+2020/21,Highland,0-17 years,Long Stay,0,580
+2020/21,Highland,18-64 years,Long Stay,840,275
+2020/21,Highland,65-74 years,Long Stay,560,460
+2020/21,Highland,75-84 years,Long Stay,435,460
+2020/21,Highland,85+ years,Long Stay,620,575
+2020/21,Highland,Unknown,Long Stay,0,0
+2020/21,Inverclyde,All Ages,Long Stay,485,520
+2020/21,Inverclyde,0-17 years,Long Stay,0,580
+2020/21,Inverclyde,18-64 years,Long Stay,155,275
+2020/21,Inverclyde,65-74 years,Long Stay,315,460
+2020/21,Inverclyde,75-84 years,Long Stay,410,460
+2020/21,Inverclyde,85+ years,Long Stay,620,575
+2020/21,Inverclyde,Unknown,Long Stay,0,0
+2020/21,Midlothian,All Ages,Long Stay,585,520
+2020/21,Midlothian,0-17 years,Long Stay,0,580
+2020/21,Midlothian,18-64 years,Long Stay,1280,275
+2020/21,Midlothian,65-74 years,Long Stay,510,460
+2020/21,Midlothian,75-84 years,Long Stay,425,460
+2020/21,Midlothian,85+ years,Long Stay,655,575
+2020/21,Midlothian,Unknown,Long Stay,0,0
+2020/21,Moray,All Ages,Long Stay,380,520
+2020/21,Moray,0-17 years,Long Stay,0,580
+2020/21,Moray,18-64 years,Long Stay,505,275
+2020/21,Moray,65-74 years,Long Stay,280,460
+2020/21,Moray,75-84 years,Long Stay,400,460
+2020/21,Moray,85+ years,Long Stay,370,575
+2020/21,Moray,Unknown,Long Stay,0,0
+2020/21,North Ayrshire,All Ages,Long Stay,650,520
+2020/21,North Ayrshire,0-17 years,Long Stay,0,580
+2020/21,North Ayrshire,18-64 years,Long Stay,1095,275
+2020/21,North Ayrshire,65-74 years,Long Stay,710,460
+2020/21,North Ayrshire,75-84 years,Long Stay,615,460
+2020/21,North Ayrshire,85+ years,Long Stay,680,575
+2020/21,North Ayrshire,Unknown,Long Stay,0,0
+2020/21,North Lanarkshire,All Ages,Long Stay,595,520
+2020/21,North Lanarkshire,0-17 years,Long Stay,0,580
+2020/21,North Lanarkshire,18-64 years,Long Stay,800,275
+2020/21,North Lanarkshire,65-74 years,Long Stay,495,460
+2020/21,North Lanarkshire,75-84 years,Long Stay,475,460
+2020/21,North Lanarkshire,85+ years,Long Stay,670,575
+2020/21,North Lanarkshire,Unknown,Long Stay,0,0
+2020/21,Orkney Islands,All Ages,Long Stay,220,520
+2020/21,Orkney Islands,0-17 years,Long Stay,0,580
+2020/21,Orkney Islands,18-64 years,Long Stay,0,275
+2020/21,Orkney Islands,65-74 years,Long Stay,105,460
+2020/21,Orkney Islands,75-84 years,Long Stay,740,460
+2020/21,Orkney Islands,85+ years,Long Stay,220,575
+2020/21,Orkney Islands,Unknown,Long Stay,0,0
+2020/21,Perth and Kinross,All Ages,Long Stay,555,520
+2020/21,Perth and Kinross,0-17 years,Long Stay,0,580
+2020/21,Perth and Kinross,18-64 years,Long Stay,285,275
+2020/21,Perth and Kinross,65-74 years,Long Stay,625,460
+2020/21,Perth and Kinross,75-84 years,Long Stay,480,460
+2020/21,Perth and Kinross,85+ years,Long Stay,575,575
+2020/21,Perth and Kinross,Unknown,Long Stay,0,0
+2020/21,Renfrewshire,All Ages,Long Stay,525,520
+2020/21,Renfrewshire,0-17 years,Long Stay,0,580
+2020/21,Renfrewshire,18-64 years,Long Stay,695,275
+2020/21,Renfrewshire,65-74 years,Long Stay,455,460
+2020/21,Renfrewshire,75-84 years,Long Stay,445,460
+2020/21,Renfrewshire,85+ years,Long Stay,550,575
+2020/21,Renfrewshire,Unknown,Long Stay,0,0
+2020/21,Scottish Borders,All Ages,Long Stay,500,520
+2020/21,Scottish Borders,0-17 years,Long Stay,0,580
+2020/21,Scottish Borders,18-64 years,Long Stay,505,275
+2020/21,Scottish Borders,65-74 years,Long Stay,665,460
+2020/21,Scottish Borders,75-84 years,Long Stay,400,460
+2020/21,Scottish Borders,85+ years,Long Stay,535,575
+2020/21,Scottish Borders,Unknown,Long Stay,0,0
+2020/21,Shetland Islands,All Ages,Long Stay,215,520
+2020/21,Shetland Islands,0-17 years,Long Stay,0,580
+2020/21,Shetland Islands,18-64 years,Long Stay,365,275
+2020/21,Shetland Islands,65-74 years,Long Stay,215,460
+2020/21,Shetland Islands,75-84 years,Long Stay,115,460
+2020/21,Shetland Islands,85+ years,Long Stay,285,575
+2020/21,Shetland Islands,Unknown,Long Stay,0,0
+2020/21,South Ayrshire,All Ages,Long Stay,905,520
+2020/21,South Ayrshire,0-17 years,Long Stay,0,580
+2020/21,South Ayrshire,18-64 years,Long Stay,625,275
+2020/21,South Ayrshire,65-74 years,Long Stay,1205,460
+2020/21,South Ayrshire,75-84 years,Long Stay,915,460
+2020/21,South Ayrshire,85+ years,Long Stay,885,575
+2020/21,South Ayrshire,Unknown,Long Stay,0,0
+2020/21,South Lanarkshire,All Ages,Long Stay,630,520
+2020/21,South Lanarkshire,0-17 years,Long Stay,0,580
+2020/21,South Lanarkshire,18-64 years,Long Stay,430,275
+2020/21,South Lanarkshire,65-74 years,Long Stay,885,460
+2020/21,South Lanarkshire,75-84 years,Long Stay,520,460
+2020/21,South Lanarkshire,85+ years,Long Stay,665,575
+2020/21,South Lanarkshire,Unknown,Long Stay,0,0
+2020/21,Stirling,All Ages,Long Stay,515,520
+2020/21,Stirling,0-17 years,Long Stay,3120,580
+2020/21,Stirling,18-64 years,Long Stay,240,275
+2020/21,Stirling,65-74 years,Long Stay,330,460
+2020/21,Stirling,75-84 years,Long Stay,455,460
+2020/21,Stirling,85+ years,Long Stay,585,575
+2020/21,Stirling,Unknown,Long Stay,0,0
+2020/21,West Dunbartonshire,All Ages,Long Stay,640,520
+2020/21,West Dunbartonshire,0-17 years,Long Stay,0,580
+2020/21,West Dunbartonshire,18-64 years,Long Stay,385,275
+2020/21,West Dunbartonshire,65-74 years,Long Stay,525,460
+2020/21,West Dunbartonshire,75-84 years,Long Stay,790,460
+2020/21,West Dunbartonshire,85+ years,Long Stay,715,575
+2020/21,West Dunbartonshire,Unknown,Long Stay,0,0
+2020/21,West Lothian,All Ages,Long Stay,565,520
+2020/21,West Lothian,0-17 years,Long Stay,0,580
+2020/21,West Lothian,18-64 years,Long Stay,455,275
+2020/21,West Lothian,65-74 years,Long Stay,425,460
+2020/21,West Lothian,75-84 years,Long Stay,500,460
+2020/21,West Lothian,85+ years,Long Stay,695,575
+2020/21,West Lothian,Unknown,Long Stay,0,0

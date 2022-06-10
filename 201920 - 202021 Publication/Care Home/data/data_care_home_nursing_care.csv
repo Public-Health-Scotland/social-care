@@ -1,0 +1,1751 @@
+financial_year,sending_location,age_group,nursing_care_provision,number_nc_provision,propn_nc_provision
+2017/18,Scotland (All Areas Submitted),All Ages,Stays with Nursing Provision,18895,57
+2017/18,Scotland (All Areas Submitted),All Ages,Stays with no Nursing Provision,14275,43
+2017/18,Scotland (All Areas Submitted),0-17 years,Stays with Nursing Provision,0,0
+2017/18,Scotland (All Areas Submitted),0-17 years,Stays with no Nursing Provision,90,100
+2017/18,Scotland (All Areas Submitted),18-64 years,Stays with Nursing Provision,1155,37.1
+2017/18,Scotland (All Areas Submitted),18-64 years,Stays with no Nursing Provision,1960,62.9
+2017/18,Scotland (All Areas Submitted),65-74 years,Stays with Nursing Provision,2195,62
+2017/18,Scotland (All Areas Submitted),65-74 years,Stays with no Nursing Provision,1345,38
+2017/18,Scotland (All Areas Submitted),75-84 years,Stays with Nursing Provision,6465,63.8
+2017/18,Scotland (All Areas Submitted),75-84 years,Stays with no Nursing Provision,3670,36.2
+2017/18,Scotland (All Areas Submitted),85+ years,Stays with Nursing Provision,9070,55.7
+2017/18,Scotland (All Areas Submitted),85+ years,Stays with no Nursing Provision,7210,44.3
+2017/18,Scotland (All Areas Submitted),Unknown,Stays with Nursing Provision,5,100
+2017/18,Scotland (All Areas Submitted),Unknown,Stays with no Nursing Provision,0,0
+2017/18,Aberdeen City,All Ages,Stays with Nursing Provision,1145,63.1
+2017/18,Aberdeen City,All Ages,Stays with no Nursing Provision,670,36.9
+2017/18,Aberdeen City,0-17 years,Stays with Nursing Provision,0,0
+2017/18,Aberdeen City,0-17 years,Stays with no Nursing Provision,65,100
+2017/18,Aberdeen City,18-64 years,Stays with Nursing Provision,85,30.4
+2017/18,Aberdeen City,18-64 years,Stays with no Nursing Provision,195,69.6
+2017/18,Aberdeen City,65-74 years,Stays with Nursing Provision,145,67.4
+2017/18,Aberdeen City,65-74 years,Stays with no Nursing Provision,70,32.6
+2017/18,Aberdeen City,75-84 years,Stays with Nursing Provision,390,77.2
+2017/18,Aberdeen City,75-84 years,Stays with no Nursing Provision,115,22.8
+2017/18,Aberdeen City,85+ years,Stays with Nursing Provision,525,69.5
+2017/18,Aberdeen City,85+ years,Stays with no Nursing Provision,230,30.5
+2017/18,Aberdeen City,Unknown,Stays with Nursing Provision,0,NA
+2017/18,Aberdeen City,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,Aberdeenshire,All Ages,Stays with Nursing Provision,1145,61.6
+2017/18,Aberdeenshire,All Ages,Stays with no Nursing Provision,715,38.4
+2017/18,Aberdeenshire,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,Aberdeenshire,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,Aberdeenshire,18-64 years,Stays with Nursing Provision,50,22.7
+2017/18,Aberdeenshire,18-64 years,Stays with no Nursing Provision,170,77.3
+2017/18,Aberdeenshire,65-74 years,Stays with Nursing Provision,120,64.9
+2017/18,Aberdeenshire,65-74 years,Stays with no Nursing Provision,65,35.1
+2017/18,Aberdeenshire,75-84 years,Stays with Nursing Provision,400,72.7
+2017/18,Aberdeenshire,75-84 years,Stays with no Nursing Provision,150,27.3
+2017/18,Aberdeenshire,85+ years,Stays with Nursing Provision,575,63.5
+2017/18,Aberdeenshire,85+ years,Stays with no Nursing Provision,330,36.5
+2017/18,Aberdeenshire,Unknown,Stays with Nursing Provision,0,NA
+2017/18,Aberdeenshire,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,Angus,All Ages,Stays with Nursing Provision,375,36.4
+2017/18,Angus,All Ages,Stays with no Nursing Provision,655,63.6
+2017/18,Angus,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,Angus,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,Angus,18-64 years,Stays with Nursing Provision,10,11.1
+2017/18,Angus,18-64 years,Stays with no Nursing Provision,80,88.9
+2017/18,Angus,65-74 years,Stays with Nursing Provision,55,52.4
+2017/18,Angus,65-74 years,Stays with no Nursing Provision,50,47.6
+2017/18,Angus,75-84 years,Stays with Nursing Provision,120,42.9
+2017/18,Angus,75-84 years,Stays with no Nursing Provision,160,57.1
+2017/18,Angus,85+ years,Stays with Nursing Provision,190,33.9
+2017/18,Angus,85+ years,Stays with no Nursing Provision,370,66.1
+2017/18,Angus,Unknown,Stays with Nursing Provision,0,NA
+2017/18,Angus,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,Argyll and Bute,All Ages,Stays with Nursing Provision,310,47.3
+2017/18,Argyll and Bute,All Ages,Stays with no Nursing Provision,345,52.7
+2017/18,Argyll and Bute,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,Argyll and Bute,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,Argyll and Bute,18-64 years,Stays with Nursing Provision,15,27.3
+2017/18,Argyll and Bute,18-64 years,Stays with no Nursing Provision,40,72.7
+2017/18,Argyll and Bute,65-74 years,Stays with Nursing Provision,40,57.1
+2017/18,Argyll and Bute,65-74 years,Stays with no Nursing Provision,30,42.9
+2017/18,Argyll and Bute,75-84 years,Stays with Nursing Provision,105,56.8
+2017/18,Argyll and Bute,75-84 years,Stays with no Nursing Provision,80,43.2
+2017/18,Argyll and Bute,85+ years,Stays with Nursing Provision,155,44.9
+2017/18,Argyll and Bute,85+ years,Stays with no Nursing Provision,190,55.1
+2017/18,Argyll and Bute,Unknown,Stays with Nursing Provision,0,NA
+2017/18,Argyll and Bute,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,City of Edinburgh,All Ages,Stays with Nursing Provision,625,21.4
+2017/18,City of Edinburgh,All Ages,Stays with no Nursing Provision,2295,78.6
+2017/18,City of Edinburgh,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,City of Edinburgh,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,City of Edinburgh,18-64 years,Stays with Nursing Provision,10,3.7
+2017/18,City of Edinburgh,18-64 years,Stays with no Nursing Provision,260,96.3
+2017/18,City of Edinburgh,65-74 years,Stays with Nursing Provision,40,13.1
+2017/18,City of Edinburgh,65-74 years,Stays with no Nursing Provision,265,86.9
+2017/18,City of Edinburgh,75-84 years,Stays with Nursing Provision,170,21.7
+2017/18,City of Edinburgh,75-84 years,Stays with no Nursing Provision,615,78.3
+2017/18,City of Edinburgh,85+ years,Stays with Nursing Provision,400,25.6
+2017/18,City of Edinburgh,85+ years,Stays with no Nursing Provision,1160,74.4
+2017/18,City of Edinburgh,Unknown,Stays with Nursing Provision,0,NA
+2017/18,City of Edinburgh,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,Clackmannanshire,All Ages,Stays with Nursing Provision,165,55
+2017/18,Clackmannanshire,All Ages,Stays with no Nursing Provision,135,45
+2017/18,Clackmannanshire,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,Clackmannanshire,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,Clackmannanshire,18-64 years,Stays with Nursing Provision,30,46.2
+2017/18,Clackmannanshire,18-64 years,Stays with no Nursing Provision,35,53.8
+2017/18,Clackmannanshire,65-74 years,Stays with Nursing Provision,20,57.1
+2017/18,Clackmannanshire,65-74 years,Stays with no Nursing Provision,15,42.9
+2017/18,Clackmannanshire,75-84 years,Stays with Nursing Provision,45,52.9
+2017/18,Clackmannanshire,75-84 years,Stays with no Nursing Provision,40,47.1
+2017/18,Clackmannanshire,85+ years,Stays with Nursing Provision,75,62.5
+2017/18,Clackmannanshire,85+ years,Stays with no Nursing Provision,45,37.5
+2017/18,Clackmannanshire,Unknown,Stays with Nursing Provision,0,NA
+2017/18,Clackmannanshire,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,Dumfries and Galloway,All Ages,Stays with Nursing Provision,150,12.6
+2017/18,Dumfries and Galloway,All Ages,Stays with no Nursing Provision,1040,87.4
+2017/18,Dumfries and Galloway,0-17 years,Stays with Nursing Provision,0,0
+2017/18,Dumfries and Galloway,0-17 years,Stays with no Nursing Provision,5,100
+2017/18,Dumfries and Galloway,18-64 years,Stays with Nursing Provision,20,28.6
+2017/18,Dumfries and Galloway,18-64 years,Stays with no Nursing Provision,50,71.4
+2017/18,Dumfries and Galloway,65-74 years,Stays with Nursing Provision,15,12
+2017/18,Dumfries and Galloway,65-74 years,Stays with no Nursing Provision,110,88
+2017/18,Dumfries and Galloway,75-84 years,Stays with Nursing Provision,60,16.7
+2017/18,Dumfries and Galloway,75-84 years,Stays with no Nursing Provision,300,83.3
+2017/18,Dumfries and Galloway,85+ years,Stays with Nursing Provision,60,9.4
+2017/18,Dumfries and Galloway,85+ years,Stays with no Nursing Provision,575,90.6
+2017/18,Dumfries and Galloway,Unknown,Stays with Nursing Provision,0,NA
+2017/18,Dumfries and Galloway,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,Dundee City,All Ages,Stays with Nursing Provision,790,63.2
+2017/18,Dundee City,All Ages,Stays with no Nursing Provision,460,36.8
+2017/18,Dundee City,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,Dundee City,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,Dundee City,18-64 years,Stays with Nursing Provision,70,66.7
+2017/18,Dundee City,18-64 years,Stays with no Nursing Provision,35,33.3
+2017/18,Dundee City,65-74 years,Stays with Nursing Provision,100,76.9
+2017/18,Dundee City,65-74 years,Stays with no Nursing Provision,30,23.1
+2017/18,Dundee City,75-84 years,Stays with Nursing Provision,275,70.5
+2017/18,Dundee City,75-84 years,Stays with no Nursing Provision,115,29.5
+2017/18,Dundee City,85+ years,Stays with Nursing Provision,340,54.8
+2017/18,Dundee City,85+ years,Stays with no Nursing Provision,280,45.2
+2017/18,Dundee City,Unknown,Stays with Nursing Provision,0,NA
+2017/18,Dundee City,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,East Ayrshire,All Ages,Stays with Nursing Provision,570,69.9
+2017/18,East Ayrshire,All Ages,Stays with no Nursing Provision,245,30.1
+2017/18,East Ayrshire,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,East Ayrshire,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,East Ayrshire,18-64 years,Stays with Nursing Provision,35,53.8
+2017/18,East Ayrshire,18-64 years,Stays with no Nursing Provision,30,46.2
+2017/18,East Ayrshire,65-74 years,Stays with Nursing Provision,70,77.8
+2017/18,East Ayrshire,65-74 years,Stays with no Nursing Provision,20,22.2
+2017/18,East Ayrshire,75-84 years,Stays with Nursing Provision,200,72.7
+2017/18,East Ayrshire,75-84 years,Stays with no Nursing Provision,75,27.3
+2017/18,East Ayrshire,85+ years,Stays with Nursing Provision,270,69.2
+2017/18,East Ayrshire,85+ years,Stays with no Nursing Provision,120,30.8
+2017/18,East Ayrshire,Unknown,Stays with Nursing Provision,0,NA
+2017/18,East Ayrshire,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,East Dunbartonshire,All Ages,Stays with Nursing Provision,745,86.6
+2017/18,East Dunbartonshire,All Ages,Stays with no Nursing Provision,115,13.4
+2017/18,East Dunbartonshire,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,East Dunbartonshire,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,East Dunbartonshire,18-64 years,Stays with Nursing Provision,20,44.4
+2017/18,East Dunbartonshire,18-64 years,Stays with no Nursing Provision,25,55.6
+2017/18,East Dunbartonshire,65-74 years,Stays with Nursing Provision,60,92.3
+2017/18,East Dunbartonshire,65-74 years,Stays with no Nursing Provision,5,7.7
+2017/18,East Dunbartonshire,75-84 years,Stays with Nursing Provision,245,94.2
+2017/18,East Dunbartonshire,75-84 years,Stays with no Nursing Provision,15,5.8
+2017/18,East Dunbartonshire,85+ years,Stays with Nursing Provision,420,86.6
+2017/18,East Dunbartonshire,85+ years,Stays with no Nursing Provision,65,13.4
+2017/18,East Dunbartonshire,Unknown,Stays with Nursing Provision,0,NA
+2017/18,East Dunbartonshire,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,East Lothian,All Ages,Stays with Nursing Provision,475,66
+2017/18,East Lothian,All Ages,Stays with no Nursing Provision,245,34
+2017/18,East Lothian,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,East Lothian,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,East Lothian,18-64 years,Stays with Nursing Provision,20,36.4
+2017/18,East Lothian,18-64 years,Stays with no Nursing Provision,35,63.6
+2017/18,East Lothian,65-74 years,Stays with Nursing Provision,55,68.8
+2017/18,East Lothian,65-74 years,Stays with no Nursing Provision,25,31.2
+2017/18,East Lothian,75-84 years,Stays with Nursing Provision,155,73.8
+2017/18,East Lothian,75-84 years,Stays with no Nursing Provision,55,26.2
+2017/18,East Lothian,85+ years,Stays with Nursing Provision,250,65.8
+2017/18,East Lothian,85+ years,Stays with no Nursing Provision,130,34.2
+2017/18,East Lothian,Unknown,Stays with Nursing Provision,0,NA
+2017/18,East Lothian,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,East Renfrewshire,All Ages,Stays with Nursing Provision,320,48.9
+2017/18,East Renfrewshire,All Ages,Stays with no Nursing Provision,335,51.1
+2017/18,East Renfrewshire,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,East Renfrewshire,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,East Renfrewshire,18-64 years,Stays with Nursing Provision,15,42.9
+2017/18,East Renfrewshire,18-64 years,Stays with no Nursing Provision,20,57.1
+2017/18,East Renfrewshire,65-74 years,Stays with Nursing Provision,25,50
+2017/18,East Renfrewshire,65-74 years,Stays with no Nursing Provision,25,50
+2017/18,East Renfrewshire,75-84 years,Stays with Nursing Provision,110,56.4
+2017/18,East Renfrewshire,75-84 years,Stays with no Nursing Provision,85,43.6
+2017/18,East Renfrewshire,85+ years,Stays with Nursing Provision,165,44
+2017/18,East Renfrewshire,85+ years,Stays with no Nursing Provision,210,56
+2017/18,East Renfrewshire,Unknown,Stays with Nursing Provision,0,NA
+2017/18,East Renfrewshire,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,Falkirk,All Ages,Stays with Nursing Provision,825,71.4
+2017/18,Falkirk,All Ages,Stays with no Nursing Provision,330,28.6
+2017/18,Falkirk,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,Falkirk,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,Falkirk,18-64 years,Stays with Nursing Provision,30,16.7
+2017/18,Falkirk,18-64 years,Stays with no Nursing Provision,150,83.3
+2017/18,Falkirk,65-74 years,Stays with Nursing Provision,120,72.7
+2017/18,Falkirk,65-74 years,Stays with no Nursing Provision,45,27.3
+2017/18,Falkirk,75-84 years,Stays with Nursing Provision,290,81.7
+2017/18,Falkirk,75-84 years,Stays with no Nursing Provision,65,18.3
+2017/18,Falkirk,85+ years,Stays with Nursing Provision,390,84.8
+2017/18,Falkirk,85+ years,Stays with no Nursing Provision,70,15.2
+2017/18,Falkirk,Unknown,Stays with Nursing Provision,0,NA
+2017/18,Falkirk,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,Fife,All Ages,Stays with Nursing Provision,1515,54.7
+2017/18,Fife,All Ages,Stays with no Nursing Provision,1255,45.3
+2017/18,Fife,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,Fife,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,Fife,18-64 years,Stays with Nursing Provision,135,67.5
+2017/18,Fife,18-64 years,Stays with no Nursing Provision,65,32.5
+2017/18,Fife,65-74 years,Stays with Nursing Provision,210,67.7
+2017/18,Fife,65-74 years,Stays with no Nursing Provision,100,32.3
+2017/18,Fife,75-84 years,Stays with Nursing Provision,530,60.6
+2017/18,Fife,75-84 years,Stays with no Nursing Provision,345,39.4
+2017/18,Fife,85+ years,Stays with Nursing Provision,640,46.2
+2017/18,Fife,85+ years,Stays with no Nursing Provision,745,53.8
+2017/18,Fife,Unknown,Stays with Nursing Provision,0,NA
+2017/18,Fife,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,Highland,All Ages,Stays with Nursing Provision,855,45.5
+2017/18,Highland,All Ages,Stays with no Nursing Provision,1025,54.5
+2017/18,Highland,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,Highland,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,Highland,18-64 years,Stays with Nursing Provision,110,56.4
+2017/18,Highland,18-64 years,Stays with no Nursing Provision,85,43.6
+2017/18,Highland,65-74 years,Stays with Nursing Provision,120,61.5
+2017/18,Highland,65-74 years,Stays with no Nursing Provision,75,38.5
+2017/18,Highland,75-84 years,Stays with Nursing Provision,275,50
+2017/18,Highland,75-84 years,Stays with no Nursing Provision,275,50
+2017/18,Highland,85+ years,Stays with Nursing Provision,350,37.2
+2017/18,Highland,85+ years,Stays with no Nursing Provision,590,62.8
+2017/18,Highland,Unknown,Stays with Nursing Provision,0,NA
+2017/18,Highland,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,Inverclyde,All Ages,Stays with Nursing Provision,585,83.6
+2017/18,Inverclyde,All Ages,Stays with no Nursing Provision,115,16.4
+2017/18,Inverclyde,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,Inverclyde,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,Inverclyde,18-64 years,Stays with Nursing Provision,25,33.3
+2017/18,Inverclyde,18-64 years,Stays with no Nursing Provision,50,66.7
+2017/18,Inverclyde,65-74 years,Stays with Nursing Provision,55,73.3
+2017/18,Inverclyde,65-74 years,Stays with no Nursing Provision,20,26.7
+2017/18,Inverclyde,75-84 years,Stays with Nursing Provision,185,92.5
+2017/18,Inverclyde,75-84 years,Stays with no Nursing Provision,15,7.5
+2017/18,Inverclyde,85+ years,Stays with Nursing Provision,320,92.8
+2017/18,Inverclyde,85+ years,Stays with no Nursing Provision,25,7.2
+2017/18,Inverclyde,Unknown,Stays with Nursing Provision,0,NA
+2017/18,Inverclyde,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,Midlothian,All Ages,Stays with Nursing Provision,360,69.2
+2017/18,Midlothian,All Ages,Stays with no Nursing Provision,160,30.8
+2017/18,Midlothian,0-17 years,Stays with Nursing Provision,0,0
+2017/18,Midlothian,0-17 years,Stays with no Nursing Provision,15,100
+2017/18,Midlothian,18-64 years,Stays with Nursing Provision,15,33.3
+2017/18,Midlothian,18-64 years,Stays with no Nursing Provision,30,66.7
+2017/18,Midlothian,65-74 years,Stays with Nursing Provision,40,72.7
+2017/18,Midlothian,65-74 years,Stays with no Nursing Provision,15,27.3
+2017/18,Midlothian,75-84 years,Stays with Nursing Provision,125,78.1
+2017/18,Midlothian,75-84 years,Stays with no Nursing Provision,35,21.9
+2017/18,Midlothian,85+ years,Stays with Nursing Provision,180,73.5
+2017/18,Midlothian,85+ years,Stays with no Nursing Provision,65,26.5
+2017/18,Midlothian,Unknown,Stays with Nursing Provision,0,NA
+2017/18,Midlothian,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,Moray,All Ages,Stays with Nursing Provision,195,31.2
+2017/18,Moray,All Ages,Stays with no Nursing Provision,430,68.8
+2017/18,Moray,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,Moray,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,Moray,18-64 years,Stays with Nursing Provision,20,22.2
+2017/18,Moray,18-64 years,Stays with no Nursing Provision,70,77.8
+2017/18,Moray,65-74 years,Stays with Nursing Provision,35,50
+2017/18,Moray,65-74 years,Stays with no Nursing Provision,35,50
+2017/18,Moray,75-84 years,Stays with Nursing Provision,65,38.2
+2017/18,Moray,75-84 years,Stays with no Nursing Provision,105,61.8
+2017/18,Moray,85+ years,Stays with Nursing Provision,75,25.4
+2017/18,Moray,85+ years,Stays with no Nursing Provision,220,74.6
+2017/18,Moray,Unknown,Stays with Nursing Provision,0,NA
+2017/18,Moray,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,North Ayrshire,All Ages,Stays with Nursing Provision,695,65.9
+2017/18,North Ayrshire,All Ages,Stays with no Nursing Provision,360,34.1
+2017/18,North Ayrshire,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,North Ayrshire,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,North Ayrshire,18-64 years,Stays with Nursing Provision,35,38.9
+2017/18,North Ayrshire,18-64 years,Stays with no Nursing Provision,55,61.1
+2017/18,North Ayrshire,65-74 years,Stays with Nursing Provision,85,77.3
+2017/18,North Ayrshire,65-74 years,Stays with no Nursing Provision,25,22.7
+2017/18,North Ayrshire,75-84 years,Stays with Nursing Provision,260,72.2
+2017/18,North Ayrshire,75-84 years,Stays with no Nursing Provision,100,27.8
+2017/18,North Ayrshire,85+ years,Stays with Nursing Provision,315,63.6
+2017/18,North Ayrshire,85+ years,Stays with no Nursing Provision,180,36.4
+2017/18,North Ayrshire,Unknown,Stays with Nursing Provision,0,NA
+2017/18,North Ayrshire,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,North Lanarkshire,All Ages,Stays with Nursing Provision,1480,94.6
+2017/18,North Lanarkshire,All Ages,Stays with no Nursing Provision,85,5.4
+2017/18,North Lanarkshire,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,North Lanarkshire,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,North Lanarkshire,18-64 years,Stays with Nursing Provision,60,85.7
+2017/18,North Lanarkshire,18-64 years,Stays with no Nursing Provision,10,14.3
+2017/18,North Lanarkshire,65-74 years,Stays with Nursing Provision,180,92.3
+2017/18,North Lanarkshire,65-74 years,Stays with no Nursing Provision,15,7.7
+2017/18,North Lanarkshire,75-84 years,Stays with Nursing Provision,560,94.9
+2017/18,North Lanarkshire,75-84 years,Stays with no Nursing Provision,30,5.1
+2017/18,North Lanarkshire,85+ years,Stays with Nursing Provision,685,95.1
+2017/18,North Lanarkshire,85+ years,Stays with no Nursing Provision,35,4.9
+2017/18,North Lanarkshire,Unknown,Stays with Nursing Provision,0,NA
+2017/18,North Lanarkshire,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,Orkney Islands,All Ages,Stays with Nursing Provision,35,36.8
+2017/18,Orkney Islands,All Ages,Stays with no Nursing Provision,60,63.2
+2017/18,Orkney Islands,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,Orkney Islands,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,Orkney Islands,18-64 years,Stays with Nursing Provision,0,NA
+2017/18,Orkney Islands,18-64 years,Stays with no Nursing Provision,0,NA
+2017/18,Orkney Islands,65-74 years,Stays with Nursing Provision,0,NA
+2017/18,Orkney Islands,65-74 years,Stays with no Nursing Provision,0,NA
+2017/18,Orkney Islands,75-84 years,Stays with Nursing Provision,20,44.4
+2017/18,Orkney Islands,75-84 years,Stays with no Nursing Provision,25,55.6
+2017/18,Orkney Islands,85+ years,Stays with Nursing Provision,15,33.3
+2017/18,Orkney Islands,85+ years,Stays with no Nursing Provision,30,66.7
+2017/18,Orkney Islands,Unknown,Stays with Nursing Provision,0,NA
+2017/18,Orkney Islands,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,Perth and Kinross,All Ages,Stays with Nursing Provision,725,55.3
+2017/18,Perth and Kinross,All Ages,Stays with no Nursing Provision,585,44.7
+2017/18,Perth and Kinross,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,Perth and Kinross,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,Perth and Kinross,18-64 years,Stays with Nursing Provision,50,37
+2017/18,Perth and Kinross,18-64 years,Stays with no Nursing Provision,85,63
+2017/18,Perth and Kinross,65-74 years,Stays with Nursing Provision,70,60.9
+2017/18,Perth and Kinross,65-74 years,Stays with no Nursing Provision,45,39.1
+2017/18,Perth and Kinross,75-84 years,Stays with Nursing Provision,235,65.3
+2017/18,Perth and Kinross,75-84 years,Stays with no Nursing Provision,125,34.7
+2017/18,Perth and Kinross,85+ years,Stays with Nursing Provision,375,53.6
+2017/18,Perth and Kinross,85+ years,Stays with no Nursing Provision,325,46.4
+2017/18,Perth and Kinross,Unknown,Stays with Nursing Provision,0,NA
+2017/18,Perth and Kinross,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,Renfrewshire,All Ages,Stays with Nursing Provision,850,69.4
+2017/18,Renfrewshire,All Ages,Stays with no Nursing Provision,375,30.6
+2017/18,Renfrewshire,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,Renfrewshire,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,Renfrewshire,18-64 years,Stays with Nursing Provision,35,28
+2017/18,Renfrewshire,18-64 years,Stays with no Nursing Provision,90,72
+2017/18,Renfrewshire,65-74 years,Stays with Nursing Provision,105,72.4
+2017/18,Renfrewshire,65-74 years,Stays with no Nursing Provision,40,27.6
+2017/18,Renfrewshire,75-84 years,Stays with Nursing Provision,310,75.6
+2017/18,Renfrewshire,75-84 years,Stays with no Nursing Provision,100,24.4
+2017/18,Renfrewshire,85+ years,Stays with Nursing Provision,400,73.4
+2017/18,Renfrewshire,85+ years,Stays with no Nursing Provision,145,26.6
+2017/18,Renfrewshire,Unknown,Stays with Nursing Provision,5,100
+2017/18,Renfrewshire,Unknown,Stays with no Nursing Provision,0,0
+2017/18,Scottish Borders,All Ages,Stays with Nursing Provision,300,38.5
+2017/18,Scottish Borders,All Ages,Stays with no Nursing Provision,480,61.5
+2017/18,Scottish Borders,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,Scottish Borders,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,Scottish Borders,18-64 years,Stays with Nursing Provision,5,16.7
+2017/18,Scottish Borders,18-64 years,Stays with no Nursing Provision,25,83.3
+2017/18,Scottish Borders,65-74 years,Stays with Nursing Provision,25,45.5
+2017/18,Scottish Borders,65-74 years,Stays with no Nursing Provision,30,54.5
+2017/18,Scottish Borders,75-84 years,Stays with Nursing Provision,100,44.4
+2017/18,Scottish Borders,75-84 years,Stays with no Nursing Provision,125,55.6
+2017/18,Scottish Borders,85+ years,Stays with Nursing Provision,170,36.6
+2017/18,Scottish Borders,85+ years,Stays with no Nursing Provision,295,63.4
+2017/18,Scottish Borders,Unknown,Stays with Nursing Provision,0,NA
+2017/18,Scottish Borders,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,Shetland Islands,All Ages,Stays with Nursing Provision,0,0
+2017/18,Shetland Islands,All Ages,Stays with no Nursing Provision,115,100
+2017/18,Shetland Islands,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,Shetland Islands,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,Shetland Islands,18-64 years,Stays with Nursing Provision,0,0
+2017/18,Shetland Islands,18-64 years,Stays with no Nursing Provision,5,100
+2017/18,Shetland Islands,65-74 years,Stays with Nursing Provision,0,0
+2017/18,Shetland Islands,65-74 years,Stays with no Nursing Provision,15,100
+2017/18,Shetland Islands,75-84 years,Stays with Nursing Provision,0,0
+2017/18,Shetland Islands,75-84 years,Stays with no Nursing Provision,35,100
+2017/18,Shetland Islands,85+ years,Stays with Nursing Provision,0,0
+2017/18,Shetland Islands,85+ years,Stays with no Nursing Provision,60,100
+2017/18,Shetland Islands,Unknown,Stays with Nursing Provision,0,NA
+2017/18,Shetland Islands,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,South Ayrshire,All Ages,Stays with Nursing Provision,750,70.1
+2017/18,South Ayrshire,All Ages,Stays with no Nursing Provision,320,29.9
+2017/18,South Ayrshire,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,South Ayrshire,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,South Ayrshire,18-64 years,Stays with Nursing Provision,30,50
+2017/18,South Ayrshire,18-64 years,Stays with no Nursing Provision,30,50
+2017/18,South Ayrshire,65-74 years,Stays with Nursing Provision,80,76.2
+2017/18,South Ayrshire,65-74 years,Stays with no Nursing Provision,25,23.8
+2017/18,South Ayrshire,75-84 years,Stays with Nursing Provision,270,73
+2017/18,South Ayrshire,75-84 years,Stays with no Nursing Provision,100,27
+2017/18,South Ayrshire,85+ years,Stays with Nursing Provision,375,68.8
+2017/18,South Ayrshire,85+ years,Stays with no Nursing Provision,170,31.2
+2017/18,South Ayrshire,Unknown,Stays with Nursing Provision,0,NA
+2017/18,South Ayrshire,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,South Lanarkshire,All Ages,Stays with Nursing Provision,1600,78.2
+2017/18,South Lanarkshire,All Ages,Stays with no Nursing Provision,445,21.8
+2017/18,South Lanarkshire,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,South Lanarkshire,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,South Lanarkshire,18-64 years,Stays with Nursing Provision,140,63.6
+2017/18,South Lanarkshire,18-64 years,Stays with no Nursing Provision,80,36.4
+2017/18,South Lanarkshire,65-74 years,Stays with Nursing Provision,185,78.7
+2017/18,South Lanarkshire,65-74 years,Stays with no Nursing Provision,50,21.3
+2017/18,South Lanarkshire,75-84 years,Stays with Nursing Provision,495,78.6
+2017/18,South Lanarkshire,75-84 years,Stays with no Nursing Provision,135,21.4
+2017/18,South Lanarkshire,85+ years,Stays with Nursing Provision,775,81.2
+2017/18,South Lanarkshire,85+ years,Stays with no Nursing Provision,180,18.8
+2017/18,South Lanarkshire,Unknown,Stays with Nursing Provision,0,NA
+2017/18,South Lanarkshire,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,Stirling,All Ages,Stays with Nursing Provision,225,40.9
+2017/18,Stirling,All Ages,Stays with no Nursing Provision,325,59.1
+2017/18,Stirling,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,Stirling,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,Stirling,18-64 years,Stays with Nursing Provision,15,20
+2017/18,Stirling,18-64 years,Stays with no Nursing Provision,60,80
+2017/18,Stirling,65-74 years,Stays with Nursing Provision,25,45.5
+2017/18,Stirling,65-74 years,Stays with no Nursing Provision,30,54.5
+2017/18,Stirling,75-84 years,Stays with Nursing Provision,85,48.6
+2017/18,Stirling,75-84 years,Stays with no Nursing Provision,90,51.4
+2017/18,Stirling,85+ years,Stays with Nursing Provision,105,42.9
+2017/18,Stirling,85+ years,Stays with no Nursing Provision,140,57.1
+2017/18,Stirling,Unknown,Stays with Nursing Provision,0,NA
+2017/18,Stirling,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,West Dunbartonshire,All Ages,Stays with Nursing Provision,390,56.1
+2017/18,West Dunbartonshire,All Ages,Stays with no Nursing Provision,305,43.9
+2017/18,West Dunbartonshire,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,West Dunbartonshire,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,West Dunbartonshire,18-64 years,Stays with Nursing Provision,40,66.7
+2017/18,West Dunbartonshire,18-64 years,Stays with no Nursing Provision,20,33.3
+2017/18,West Dunbartonshire,65-74 years,Stays with Nursing Provision,45,60
+2017/18,West Dunbartonshire,65-74 years,Stays with no Nursing Provision,30,40
+2017/18,West Dunbartonshire,75-84 years,Stays with Nursing Provision,145,60.4
+2017/18,West Dunbartonshire,75-84 years,Stays with no Nursing Provision,95,39.6
+2017/18,West Dunbartonshire,85+ years,Stays with Nursing Provision,160,50.8
+2017/18,West Dunbartonshire,85+ years,Stays with no Nursing Provision,155,49.2
+2017/18,West Dunbartonshire,Unknown,Stays with Nursing Provision,0,NA
+2017/18,West Dunbartonshire,Unknown,Stays with no Nursing Provision,0,NA
+2017/18,West Lothian,All Ages,Stays with Nursing Provision,680,73.1
+2017/18,West Lothian,All Ages,Stays with no Nursing Provision,250,26.9
+2017/18,West Lothian,0-17 years,Stays with Nursing Provision,0,NA
+2017/18,West Lothian,0-17 years,Stays with no Nursing Provision,0,NA
+2017/18,West Lothian,18-64 years,Stays with Nursing Provision,35,31.8
+2017/18,West Lothian,18-64 years,Stays with no Nursing Provision,75,68.2
+2017/18,West Lothian,65-74 years,Stays with Nursing Provision,75,65.2
+2017/18,West Lothian,65-74 years,Stays with no Nursing Provision,40,34.8
+2017/18,West Lothian,75-84 years,Stays with Nursing Provision,245,80.3
+2017/18,West Lothian,75-84 years,Stays with no Nursing Provision,60,19.7
+2017/18,West Lothian,85+ years,Stays with Nursing Provision,325,81.2
+2017/18,West Lothian,85+ years,Stays with no Nursing Provision,75,18.8
+2017/18,West Lothian,Unknown,Stays with Nursing Provision,0,NA
+2017/18,West Lothian,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,Scotland (All Areas Submitted),All Ages,Stays with Nursing Provision,27910,60.4
+2018/19,Scotland (All Areas Submitted),All Ages,Stays with no Nursing Provision,18305,39.6
+2018/19,Scotland (All Areas Submitted),0-17 years,Stays with Nursing Provision,0,0
+2018/19,Scotland (All Areas Submitted),0-17 years,Stays with no Nursing Provision,80,100
+2018/19,Scotland (All Areas Submitted),18-64 years,Stays with Nursing Provision,2000,46.9
+2018/19,Scotland (All Areas Submitted),18-64 years,Stays with no Nursing Provision,2260,53.1
+2018/19,Scotland (All Areas Submitted),65-74 years,Stays with Nursing Provision,3205,65.7
+2018/19,Scotland (All Areas Submitted),65-74 years,Stays with no Nursing Provision,1675,34.3
+2018/19,Scotland (All Areas Submitted),75-84 years,Stays with Nursing Provision,9040,65.4
+2018/19,Scotland (All Areas Submitted),75-84 years,Stays with no Nursing Provision,4780,34.6
+2018/19,Scotland (All Areas Submitted),85+ years,Stays with Nursing Provision,13660,59
+2018/19,Scotland (All Areas Submitted),85+ years,Stays with no Nursing Provision,9505,41
+2018/19,Scotland (All Areas Submitted),Unknown,Stays with Nursing Provision,10,66.7
+2018/19,Scotland (All Areas Submitted),Unknown,Stays with no Nursing Provision,5,33.3
+2018/19,Aberdeen City,All Ages,Stays with Nursing Provision,1330,62.7
+2018/19,Aberdeen City,All Ages,Stays with no Nursing Provision,790,37.3
+2018/19,Aberdeen City,0-17 years,Stays with Nursing Provision,0,0
+2018/19,Aberdeen City,0-17 years,Stays with no Nursing Provision,65,100
+2018/19,Aberdeen City,18-64 years,Stays with Nursing Provision,95,30.6
+2018/19,Aberdeen City,18-64 years,Stays with no Nursing Provision,215,69.4
+2018/19,Aberdeen City,65-74 years,Stays with Nursing Provision,140,59.6
+2018/19,Aberdeen City,65-74 years,Stays with no Nursing Provision,95,40.4
+2018/19,Aberdeen City,75-84 years,Stays with Nursing Provision,430,78.2
+2018/19,Aberdeen City,75-84 years,Stays with no Nursing Provision,120,21.8
+2018/19,Aberdeen City,85+ years,Stays with Nursing Provision,665,68.9
+2018/19,Aberdeen City,85+ years,Stays with no Nursing Provision,300,31.1
+2018/19,Aberdeen City,Unknown,Stays with Nursing Provision,0,NA
+2018/19,Aberdeen City,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,Aberdeenshire,All Ages,Stays with Nursing Provision,1465,64.4
+2018/19,Aberdeenshire,All Ages,Stays with no Nursing Provision,810,35.6
+2018/19,Aberdeenshire,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,Aberdeenshire,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,Aberdeenshire,18-64 years,Stays with Nursing Provision,50,21.3
+2018/19,Aberdeenshire,18-64 years,Stays with no Nursing Provision,185,78.7
+2018/19,Aberdeenshire,65-74 years,Stays with Nursing Provision,150,65.2
+2018/19,Aberdeenshire,65-74 years,Stays with no Nursing Provision,80,34.8
+2018/19,Aberdeenshire,75-84 years,Stays with Nursing Provision,485,74.6
+2018/19,Aberdeenshire,75-84 years,Stays with no Nursing Provision,165,25.4
+2018/19,Aberdeenshire,85+ years,Stays with Nursing Provision,775,67.4
+2018/19,Aberdeenshire,85+ years,Stays with no Nursing Provision,375,32.6
+2018/19,Aberdeenshire,Unknown,Stays with Nursing Provision,0,NA
+2018/19,Aberdeenshire,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,Angus,All Ages,Stays with Nursing Provision,470,36.3
+2018/19,Angus,All Ages,Stays with no Nursing Provision,825,63.7
+2018/19,Angus,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,Angus,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,Angus,18-64 years,Stays with Nursing Provision,15,15
+2018/19,Angus,18-64 years,Stays with no Nursing Provision,85,85
+2018/19,Angus,65-74 years,Stays with Nursing Provision,60,52.2
+2018/19,Angus,65-74 years,Stays with no Nursing Provision,55,47.8
+2018/19,Angus,75-84 years,Stays with Nursing Provision,155,43.1
+2018/19,Angus,75-84 years,Stays with no Nursing Provision,205,56.9
+2018/19,Angus,85+ years,Stays with Nursing Provision,240,33.1
+2018/19,Angus,85+ years,Stays with no Nursing Provision,485,66.9
+2018/19,Angus,Unknown,Stays with Nursing Provision,0,NA
+2018/19,Angus,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,Argyll and Bute,All Ages,Stays with Nursing Provision,395,47.3
+2018/19,Argyll and Bute,All Ages,Stays with no Nursing Provision,440,52.7
+2018/19,Argyll and Bute,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,Argyll and Bute,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,Argyll and Bute,18-64 years,Stays with Nursing Provision,15,23.1
+2018/19,Argyll and Bute,18-64 years,Stays with no Nursing Provision,50,76.9
+2018/19,Argyll and Bute,65-74 years,Stays with Nursing Provision,55,57.9
+2018/19,Argyll and Bute,65-74 years,Stays with no Nursing Provision,40,42.1
+2018/19,Argyll and Bute,75-84 years,Stays with Nursing Provision,125,51
+2018/19,Argyll and Bute,75-84 years,Stays with no Nursing Provision,120,49
+2018/19,Argyll and Bute,85+ years,Stays with Nursing Provision,195,45.9
+2018/19,Argyll and Bute,85+ years,Stays with no Nursing Provision,230,54.1
+2018/19,Argyll and Bute,Unknown,Stays with Nursing Provision,0,NA
+2018/19,Argyll and Bute,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,City of Edinburgh,All Ages,Stays with Nursing Provision,2115,57.2
+2018/19,City of Edinburgh,All Ages,Stays with no Nursing Provision,1585,42.8
+2018/19,City of Edinburgh,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,City of Edinburgh,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,City of Edinburgh,18-64 years,Stays with Nursing Provision,270,94.7
+2018/19,City of Edinburgh,18-64 years,Stays with no Nursing Provision,15,5.3
+2018/19,City of Edinburgh,65-74 years,Stays with Nursing Provision,220,62.9
+2018/19,City of Edinburgh,65-74 years,Stays with no Nursing Provision,130,37.1
+2018/19,City of Edinburgh,75-84 years,Stays with Nursing Provision,545,54.2
+2018/19,City of Edinburgh,75-84 years,Stays with no Nursing Provision,460,45.8
+2018/19,City of Edinburgh,85+ years,Stays with Nursing Provision,1080,52.4
+2018/19,City of Edinburgh,85+ years,Stays with no Nursing Provision,980,47.6
+2018/19,City of Edinburgh,Unknown,Stays with Nursing Provision,0,NA
+2018/19,City of Edinburgh,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,Clackmannanshire,All Ages,Stays with Nursing Provision,230,60.5
+2018/19,Clackmannanshire,All Ages,Stays with no Nursing Provision,150,39.5
+2018/19,Clackmannanshire,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,Clackmannanshire,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,Clackmannanshire,18-64 years,Stays with Nursing Provision,25,35.7
+2018/19,Clackmannanshire,18-64 years,Stays with no Nursing Provision,45,64.3
+2018/19,Clackmannanshire,65-74 years,Stays with Nursing Provision,25,50
+2018/19,Clackmannanshire,65-74 years,Stays with no Nursing Provision,25,50
+2018/19,Clackmannanshire,75-84 years,Stays with Nursing Provision,80,69.6
+2018/19,Clackmannanshire,75-84 years,Stays with no Nursing Provision,35,30.4
+2018/19,Clackmannanshire,85+ years,Stays with Nursing Provision,95,67.9
+2018/19,Clackmannanshire,85+ years,Stays with no Nursing Provision,45,32.1
+2018/19,Clackmannanshire,Unknown,Stays with Nursing Provision,0,NA
+2018/19,Clackmannanshire,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,Dumfries and Galloway,All Ages,Stays with Nursing Provision,170,11.6
+2018/19,Dumfries and Galloway,All Ages,Stays with no Nursing Provision,1290,88.4
+2018/19,Dumfries and Galloway,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,Dumfries and Galloway,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,Dumfries and Galloway,18-64 years,Stays with Nursing Provision,20,30.8
+2018/19,Dumfries and Galloway,18-64 years,Stays with no Nursing Provision,45,69.2
+2018/19,Dumfries and Galloway,65-74 years,Stays with Nursing Provision,15,10.7
+2018/19,Dumfries and Galloway,65-74 years,Stays with no Nursing Provision,125,89.3
+2018/19,Dumfries and Galloway,75-84 years,Stays with Nursing Provision,60,13.8
+2018/19,Dumfries and Galloway,75-84 years,Stays with no Nursing Provision,375,86.2
+2018/19,Dumfries and Galloway,85+ years,Stays with Nursing Provision,75,9.1
+2018/19,Dumfries and Galloway,85+ years,Stays with no Nursing Provision,745,90.9
+2018/19,Dumfries and Galloway,Unknown,Stays with Nursing Provision,0,NA
+2018/19,Dumfries and Galloway,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,Dundee City,All Ages,Stays with Nursing Provision,960,64.4
+2018/19,Dundee City,All Ages,Stays with no Nursing Provision,530,35.6
+2018/19,Dundee City,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,Dundee City,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,Dundee City,18-64 years,Stays with Nursing Provision,75,65.2
+2018/19,Dundee City,18-64 years,Stays with no Nursing Provision,40,34.8
+2018/19,Dundee City,65-74 years,Stays with Nursing Provision,115,71.9
+2018/19,Dundee City,65-74 years,Stays with no Nursing Provision,45,28.1
+2018/19,Dundee City,75-84 years,Stays with Nursing Provision,305,69.3
+2018/19,Dundee City,75-84 years,Stays with no Nursing Provision,135,30.7
+2018/19,Dundee City,85+ years,Stays with Nursing Provision,465,59.6
+2018/19,Dundee City,85+ years,Stays with no Nursing Provision,315,40.4
+2018/19,Dundee City,Unknown,Stays with Nursing Provision,0,NA
+2018/19,Dundee City,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,East Ayrshire,All Ages,Stays with Nursing Provision,720,72.4
+2018/19,East Ayrshire,All Ages,Stays with no Nursing Provision,275,27.6
+2018/19,East Ayrshire,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,East Ayrshire,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,East Ayrshire,18-64 years,Stays with Nursing Provision,45,56.2
+2018/19,East Ayrshire,18-64 years,Stays with no Nursing Provision,35,43.8
+2018/19,East Ayrshire,65-74 years,Stays with Nursing Provision,80,76.2
+2018/19,East Ayrshire,65-74 years,Stays with no Nursing Provision,25,23.8
+2018/19,East Ayrshire,75-84 years,Stays with Nursing Provision,255,76.1
+2018/19,East Ayrshire,75-84 years,Stays with no Nursing Provision,80,23.9
+2018/19,East Ayrshire,85+ years,Stays with Nursing Provision,340,71.6
+2018/19,East Ayrshire,85+ years,Stays with no Nursing Provision,135,28.4
+2018/19,East Ayrshire,Unknown,Stays with Nursing Provision,0,NA
+2018/19,East Ayrshire,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,East Dunbartonshire,All Ages,Stays with Nursing Provision,995,88.8
+2018/19,East Dunbartonshire,All Ages,Stays with no Nursing Provision,125,11.2
+2018/19,East Dunbartonshire,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,East Dunbartonshire,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,East Dunbartonshire,18-64 years,Stays with Nursing Provision,25,45.5
+2018/19,East Dunbartonshire,18-64 years,Stays with no Nursing Provision,30,54.5
+2018/19,East Dunbartonshire,65-74 years,Stays with Nursing Provision,80,88.9
+2018/19,East Dunbartonshire,65-74 years,Stays with no Nursing Provision,10,11.1
+2018/19,East Dunbartonshire,75-84 years,Stays with Nursing Provision,310,93.9
+2018/19,East Dunbartonshire,75-84 years,Stays with no Nursing Provision,20,6.1
+2018/19,East Dunbartonshire,85+ years,Stays with Nursing Provision,580,89.2
+2018/19,East Dunbartonshire,85+ years,Stays with no Nursing Provision,70,10.8
+2018/19,East Dunbartonshire,Unknown,Stays with Nursing Provision,0,NA
+2018/19,East Dunbartonshire,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,East Lothian,All Ages,Stays with Nursing Provision,610,67
+2018/19,East Lothian,All Ages,Stays with no Nursing Provision,300,33
+2018/19,East Lothian,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,East Lothian,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,East Lothian,18-64 years,Stays with Nursing Provision,25,38.5
+2018/19,East Lothian,18-64 years,Stays with no Nursing Provision,40,61.5
+2018/19,East Lothian,65-74 years,Stays with Nursing Provision,55,68.8
+2018/19,East Lothian,65-74 years,Stays with no Nursing Provision,25,31.2
+2018/19,East Lothian,75-84 years,Stays with Nursing Provision,195,73.6
+2018/19,East Lothian,75-84 years,Stays with no Nursing Provision,70,26.4
+2018/19,East Lothian,85+ years,Stays with Nursing Provision,335,66.3
+2018/19,East Lothian,85+ years,Stays with no Nursing Provision,170,33.7
+2018/19,East Lothian,Unknown,Stays with Nursing Provision,0,NA
+2018/19,East Lothian,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,East Renfrewshire,All Ages,Stays with Nursing Provision,435,52.4
+2018/19,East Renfrewshire,All Ages,Stays with no Nursing Provision,395,47.6
+2018/19,East Renfrewshire,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,East Renfrewshire,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,East Renfrewshire,18-64 years,Stays with Nursing Provision,15,50
+2018/19,East Renfrewshire,18-64 years,Stays with no Nursing Provision,15,50
+2018/19,East Renfrewshire,65-74 years,Stays with Nursing Provision,45,60
+2018/19,East Renfrewshire,65-74 years,Stays with no Nursing Provision,30,40
+2018/19,East Renfrewshire,75-84 years,Stays with Nursing Provision,145,60.4
+2018/19,East Renfrewshire,75-84 years,Stays with no Nursing Provision,95,39.6
+2018/19,East Renfrewshire,85+ years,Stays with Nursing Provision,225,46.9
+2018/19,East Renfrewshire,85+ years,Stays with no Nursing Provision,255,53.1
+2018/19,East Renfrewshire,Unknown,Stays with Nursing Provision,0,NA
+2018/19,East Renfrewshire,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,Falkirk,All Ages,Stays with Nursing Provision,985,70.9
+2018/19,Falkirk,All Ages,Stays with no Nursing Provision,405,29.1
+2018/19,Falkirk,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,Falkirk,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,Falkirk,18-64 years,Stays with Nursing Provision,50,27
+2018/19,Falkirk,18-64 years,Stays with no Nursing Provision,135,73
+2018/19,Falkirk,65-74 years,Stays with Nursing Provision,120,66.7
+2018/19,Falkirk,65-74 years,Stays with no Nursing Provision,60,33.3
+2018/19,Falkirk,75-84 years,Stays with Nursing Provision,335,77.9
+2018/19,Falkirk,75-84 years,Stays with no Nursing Provision,95,22.1
+2018/19,Falkirk,85+ years,Stays with Nursing Provision,480,80
+2018/19,Falkirk,85+ years,Stays with no Nursing Provision,120,20
+2018/19,Falkirk,Unknown,Stays with Nursing Provision,0,NA
+2018/19,Falkirk,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,Fife,All Ages,Stays with Nursing Provision,1860,50
+2018/19,Fife,All Ages,Stays with no Nursing Provision,1860,50
+2018/19,Fife,0-17 years,Stays with Nursing Provision,0,0
+2018/19,Fife,0-17 years,Stays with no Nursing Provision,5,100
+2018/19,Fife,18-64 years,Stays with Nursing Provision,160,69.6
+2018/19,Fife,18-64 years,Stays with no Nursing Provision,70,30.4
+2018/19,Fife,65-74 years,Stays with Nursing Provision,250,60.2
+2018/19,Fife,65-74 years,Stays with no Nursing Provision,165,39.8
+2018/19,Fife,75-84 years,Stays with Nursing Provision,630,54.1
+2018/19,Fife,75-84 years,Stays with no Nursing Provision,535,45.9
+2018/19,Fife,85+ years,Stays with Nursing Provision,825,43.2
+2018/19,Fife,85+ years,Stays with no Nursing Provision,1085,56.8
+2018/19,Fife,Unknown,Stays with Nursing Provision,0,NA
+2018/19,Fife,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,Glasgow City,All Ages,Stays with Nursing Provision,2715,54.5
+2018/19,Glasgow City,All Ages,Stays with no Nursing Provision,2270,45.5
+2018/19,Glasgow City,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,Glasgow City,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,Glasgow City,18-64 years,Stays with Nursing Provision,315,39.6
+2018/19,Glasgow City,18-64 years,Stays with no Nursing Provision,480,60.4
+2018/19,Glasgow City,65-74 years,Stays with Nursing Provision,405,60.9
+2018/19,Glasgow City,65-74 years,Stays with no Nursing Provision,260,39.1
+2018/19,Glasgow City,75-84 years,Stays with Nursing Provision,860,58.3
+2018/19,Glasgow City,75-84 years,Stays with no Nursing Provision,615,41.7
+2018/19,Glasgow City,85+ years,Stays with Nursing Provision,1140,55.6
+2018/19,Glasgow City,85+ years,Stays with no Nursing Provision,910,44.4
+2018/19,Glasgow City,Unknown,Stays with Nursing Provision,0,NA
+2018/19,Glasgow City,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,Highland,All Ages,Stays with Nursing Provision,1055,45.8
+2018/19,Highland,All Ages,Stays with no Nursing Provision,1250,54.2
+2018/19,Highland,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,Highland,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,Highland,18-64 years,Stays with Nursing Provision,125,59.5
+2018/19,Highland,18-64 years,Stays with no Nursing Provision,85,40.5
+2018/19,Highland,65-74 years,Stays with Nursing Provision,145,63
+2018/19,Highland,65-74 years,Stays with no Nursing Provision,85,37
+2018/19,Highland,75-84 years,Stays with Nursing Provision,335,50.4
+2018/19,Highland,75-84 years,Stays with no Nursing Provision,330,49.6
+2018/19,Highland,85+ years,Stays with Nursing Provision,450,37.5
+2018/19,Highland,85+ years,Stays with no Nursing Provision,750,62.5
+2018/19,Highland,Unknown,Stays with Nursing Provision,0,NA
+2018/19,Highland,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,Inverclyde,All Ages,Stays with Nursing Provision,745,88.7
+2018/19,Inverclyde,All Ages,Stays with no Nursing Provision,95,11.3
+2018/19,Inverclyde,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,Inverclyde,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,Inverclyde,18-64 years,Stays with Nursing Provision,35,41.2
+2018/19,Inverclyde,18-64 years,Stays with no Nursing Provision,50,58.8
+2018/19,Inverclyde,65-74 years,Stays with Nursing Provision,80,88.9
+2018/19,Inverclyde,65-74 years,Stays with no Nursing Provision,10,11.1
+2018/19,Inverclyde,75-84 years,Stays with Nursing Provision,225,93.8
+2018/19,Inverclyde,75-84 years,Stays with no Nursing Provision,15,6.2
+2018/19,Inverclyde,85+ years,Stays with Nursing Provision,405,95.3
+2018/19,Inverclyde,85+ years,Stays with no Nursing Provision,20,4.7
+2018/19,Inverclyde,Unknown,Stays with Nursing Provision,0,NA
+2018/19,Inverclyde,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,Midlothian,All Ages,Stays with Nursing Provision,445,70.1
+2018/19,Midlothian,All Ages,Stays with no Nursing Provision,190,29.9
+2018/19,Midlothian,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,Midlothian,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,Midlothian,18-64 years,Stays with Nursing Provision,20,44.4
+2018/19,Midlothian,18-64 years,Stays with no Nursing Provision,25,55.6
+2018/19,Midlothian,65-74 years,Stays with Nursing Provision,50,71.4
+2018/19,Midlothian,65-74 years,Stays with no Nursing Provision,20,28.6
+2018/19,Midlothian,75-84 years,Stays with Nursing Provision,140,75.7
+2018/19,Midlothian,75-84 years,Stays with no Nursing Provision,45,24.3
+2018/19,Midlothian,85+ years,Stays with Nursing Provision,230,69.7
+2018/19,Midlothian,85+ years,Stays with no Nursing Provision,100,30.3
+2018/19,Midlothian,Unknown,Stays with Nursing Provision,0,NA
+2018/19,Midlothian,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,Moray,All Ages,Stays with Nursing Provision,240,31.2
+2018/19,Moray,All Ages,Stays with no Nursing Provision,530,68.8
+2018/19,Moray,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,Moray,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,Moray,18-64 years,Stays with Nursing Provision,25,26.3
+2018/19,Moray,18-64 years,Stays with no Nursing Provision,70,73.7
+2018/19,Moray,65-74 years,Stays with Nursing Provision,35,50
+2018/19,Moray,65-74 years,Stays with no Nursing Provision,35,50
+2018/19,Moray,75-84 years,Stays with Nursing Provision,80,36.4
+2018/19,Moray,75-84 years,Stays with no Nursing Provision,140,63.6
+2018/19,Moray,85+ years,Stays with Nursing Provision,105,26.9
+2018/19,Moray,85+ years,Stays with no Nursing Provision,285,73.1
+2018/19,Moray,Unknown,Stays with Nursing Provision,0,NA
+2018/19,Moray,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,North Ayrshire,All Ages,Stays with Nursing Provision,700,64.2
+2018/19,North Ayrshire,All Ages,Stays with no Nursing Provision,390,35.8
+2018/19,North Ayrshire,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,North Ayrshire,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,North Ayrshire,18-64 years,Stays with Nursing Provision,40,40
+2018/19,North Ayrshire,18-64 years,Stays with no Nursing Provision,60,60
+2018/19,North Ayrshire,65-74 years,Stays with Nursing Provision,85,73.9
+2018/19,North Ayrshire,65-74 years,Stays with no Nursing Provision,30,26.1
+2018/19,North Ayrshire,75-84 years,Stays with Nursing Provision,260,71.2
+2018/19,North Ayrshire,75-84 years,Stays with no Nursing Provision,105,28.8
+2018/19,North Ayrshire,85+ years,Stays with Nursing Provision,310,61.4
+2018/19,North Ayrshire,85+ years,Stays with no Nursing Provision,195,38.6
+2018/19,North Ayrshire,Unknown,Stays with Nursing Provision,0,NA
+2018/19,North Ayrshire,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,North Lanarkshire,All Ages,Stays with Nursing Provision,1855,94.9
+2018/19,North Lanarkshire,All Ages,Stays with no Nursing Provision,100,5.1
+2018/19,North Lanarkshire,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,North Lanarkshire,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,North Lanarkshire,18-64 years,Stays with Nursing Provision,75,83.3
+2018/19,North Lanarkshire,18-64 years,Stays with no Nursing Provision,15,16.7
+2018/19,North Lanarkshire,65-74 years,Stays with Nursing Provision,220,95.7
+2018/19,North Lanarkshire,65-74 years,Stays with no Nursing Provision,10,4.3
+2018/19,North Lanarkshire,75-84 years,Stays with Nursing Provision,665,95.7
+2018/19,North Lanarkshire,75-84 years,Stays with no Nursing Provision,30,4.3
+2018/19,North Lanarkshire,85+ years,Stays with Nursing Provision,890,94.7
+2018/19,North Lanarkshire,85+ years,Stays with no Nursing Provision,50,5.3
+2018/19,North Lanarkshire,Unknown,Stays with Nursing Provision,0,NA
+2018/19,North Lanarkshire,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,Perth and Kinross,All Ages,Stays with Nursing Provision,960,59.3
+2018/19,Perth and Kinross,All Ages,Stays with no Nursing Provision,660,40.7
+2018/19,Perth and Kinross,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,Perth and Kinross,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,Perth and Kinross,18-64 years,Stays with Nursing Provision,60,41.4
+2018/19,Perth and Kinross,18-64 years,Stays with no Nursing Provision,85,58.6
+2018/19,Perth and Kinross,65-74 years,Stays with Nursing Provision,95,65.5
+2018/19,Perth and Kinross,65-74 years,Stays with no Nursing Provision,50,34.5
+2018/19,Perth and Kinross,75-84 years,Stays with Nursing Provision,295,67
+2018/19,Perth and Kinross,75-84 years,Stays with no Nursing Provision,145,33
+2018/19,Perth and Kinross,85+ years,Stays with Nursing Provision,515,57.2
+2018/19,Perth and Kinross,85+ years,Stays with no Nursing Provision,385,42.8
+2018/19,Perth and Kinross,Unknown,Stays with Nursing Provision,0,NA
+2018/19,Perth and Kinross,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,Renfrewshire,All Ages,Stays with Nursing Provision,1055,67.6
+2018/19,Renfrewshire,All Ages,Stays with no Nursing Provision,505,32.4
+2018/19,Renfrewshire,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,Renfrewshire,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,Renfrewshire,18-64 years,Stays with Nursing Provision,55,42.3
+2018/19,Renfrewshire,18-64 years,Stays with no Nursing Provision,75,57.7
+2018/19,Renfrewshire,65-74 years,Stays with Nursing Provision,130,72.2
+2018/19,Renfrewshire,65-74 years,Stays with no Nursing Provision,50,27.8
+2018/19,Renfrewshire,75-84 years,Stays with Nursing Provision,375,71.4
+2018/19,Renfrewshire,75-84 years,Stays with no Nursing Provision,150,28.6
+2018/19,Renfrewshire,85+ years,Stays with Nursing Provision,490,68.1
+2018/19,Renfrewshire,85+ years,Stays with no Nursing Provision,230,31.9
+2018/19,Renfrewshire,Unknown,Stays with Nursing Provision,10,100
+2018/19,Renfrewshire,Unknown,Stays with no Nursing Provision,0,0
+2018/19,Scottish Borders,All Ages,Stays with Nursing Provision,395,40.3
+2018/19,Scottish Borders,All Ages,Stays with no Nursing Provision,585,59.7
+2018/19,Scottish Borders,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,Scottish Borders,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,Scottish Borders,18-64 years,Stays with Nursing Provision,10,25
+2018/19,Scottish Borders,18-64 years,Stays with no Nursing Provision,30,75
+2018/19,Scottish Borders,65-74 years,Stays with Nursing Provision,35,46.7
+2018/19,Scottish Borders,65-74 years,Stays with no Nursing Provision,40,53.3
+2018/19,Scottish Borders,75-84 years,Stays with Nursing Provision,115,42.6
+2018/19,Scottish Borders,75-84 years,Stays with no Nursing Provision,155,57.4
+2018/19,Scottish Borders,85+ years,Stays with Nursing Provision,235,39.2
+2018/19,Scottish Borders,85+ years,Stays with no Nursing Provision,365,60.8
+2018/19,Scottish Borders,Unknown,Stays with Nursing Provision,0,NA
+2018/19,Scottish Borders,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,Shetland Islands,All Ages,Stays with Nursing Provision,0,0
+2018/19,Shetland Islands,All Ages,Stays with no Nursing Provision,210,100
+2018/19,Shetland Islands,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,Shetland Islands,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,Shetland Islands,18-64 years,Stays with Nursing Provision,0,0
+2018/19,Shetland Islands,18-64 years,Stays with no Nursing Provision,10,100
+2018/19,Shetland Islands,65-74 years,Stays with Nursing Provision,0,0
+2018/19,Shetland Islands,65-74 years,Stays with no Nursing Provision,25,100
+2018/19,Shetland Islands,75-84 years,Stays with Nursing Provision,0,0
+2018/19,Shetland Islands,75-84 years,Stays with no Nursing Provision,60,100
+2018/19,Shetland Islands,85+ years,Stays with Nursing Provision,0,0
+2018/19,Shetland Islands,85+ years,Stays with no Nursing Provision,110,100
+2018/19,Shetland Islands,Unknown,Stays with Nursing Provision,0,NA
+2018/19,Shetland Islands,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,South Ayrshire,All Ages,Stays with Nursing Provision,1290,98.9
+2018/19,South Ayrshire,All Ages,Stays with no Nursing Provision,15,1.1
+2018/19,South Ayrshire,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,South Ayrshire,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,South Ayrshire,18-64 years,Stays with Nursing Provision,75,93.8
+2018/19,South Ayrshire,18-64 years,Stays with no Nursing Provision,5,6.2
+2018/19,South Ayrshire,65-74 years,Stays with Nursing Provision,125,100
+2018/19,South Ayrshire,65-74 years,Stays with no Nursing Provision,0,0
+2018/19,South Ayrshire,75-84 years,Stays with Nursing Provision,395,98.8
+2018/19,South Ayrshire,75-84 years,Stays with no Nursing Provision,5,1.2
+2018/19,South Ayrshire,85+ years,Stays with Nursing Provision,700,99.3
+2018/19,South Ayrshire,85+ years,Stays with no Nursing Provision,5,0.7
+2018/19,South Ayrshire,Unknown,Stays with Nursing Provision,0,NA
+2018/19,South Ayrshire,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,South Lanarkshire,All Ages,Stays with Nursing Provision,2110,79.8
+2018/19,South Lanarkshire,All Ages,Stays with no Nursing Provision,535,20.2
+2018/19,South Lanarkshire,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,South Lanarkshire,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,South Lanarkshire,18-64 years,Stays with Nursing Provision,160,64
+2018/19,South Lanarkshire,18-64 years,Stays with no Nursing Provision,90,36
+2018/19,South Lanarkshire,65-74 years,Stays with Nursing Provision,235,82.5
+2018/19,South Lanarkshire,65-74 years,Stays with no Nursing Provision,50,17.5
+2018/19,South Lanarkshire,75-84 years,Stays with Nursing Provision,640,79.5
+2018/19,South Lanarkshire,75-84 years,Stays with no Nursing Provision,165,20.5
+2018/19,South Lanarkshire,85+ years,Stays with Nursing Provision,1075,82.1
+2018/19,South Lanarkshire,85+ years,Stays with no Nursing Provision,235,17.9
+2018/19,South Lanarkshire,Unknown,Stays with Nursing Provision,0,NA
+2018/19,South Lanarkshire,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,Stirling,All Ages,Stays with Nursing Provision,270,34.8
+2018/19,Stirling,All Ages,Stays with no Nursing Provision,505,65.2
+2018/19,Stirling,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,Stirling,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,Stirling,18-64 years,Stays with Nursing Provision,20,21.1
+2018/19,Stirling,18-64 years,Stays with no Nursing Provision,75,78.9
+2018/19,Stirling,65-74 years,Stays with Nursing Provision,25,38.5
+2018/19,Stirling,65-74 years,Stays with no Nursing Provision,40,61.5
+2018/19,Stirling,75-84 years,Stays with Nursing Provision,100,42.6
+2018/19,Stirling,75-84 years,Stays with no Nursing Provision,135,57.4
+2018/19,Stirling,85+ years,Stays with Nursing Provision,130,34.2
+2018/19,Stirling,85+ years,Stays with no Nursing Provision,250,65.8
+2018/19,Stirling,Unknown,Stays with Nursing Provision,0,NA
+2018/19,Stirling,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,West Dunbartonshire,All Ages,Stays with Nursing Provision,495,57.9
+2018/19,West Dunbartonshire,All Ages,Stays with no Nursing Provision,360,42.1
+2018/19,West Dunbartonshire,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,West Dunbartonshire,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,West Dunbartonshire,18-64 years,Stays with Nursing Provision,45,69.2
+2018/19,West Dunbartonshire,18-64 years,Stays with no Nursing Provision,20,30.8
+2018/19,West Dunbartonshire,65-74 years,Stays with Nursing Provision,60,63.2
+2018/19,West Dunbartonshire,65-74 years,Stays with no Nursing Provision,35,36.8
+2018/19,West Dunbartonshire,75-84 years,Stays with Nursing Provision,185,66.1
+2018/19,West Dunbartonshire,75-84 years,Stays with no Nursing Provision,95,33.9
+2018/19,West Dunbartonshire,85+ years,Stays with Nursing Provision,205,49.4
+2018/19,West Dunbartonshire,85+ years,Stays with no Nursing Provision,210,50.6
+2018/19,West Dunbartonshire,Unknown,Stays with Nursing Provision,0,NA
+2018/19,West Dunbartonshire,Unknown,Stays with no Nursing Provision,0,NA
+2018/19,West Lothian,All Ages,Stays with Nursing Provision,855,74
+2018/19,West Lothian,All Ages,Stays with no Nursing Provision,300,26
+2018/19,West Lothian,0-17 years,Stays with Nursing Provision,0,NA
+2018/19,West Lothian,0-17 years,Stays with no Nursing Provision,0,NA
+2018/19,West Lothian,18-64 years,Stays with Nursing Provision,55,40.7
+2018/19,West Lothian,18-64 years,Stays with no Nursing Provision,80,59.3
+2018/19,West Lothian,65-74 years,Stays with Nursing Provision,80,66.7
+2018/19,West Lothian,65-74 years,Stays with no Nursing Provision,40,33.3
+2018/19,West Lothian,75-84 years,Stays with Nursing Provision,315,80.8
+2018/19,West Lothian,75-84 years,Stays with no Nursing Provision,75,19.2
+2018/19,West Lothian,85+ years,Stays with Nursing Provision,405,78.6
+2018/19,West Lothian,85+ years,Stays with no Nursing Provision,110,21.4
+2018/19,West Lothian,Unknown,Stays with Nursing Provision,0,NA
+2018/19,West Lothian,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,Scotland (All Areas Submitted),All Ages,Stays with Nursing Provision,27360,61.3
+2019/20,Scotland (All Areas Submitted),All Ages,Stays with no Nursing Provision,17275,38.7
+2019/20,Scotland (All Areas Submitted),0-17 years,Stays with Nursing Provision,0,0
+2019/20,Scotland (All Areas Submitted),0-17 years,Stays with no Nursing Provision,20,100
+2019/20,Scotland (All Areas Submitted),18-64 years,Stays with Nursing Provision,1920,49.3
+2019/20,Scotland (All Areas Submitted),18-64 years,Stays with no Nursing Provision,1975,50.7
+2019/20,Scotland (All Areas Submitted),65-74 years,Stays with Nursing Provision,3175,67.4
+2019/20,Scotland (All Areas Submitted),65-74 years,Stays with no Nursing Provision,1535,32.6
+2019/20,Scotland (All Areas Submitted),75-84 years,Stays with Nursing Provision,8735,65
+2019/20,Scotland (All Areas Submitted),75-84 years,Stays with no Nursing Provision,4700,35
+2019/20,Scotland (All Areas Submitted),85+ years,Stays with Nursing Provision,13520,59.9
+2019/20,Scotland (All Areas Submitted),85+ years,Stays with no Nursing Provision,9040,40.1
+2019/20,Scotland (All Areas Submitted),Unknown,Stays with Nursing Provision,10,66.7
+2019/20,Scotland (All Areas Submitted),Unknown,Stays with no Nursing Provision,5,33.3
+2019/20,Aberdeenshire,All Ages,Stays with Nursing Provision,1490,62.7
+2019/20,Aberdeenshire,All Ages,Stays with no Nursing Provision,885,37.3
+2019/20,Aberdeenshire,0-17 years,Stays with Nursing Provision,0,0
+2019/20,Aberdeenshire,0-17 years,Stays with no Nursing Provision,5,100
+2019/20,Aberdeenshire,18-64 years,Stays with Nursing Provision,50,20
+2019/20,Aberdeenshire,18-64 years,Stays with no Nursing Provision,200,80
+2019/20,Aberdeenshire,65-74 years,Stays with Nursing Provision,155,66
+2019/20,Aberdeenshire,65-74 years,Stays with no Nursing Provision,80,34
+2019/20,Aberdeenshire,75-84 years,Stays with Nursing Provision,490,71.5
+2019/20,Aberdeenshire,75-84 years,Stays with no Nursing Provision,195,28.5
+2019/20,Aberdeenshire,85+ years,Stays with Nursing Provision,795,66
+2019/20,Aberdeenshire,85+ years,Stays with no Nursing Provision,410,34
+2019/20,Aberdeenshire,Unknown,Stays with Nursing Provision,0,NA
+2019/20,Aberdeenshire,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,Angus,All Ages,Stays with Nursing Provision,460,36.5
+2019/20,Angus,All Ages,Stays with no Nursing Provision,800,63.5
+2019/20,Angus,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,Angus,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,Angus,18-64 years,Stays with Nursing Provision,15,15.8
+2019/20,Angus,18-64 years,Stays with no Nursing Provision,80,84.2
+2019/20,Angus,65-74 years,Stays with Nursing Provision,60,54.5
+2019/20,Angus,65-74 years,Stays with no Nursing Provision,50,45.5
+2019/20,Angus,75-84 years,Stays with Nursing Provision,160,43.2
+2019/20,Angus,75-84 years,Stays with no Nursing Provision,210,56.8
+2019/20,Angus,85+ years,Stays with Nursing Provision,225,32.6
+2019/20,Angus,85+ years,Stays with no Nursing Provision,465,67.4
+2019/20,Angus,Unknown,Stays with Nursing Provision,0,NA
+2019/20,Angus,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,Argyll and Bute,All Ages,Stays with Nursing Provision,360,44.4
+2019/20,Argyll and Bute,All Ages,Stays with no Nursing Provision,450,55.6
+2019/20,Argyll and Bute,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,Argyll and Bute,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,Argyll and Bute,18-64 years,Stays with Nursing Provision,15,21.4
+2019/20,Argyll and Bute,18-64 years,Stays with no Nursing Provision,55,78.6
+2019/20,Argyll and Bute,65-74 years,Stays with Nursing Provision,45,52.9
+2019/20,Argyll and Bute,65-74 years,Stays with no Nursing Provision,40,47.1
+2019/20,Argyll and Bute,75-84 years,Stays with Nursing Provision,115,47.9
+2019/20,Argyll and Bute,75-84 years,Stays with no Nursing Provision,125,52.1
+2019/20,Argyll and Bute,85+ years,Stays with Nursing Provision,185,44.6
+2019/20,Argyll and Bute,85+ years,Stays with no Nursing Provision,230,55.4
+2019/20,Argyll and Bute,Unknown,Stays with Nursing Provision,0,NA
+2019/20,Argyll and Bute,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,City of Edinburgh,All Ages,Stays with Nursing Provision,2010,53.7
+2019/20,City of Edinburgh,All Ages,Stays with no Nursing Provision,1735,46.3
+2019/20,City of Edinburgh,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,City of Edinburgh,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,City of Edinburgh,18-64 years,Stays with Nursing Provision,230,90.2
+2019/20,City of Edinburgh,18-64 years,Stays with no Nursing Provision,25,9.8
+2019/20,City of Edinburgh,65-74 years,Stays with Nursing Provision,210,60
+2019/20,City of Edinburgh,65-74 years,Stays with no Nursing Provision,140,40
+2019/20,City of Edinburgh,75-84 years,Stays with Nursing Provision,505,49.5
+2019/20,City of Edinburgh,75-84 years,Stays with no Nursing Provision,515,50.5
+2019/20,City of Edinburgh,85+ years,Stays with Nursing Provision,1065,50.4
+2019/20,City of Edinburgh,85+ years,Stays with no Nursing Provision,1050,49.6
+2019/20,City of Edinburgh,Unknown,Stays with Nursing Provision,0,NA
+2019/20,City of Edinburgh,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,Clackmannanshire,All Ages,Stays with Nursing Provision,245,61.3
+2019/20,Clackmannanshire,All Ages,Stays with no Nursing Provision,155,38.8
+2019/20,Clackmannanshire,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,Clackmannanshire,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,Clackmannanshire,18-64 years,Stays with Nursing Provision,20,30.8
+2019/20,Clackmannanshire,18-64 years,Stays with no Nursing Provision,45,69.2
+2019/20,Clackmannanshire,65-74 years,Stays with Nursing Provision,30,66.7
+2019/20,Clackmannanshire,65-74 years,Stays with no Nursing Provision,15,33.3
+2019/20,Clackmannanshire,75-84 years,Stays with Nursing Provision,90,66.7
+2019/20,Clackmannanshire,75-84 years,Stays with no Nursing Provision,45,33.3
+2019/20,Clackmannanshire,85+ years,Stays with Nursing Provision,105,67.7
+2019/20,Clackmannanshire,85+ years,Stays with no Nursing Provision,50,32.3
+2019/20,Clackmannanshire,Unknown,Stays with Nursing Provision,0,NA
+2019/20,Clackmannanshire,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,Dumfries and Galloway,All Ages,Stays with Nursing Provision,190,12.5
+2019/20,Dumfries and Galloway,All Ages,Stays with no Nursing Provision,1325,87.5
+2019/20,Dumfries and Galloway,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,Dumfries and Galloway,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,Dumfries and Galloway,18-64 years,Stays with Nursing Provision,25,35.7
+2019/20,Dumfries and Galloway,18-64 years,Stays with no Nursing Provision,45,64.3
+2019/20,Dumfries and Galloway,65-74 years,Stays with Nursing Provision,20,12.5
+2019/20,Dumfries and Galloway,65-74 years,Stays with no Nursing Provision,140,87.5
+2019/20,Dumfries and Galloway,75-84 years,Stays with Nursing Provision,55,11.8
+2019/20,Dumfries and Galloway,75-84 years,Stays with no Nursing Provision,410,88.2
+2019/20,Dumfries and Galloway,85+ years,Stays with Nursing Provision,90,11
+2019/20,Dumfries and Galloway,85+ years,Stays with no Nursing Provision,730,89
+2019/20,Dumfries and Galloway,Unknown,Stays with Nursing Provision,0,NA
+2019/20,Dumfries and Galloway,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,Dundee City,All Ages,Stays with Nursing Provision,1050,70
+2019/20,Dundee City,All Ages,Stays with no Nursing Provision,450,30
+2019/20,Dundee City,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,Dundee City,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,Dundee City,18-64 years,Stays with Nursing Provision,65,59.1
+2019/20,Dundee City,18-64 years,Stays with no Nursing Provision,45,40.9
+2019/20,Dundee City,65-74 years,Stays with Nursing Provision,125,78.1
+2019/20,Dundee City,65-74 years,Stays with no Nursing Provision,35,21.9
+2019/20,Dundee City,75-84 years,Stays with Nursing Provision,320,75.3
+2019/20,Dundee City,75-84 years,Stays with no Nursing Provision,105,24.7
+2019/20,Dundee City,85+ years,Stays with Nursing Provision,535,66.9
+2019/20,Dundee City,85+ years,Stays with no Nursing Provision,265,33.1
+2019/20,Dundee City,Unknown,Stays with Nursing Provision,0,NA
+2019/20,Dundee City,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,East Ayrshire,All Ages,Stays with Nursing Provision,715,72.6
+2019/20,East Ayrshire,All Ages,Stays with no Nursing Provision,270,27.4
+2019/20,East Ayrshire,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,East Ayrshire,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,East Ayrshire,18-64 years,Stays with Nursing Provision,45,56.2
+2019/20,East Ayrshire,18-64 years,Stays with no Nursing Provision,35,43.8
+2019/20,East Ayrshire,65-74 years,Stays with Nursing Provision,85,81
+2019/20,East Ayrshire,65-74 years,Stays with no Nursing Provision,20,19
+2019/20,East Ayrshire,75-84 years,Stays with Nursing Provision,245,73.1
+2019/20,East Ayrshire,75-84 years,Stays with no Nursing Provision,90,26.9
+2019/20,East Ayrshire,85+ years,Stays with Nursing Provision,340,73.9
+2019/20,East Ayrshire,85+ years,Stays with no Nursing Provision,120,26.1
+2019/20,East Ayrshire,Unknown,Stays with Nursing Provision,0,NA
+2019/20,East Ayrshire,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,East Dunbartonshire,All Ages,Stays with Nursing Provision,1030,88.8
+2019/20,East Dunbartonshire,All Ages,Stays with no Nursing Provision,130,11.2
+2019/20,East Dunbartonshire,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,East Dunbartonshire,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,East Dunbartonshire,18-64 years,Stays with Nursing Provision,20,44.4
+2019/20,East Dunbartonshire,18-64 years,Stays with no Nursing Provision,25,55.6
+2019/20,East Dunbartonshire,65-74 years,Stays with Nursing Provision,85,94.4
+2019/20,East Dunbartonshire,65-74 years,Stays with no Nursing Provision,5,5.6
+2019/20,East Dunbartonshire,75-84 years,Stays with Nursing Provision,325,94.2
+2019/20,East Dunbartonshire,75-84 years,Stays with no Nursing Provision,20,5.8
+2019/20,East Dunbartonshire,85+ years,Stays with Nursing Provision,595,88.8
+2019/20,East Dunbartonshire,85+ years,Stays with no Nursing Provision,75,11.2
+2019/20,East Dunbartonshire,Unknown,Stays with Nursing Provision,0,NA
+2019/20,East Dunbartonshire,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,East Lothian,All Ages,Stays with Nursing Provision,635,67.9
+2019/20,East Lothian,All Ages,Stays with no Nursing Provision,300,32.1
+2019/20,East Lothian,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,East Lothian,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,East Lothian,18-64 years,Stays with Nursing Provision,25,41.7
+2019/20,East Lothian,18-64 years,Stays with no Nursing Provision,35,58.3
+2019/20,East Lothian,65-74 years,Stays with Nursing Provision,65,72.2
+2019/20,East Lothian,65-74 years,Stays with no Nursing Provision,25,27.8
+2019/20,East Lothian,75-84 years,Stays with Nursing Provision,205,74.5
+2019/20,East Lothian,75-84 years,Stays with no Nursing Provision,70,25.5
+2019/20,East Lothian,85+ years,Stays with Nursing Provision,335,66.3
+2019/20,East Lothian,85+ years,Stays with no Nursing Provision,170,33.7
+2019/20,East Lothian,Unknown,Stays with Nursing Provision,0,NA
+2019/20,East Lothian,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,East Renfrewshire,All Ages,Stays with Nursing Provision,575,58.7
+2019/20,East Renfrewshire,All Ages,Stays with no Nursing Provision,405,41.3
+2019/20,East Renfrewshire,0-17 years,Stays with Nursing Provision,0,0
+2019/20,East Renfrewshire,0-17 years,Stays with no Nursing Provision,5,100
+2019/20,East Renfrewshire,18-64 years,Stays with Nursing Provision,35,70
+2019/20,East Renfrewshire,18-64 years,Stays with no Nursing Provision,15,30
+2019/20,East Renfrewshire,65-74 years,Stays with Nursing Provision,65,72.2
+2019/20,East Renfrewshire,65-74 years,Stays with no Nursing Provision,25,27.8
+2019/20,East Renfrewshire,75-84 years,Stays with Nursing Provision,155,62
+2019/20,East Renfrewshire,75-84 years,Stays with no Nursing Provision,95,38
+2019/20,East Renfrewshire,85+ years,Stays with Nursing Provision,325,54.6
+2019/20,East Renfrewshire,85+ years,Stays with no Nursing Provision,270,45.4
+2019/20,East Renfrewshire,Unknown,Stays with Nursing Provision,0,NA
+2019/20,East Renfrewshire,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,Falkirk,All Ages,Stays with Nursing Provision,1005,69.8
+2019/20,Falkirk,All Ages,Stays with no Nursing Provision,435,30.2
+2019/20,Falkirk,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,Falkirk,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,Falkirk,18-64 years,Stays with Nursing Provision,70,33.3
+2019/20,Falkirk,18-64 years,Stays with no Nursing Provision,140,66.7
+2019/20,Falkirk,65-74 years,Stays with Nursing Provision,115,65.7
+2019/20,Falkirk,65-74 years,Stays with no Nursing Provision,60,34.3
+2019/20,Falkirk,75-84 years,Stays with Nursing Provision,340,76.4
+2019/20,Falkirk,75-84 years,Stays with no Nursing Provision,105,23.6
+2019/20,Falkirk,85+ years,Stays with Nursing Provision,480,78.7
+2019/20,Falkirk,85+ years,Stays with no Nursing Provision,130,21.3
+2019/20,Falkirk,Unknown,Stays with Nursing Provision,0,NA
+2019/20,Falkirk,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,Fife,All Ages,Stays with Nursing Provision,1945,57
+2019/20,Fife,All Ages,Stays with no Nursing Provision,1465,43
+2019/20,Fife,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,Fife,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,Fife,18-64 years,Stays with Nursing Provision,205,91.1
+2019/20,Fife,18-64 years,Stays with no Nursing Provision,20,8.9
+2019/20,Fife,65-74 years,Stays with Nursing Provision,260,70.3
+2019/20,Fife,65-74 years,Stays with no Nursing Provision,110,29.7
+2019/20,Fife,75-84 years,Stays with Nursing Provision,635,60.2
+2019/20,Fife,75-84 years,Stays with no Nursing Provision,420,39.8
+2019/20,Fife,85+ years,Stays with Nursing Provision,845,48
+2019/20,Fife,85+ years,Stays with no Nursing Provision,915,52
+2019/20,Fife,Unknown,Stays with Nursing Provision,0,NA
+2019/20,Fife,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,Glasgow City,All Ages,Stays with Nursing Provision,2600,49.1
+2019/20,Glasgow City,All Ages,Stays with no Nursing Provision,2700,50.9
+2019/20,Glasgow City,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,Glasgow City,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,Glasgow City,18-64 years,Stays with Nursing Provision,305,39.1
+2019/20,Glasgow City,18-64 years,Stays with no Nursing Provision,475,60.9
+2019/20,Glasgow City,65-74 years,Stays with Nursing Provision,380,54.3
+2019/20,Glasgow City,65-74 years,Stays with no Nursing Provision,320,45.7
+2019/20,Glasgow City,75-84 years,Stays with Nursing Provision,800,50
+2019/20,Glasgow City,75-84 years,Stays with no Nursing Provision,800,50
+2019/20,Glasgow City,85+ years,Stays with Nursing Provision,1115,50.2
+2019/20,Glasgow City,85+ years,Stays with no Nursing Provision,1105,49.8
+2019/20,Glasgow City,Unknown,Stays with Nursing Provision,0,NA
+2019/20,Glasgow City,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,Highland,All Ages,Stays with Nursing Provision,1070,45.6
+2019/20,Highland,All Ages,Stays with no Nursing Provision,1275,54.4
+2019/20,Highland,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,Highland,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,Highland,18-64 years,Stays with Nursing Provision,115,56.1
+2019/20,Highland,18-64 years,Stays with no Nursing Provision,90,43.9
+2019/20,Highland,65-74 years,Stays with Nursing Provision,145,63
+2019/20,Highland,65-74 years,Stays with no Nursing Provision,85,37
+2019/20,Highland,75-84 years,Stays with Nursing Provision,355,52.6
+2019/20,Highland,75-84 years,Stays with no Nursing Provision,320,47.4
+2019/20,Highland,85+ years,Stays with Nursing Provision,450,36.7
+2019/20,Highland,85+ years,Stays with no Nursing Provision,775,63.3
+2019/20,Highland,Unknown,Stays with Nursing Provision,0,NA
+2019/20,Highland,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,Inverclyde,All Ages,Stays with Nursing Provision,755,88.3
+2019/20,Inverclyde,All Ages,Stays with no Nursing Provision,100,11.7
+2019/20,Inverclyde,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,Inverclyde,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,Inverclyde,18-64 years,Stays with Nursing Provision,25,38.5
+2019/20,Inverclyde,18-64 years,Stays with no Nursing Provision,40,61.5
+2019/20,Inverclyde,65-74 years,Stays with Nursing Provision,80,84.2
+2019/20,Inverclyde,65-74 years,Stays with no Nursing Provision,15,15.8
+2019/20,Inverclyde,75-84 years,Stays with Nursing Provision,255,92.7
+2019/20,Inverclyde,75-84 years,Stays with no Nursing Provision,20,7.3
+2019/20,Inverclyde,85+ years,Stays with Nursing Provision,395,95.2
+2019/20,Inverclyde,85+ years,Stays with no Nursing Provision,20,4.8
+2019/20,Inverclyde,Unknown,Stays with Nursing Provision,0,NA
+2019/20,Inverclyde,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,Midlothian,All Ages,Stays with Nursing Provision,490,74.8
+2019/20,Midlothian,All Ages,Stays with no Nursing Provision,165,25.2
+2019/20,Midlothian,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,Midlothian,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,Midlothian,18-64 years,Stays with Nursing Provision,25,45.5
+2019/20,Midlothian,18-64 years,Stays with no Nursing Provision,30,54.5
+2019/20,Midlothian,65-74 years,Stays with Nursing Provision,55,78.6
+2019/20,Midlothian,65-74 years,Stays with no Nursing Provision,15,21.4
+2019/20,Midlothian,75-84 years,Stays with Nursing Provision,165,80.5
+2019/20,Midlothian,75-84 years,Stays with no Nursing Provision,40,19.5
+2019/20,Midlothian,85+ years,Stays with Nursing Provision,245,75.4
+2019/20,Midlothian,85+ years,Stays with no Nursing Provision,80,24.6
+2019/20,Midlothian,Unknown,Stays with Nursing Provision,0,NA
+2019/20,Midlothian,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,Moray,All Ages,Stays with Nursing Provision,275,35.3
+2019/20,Moray,All Ages,Stays with no Nursing Provision,505,64.7
+2019/20,Moray,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,Moray,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,Moray,18-64 years,Stays with Nursing Provision,30,31.6
+2019/20,Moray,18-64 years,Stays with no Nursing Provision,65,68.4
+2019/20,Moray,65-74 years,Stays with Nursing Provision,40,53.3
+2019/20,Moray,65-74 years,Stays with no Nursing Provision,35,46.7
+2019/20,Moray,75-84 years,Stays with Nursing Provision,90,38.3
+2019/20,Moray,75-84 years,Stays with no Nursing Provision,145,61.7
+2019/20,Moray,85+ years,Stays with Nursing Provision,120,31.6
+2019/20,Moray,85+ years,Stays with no Nursing Provision,260,68.4
+2019/20,Moray,Unknown,Stays with Nursing Provision,0,NA
+2019/20,Moray,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,North Ayrshire,All Ages,Stays with Nursing Provision,720,58.3
+2019/20,North Ayrshire,All Ages,Stays with no Nursing Provision,515,41.7
+2019/20,North Ayrshire,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,North Ayrshire,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,North Ayrshire,18-64 years,Stays with Nursing Provision,35,36.8
+2019/20,North Ayrshire,18-64 years,Stays with no Nursing Provision,60,63.2
+2019/20,North Ayrshire,65-74 years,Stays with Nursing Provision,95,70.4
+2019/20,North Ayrshire,65-74 years,Stays with no Nursing Provision,40,29.6
+2019/20,North Ayrshire,75-84 years,Stays with Nursing Provision,270,69.2
+2019/20,North Ayrshire,75-84 years,Stays with no Nursing Provision,120,30.8
+2019/20,North Ayrshire,85+ years,Stays with Nursing Provision,320,52
+2019/20,North Ayrshire,85+ years,Stays with no Nursing Provision,295,48
+2019/20,North Ayrshire,Unknown,Stays with Nursing Provision,0,NA
+2019/20,North Ayrshire,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,North Lanarkshire,All Ages,Stays with Nursing Provision,1930,95.8
+2019/20,North Lanarkshire,All Ages,Stays with no Nursing Provision,85,4.2
+2019/20,North Lanarkshire,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,North Lanarkshire,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,North Lanarkshire,18-64 years,Stays with Nursing Provision,80,88.9
+2019/20,North Lanarkshire,18-64 years,Stays with no Nursing Provision,10,11.1
+2019/20,North Lanarkshire,65-74 years,Stays with Nursing Provision,240,96
+2019/20,North Lanarkshire,65-74 years,Stays with no Nursing Provision,10,4
+2019/20,North Lanarkshire,75-84 years,Stays with Nursing Provision,680,96.5
+2019/20,North Lanarkshire,75-84 years,Stays with no Nursing Provision,25,3.5
+2019/20,North Lanarkshire,85+ years,Stays with Nursing Provision,930,95.9
+2019/20,North Lanarkshire,85+ years,Stays with no Nursing Provision,40,4.1
+2019/20,North Lanarkshire,Unknown,Stays with Nursing Provision,0,NA
+2019/20,North Lanarkshire,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,Orkney Islands,All Ages,Stays with Nursing Provision,0,0
+2019/20,Orkney Islands,All Ages,Stays with no Nursing Provision,95,100
+2019/20,Orkney Islands,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,Orkney Islands,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,Orkney Islands,18-64 years,Stays with Nursing Provision,0,0
+2019/20,Orkney Islands,18-64 years,Stays with no Nursing Provision,5,100
+2019/20,Orkney Islands,65-74 years,Stays with Nursing Provision,0,0
+2019/20,Orkney Islands,65-74 years,Stays with no Nursing Provision,10,100
+2019/20,Orkney Islands,75-84 years,Stays with Nursing Provision,0,0
+2019/20,Orkney Islands,75-84 years,Stays with no Nursing Provision,35,100
+2019/20,Orkney Islands,85+ years,Stays with Nursing Provision,0,0
+2019/20,Orkney Islands,85+ years,Stays with no Nursing Provision,45,100
+2019/20,Orkney Islands,Unknown,Stays with Nursing Provision,0,NA
+2019/20,Orkney Islands,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,Perth and Kinross,All Ages,Stays with Nursing Provision,1015,63.2
+2019/20,Perth and Kinross,All Ages,Stays with no Nursing Provision,590,36.8
+2019/20,Perth and Kinross,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,Perth and Kinross,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,Perth and Kinross,18-64 years,Stays with Nursing Provision,55,44
+2019/20,Perth and Kinross,18-64 years,Stays with no Nursing Provision,70,56
+2019/20,Perth and Kinross,65-74 years,Stays with Nursing Provision,100,69
+2019/20,Perth and Kinross,65-74 years,Stays with no Nursing Provision,45,31
+2019/20,Perth and Kinross,75-84 years,Stays with Nursing Provision,300,71.4
+2019/20,Perth and Kinross,75-84 years,Stays with no Nursing Provision,120,28.6
+2019/20,Perth and Kinross,85+ years,Stays with Nursing Provision,560,61.2
+2019/20,Perth and Kinross,85+ years,Stays with no Nursing Provision,355,38.8
+2019/20,Perth and Kinross,Unknown,Stays with Nursing Provision,0,NA
+2019/20,Perth and Kinross,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,Renfrewshire,All Ages,Stays with Nursing Provision,1185,76.2
+2019/20,Renfrewshire,All Ages,Stays with no Nursing Provision,370,23.8
+2019/20,Renfrewshire,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,Renfrewshire,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,Renfrewshire,18-64 years,Stays with Nursing Provision,45,37.5
+2019/20,Renfrewshire,18-64 years,Stays with no Nursing Provision,75,62.5
+2019/20,Renfrewshire,65-74 years,Stays with Nursing Provision,140,82.4
+2019/20,Renfrewshire,65-74 years,Stays with no Nursing Provision,30,17.6
+2019/20,Renfrewshire,75-84 years,Stays with Nursing Provision,425,80.2
+2019/20,Renfrewshire,75-84 years,Stays with no Nursing Provision,105,19.8
+2019/20,Renfrewshire,85+ years,Stays with Nursing Provision,565,77.4
+2019/20,Renfrewshire,85+ years,Stays with no Nursing Provision,165,22.6
+2019/20,Renfrewshire,Unknown,Stays with Nursing Provision,10,100
+2019/20,Renfrewshire,Unknown,Stays with no Nursing Provision,0,0
+2019/20,Scottish Borders,All Ages,Stays with Nursing Provision,745,76.4
+2019/20,Scottish Borders,All Ages,Stays with no Nursing Provision,230,23.6
+2019/20,Scottish Borders,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,Scottish Borders,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,Scottish Borders,18-64 years,Stays with Nursing Provision,40,100
+2019/20,Scottish Borders,18-64 years,Stays with no Nursing Provision,0,0
+2019/20,Scottish Borders,65-74 years,Stays with Nursing Provision,65,86.7
+2019/20,Scottish Borders,65-74 years,Stays with no Nursing Provision,10,13.3
+2019/20,Scottish Borders,75-84 years,Stays with Nursing Provision,235,81
+2019/20,Scottish Borders,75-84 years,Stays with no Nursing Provision,55,19
+2019/20,Scottish Borders,85+ years,Stays with Nursing Provision,410,71.3
+2019/20,Scottish Borders,85+ years,Stays with no Nursing Provision,165,28.7
+2019/20,Scottish Borders,Unknown,Stays with Nursing Provision,0,NA
+2019/20,Scottish Borders,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,Shetland Islands,All Ages,Stays with Nursing Provision,0,0
+2019/20,Shetland Islands,All Ages,Stays with no Nursing Provision,205,100
+2019/20,Shetland Islands,0-17 years,Stays with Nursing Provision,0,0
+2019/20,Shetland Islands,0-17 years,Stays with no Nursing Provision,5,100
+2019/20,Shetland Islands,18-64 years,Stays with Nursing Provision,0,0
+2019/20,Shetland Islands,18-64 years,Stays with no Nursing Provision,15,100
+2019/20,Shetland Islands,65-74 years,Stays with Nursing Provision,0,0
+2019/20,Shetland Islands,65-74 years,Stays with no Nursing Provision,25,100
+2019/20,Shetland Islands,75-84 years,Stays with Nursing Provision,0,0
+2019/20,Shetland Islands,75-84 years,Stays with no Nursing Provision,55,100
+2019/20,Shetland Islands,85+ years,Stays with Nursing Provision,0,0
+2019/20,Shetland Islands,85+ years,Stays with no Nursing Provision,105,100
+2019/20,Shetland Islands,Unknown,Stays with Nursing Provision,0,NA
+2019/20,Shetland Islands,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,South Ayrshire,All Ages,Stays with Nursing Provision,1030,100
+2019/20,South Ayrshire,All Ages,Stays with no Nursing Provision,0,0
+2019/20,South Ayrshire,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,South Ayrshire,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,South Ayrshire,18-64 years,Stays with Nursing Provision,70,100
+2019/20,South Ayrshire,18-64 years,Stays with no Nursing Provision,0,0
+2019/20,South Ayrshire,65-74 years,Stays with Nursing Provision,95,100
+2019/20,South Ayrshire,65-74 years,Stays with no Nursing Provision,0,0
+2019/20,South Ayrshire,75-84 years,Stays with Nursing Provision,285,100
+2019/20,South Ayrshire,75-84 years,Stays with no Nursing Provision,0,0
+2019/20,South Ayrshire,85+ years,Stays with Nursing Provision,585,100
+2019/20,South Ayrshire,85+ years,Stays with no Nursing Provision,0,0
+2019/20,South Ayrshire,Unknown,Stays with Nursing Provision,0,NA
+2019/20,South Ayrshire,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,South Lanarkshire,All Ages,Stays with Nursing Provision,2195,81.4
+2019/20,South Lanarkshire,All Ages,Stays with no Nursing Provision,500,18.6
+2019/20,South Lanarkshire,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,South Lanarkshire,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,South Lanarkshire,18-64 years,Stays with Nursing Provision,160,64
+2019/20,South Lanarkshire,18-64 years,Stays with no Nursing Provision,90,36
+2019/20,South Lanarkshire,65-74 years,Stays with Nursing Provision,235,85.5
+2019/20,South Lanarkshire,65-74 years,Stays with no Nursing Provision,40,14.5
+2019/20,South Lanarkshire,75-84 years,Stays with Nursing Provision,650,80.2
+2019/20,South Lanarkshire,75-84 years,Stays with no Nursing Provision,160,19.8
+2019/20,South Lanarkshire,85+ years,Stays with Nursing Provision,1150,84.6
+2019/20,South Lanarkshire,85+ years,Stays with no Nursing Provision,210,15.4
+2019/20,South Lanarkshire,Unknown,Stays with Nursing Provision,0,NA
+2019/20,South Lanarkshire,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,Stirling,All Ages,Stays with Nursing Provision,270,36.2
+2019/20,Stirling,All Ages,Stays with no Nursing Provision,475,63.8
+2019/20,Stirling,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,Stirling,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,Stirling,18-64 years,Stays with Nursing Provision,20,20
+2019/20,Stirling,18-64 years,Stays with no Nursing Provision,80,80
+2019/20,Stirling,65-74 years,Stays with Nursing Provision,25,41.7
+2019/20,Stirling,65-74 years,Stays with no Nursing Provision,35,58.3
+2019/20,Stirling,75-84 years,Stays with Nursing Provision,100,46.5
+2019/20,Stirling,75-84 years,Stays with no Nursing Provision,115,53.5
+2019/20,Stirling,85+ years,Stays with Nursing Provision,125,33.8
+2019/20,Stirling,85+ years,Stays with no Nursing Provision,245,66.2
+2019/20,Stirling,Unknown,Stays with Nursing Provision,0,NA
+2019/20,Stirling,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,West Dunbartonshire,All Ages,Stays with Nursing Provision,500,59.2
+2019/20,West Dunbartonshire,All Ages,Stays with no Nursing Provision,345,40.8
+2019/20,West Dunbartonshire,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,West Dunbartonshire,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,West Dunbartonshire,18-64 years,Stays with Nursing Provision,40,66.7
+2019/20,West Dunbartonshire,18-64 years,Stays with no Nursing Provision,20,33.3
+2019/20,West Dunbartonshire,65-74 years,Stays with Nursing Provision,65,68.4
+2019/20,West Dunbartonshire,65-74 years,Stays with no Nursing Provision,30,31.6
+2019/20,West Dunbartonshire,75-84 years,Stays with Nursing Provision,175,62.5
+2019/20,West Dunbartonshire,75-84 years,Stays with no Nursing Provision,105,37.5
+2019/20,West Dunbartonshire,85+ years,Stays with Nursing Provision,220,53.7
+2019/20,West Dunbartonshire,85+ years,Stays with no Nursing Provision,190,46.3
+2019/20,West Dunbartonshire,Unknown,Stays with Nursing Provision,0,NA
+2019/20,West Dunbartonshire,Unknown,Stays with no Nursing Provision,0,NA
+2019/20,West Lothian,All Ages,Stays with Nursing Provision,870,74.4
+2019/20,West Lothian,All Ages,Stays with no Nursing Provision,300,25.6
+2019/20,West Lothian,0-17 years,Stays with Nursing Provision,0,NA
+2019/20,West Lothian,0-17 years,Stays with no Nursing Provision,0,NA
+2019/20,West Lothian,18-64 years,Stays with Nursing Provision,50,38.5
+2019/20,West Lothian,18-64 years,Stays with no Nursing Provision,80,61.5
+2019/20,West Lothian,65-74 years,Stays with Nursing Provision,95,70.4
+2019/20,West Lothian,65-74 years,Stays with no Nursing Provision,40,29.6
+2019/20,West Lothian,75-84 years,Stays with Nursing Provision,315,80.8
+2019/20,West Lothian,75-84 years,Stays with no Nursing Provision,75,19.2
+2019/20,West Lothian,85+ years,Stays with Nursing Provision,410,78.8
+2019/20,West Lothian,85+ years,Stays with no Nursing Provision,110,21.2
+2019/20,West Lothian,Unknown,Stays with Nursing Provision,0,NA
+2019/20,West Lothian,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,Scotland (All Areas Submitted),All Ages,Stays with Nursing Provision,27620,62.6
+2020/21,Scotland (All Areas Submitted),All Ages,Stays with no Nursing Provision,16510,37.4
+2020/21,Scotland (All Areas Submitted),0-17 years,Stays with Nursing Provision,0,0
+2020/21,Scotland (All Areas Submitted),0-17 years,Stays with no Nursing Provision,65,100
+2020/21,Scotland (All Areas Submitted),18-64 years,Stays with Nursing Provision,1910,47.9
+2020/21,Scotland (All Areas Submitted),18-64 years,Stays with no Nursing Provision,2080,52.1
+2020/21,Scotland (All Areas Submitted),65-74 years,Stays with Nursing Provision,3180,67.9
+2020/21,Scotland (All Areas Submitted),65-74 years,Stays with no Nursing Provision,1505,32.1
+2020/21,Scotland (All Areas Submitted),75-84 years,Stays with Nursing Provision,8925,67.4
+2020/21,Scotland (All Areas Submitted),75-84 years,Stays with no Nursing Provision,4320,32.6
+2020/21,Scotland (All Areas Submitted),85+ years,Stays with Nursing Provision,13600,61.4
+2020/21,Scotland (All Areas Submitted),85+ years,Stays with no Nursing Provision,8545,38.6
+2020/21,Scotland (All Areas Submitted),Unknown,Stays with Nursing Provision,0,NA
+2020/21,Scotland (All Areas Submitted),Unknown,Stays with no Nursing Provision,0,NA
+2020/21,Aberdeen City,All Ages,Stays with Nursing Provision,1305,64.9
+2020/21,Aberdeen City,All Ages,Stays with no Nursing Provision,705,35.1
+2020/21,Aberdeen City,0-17 years,Stays with Nursing Provision,0,0
+2020/21,Aberdeen City,0-17 years,Stays with no Nursing Provision,50,100
+2020/21,Aberdeen City,18-64 years,Stays with Nursing Provision,85,28.3
+2020/21,Aberdeen City,18-64 years,Stays with no Nursing Provision,215,71.7
+2020/21,Aberdeen City,65-74 years,Stays with Nursing Provision,135,61.4
+2020/21,Aberdeen City,65-74 years,Stays with no Nursing Provision,85,38.6
+2020/21,Aberdeen City,75-84 years,Stays with Nursing Provision,420,80.8
+2020/21,Aberdeen City,75-84 years,Stays with no Nursing Provision,100,19.2
+2020/21,Aberdeen City,85+ years,Stays with Nursing Provision,665,72.7
+2020/21,Aberdeen City,85+ years,Stays with no Nursing Provision,250,27.3
+2020/21,Aberdeen City,Unknown,Stays with Nursing Provision,0,NA
+2020/21,Aberdeen City,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,Aberdeenshire,All Ages,Stays with Nursing Provision,1370,63
+2020/21,Aberdeenshire,All Ages,Stays with no Nursing Provision,805,37
+2020/21,Aberdeenshire,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,Aberdeenshire,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,Aberdeenshire,18-64 years,Stays with Nursing Provision,40,17.8
+2020/21,Aberdeenshire,18-64 years,Stays with no Nursing Provision,185,82.2
+2020/21,Aberdeenshire,65-74 years,Stays with Nursing Provision,145,65.9
+2020/21,Aberdeenshire,65-74 years,Stays with no Nursing Provision,75,34.1
+2020/21,Aberdeenshire,75-84 years,Stays with Nursing Provision,465,73.8
+2020/21,Aberdeenshire,75-84 years,Stays with no Nursing Provision,165,26.2
+2020/21,Aberdeenshire,85+ years,Stays with Nursing Provision,725,65.6
+2020/21,Aberdeenshire,85+ years,Stays with no Nursing Provision,380,34.4
+2020/21,Aberdeenshire,Unknown,Stays with Nursing Provision,0,NA
+2020/21,Aberdeenshire,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,Angus,All Ages,Stays with Nursing Provision,485,39.1
+2020/21,Angus,All Ages,Stays with no Nursing Provision,755,60.9
+2020/21,Angus,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,Angus,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,Angus,18-64 years,Stays with Nursing Provision,25,27.8
+2020/21,Angus,18-64 years,Stays with no Nursing Provision,65,72.2
+2020/21,Angus,65-74 years,Stays with Nursing Provision,60,52.2
+2020/21,Angus,65-74 years,Stays with no Nursing Provision,55,47.8
+2020/21,Angus,75-84 years,Stays with Nursing Provision,165,50
+2020/21,Angus,75-84 years,Stays with no Nursing Provision,165,50
+2020/21,Angus,85+ years,Stays with Nursing Provision,235,33.3
+2020/21,Angus,85+ years,Stays with no Nursing Provision,470,66.7
+2020/21,Angus,Unknown,Stays with Nursing Provision,0,NA
+2020/21,Angus,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,Argyll and Bute,All Ages,Stays with Nursing Provision,330,42.6
+2020/21,Argyll and Bute,All Ages,Stays with no Nursing Provision,445,57.4
+2020/21,Argyll and Bute,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,Argyll and Bute,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,Argyll and Bute,18-64 years,Stays with Nursing Provision,15,25
+2020/21,Argyll and Bute,18-64 years,Stays with no Nursing Provision,45,75
+2020/21,Argyll and Bute,65-74 years,Stays with Nursing Provision,35,50
+2020/21,Argyll and Bute,65-74 years,Stays with no Nursing Provision,35,50
+2020/21,Argyll and Bute,75-84 years,Stays with Nursing Provision,115,45.1
+2020/21,Argyll and Bute,75-84 years,Stays with no Nursing Provision,140,54.9
+2020/21,Argyll and Bute,85+ years,Stays with Nursing Provision,170,43.6
+2020/21,Argyll and Bute,85+ years,Stays with no Nursing Provision,220,56.4
+2020/21,Argyll and Bute,Unknown,Stays with Nursing Provision,0,NA
+2020/21,Argyll and Bute,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,City of Edinburgh,All Ages,Stays with Nursing Provision,2280,64.6
+2020/21,City of Edinburgh,All Ages,Stays with no Nursing Provision,1250,35.4
+2020/21,City of Edinburgh,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,City of Edinburgh,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,City of Edinburgh,18-64 years,Stays with Nursing Provision,250,94.3
+2020/21,City of Edinburgh,18-64 years,Stays with no Nursing Provision,15,5.7
+2020/21,City of Edinburgh,65-74 years,Stays with Nursing Provision,255,77.3
+2020/21,City of Edinburgh,65-74 years,Stays with no Nursing Provision,75,22.7
+2020/21,City of Edinburgh,75-84 years,Stays with Nursing Provision,610,63.9
+2020/21,City of Edinburgh,75-84 years,Stays with no Nursing Provision,345,36.1
+2020/21,City of Edinburgh,85+ years,Stays with Nursing Provision,1170,58.9
+2020/21,City of Edinburgh,85+ years,Stays with no Nursing Provision,815,41.1
+2020/21,City of Edinburgh,Unknown,Stays with Nursing Provision,0,NA
+2020/21,City of Edinburgh,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,Clackmannanshire,All Ages,Stays with Nursing Provision,250,65.8
+2020/21,Clackmannanshire,All Ages,Stays with no Nursing Provision,130,34.2
+2020/21,Clackmannanshire,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,Clackmannanshire,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,Clackmannanshire,18-64 years,Stays with Nursing Provision,20,28.6
+2020/21,Clackmannanshire,18-64 years,Stays with no Nursing Provision,50,71.4
+2020/21,Clackmannanshire,65-74 years,Stays with Nursing Provision,30,66.7
+2020/21,Clackmannanshire,65-74 years,Stays with no Nursing Provision,15,33.3
+2020/21,Clackmannanshire,75-84 years,Stays with Nursing Provision,100,76.9
+2020/21,Clackmannanshire,75-84 years,Stays with no Nursing Provision,30,23.1
+2020/21,Clackmannanshire,85+ years,Stays with Nursing Provision,100,71.4
+2020/21,Clackmannanshire,85+ years,Stays with no Nursing Provision,40,28.6
+2020/21,Clackmannanshire,Unknown,Stays with Nursing Provision,0,NA
+2020/21,Clackmannanshire,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,Dumfries and Galloway,All Ages,Stays with Nursing Provision,175,12.4
+2020/21,Dumfries and Galloway,All Ages,Stays with no Nursing Provision,1240,87.6
+2020/21,Dumfries and Galloway,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,Dumfries and Galloway,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,Dumfries and Galloway,18-64 years,Stays with Nursing Provision,25,38.5
+2020/21,Dumfries and Galloway,18-64 years,Stays with no Nursing Provision,40,61.5
+2020/21,Dumfries and Galloway,65-74 years,Stays with Nursing Provision,20,12.9
+2020/21,Dumfries and Galloway,65-74 years,Stays with no Nursing Provision,135,87.1
+2020/21,Dumfries and Galloway,75-84 years,Stays with Nursing Provision,60,13.3
+2020/21,Dumfries and Galloway,75-84 years,Stays with no Nursing Provision,390,86.7
+2020/21,Dumfries and Galloway,85+ years,Stays with Nursing Provision,75,10
+2020/21,Dumfries and Galloway,85+ years,Stays with no Nursing Provision,675,90
+2020/21,Dumfries and Galloway,Unknown,Stays with Nursing Provision,0,NA
+2020/21,Dumfries and Galloway,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,Dundee City,All Ages,Stays with Nursing Provision,1020,72.6
+2020/21,Dundee City,All Ages,Stays with no Nursing Provision,385,27.4
+2020/21,Dundee City,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,Dundee City,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,Dundee City,18-64 years,Stays with Nursing Provision,60,60
+2020/21,Dundee City,18-64 years,Stays with no Nursing Provision,40,40
+2020/21,Dundee City,65-74 years,Stays with Nursing Provision,115,76.7
+2020/21,Dundee City,65-74 years,Stays with no Nursing Provision,35,23.3
+2020/21,Dundee City,75-84 years,Stays with Nursing Provision,340,80
+2020/21,Dundee City,75-84 years,Stays with no Nursing Provision,85,20
+2020/21,Dundee City,85+ years,Stays with Nursing Provision,510,69.9
+2020/21,Dundee City,85+ years,Stays with no Nursing Provision,220,30.1
+2020/21,Dundee City,Unknown,Stays with Nursing Provision,0,NA
+2020/21,Dundee City,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,East Ayrshire,All Ages,Stays with Nursing Provision,705,72.7
+2020/21,East Ayrshire,All Ages,Stays with no Nursing Provision,265,27.3
+2020/21,East Ayrshire,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,East Ayrshire,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,East Ayrshire,18-64 years,Stays with Nursing Provision,45,52.9
+2020/21,East Ayrshire,18-64 years,Stays with no Nursing Provision,40,47.1
+2020/21,East Ayrshire,65-74 years,Stays with Nursing Provision,85,73.9
+2020/21,East Ayrshire,65-74 years,Stays with no Nursing Provision,30,26.1
+2020/21,East Ayrshire,75-84 years,Stays with Nursing Provision,250,76.9
+2020/21,East Ayrshire,75-84 years,Stays with no Nursing Provision,75,23.1
+2020/21,East Ayrshire,85+ years,Stays with Nursing Provision,320,73.6
+2020/21,East Ayrshire,85+ years,Stays with no Nursing Provision,115,26.4
+2020/21,East Ayrshire,Unknown,Stays with Nursing Provision,0,NA
+2020/21,East Ayrshire,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,East Dunbartonshire,All Ages,Stays with Nursing Provision,925,86.9
+2020/21,East Dunbartonshire,All Ages,Stays with no Nursing Provision,140,13.1
+2020/21,East Dunbartonshire,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,East Dunbartonshire,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,East Dunbartonshire,18-64 years,Stays with Nursing Provision,25,45.5
+2020/21,East Dunbartonshire,18-64 years,Stays with no Nursing Provision,30,54.5
+2020/21,East Dunbartonshire,65-74 years,Stays with Nursing Provision,80,94.1
+2020/21,East Dunbartonshire,65-74 years,Stays with no Nursing Provision,5,5.9
+2020/21,East Dunbartonshire,75-84 years,Stays with Nursing Provision,300,89.6
+2020/21,East Dunbartonshire,75-84 years,Stays with no Nursing Provision,35,10.4
+2020/21,East Dunbartonshire,85+ years,Stays with Nursing Provision,520,88.1
+2020/21,East Dunbartonshire,85+ years,Stays with no Nursing Provision,70,11.9
+2020/21,East Dunbartonshire,Unknown,Stays with Nursing Provision,0,NA
+2020/21,East Dunbartonshire,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,East Lothian,All Ages,Stays with Nursing Provision,610,69.7
+2020/21,East Lothian,All Ages,Stays with no Nursing Provision,265,30.3
+2020/21,East Lothian,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,East Lothian,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,East Lothian,18-64 years,Stays with Nursing Provision,20,40
+2020/21,East Lothian,18-64 years,Stays with no Nursing Provision,30,60
+2020/21,East Lothian,65-74 years,Stays with Nursing Provision,70,77.8
+2020/21,East Lothian,65-74 years,Stays with no Nursing Provision,20,22.2
+2020/21,East Lothian,75-84 years,Stays with Nursing Provision,195,75
+2020/21,East Lothian,75-84 years,Stays with no Nursing Provision,65,25
+2020/21,East Lothian,85+ years,Stays with Nursing Provision,320,68.1
+2020/21,East Lothian,85+ years,Stays with no Nursing Provision,150,31.9
+2020/21,East Lothian,Unknown,Stays with Nursing Provision,0,NA
+2020/21,East Lothian,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,East Renfrewshire,All Ages,Stays with Nursing Provision,550,61.1
+2020/21,East Renfrewshire,All Ages,Stays with no Nursing Provision,350,38.9
+2020/21,East Renfrewshire,0-17 years,Stays with Nursing Provision,0,0
+2020/21,East Renfrewshire,0-17 years,Stays with no Nursing Provision,5,100
+2020/21,East Renfrewshire,18-64 years,Stays with Nursing Provision,45,100
+2020/21,East Renfrewshire,18-64 years,Stays with no Nursing Provision,0,0
+2020/21,East Renfrewshire,65-74 years,Stays with Nursing Provision,55,73.3
+2020/21,East Renfrewshire,65-74 years,Stays with no Nursing Provision,20,26.7
+2020/21,East Renfrewshire,75-84 years,Stays with Nursing Provision,145,61.7
+2020/21,East Renfrewshire,75-84 years,Stays with no Nursing Provision,90,38.3
+2020/21,East Renfrewshire,85+ years,Stays with Nursing Provision,300,56.6
+2020/21,East Renfrewshire,85+ years,Stays with no Nursing Provision,230,43.4
+2020/21,East Renfrewshire,Unknown,Stays with Nursing Provision,0,NA
+2020/21,East Renfrewshire,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,Falkirk,All Ages,Stays with Nursing Provision,915,70.9
+2020/21,Falkirk,All Ages,Stays with no Nursing Provision,375,29.1
+2020/21,Falkirk,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,Falkirk,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,Falkirk,18-64 years,Stays with Nursing Provision,55,33.3
+2020/21,Falkirk,18-64 years,Stays with no Nursing Provision,110,66.7
+2020/21,Falkirk,65-74 years,Stays with Nursing Provision,110,66.7
+2020/21,Falkirk,65-74 years,Stays with no Nursing Provision,55,33.3
+2020/21,Falkirk,75-84 years,Stays with Nursing Provision,295,75.6
+2020/21,Falkirk,75-84 years,Stays with no Nursing Provision,95,24.4
+2020/21,Falkirk,85+ years,Stays with Nursing Provision,460,80.7
+2020/21,Falkirk,85+ years,Stays with no Nursing Provision,110,19.3
+2020/21,Falkirk,Unknown,Stays with Nursing Provision,0,NA
+2020/21,Falkirk,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,Fife,All Ages,Stays with Nursing Provision,1850,58.2
+2020/21,Fife,All Ages,Stays with no Nursing Provision,1330,41.8
+2020/21,Fife,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,Fife,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,Fife,18-64 years,Stays with Nursing Provision,165,73.3
+2020/21,Fife,18-64 years,Stays with no Nursing Provision,60,26.7
+2020/21,Fife,65-74 years,Stays with Nursing Provision,225,70.3
+2020/21,Fife,65-74 years,Stays with no Nursing Provision,95,29.7
+2020/21,Fife,75-84 years,Stays with Nursing Provision,635,64.5
+2020/21,Fife,75-84 years,Stays with no Nursing Provision,350,35.5
+2020/21,Fife,85+ years,Stays with Nursing Provision,825,50
+2020/21,Fife,85+ years,Stays with no Nursing Provision,825,50
+2020/21,Fife,Unknown,Stays with Nursing Provision,0,NA
+2020/21,Fife,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,Glasgow City,All Ages,Stays with Nursing Provision,2515,50.4
+2020/21,Glasgow City,All Ages,Stays with no Nursing Provision,2475,49.6
+2020/21,Glasgow City,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,Glasgow City,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,Glasgow City,18-64 years,Stays with Nursing Provision,290,39.5
+2020/21,Glasgow City,18-64 years,Stays with no Nursing Provision,445,60.5
+2020/21,Glasgow City,65-74 years,Stays with Nursing Provision,370,55.6
+2020/21,Glasgow City,65-74 years,Stays with no Nursing Provision,295,44.4
+2020/21,Glasgow City,75-84 years,Stays with Nursing Provision,760,52.6
+2020/21,Glasgow City,75-84 years,Stays with no Nursing Provision,685,47.4
+2020/21,Glasgow City,85+ years,Stays with Nursing Provision,1100,51.2
+2020/21,Glasgow City,85+ years,Stays with no Nursing Provision,1050,48.8
+2020/21,Glasgow City,Unknown,Stays with Nursing Provision,0,NA
+2020/21,Glasgow City,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,Highland,All Ages,Stays with Nursing Provision,1045,46.5
+2020/21,Highland,All Ages,Stays with no Nursing Provision,1200,53.5
+2020/21,Highland,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,Highland,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,Highland,18-64 years,Stays with Nursing Provision,105,56.8
+2020/21,Highland,18-64 years,Stays with no Nursing Provision,80,43.2
+2020/21,Highland,65-74 years,Stays with Nursing Provision,155,66
+2020/21,Highland,65-74 years,Stays with no Nursing Provision,80,34
+2020/21,Highland,75-84 years,Stays with Nursing Provision,345,53.5
+2020/21,Highland,75-84 years,Stays with no Nursing Provision,300,46.5
+2020/21,Highland,85+ years,Stays with Nursing Provision,440,37.1
+2020/21,Highland,85+ years,Stays with no Nursing Provision,745,62.9
+2020/21,Highland,Unknown,Stays with Nursing Provision,0,NA
+2020/21,Highland,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,Inverclyde,All Ages,Stays with Nursing Provision,745,91.4
+2020/21,Inverclyde,All Ages,Stays with no Nursing Provision,70,8.6
+2020/21,Inverclyde,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,Inverclyde,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,Inverclyde,18-64 years,Stays with Nursing Provision,30,54.5
+2020/21,Inverclyde,18-64 years,Stays with no Nursing Provision,25,45.5
+2020/21,Inverclyde,65-74 years,Stays with Nursing Provision,80,88.9
+2020/21,Inverclyde,65-74 years,Stays with no Nursing Provision,10,11.1
+2020/21,Inverclyde,75-84 years,Stays with Nursing Provision,255,94.4
+2020/21,Inverclyde,75-84 years,Stays with no Nursing Provision,15,5.6
+2020/21,Inverclyde,85+ years,Stays with Nursing Provision,380,95
+2020/21,Inverclyde,85+ years,Stays with no Nursing Provision,20,5
+2020/21,Inverclyde,Unknown,Stays with Nursing Provision,0,NA
+2020/21,Inverclyde,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,Midlothian,All Ages,Stays with Nursing Provision,460,75.4
+2020/21,Midlothian,All Ages,Stays with no Nursing Provision,150,24.6
+2020/21,Midlothian,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,Midlothian,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,Midlothian,18-64 years,Stays with Nursing Provision,20,44.4
+2020/21,Midlothian,18-64 years,Stays with no Nursing Provision,25,55.6
+2020/21,Midlothian,65-74 years,Stays with Nursing Provision,45,75
+2020/21,Midlothian,65-74 years,Stays with no Nursing Provision,15,25
+2020/21,Midlothian,75-84 years,Stays with Nursing Provision,160,80
+2020/21,Midlothian,75-84 years,Stays with no Nursing Provision,40,20
+2020/21,Midlothian,85+ years,Stays with Nursing Provision,235,77
+2020/21,Midlothian,85+ years,Stays with no Nursing Provision,70,23
+2020/21,Midlothian,Unknown,Stays with Nursing Provision,0,NA
+2020/21,Midlothian,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,Moray,All Ages,Stays with Nursing Provision,330,43.1
+2020/21,Moray,All Ages,Stays with no Nursing Provision,435,56.9
+2020/21,Moray,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,Moray,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,Moray,18-64 years,Stays with Nursing Provision,20,25
+2020/21,Moray,18-64 years,Stays with no Nursing Provision,60,75
+2020/21,Moray,65-74 years,Stays with Nursing Provision,45,64.3
+2020/21,Moray,65-74 years,Stays with no Nursing Provision,25,35.7
+2020/21,Moray,75-84 years,Stays with Nursing Provision,100,46.5
+2020/21,Moray,75-84 years,Stays with no Nursing Provision,115,53.5
+2020/21,Moray,85+ years,Stays with Nursing Provision,165,41.8
+2020/21,Moray,85+ years,Stays with no Nursing Provision,230,58.2
+2020/21,Moray,Unknown,Stays with Nursing Provision,0,NA
+2020/21,Moray,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,North Ayrshire,All Ages,Stays with Nursing Provision,655,56.2
+2020/21,North Ayrshire,All Ages,Stays with no Nursing Provision,510,43.8
+2020/21,North Ayrshire,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,North Ayrshire,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,North Ayrshire,18-64 years,Stays with Nursing Provision,40,44.4
+2020/21,North Ayrshire,18-64 years,Stays with no Nursing Provision,50,55.6
+2020/21,North Ayrshire,65-74 years,Stays with Nursing Provision,100,66.7
+2020/21,North Ayrshire,65-74 years,Stays with no Nursing Provision,50,33.3
+2020/21,North Ayrshire,75-84 years,Stays with Nursing Provision,240,62.3
+2020/21,North Ayrshire,75-84 years,Stays with no Nursing Provision,145,37.7
+2020/21,North Ayrshire,85+ years,Stays with Nursing Provision,275,50.9
+2020/21,North Ayrshire,85+ years,Stays with no Nursing Provision,265,49.1
+2020/21,North Ayrshire,Unknown,Stays with Nursing Provision,0,NA
+2020/21,North Ayrshire,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,North Lanarkshire,All Ages,Stays with Nursing Provision,1845,96.1
+2020/21,North Lanarkshire,All Ages,Stays with no Nursing Provision,75,3.9
+2020/21,North Lanarkshire,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,North Lanarkshire,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,North Lanarkshire,18-64 years,Stays with Nursing Provision,75,93.8
+2020/21,North Lanarkshire,18-64 years,Stays with no Nursing Provision,5,6.2
+2020/21,North Lanarkshire,65-74 years,Stays with Nursing Provision,220,93.6
+2020/21,North Lanarkshire,65-74 years,Stays with no Nursing Provision,15,6.4
+2020/21,North Lanarkshire,75-84 years,Stays with Nursing Provision,645,96.3
+2020/21,North Lanarkshire,75-84 years,Stays with no Nursing Provision,25,3.7
+2020/21,North Lanarkshire,85+ years,Stays with Nursing Provision,900,96.8
+2020/21,North Lanarkshire,85+ years,Stays with no Nursing Provision,30,3.2
+2020/21,North Lanarkshire,Unknown,Stays with Nursing Provision,0,NA
+2020/21,North Lanarkshire,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,Orkney Islands,All Ages,Stays with Nursing Provision,0,0
+2020/21,Orkney Islands,All Ages,Stays with no Nursing Provision,160,100
+2020/21,Orkney Islands,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,Orkney Islands,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,Orkney Islands,18-64 years,Stays with Nursing Provision,0,0
+2020/21,Orkney Islands,18-64 years,Stays with no Nursing Provision,5,100
+2020/21,Orkney Islands,65-74 years,Stays with Nursing Provision,0,0
+2020/21,Orkney Islands,65-74 years,Stays with no Nursing Provision,10,100
+2020/21,Orkney Islands,75-84 years,Stays with Nursing Provision,0,0
+2020/21,Orkney Islands,75-84 years,Stays with no Nursing Provision,50,100
+2020/21,Orkney Islands,85+ years,Stays with Nursing Provision,0,0
+2020/21,Orkney Islands,85+ years,Stays with no Nursing Provision,95,100
+2020/21,Orkney Islands,Unknown,Stays with Nursing Provision,0,NA
+2020/21,Orkney Islands,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,Perth and Kinross,All Ages,Stays with Nursing Provision,950,62.3
+2020/21,Perth and Kinross,All Ages,Stays with no Nursing Provision,575,37.7
+2020/21,Perth and Kinross,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,Perth and Kinross,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,Perth and Kinross,18-64 years,Stays with Nursing Provision,50,40
+2020/21,Perth and Kinross,18-64 years,Stays with no Nursing Provision,75,60
+2020/21,Perth and Kinross,65-74 years,Stays with Nursing Provision,95,67.9
+2020/21,Perth and Kinross,65-74 years,Stays with no Nursing Provision,45,32.1
+2020/21,Perth and Kinross,75-84 years,Stays with Nursing Provision,285,68.7
+2020/21,Perth and Kinross,75-84 years,Stays with no Nursing Provision,130,31.3
+2020/21,Perth and Kinross,85+ years,Stays with Nursing Provision,525,61.8
+2020/21,Perth and Kinross,85+ years,Stays with no Nursing Provision,325,38.2
+2020/21,Perth and Kinross,Unknown,Stays with Nursing Provision,0,NA
+2020/21,Perth and Kinross,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,Renfrewshire,All Ages,Stays with Nursing Provision,1085,74.3
+2020/21,Renfrewshire,All Ages,Stays with no Nursing Provision,375,25.7
+2020/21,Renfrewshire,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,Renfrewshire,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,Renfrewshire,18-64 years,Stays with Nursing Provision,45,39.1
+2020/21,Renfrewshire,18-64 years,Stays with no Nursing Provision,70,60.9
+2020/21,Renfrewshire,65-74 years,Stays with Nursing Provision,120,75
+2020/21,Renfrewshire,65-74 years,Stays with no Nursing Provision,40,25
+2020/21,Renfrewshire,75-84 years,Stays with Nursing Provision,370,77.1
+2020/21,Renfrewshire,75-84 years,Stays with no Nursing Provision,110,22.9
+2020/21,Renfrewshire,85+ years,Stays with Nursing Provision,550,78.6
+2020/21,Renfrewshire,85+ years,Stays with no Nursing Provision,150,21.4
+2020/21,Renfrewshire,Unknown,Stays with Nursing Provision,0,NA
+2020/21,Renfrewshire,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,Scottish Borders,All Ages,Stays with Nursing Provision,355,38.6
+2020/21,Scottish Borders,All Ages,Stays with no Nursing Provision,565,61.4
+2020/21,Scottish Borders,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,Scottish Borders,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,Scottish Borders,18-64 years,Stays with Nursing Provision,10,25
+2020/21,Scottish Borders,18-64 years,Stays with no Nursing Provision,30,75
+2020/21,Scottish Borders,65-74 years,Stays with Nursing Provision,35,50
+2020/21,Scottish Borders,65-74 years,Stays with no Nursing Provision,35,50
+2020/21,Scottish Borders,75-84 years,Stays with Nursing Provision,115,41.1
+2020/21,Scottish Borders,75-84 years,Stays with no Nursing Provision,165,58.9
+2020/21,Scottish Borders,85+ years,Stays with Nursing Provision,190,36.2
+2020/21,Scottish Borders,85+ years,Stays with no Nursing Provision,335,63.8
+2020/21,Scottish Borders,Unknown,Stays with Nursing Provision,0,NA
+2020/21,Scottish Borders,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,Shetland Islands,All Ages,Stays with Nursing Provision,0,0
+2020/21,Shetland Islands,All Ages,Stays with no Nursing Provision,190,100
+2020/21,Shetland Islands,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,Shetland Islands,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,Shetland Islands,18-64 years,Stays with Nursing Provision,0,0
+2020/21,Shetland Islands,18-64 years,Stays with no Nursing Provision,15,100
+2020/21,Shetland Islands,65-74 years,Stays with Nursing Provision,0,0
+2020/21,Shetland Islands,65-74 years,Stays with no Nursing Provision,10,100
+2020/21,Shetland Islands,75-84 years,Stays with Nursing Provision,0,0
+2020/21,Shetland Islands,75-84 years,Stays with no Nursing Provision,55,100
+2020/21,Shetland Islands,85+ years,Stays with Nursing Provision,0,0
+2020/21,Shetland Islands,85+ years,Stays with no Nursing Provision,105,100
+2020/21,Shetland Islands,Unknown,Stays with Nursing Provision,0,NA
+2020/21,Shetland Islands,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,South Ayrshire,All Ages,Stays with Nursing Provision,910,100
+2020/21,South Ayrshire,All Ages,Stays with no Nursing Provision,0,0
+2020/21,South Ayrshire,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,South Ayrshire,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,South Ayrshire,18-64 years,Stays with Nursing Provision,60,100
+2020/21,South Ayrshire,18-64 years,Stays with no Nursing Provision,0,0
+2020/21,South Ayrshire,65-74 years,Stays with Nursing Provision,85,100
+2020/21,South Ayrshire,65-74 years,Stays with no Nursing Provision,0,0
+2020/21,South Ayrshire,75-84 years,Stays with Nursing Provision,245,100
+2020/21,South Ayrshire,75-84 years,Stays with no Nursing Provision,0,0
+2020/21,South Ayrshire,85+ years,Stays with Nursing Provision,520,100
+2020/21,South Ayrshire,85+ years,Stays with no Nursing Provision,0,0
+2020/21,South Ayrshire,Unknown,Stays with Nursing Provision,0,NA
+2020/21,South Ayrshire,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,South Lanarkshire,All Ages,Stays with Nursing Provision,2170,83.5
+2020/21,South Lanarkshire,All Ages,Stays with no Nursing Provision,430,16.5
+2020/21,South Lanarkshire,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,South Lanarkshire,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,South Lanarkshire,18-64 years,Stays with Nursing Provision,165,66
+2020/21,South Lanarkshire,18-64 years,Stays with no Nursing Provision,85,34
+2020/21,South Lanarkshire,65-74 years,Stays with Nursing Provision,230,86.8
+2020/21,South Lanarkshire,65-74 years,Stays with no Nursing Provision,35,13.2
+2020/21,South Lanarkshire,75-84 years,Stays with Nursing Provision,680,84.5
+2020/21,South Lanarkshire,75-84 years,Stays with no Nursing Provision,125,15.5
+2020/21,South Lanarkshire,85+ years,Stays with Nursing Provision,1090,85.5
+2020/21,South Lanarkshire,85+ years,Stays with no Nursing Provision,185,14.5
+2020/21,South Lanarkshire,Unknown,Stays with Nursing Provision,0,NA
+2020/21,South Lanarkshire,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,Stirling,All Ages,Stays with Nursing Provision,430,59.7
+2020/21,Stirling,All Ages,Stays with no Nursing Provision,290,40.3
+2020/21,Stirling,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,Stirling,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,Stirling,18-64 years,Stays with Nursing Provision,25,25
+2020/21,Stirling,18-64 years,Stays with no Nursing Provision,75,75
+2020/21,Stirling,65-74 years,Stays with Nursing Provision,30,42.9
+2020/21,Stirling,65-74 years,Stays with no Nursing Provision,40,57.1
+2020/21,Stirling,75-84 years,Stays with Nursing Provision,145,70.7
+2020/21,Stirling,75-84 years,Stays with no Nursing Provision,60,29.3
+2020/21,Stirling,85+ years,Stays with Nursing Provision,225,66.2
+2020/21,Stirling,85+ years,Stays with no Nursing Provision,115,33.8
+2020/21,Stirling,Unknown,Stays with Nursing Provision,0,NA
+2020/21,Stirling,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,West Dunbartonshire,All Ages,Stays with Nursing Provision,480,61.5
+2020/21,West Dunbartonshire,All Ages,Stays with no Nursing Provision,300,38.5
+2020/21,West Dunbartonshire,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,West Dunbartonshire,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,West Dunbartonshire,18-64 years,Stays with Nursing Provision,55,68.8
+2020/21,West Dunbartonshire,18-64 years,Stays with no Nursing Provision,25,31.2
+2020/21,West Dunbartonshire,65-74 years,Stays with Nursing Provision,60,70.6
+2020/21,West Dunbartonshire,65-74 years,Stays with no Nursing Provision,25,29.4
+2020/21,West Dunbartonshire,75-84 years,Stays with Nursing Provision,150,60
+2020/21,West Dunbartonshire,75-84 years,Stays with no Nursing Provision,100,40
+2020/21,West Dunbartonshire,85+ years,Stays with Nursing Provision,215,58.1
+2020/21,West Dunbartonshire,85+ years,Stays with no Nursing Provision,155,41.9
+2020/21,West Dunbartonshire,Unknown,Stays with Nursing Provision,0,NA
+2020/21,West Dunbartonshire,Unknown,Stays with no Nursing Provision,0,NA
+2020/21,West Lothian,All Ages,Stays with Nursing Provision,875,76.4
+2020/21,West Lothian,All Ages,Stays with no Nursing Provision,270,23.6
+2020/21,West Lothian,0-17 years,Stays with Nursing Provision,0,NA
+2020/21,West Lothian,0-17 years,Stays with no Nursing Provision,0,NA
+2020/21,West Lothian,18-64 years,Stays with Nursing Provision,50,40
+2020/21,West Lothian,18-64 years,Stays with no Nursing Provision,75,60
+2020/21,West Lothian,65-74 years,Stays with Nursing Provision,95,73.1
+2020/21,West Lothian,65-74 years,Stays with no Nursing Provision,35,26.9
+2020/21,West Lothian,75-84 years,Stays with Nursing Provision,330,83.5
+2020/21,West Lothian,75-84 years,Stays with no Nursing Provision,65,16.5
+2020/21,West Lothian,85+ years,Stays with Nursing Provision,400,81.6
+2020/21,West Lothian,85+ years,Stays with no Nursing Provision,90,18.4
+2020/21,West Lothian,Unknown,Stays with Nursing Provision,0,NA
+2020/21,West Lothian,Unknown,Stays with no Nursing Provision,0,NA
