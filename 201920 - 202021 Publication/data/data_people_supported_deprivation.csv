@@ -1,0 +1,769 @@
+financial_year,sending_location,simd_quintile,nclient
+2017/18,Scotland (All Areas Submitted),1 (Most Deprived),"41,200"
+2017/18,Scotland (All Areas Submitted),2,"47,713"
+2017/18,Scotland (All Areas Submitted),3,"43,090"
+2017/18,Scotland (All Areas Submitted),4,"36,320"
+2017/18,Scotland (All Areas Submitted),5 (Least Deprived),"31,941"
+2017/18,Scotland (All Areas Submitted),Unknown,"2,715"
+2017/18,Aberdeen City,1 (Most Deprived),"3,033"
+2017/18,Aberdeen City,2,"2,397"
+2017/18,Aberdeen City,3,"2,125"
+2017/18,Aberdeen City,4,"1,506"
+2017/18,Aberdeen City,5 (Least Deprived),"1,472"
+2017/18,Aberdeen City,Unknown,50
+2017/18,Aberdeenshire,1 (Most Deprived),"2,536"
+2017/18,Aberdeenshire,2,"2,186"
+2017/18,Aberdeenshire,3,"1,727"
+2017/18,Aberdeenshire,4,"1,340"
+2017/18,Aberdeenshire,5 (Least Deprived),"1,256"
+2017/18,Aberdeenshire,Unknown,26
+2017/18,Angus,1 (Most Deprived),965
+2017/18,Angus,2,878
+2017/18,Angus,3,851
+2017/18,Angus,4,899
+2017/18,Angus,5 (Least Deprived),778
+2017/18,Angus,Unknown,"1,465"
+2017/18,Argyll & Bute,1 (Most Deprived),815
+2017/18,Argyll & Bute,2,650
+2017/18,Argyll & Bute,3,690
+2017/18,Argyll & Bute,4,573
+2017/18,Argyll & Bute,5 (Least Deprived),597
+2017/18,Argyll & Bute,Unknown,38
+2017/18,Clackmannanshire,1 (Most Deprived),703
+2017/18,Clackmannanshire,2,526
+2017/18,Clackmannanshire,3,633
+2017/18,Clackmannanshire,4,563
+2017/18,Clackmannanshire,5 (Least Deprived),340
+2017/18,Clackmannanshire,Unknown,6
+2017/18,Dumfries & Galloway,1 (Most Deprived),"1,462"
+2017/18,Dumfries & Galloway,2,"1,386"
+2017/18,Dumfries & Galloway,3,"1,631"
+2017/18,Dumfries & Galloway,4,"1,464"
+2017/18,Dumfries & Galloway,5 (Least Deprived),"1,094"
+2017/18,Dumfries & Galloway,Unknown,33
+2017/18,Dundee City,1 (Most Deprived),"2,421"
+2017/18,Dundee City,2,"2,319"
+2017/18,Dundee City,3,"2,745"
+2017/18,Dundee City,4,"1,842"
+2017/18,Dundee City,5 (Least Deprived),"1,639"
+2017/18,Dundee City,Unknown,18
+2017/18,East Ayrshire,1 (Most Deprived),"1,057"
+2017/18,East Ayrshire,2,"1,223"
+2017/18,East Ayrshire,3,"1,101"
+2017/18,East Ayrshire,4,"1,045"
+2017/18,East Ayrshire,5 (Least Deprived),728
+2017/18,East Ayrshire,Unknown,7
+2017/18,East Dunbartonshire,1 (Most Deprived),"1,739"
+2017/18,East Dunbartonshire,2,"1,276"
+2017/18,East Dunbartonshire,3,"1,231"
+2017/18,East Dunbartonshire,4,889
+2017/18,East Dunbartonshire,5 (Least Deprived),934
+2017/18,East Dunbartonshire,Unknown,75
+2017/18,East Lothian,1 (Most Deprived),919
+2017/18,East Lothian,2,"1,013"
+2017/18,East Lothian,3,670
+2017/18,East Lothian,4,541
+2017/18,East Lothian,5 (Least Deprived),607
+2017/18,East Lothian,Unknown,30
+2017/18,East Renfrewshire,1 (Most Deprived),"1,616"
+2017/18,East Renfrewshire,2,"1,512"
+2017/18,East Renfrewshire,3,"1,102"
+2017/18,East Renfrewshire,4,"1,128"
+2017/18,East Renfrewshire,5 (Least Deprived),974
+2017/18,East Renfrewshire,Unknown,33
+2017/18,City of Edinburgh,1 (Most Deprived),"4,933"
+2017/18,City of Edinburgh,2,"3,417"
+2017/18,City of Edinburgh,3,"3,250"
+2017/18,City of Edinburgh,4,"2,955"
+2017/18,City of Edinburgh,5 (Least Deprived),"2,529"
+2017/18,City of Edinburgh,Unknown,115
+2017/18,Comhairle nan Eilean Siar,1 (Most Deprived),380
+2017/18,Comhairle nan Eilean Siar,2,303
+2017/18,Comhairle nan Eilean Siar,3,341
+2017/18,Comhairle nan Eilean Siar,4,258
+2017/18,Comhairle nan Eilean Siar,5 (Least Deprived),295
+2017/18,Comhairle nan Eilean Siar,Unknown,*
+2017/18,Falkirk,1 (Most Deprived),"2,143"
+2017/18,Falkirk,2,"1,934"
+2017/18,Falkirk,3,"1,530"
+2017/18,Falkirk,4,"1,526"
+2017/18,Falkirk,5 (Least Deprived),905
+2017/18,Falkirk,Unknown,45
+2017/18,Fife,1 (Most Deprived),"3,387"
+2017/18,Fife,2,"3,841"
+2017/18,Fife,3,"3,130"
+2017/18,Fife,4,"2,720"
+2017/18,Fife,5 (Least Deprived),"2,010"
+2017/18,Fife,Unknown,95
+2017/18,Highland,1 (Most Deprived),"2,061"
+2017/18,Highland,2,"1,711"
+2017/18,Highland,3,"1,668"
+2017/18,Highland,4,"1,385"
+2017/18,Highland,5 (Least Deprived),"1,497"
+2017/18,Highland,Unknown,51
+2017/18,Inverclyde,1 (Most Deprived),"1,388"
+2017/18,Inverclyde,2,842
+2017/18,Inverclyde,3,908
+2017/18,Inverclyde,4,"1,102"
+2017/18,Inverclyde,5 (Least Deprived),667
+2017/18,Inverclyde,Unknown,*
+2017/18,Midlothian,1 (Most Deprived),969
+2017/18,Midlothian,2,851
+2017/18,Midlothian,3,820
+2017/18,Midlothian,4,628
+2017/18,Midlothian,5 (Least Deprived),569
+2017/18,Midlothian,Unknown,64
+2017/18,Moray,1 (Most Deprived),745
+2017/18,Moray,2,847
+2017/18,Moray,3,627
+2017/18,Moray,4,488
+2017/18,Moray,5 (Least Deprived),612
+2017/18,Moray,Unknown,5
+2017/18,North Ayrshire,1 (Most Deprived),"1,771"
+2017/18,North Ayrshire,2,"1,277"
+2017/18,North Ayrshire,3,"1,447"
+2017/18,North Ayrshire,4,"1,473"
+2017/18,North Ayrshire,5 (Least Deprived),"1,142"
+2017/18,North Ayrshire,Unknown,26
+2017/18,North Lanarkshire,1 (Most Deprived),"3,455"
+2017/18,North Lanarkshire,2,"3,439"
+2017/18,North Lanarkshire,3,"3,120"
+2017/18,North Lanarkshire,4,"2,492"
+2017/18,North Lanarkshire,5 (Least Deprived),"1,357"
+2017/18,North Lanarkshire,Unknown,18
+2017/18,Orkney Islands,1 (Most Deprived),241
+2017/18,Orkney Islands,2,257
+2017/18,Orkney Islands,3,141
+2017/18,Orkney Islands,4,184
+2017/18,Orkney Islands,5 (Least Deprived),153
+2017/18,Orkney Islands,Unknown,73
+2017/18,Perth & Kinross,1 (Most Deprived),"1,367"
+2017/18,Perth & Kinross,2,"1,484"
+2017/18,Perth & Kinross,3,"1,445"
+2017/18,Perth & Kinross,4,"1,060"
+2017/18,Perth & Kinross,5 (Least Deprived),"1,393"
+2017/18,Perth & Kinross,Unknown,23
+2017/18,Renfrewshire,1 (Most Deprived),"1,596"
+2017/18,Renfrewshire,2,"1,895"
+2017/18,Renfrewshire,3,"1,718"
+2017/18,Renfrewshire,4,"1,352"
+2017/18,Renfrewshire,5 (Least Deprived),769
+2017/18,Renfrewshire,Unknown,9
+2017/18,Scottish Borders,1 (Most Deprived),"1,041"
+2017/18,Scottish Borders,2,718
+2017/18,Scottish Borders,3,758
+2017/18,Scottish Borders,4,800
+2017/18,Scottish Borders,5 (Least Deprived),601
+2017/18,Scottish Borders,Unknown,119
+2017/18,Shetland,1 (Most Deprived),213
+2017/18,Shetland,2,245
+2017/18,Shetland,3,186
+2017/18,Shetland,4,233
+2017/18,Shetland,5 (Least Deprived),192
+2017/18,Shetland,Unknown,145
+2017/18,South Ayrshire,1 (Most Deprived),"1,062"
+2017/18,South Ayrshire,2,"1,292"
+2017/18,South Ayrshire,3,957
+2017/18,South Ayrshire,4,"1,004"
+2017/18,South Ayrshire,5 (Least Deprived),"1,054"
+2017/18,South Ayrshire,Unknown,19
+2017/18,South Lanarkshire,1 (Most Deprived),"1,549"
+2017/18,South Lanarkshire,2,"1,537"
+2017/18,South Lanarkshire,3,"1,668"
+2017/18,South Lanarkshire,4,"1,286"
+2017/18,South Lanarkshire,5 (Least Deprived),972
+2017/18,South Lanarkshire,Unknown,93
+2017/18,Stirling,1 (Most Deprived),883
+2017/18,Stirling,2,816
+2017/18,Stirling,3,835
+2017/18,Stirling,4,596
+2017/18,Stirling,5 (Least Deprived),645
+2017/18,Stirling,Unknown,13
+2017/18,West Dunbartonshire,1 (Most Deprived),583
+2017/18,West Dunbartonshire,2,953
+2017/18,West Dunbartonshire,3,821
+2017/18,West Dunbartonshire,4,864
+2017/18,West Dunbartonshire,5 (Least Deprived),652
+2017/18,West Dunbartonshire,Unknown,8
+2017/18,West Lothian,1 (Most Deprived),"1,950"
+2017/18,West Lothian,2,"2,007"
+2017/18,West Lothian,3,"1,778"
+2017/18,West Lothian,4,"1,106"
+2017/18,West Lothian,5 (Least Deprived),860
+2017/18,West Lothian,Unknown,8
+2018/19,Scotland (All Areas Submitted),1 (Most Deprived),"49,440"
+2018/19,Scotland (All Areas Submitted),2,"57,256"
+2018/19,Scotland (All Areas Submitted),3,"51,708"
+2018/19,Scotland (All Areas Submitted),4,"43,584"
+2018/19,Scotland (All Areas Submitted),5 (Least Deprived),"38,329"
+2018/19,Scotland (All Areas Submitted),Unknown,"3,258"
+2018/19,Aberdeen City,1 (Most Deprived),"3,640"
+2018/19,Aberdeen City,2,"2,876"
+2018/19,Aberdeen City,3,"2,550"
+2018/19,Aberdeen City,4,"1,807"
+2018/19,Aberdeen City,5 (Least Deprived),"1,766"
+2018/19,Aberdeen City,Unknown,60
+2018/19,Aberdeenshire,1 (Most Deprived),"3,043"
+2018/19,Aberdeenshire,2,"2,623"
+2018/19,Aberdeenshire,3,"2,072"
+2018/19,Aberdeenshire,4,"1,608"
+2018/19,Aberdeenshire,5 (Least Deprived),"1,507"
+2018/19,Aberdeenshire,Unknown,31
+2018/19,Angus,1 (Most Deprived),"1,158"
+2018/19,Angus,2,"1,054"
+2018/19,Angus,3,"1,021"
+2018/19,Angus,4,"1,079"
+2018/19,Angus,5 (Least Deprived),934
+2018/19,Angus,Unknown,"1,758"
+2018/19,Argyll & Bute,1 (Most Deprived),978
+2018/19,Argyll & Bute,2,780
+2018/19,Argyll & Bute,3,828
+2018/19,Argyll & Bute,4,688
+2018/19,Argyll & Bute,5 (Least Deprived),716
+2018/19,Argyll & Bute,Unknown,46
+2018/19,Clackmannanshire,1 (Most Deprived),844
+2018/19,Clackmannanshire,2,631
+2018/19,Clackmannanshire,3,760
+2018/19,Clackmannanshire,4,676
+2018/19,Clackmannanshire,5 (Least Deprived),408
+2018/19,Clackmannanshire,Unknown,7
+2018/19,Dumfries & Galloway,1 (Most Deprived),"1,754"
+2018/19,Dumfries & Galloway,2,"1,663"
+2018/19,Dumfries & Galloway,3,"1,957"
+2018/19,Dumfries & Galloway,4,"1,757"
+2018/19,Dumfries & Galloway,5 (Least Deprived),"1,313"
+2018/19,Dumfries & Galloway,Unknown,40
+2018/19,Dundee City,1 (Most Deprived),"2,905"
+2018/19,Dundee City,2,"2,783"
+2018/19,Dundee City,3,"3,294"
+2018/19,Dundee City,4,"2,210"
+2018/19,Dundee City,5 (Least Deprived),"1,967"
+2018/19,Dundee City,Unknown,22
+2018/19,East Ayrshire,1 (Most Deprived),"1,268"
+2018/19,East Ayrshire,2,"1,468"
+2018/19,East Ayrshire,3,"1,321"
+2018/19,East Ayrshire,4,"1,254"
+2018/19,East Ayrshire,5 (Least Deprived),874
+2018/19,East Ayrshire,Unknown,8
+2018/19,East Dunbartonshire,1 (Most Deprived),"2,087"
+2018/19,East Dunbartonshire,2,"1,531"
+2018/19,East Dunbartonshire,3,"1,477"
+2018/19,East Dunbartonshire,4,"1,067"
+2018/19,East Dunbartonshire,5 (Least Deprived),"1,121"
+2018/19,East Dunbartonshire,Unknown,90
+2018/19,East Lothian,1 (Most Deprived),"1,103"
+2018/19,East Lothian,2,"1,216"
+2018/19,East Lothian,3,804
+2018/19,East Lothian,4,649
+2018/19,East Lothian,5 (Least Deprived),728
+2018/19,East Lothian,Unknown,36
+2018/19,East Renfrewshire,1 (Most Deprived),"1,939"
+2018/19,East Renfrewshire,2,"1,814"
+2018/19,East Renfrewshire,3,"1,322"
+2018/19,East Renfrewshire,4,"1,354"
+2018/19,East Renfrewshire,5 (Least Deprived),"1,169"
+2018/19,East Renfrewshire,Unknown,40
+2018/19,City of Edinburgh,1 (Most Deprived),"5,920"
+2018/19,City of Edinburgh,2,"4,100"
+2018/19,City of Edinburgh,3,"3,900"
+2018/19,City of Edinburgh,4,"3,546"
+2018/19,City of Edinburgh,5 (Least Deprived),"3,035"
+2018/19,City of Edinburgh,Unknown,138
+2018/19,Comhairle nan Eilean Siar,1 (Most Deprived),456
+2018/19,Comhairle nan Eilean Siar,2,364
+2018/19,Comhairle nan Eilean Siar,3,409
+2018/19,Comhairle nan Eilean Siar,4,310
+2018/19,Comhairle nan Eilean Siar,5 (Least Deprived),354
+2018/19,Comhairle nan Eilean Siar,Unknown,#VALUE!
+2018/19,Falkirk,1 (Most Deprived),"2,572"
+2018/19,Falkirk,2,"2,321"
+2018/19,Falkirk,3,"1,836"
+2018/19,Falkirk,4,"1,831"
+2018/19,Falkirk,5 (Least Deprived),"1,086"
+2018/19,Falkirk,Unknown,54
+2018/19,Fife,1 (Most Deprived),"4,064"
+2018/19,Fife,2,"4,609"
+2018/19,Fife,3,"3,756"
+2018/19,Fife,4,"3,264"
+2018/19,Fife,5 (Least Deprived),"2,412"
+2018/19,Fife,Unknown,114
+2018/19,Highland,1 (Most Deprived),"2,473"
+2018/19,Highland,2,"2,053"
+2018/19,Highland,3,"2,002"
+2018/19,Highland,4,"1,662"
+2018/19,Highland,5 (Least Deprived),"1,796"
+2018/19,Highland,Unknown,61
+2018/19,Inverclyde,1 (Most Deprived),"1,666"
+2018/19,Inverclyde,2,"1,010"
+2018/19,Inverclyde,3,"1,090"
+2018/19,Inverclyde,4,"1,322"
+2018/19,Inverclyde,5 (Least Deprived),800
+2018/19,Inverclyde,Unknown,#VALUE!
+2018/19,Midlothian,1 (Most Deprived),"1,163"
+2018/19,Midlothian,2,"1,021"
+2018/19,Midlothian,3,984
+2018/19,Midlothian,4,754
+2018/19,Midlothian,5 (Least Deprived),683
+2018/19,Midlothian,Unknown,77
+2018/19,Moray,1 (Most Deprived),894
+2018/19,Moray,2,"1,016"
+2018/19,Moray,3,752
+2018/19,Moray,4,586
+2018/19,Moray,5 (Least Deprived),734
+2018/19,Moray,Unknown,6
+2018/19,North Ayrshire,1 (Most Deprived),"2,125"
+2018/19,North Ayrshire,2,"1,532"
+2018/19,North Ayrshire,3,"1,736"
+2018/19,North Ayrshire,4,"1,768"
+2018/19,North Ayrshire,5 (Least Deprived),"1,370"
+2018/19,North Ayrshire,Unknown,31
+2018/19,North Lanarkshire,1 (Most Deprived),"4,146"
+2018/19,North Lanarkshire,2,"4,127"
+2018/19,North Lanarkshire,3,"3,744"
+2018/19,North Lanarkshire,4,"2,990"
+2018/19,North Lanarkshire,5 (Least Deprived),"1,628"
+2018/19,North Lanarkshire,Unknown,22
+2018/19,Orkney Islands,1 (Most Deprived),289
+2018/19,Orkney Islands,2,308
+2018/19,Orkney Islands,3,169
+2018/19,Orkney Islands,4,221
+2018/19,Orkney Islands,5 (Least Deprived),184
+2018/19,Orkney Islands,Unknown,88
+2018/19,Perth & Kinross,1 (Most Deprived),"1,640"
+2018/19,Perth & Kinross,2,"1,781"
+2018/19,Perth & Kinross,3,"1,734"
+2018/19,Perth & Kinross,4,"1,272"
+2018/19,Perth & Kinross,5 (Least Deprived),"1,672"
+2018/19,Perth & Kinross,Unknown,28
+2018/19,Renfrewshire,1 (Most Deprived),"1,915"
+2018/19,Renfrewshire,2,"2,274"
+2018/19,Renfrewshire,3,"2,062"
+2018/19,Renfrewshire,4,"1,622"
+2018/19,Renfrewshire,5 (Least Deprived),923
+2018/19,Renfrewshire,Unknown,11
+2018/19,Scottish Borders,1 (Most Deprived),"1,249"
+2018/19,Scottish Borders,2,862
+2018/19,Scottish Borders,3,910
+2018/19,Scottish Borders,4,960
+2018/19,Scottish Borders,5 (Least Deprived),721
+2018/19,Scottish Borders,Unknown,143
+2018/19,Shetland,1 (Most Deprived),256
+2018/19,Shetland,2,294
+2018/19,Shetland,3,223
+2018/19,Shetland,4,280
+2018/19,Shetland,5 (Least Deprived),230
+2018/19,Shetland,Unknown,174
+2018/19,South Ayrshire,1 (Most Deprived),"1,274"
+2018/19,South Ayrshire,2,"1,550"
+2018/19,South Ayrshire,3,"1,148"
+2018/19,South Ayrshire,4,"1,205"
+2018/19,South Ayrshire,5 (Least Deprived),"1,265"
+2018/19,South Ayrshire,Unknown,23
+2018/19,South Lanarkshire,1 (Most Deprived),"1,859"
+2018/19,South Lanarkshire,2,"1,844"
+2018/19,South Lanarkshire,3,"2,002"
+2018/19,South Lanarkshire,4,"1,543"
+2018/19,South Lanarkshire,5 (Least Deprived),"1,166"
+2018/19,South Lanarkshire,Unknown,112
+2018/19,Stirling,1 (Most Deprived),"1,060"
+2018/19,Stirling,2,979
+2018/19,Stirling,3,"1,002"
+2018/19,Stirling,4,715
+2018/19,Stirling,5 (Least Deprived),774
+2018/19,Stirling,Unknown,16
+2018/19,West Dunbartonshire,1 (Most Deprived),700
+2018/19,West Dunbartonshire,2,"1,144"
+2018/19,West Dunbartonshire,3,985
+2018/19,West Dunbartonshire,4,"1,037"
+2018/19,West Dunbartonshire,5 (Least Deprived),782
+2018/19,West Dunbartonshire,Unknown,10
+2018/19,West Lothian,1 (Most Deprived),"2,340"
+2018/19,West Lothian,2,"2,408"
+2018/19,West Lothian,3,"2,134"
+2018/19,West Lothian,4,"1,327"
+2018/19,West Lothian,5 (Least Deprived),"1,032"
+2018/19,West Lothian,Unknown,10
+2019/20,Scotland (All Areas Submitted),1 (Most Deprived),"59,328"
+2019/20,Scotland (All Areas Submitted),2,"68,707"
+2019/20,Scotland (All Areas Submitted),3,"62,050"
+2019/20,Scotland (All Areas Submitted),4,"52,301"
+2019/20,Scotland (All Areas Submitted),5 (Least Deprived),"45,995"
+2019/20,Scotland (All Areas Submitted),Unknown,"3,910"
+2019/20,Aberdeen City,1 (Most Deprived),"4,368"
+2019/20,Aberdeen City,2,"3,452"
+2019/20,Aberdeen City,3,"3,060"
+2019/20,Aberdeen City,4,"2,169"
+2019/20,Aberdeen City,5 (Least Deprived),"2,120"
+2019/20,Aberdeen City,Unknown,72
+2019/20,Aberdeenshire,1 (Most Deprived),"3,652"
+2019/20,Aberdeenshire,2,"3,148"
+2019/20,Aberdeenshire,3,"2,487"
+2019/20,Aberdeenshire,4,"1,930"
+2019/20,Aberdeenshire,5 (Least Deprived),"1,809"
+2019/20,Aberdeenshire,Unknown,37
+2019/20,Angus,1 (Most Deprived),"1,390"
+2019/20,Angus,2,"1,264"
+2019/20,Angus,3,"1,225"
+2019/20,Angus,4,"1,295"
+2019/20,Angus,5 (Least Deprived),"1,120"
+2019/20,Angus,Unknown,"2,110"
+2019/20,Argyll & Bute,1 (Most Deprived),"1,174"
+2019/20,Argyll & Bute,2,936
+2019/20,Argyll & Bute,3,994
+2019/20,Argyll & Bute,4,825
+2019/20,Argyll & Bute,5 (Least Deprived),860
+2019/20,Argyll & Bute,Unknown,55
+2019/20,Clackmannanshire,1 (Most Deprived),"1,012"
+2019/20,Clackmannanshire,2,757
+2019/20,Clackmannanshire,3,912
+2019/20,Clackmannanshire,4,811
+2019/20,Clackmannanshire,5 (Least Deprived),490
+2019/20,Clackmannanshire,Unknown,9
+2019/20,Dumfries & Galloway,1 (Most Deprived),"2,105"
+2019/20,Dumfries & Galloway,2,"1,996"
+2019/20,Dumfries & Galloway,3,"2,349"
+2019/20,Dumfries & Galloway,4,"2,108"
+2019/20,Dumfries & Galloway,5 (Least Deprived),"1,575"
+2019/20,Dumfries & Galloway,Unknown,48
+2019/20,Dundee City,1 (Most Deprived),"3,486"
+2019/20,Dundee City,2,"3,339"
+2019/20,Dundee City,3,"3,953"
+2019/20,Dundee City,4,"2,652"
+2019/20,Dundee City,5 (Least Deprived),"2,360"
+2019/20,Dundee City,Unknown,26
+2019/20,East Ayrshire,1 (Most Deprived),"1,522"
+2019/20,East Ayrshire,2,"1,761"
+2019/20,East Ayrshire,3,"1,585"
+2019/20,East Ayrshire,4,"1,505"
+2019/20,East Ayrshire,5 (Least Deprived),"1,048"
+2019/20,East Ayrshire,Unknown,10
+2019/20,East Dunbartonshire,1 (Most Deprived),"2,504"
+2019/20,East Dunbartonshire,2,"1,837"
+2019/20,East Dunbartonshire,3,"1,773"
+2019/20,East Dunbartonshire,4,"1,280"
+2019/20,East Dunbartonshire,5 (Least Deprived),"1,345"
+2019/20,East Dunbartonshire,Unknown,108
+2019/20,East Lothian,1 (Most Deprived),"1,323"
+2019/20,East Lothian,2,"1,459"
+2019/20,East Lothian,3,965
+2019/20,East Lothian,4,779
+2019/20,East Lothian,5 (Least Deprived),874
+2019/20,East Lothian,Unknown,43
+2019/20,East Renfrewshire,1 (Most Deprived),"2,327"
+2019/20,East Renfrewshire,2,"2,177"
+2019/20,East Renfrewshire,3,"1,587"
+2019/20,East Renfrewshire,4,"1,624"
+2019/20,East Renfrewshire,5 (Least Deprived),"1,403"
+2019/20,East Renfrewshire,Unknown,48
+2019/20,City of Edinburgh,1 (Most Deprived),"7,104"
+2019/20,City of Edinburgh,2,"4,920"
+2019/20,City of Edinburgh,3,"4,680"
+2019/20,City of Edinburgh,4,"4,255"
+2019/20,City of Edinburgh,5 (Least Deprived),"3,642"
+2019/20,City of Edinburgh,Unknown,166
+2019/20,Comhairle nan Eilean Siar,1 (Most Deprived),547
+2019/20,Comhairle nan Eilean Siar,2,436
+2019/20,Comhairle nan Eilean Siar,3,491
+2019/20,Comhairle nan Eilean Siar,4,372
+2019/20,Comhairle nan Eilean Siar,5 (Least Deprived),425
+2019/20,Comhairle nan Eilean Siar,Unknown,#VALUE!
+2019/20,Falkirk,1 (Most Deprived),"3,086"
+2019/20,Falkirk,2,"2,785"
+2019/20,Falkirk,3,"2,203"
+2019/20,Falkirk,4,"2,197"
+2019/20,Falkirk,5 (Least Deprived),"1,303"
+2019/20,Falkirk,Unknown,65
+2019/20,Fife,1 (Most Deprived),"4,877"
+2019/20,Fife,2,"5,531"
+2019/20,Fife,3,"4,507"
+2019/20,Fife,4,"3,917"
+2019/20,Fife,5 (Least Deprived),"2,894"
+2019/20,Fife,Unknown,137
+2019/20,Highland,1 (Most Deprived),"2,968"
+2019/20,Highland,2,"2,464"
+2019/20,Highland,3,"2,402"
+2019/20,Highland,4,"1,994"
+2019/20,Highland,5 (Least Deprived),"2,156"
+2019/20,Highland,Unknown,73
+2019/20,Inverclyde,1 (Most Deprived),"1,999"
+2019/20,Inverclyde,2,"1,212"
+2019/20,Inverclyde,3,"1,308"
+2019/20,Inverclyde,4,"1,587"
+2019/20,Inverclyde,5 (Least Deprived),960
+2019/20,Inverclyde,Unknown,#VALUE!
+2019/20,Midlothian,1 (Most Deprived),"1,395"
+2019/20,Midlothian,2,"1,225"
+2019/20,Midlothian,3,"1,181"
+2019/20,Midlothian,4,904
+2019/20,Midlothian,5 (Least Deprived),819
+2019/20,Midlothian,Unknown,92
+2019/20,Moray,1 (Most Deprived),"1,073"
+2019/20,Moray,2,"1,220"
+2019/20,Moray,3,903
+2019/20,Moray,4,703
+2019/20,Moray,5 (Least Deprived),881
+2019/20,Moray,Unknown,7
+2019/20,North Ayrshire,1 (Most Deprived),"2,550"
+2019/20,North Ayrshire,2,"1,839"
+2019/20,North Ayrshire,3,"2,084"
+2019/20,North Ayrshire,4,"2,121"
+2019/20,North Ayrshire,5 (Least Deprived),"1,644"
+2019/20,North Ayrshire,Unknown,37
+2019/20,North Lanarkshire,1 (Most Deprived),"4,975"
+2019/20,North Lanarkshire,2,"4,952"
+2019/20,North Lanarkshire,3,"4,493"
+2019/20,North Lanarkshire,4,"3,588"
+2019/20,North Lanarkshire,5 (Least Deprived),"1,954"
+2019/20,North Lanarkshire,Unknown,26
+2019/20,Orkney Islands,1 (Most Deprived),347
+2019/20,Orkney Islands,2,370
+2019/20,Orkney Islands,3,203
+2019/20,Orkney Islands,4,265
+2019/20,Orkney Islands,5 (Least Deprived),220
+2019/20,Orkney Islands,Unknown,105
+2019/20,Perth & Kinross,1 (Most Deprived),"1,968"
+2019/20,Perth & Kinross,2,"2,137"
+2019/20,Perth & Kinross,3,"2,081"
+2019/20,Perth & Kinross,4,"1,526"
+2019/20,Perth & Kinross,5 (Least Deprived),"2,006"
+2019/20,Perth & Kinross,Unknown,33
+2019/20,Renfrewshire,1 (Most Deprived),"2,298"
+2019/20,Renfrewshire,2,"2,729"
+2019/20,Renfrewshire,3,"2,474"
+2019/20,Renfrewshire,4,"1,947"
+2019/20,Renfrewshire,5 (Least Deprived),"1,107"
+2019/20,Renfrewshire,Unknown,13
+2019/20,Scottish Borders,1 (Most Deprived),"1,499"
+2019/20,Scottish Borders,2,"1,034"
+2019/20,Scottish Borders,3,"1,092"
+2019/20,Scottish Borders,4,"1,152"
+2019/20,Scottish Borders,5 (Least Deprived),865
+2019/20,Scottish Borders,Unknown,171
+2019/20,Shetland,1 (Most Deprived),307
+2019/20,Shetland,2,353
+2019/20,Shetland,3,268
+2019/20,Shetland,4,336
+2019/20,Shetland,5 (Least Deprived),276
+2019/20,Shetland,Unknown,209
+2019/20,South Ayrshire,1 (Most Deprived),"1,529"
+2019/20,South Ayrshire,2,"1,860"
+2019/20,South Ayrshire,3,"1,378"
+2019/20,South Ayrshire,4,"1,446"
+2019/20,South Ayrshire,5 (Least Deprived),"1,518"
+2019/20,South Ayrshire,Unknown,27
+2019/20,South Lanarkshire,1 (Most Deprived),"2,231"
+2019/20,South Lanarkshire,2,"2,213"
+2019/20,South Lanarkshire,3,"2,402"
+2019/20,South Lanarkshire,4,"1,852"
+2019/20,South Lanarkshire,5 (Least Deprived),"1,400"
+2019/20,South Lanarkshire,Unknown,134
+2019/20,Stirling,1 (Most Deprived),"1,272"
+2019/20,Stirling,2,"1,175"
+2019/20,Stirling,3,"1,202"
+2019/20,Stirling,4,858
+2019/20,Stirling,5 (Least Deprived),929
+2019/20,Stirling,Unknown,19
+2019/20,West Dunbartonshire,1 (Most Deprived),840
+2019/20,West Dunbartonshire,2,"1,372"
+2019/20,West Dunbartonshire,3,"1,182"
+2019/20,West Dunbartonshire,4,"1,244"
+2019/20,West Dunbartonshire,5 (Least Deprived),939
+2019/20,West Dunbartonshire,Unknown,12
+2019/20,West Lothian,1 (Most Deprived),"2,808"
+2019/20,West Lothian,2,"2,890"
+2019/20,West Lothian,3,"2,560"
+2019/20,West Lothian,4,"1,593"
+2019/20,West Lothian,5 (Least Deprived),"1,238"
+2019/20,West Lothian,Unknown,12
+2020/21,Scotland (All Areas Submitted),1 (Most Deprived),"71,194"
+2020/21,Scotland (All Areas Submitted),2,"82,448"
+2020/21,Scotland (All Areas Submitted),3,"74,460"
+2020/21,Scotland (All Areas Submitted),4,"62,761"
+2020/21,Scotland (All Areas Submitted),5 (Least Deprived),"55,194"
+2020/21,Scotland (All Areas Submitted),Unknown,"4,692"
+2020/21,Aberdeen City,1 (Most Deprived),"5,241"
+2020/21,Aberdeen City,2,"4,142"
+2020/21,Aberdeen City,3,"3,672"
+2020/21,Aberdeen City,4,"2,602"
+2020/21,Aberdeen City,5 (Least Deprived),"2,544"
+2020/21,Aberdeen City,Unknown,86
+2020/21,Aberdeenshire,1 (Most Deprived),"4,382"
+2020/21,Aberdeenshire,2,"3,777"
+2020/21,Aberdeenshire,3,"2,984"
+2020/21,Aberdeenshire,4,"2,316"
+2020/21,Aberdeenshire,5 (Least Deprived),"2,170"
+2020/21,Aberdeenshire,Unknown,45
+2020/21,Angus,1 (Most Deprived),"1,668"
+2020/21,Angus,2,"1,517"
+2020/21,Angus,3,"1,471"
+2020/21,Angus,4,"1,553"
+2020/21,Angus,5 (Least Deprived),"1,344"
+2020/21,Angus,Unknown,"2,532"
+2020/21,Argyll & Bute,1 (Most Deprived),"1,408"
+2020/21,Argyll & Bute,2,"1,123"
+2020/21,Argyll & Bute,3,"1,192"
+2020/21,Argyll & Bute,4,990
+2020/21,Argyll & Bute,5 (Least Deprived),"1,032"
+2020/21,Argyll & Bute,Unknown,66
+2020/21,Clackmannanshire,1 (Most Deprived),"1,215"
+2020/21,Clackmannanshire,2,909
+2020/21,Clackmannanshire,3,"1,094"
+2020/21,Clackmannanshire,4,973
+2020/21,Clackmannanshire,5 (Least Deprived),588
+2020/21,Clackmannanshire,Unknown,10
+2020/21,Dumfries & Galloway,1 (Most Deprived),"2,526"
+2020/21,Dumfries & Galloway,2,"2,395"
+2020/21,Dumfries & Galloway,3,"2,818"
+2020/21,Dumfries & Galloway,4,"2,530"
+2020/21,Dumfries & Galloway,5 (Least Deprived),"1,890"
+2020/21,Dumfries & Galloway,Unknown,57
+2020/21,Dundee City,1 (Most Deprived),"4,183"
+2020/21,Dundee City,2,"4,007"
+2020/21,Dundee City,3,"4,743"
+2020/21,Dundee City,4,"3,183"
+2020/21,Dundee City,5 (Least Deprived),"2,832"
+2020/21,Dundee City,Unknown,31
+2020/21,East Ayrshire,1 (Most Deprived),"1,826"
+2020/21,East Ayrshire,2,"2,113"
+2020/21,East Ayrshire,3,"1,903"
+2020/21,East Ayrshire,4,"1,806"
+2020/21,East Ayrshire,5 (Least Deprived),"1,258"
+2020/21,East Ayrshire,Unknown,12
+2020/21,East Dunbartonshire,1 (Most Deprived),"3,005"
+2020/21,East Dunbartonshire,2,"2,205"
+2020/21,East Dunbartonshire,3,"2,127"
+2020/21,East Dunbartonshire,4,"1,536"
+2020/21,East Dunbartonshire,5 (Least Deprived),"1,614"
+2020/21,East Dunbartonshire,Unknown,130
+2020/21,East Lothian,1 (Most Deprived),"1,588"
+2020/21,East Lothian,2,"1,750"
+2020/21,East Lothian,3,"1,158"
+2020/21,East Lothian,4,935
+2020/21,East Lothian,5 (Least Deprived),"1,049"
+2020/21,East Lothian,Unknown,52
+2020/21,East Renfrewshire,1 (Most Deprived),"2,792"
+2020/21,East Renfrewshire,2,"2,613"
+2020/21,East Renfrewshire,3,"1,904"
+2020/21,East Renfrewshire,4,"1,949"
+2020/21,East Renfrewshire,5 (Least Deprived),"1,683"
+2020/21,East Renfrewshire,Unknown,57
+2020/21,City of Edinburgh,1 (Most Deprived),"8,524"
+2020/21,City of Edinburgh,2,"5,905"
+2020/21,City of Edinburgh,3,"5,616"
+2020/21,City of Edinburgh,4,"5,106"
+2020/21,City of Edinburgh,5 (Least Deprived),"4,370"
+2020/21,City of Edinburgh,Unknown,199
+2020/21,Comhairle nan Eilean Siar,1 (Most Deprived),657
+2020/21,Comhairle nan Eilean Siar,2,524
+2020/21,Comhairle nan Eilean Siar,3,589
+2020/21,Comhairle nan Eilean Siar,4,446
+2020/21,Comhairle nan Eilean Siar,5 (Least Deprived),510
+2020/21,Comhairle nan Eilean Siar,Unknown,#VALUE!
+2020/21,Falkirk,1 (Most Deprived),"3,703"
+2020/21,Falkirk,2,"3,342"
+2020/21,Falkirk,3,"2,644"
+2020/21,Falkirk,4,"2,637"
+2020/21,Falkirk,5 (Least Deprived),"1,564"
+2020/21,Falkirk,Unknown,78
+2020/21,Fife,1 (Most Deprived),"5,853"
+2020/21,Fife,2,"6,637"
+2020/21,Fife,3,"5,409"
+2020/21,Fife,4,"4,700"
+2020/21,Fife,5 (Least Deprived),"3,473"
+2020/21,Fife,Unknown,164
+2020/21,Highland,1 (Most Deprived),"3,561"
+2020/21,Highland,2,"2,957"
+2020/21,Highland,3,"2,882"
+2020/21,Highland,4,"2,393"
+2020/21,Highland,5 (Least Deprived),"2,587"
+2020/21,Highland,Unknown,88
+2020/21,Inverclyde,1 (Most Deprived),"2,398"
+2020/21,Inverclyde,2,"1,455"
+2020/21,Inverclyde,3,"1,569"
+2020/21,Inverclyde,4,"1,904"
+2020/21,Inverclyde,5 (Least Deprived),"1,153"
+2020/21,Inverclyde,Unknown,#VALUE!
+2020/21,Midlothian,1 (Most Deprived),"1,674"
+2020/21,Midlothian,2,"1,471"
+2020/21,Midlothian,3,"1,417"
+2020/21,Midlothian,4,"1,085"
+2020/21,Midlothian,5 (Least Deprived),983
+2020/21,Midlothian,Unknown,111
+2020/21,Moray,1 (Most Deprived),"1,287"
+2020/21,Moray,2,"1,464"
+2020/21,Moray,3,"1,083"
+2020/21,Moray,4,843
+2020/21,Moray,5 (Least Deprived),"1,058"
+2020/21,Moray,Unknown,9
+2020/21,North Ayrshire,1 (Most Deprived),"3,060"
+2020/21,North Ayrshire,2,"2,207"
+2020/21,North Ayrshire,3,"2,500"
+2020/21,North Ayrshire,4,"2,545"
+2020/21,North Ayrshire,5 (Least Deprived),"1,973"
+2020/21,North Ayrshire,Unknown,45
+2020/21,North Lanarkshire,1 (Most Deprived),"5,970"
+2020/21,North Lanarkshire,2,"5,943"
+2020/21,North Lanarkshire,3,"5,391"
+2020/21,North Lanarkshire,4,"4,306"
+2020/21,North Lanarkshire,5 (Least Deprived),"2,345"
+2020/21,North Lanarkshire,Unknown,31
+2020/21,Orkney Islands,1 (Most Deprived),416
+2020/21,Orkney Islands,2,444
+2020/21,Orkney Islands,3,244
+2020/21,Orkney Islands,4,318
+2020/21,Orkney Islands,5 (Least Deprived),264
+2020/21,Orkney Islands,Unknown,126
+2020/21,Perth & Kinross,1 (Most Deprived),"2,362"
+2020/21,Perth & Kinross,2,"2,564"
+2020/21,Perth & Kinross,3,"2,497"
+2020/21,Perth & Kinross,4,"1,832"
+2020/21,Perth & Kinross,5 (Least Deprived),"2,407"
+2020/21,Perth & Kinross,Unknown,40
+2020/21,Renfrewshire,1 (Most Deprived),"2,758"
+2020/21,Renfrewshire,2,"3,275"
+2020/21,Renfrewshire,3,"2,969"
+2020/21,Renfrewshire,4,"2,336"
+2020/21,Renfrewshire,5 (Least Deprived),"1,329"
+2020/21,Renfrewshire,Unknown,16
+2020/21,Scottish Borders,1 (Most Deprived),"1,799"
+2020/21,Scottish Borders,2,"1,241"
+2020/21,Scottish Borders,3,"1,310"
+2020/21,Scottish Borders,4,"1,382"
+2020/21,Scottish Borders,5 (Least Deprived),"1,039"
+2020/21,Scottish Borders,Unknown,206
+2020/21,Shetland,1 (Most Deprived),368
+2020/21,Shetland,2,423
+2020/21,Shetland,3,321
+2020/21,Shetland,4,403
+2020/21,Shetland,5 (Least Deprived),332
+2020/21,Shetland,Unknown,251
+2020/21,South Ayrshire,1 (Most Deprived),"1,835"
+2020/21,South Ayrshire,2,"2,233"
+2020/21,South Ayrshire,3,"1,654"
+2020/21,South Ayrshire,4,"1,735"
+2020/21,South Ayrshire,5 (Least Deprived),"1,821"
+2020/21,South Ayrshire,Unknown,33
+2020/21,South Lanarkshire,1 (Most Deprived),"2,677"
+2020/21,South Lanarkshire,2,"2,656"
+2020/21,South Lanarkshire,3,"2,882"
+2020/21,South Lanarkshire,4,"2,222"
+2020/21,South Lanarkshire,5 (Least Deprived),"1,680"
+2020/21,South Lanarkshire,Unknown,161
+2020/21,Stirling,1 (Most Deprived),"1,526"
+2020/21,Stirling,2,"1,410"
+2020/21,Stirling,3,"1,443"
+2020/21,Stirling,4,"1,030"
+2020/21,Stirling,5 (Least Deprived),"1,115"
+2020/21,Stirling,Unknown,22
+2020/21,West Dunbartonshire,1 (Most Deprived),"1,007"
+2020/21,West Dunbartonshire,2,"1,647"
+2020/21,West Dunbartonshire,3,"1,419"
+2020/21,West Dunbartonshire,4,"1,493"
+2020/21,West Dunbartonshire,5 (Least Deprived),"1,127"
+2020/21,West Dunbartonshire,Unknown,14
+2020/21,West Lothian,1 (Most Deprived),"3,370"
+2020/21,West Lothian,2,"3,468"
+2020/21,West Lothian,3,"3,072"
+2020/21,West Lothian,4,"1,911"
+2020/21,West Lothian,5 (Least Deprived),"1,486"
+2020/21,West Lothian,Unknown,14
