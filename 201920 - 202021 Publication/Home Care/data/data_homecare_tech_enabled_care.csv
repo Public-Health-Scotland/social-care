@@ -1,0 +1,827 @@
+financial_year,sending_location,age_group,nclient,percentage,scotland_percentage
+2017/18,Scotland (All Areas Submitted),All Ages,32460,52.9,52.9
+2017/18,Scotland (All Areas Submitted),0-17 years,5,2.2,2.2
+2017/18,Scotland (All Areas Submitted),18-64 years,3730,32.2,32.2
+2017/18,Scotland (All Areas Submitted),65-74 years,4850,51.3,51.3
+2017/18,Scotland (All Areas Submitted),75-84 years,11175,57.1,57.1
+2017/18,Scotland (All Areas Submitted),85+ years,12705,62.1,62.1
+2017/18,Scotland (All Areas Submitted),Unknown,0,0,0
+2017/18,Aberdeen City,All Ages,890,43.8,52.9
+2017/18,Aberdeen City,0-17 years,0,0,2.2
+2017/18,Aberdeen City,18-64 years,105,29.3,32.2
+2017/18,Aberdeen City,65-74 years,100,36.4,51.3
+2017/18,Aberdeen City,75-84 years,290,45.7,57.1
+2017/18,Aberdeen City,85+ years,390,51.2,62.1
+2017/18,Aberdeen City,Unknown,0,0,0
+2017/18,Aberdeenshire,All Ages,1515,59.7,52.9
+2017/18,Aberdeenshire,0-17 years,0,0,2.2
+2017/18,Aberdeenshire,18-64 years,120,40.1,32.2
+2017/18,Aberdeenshire,65-74 years,195,52.6,51.3
+2017/18,Aberdeenshire,75-84 years,500,56.4,57.1
+2017/18,Aberdeenshire,85+ years,695,70.9,62.1
+2017/18,Aberdeenshire,Unknown,0,0,0
+2017/18,Angus,All Ages,765,66.4,52.9
+2017/18,Angus,0-17 years,0,0,2.2
+2017/18,Angus,18-64 years,80,30.1,32.2
+2017/18,Angus,65-74 years,115,71.4,51.3
+2017/18,Angus,75-84 years,230,74.7,57.1
+2017/18,Angus,85+ years,345,85,62.1
+2017/18,Angus,Unknown,0,0,0
+2017/18,Argyll and Bute,All Ages,895,61.5,52.9
+2017/18,Argyll and Bute,0-17 years,0,0,2.2
+2017/18,Argyll and Bute,18-64 years,90,46.9,32.2
+2017/18,Argyll and Bute,65-74 years,100,48.3,51.3
+2017/18,Argyll and Bute,75-84 years,300,62.5,57.1
+2017/18,Argyll and Bute,85+ years,405,70.3,62.1
+2017/18,Argyll and Bute,Unknown,0,0,0
+2017/18,City of Edinburgh,All Ages,2485,46.9,52.9
+2017/18,City of Edinburgh,0-17 years,0,0,2.2
+2017/18,City of Edinburgh,18-64 years,420,26.5,32.2
+2017/18,City of Edinburgh,65-74 years,330,47.7,51.3
+2017/18,City of Edinburgh,75-84 years,700,54,57.1
+2017/18,City of Edinburgh,85+ years,1035,60.2,62.1
+2017/18,City of Edinburgh,Unknown,0,0,0
+2017/18,Clackmannanshire,All Ages,620,71.9,52.9
+2017/18,Clackmannanshire,0-17 years,0,0,2.2
+2017/18,Clackmannanshire,18-64 years,75,36.9,32.2
+2017/18,Clackmannanshire,65-74 years,110,71,51.3
+2017/18,Clackmannanshire,75-84 years,215,86.3,57.1
+2017/18,Clackmannanshire,85+ years,220,87.6,62.1
+2017/18,Clackmannanshire,Unknown,0,0,0
+2017/18,Comhairle nan Eilean Siar,All Ages,315,80.4,52.9
+2017/18,Comhairle nan Eilean Siar,0-17 years,0,0,2.2
+2017/18,Comhairle nan Eilean Siar,18-64 years,20,60.6,32.2
+2017/18,Comhairle nan Eilean Siar,65-74 years,40,69,51.3
+2017/18,Comhairle nan Eilean Siar,75-84 years,100,82.6,57.1
+2017/18,Comhairle nan Eilean Siar,85+ years,155,86.1,62.1
+2017/18,Comhairle nan Eilean Siar,Unknown,0,0,0
+2017/18,Dumfries and Galloway,All Ages,1155,47.6,52.9
+2017/18,Dumfries and Galloway,0-17 years,0,0,2.2
+2017/18,Dumfries and Galloway,18-64 years,95,16,32.2
+2017/18,Dumfries and Galloway,65-74 years,145,39.1,51.3
+2017/18,Dumfries and Galloway,75-84 years,390,58.4,57.1
+2017/18,Dumfries and Galloway,85+ years,530,67.7,62.1
+2017/18,Dumfries and Galloway,Unknown,0,0,0
+2017/18,Dundee City,All Ages,1675,78.7,52.9
+2017/18,Dundee City,0-17 years,0,0,2.2
+2017/18,Dundee City,18-64 years,145,61.7,32.2
+2017/18,Dundee City,65-74 years,270,73.6,51.3
+2017/18,Dundee City,75-84 years,550,76.7,57.1
+2017/18,Dundee City,85+ years,705,87.1,62.1
+2017/18,Dundee City,Unknown,0,0,0
+2017/18,East Ayrshire,All Ages,1220,60.3,52.9
+2017/18,East Ayrshire,0-17 years,0,0,2.2
+2017/18,East Ayrshire,18-64 years,135,47.5,32.2
+2017/18,East Ayrshire,65-74 years,190,55.7,51.3
+2017/18,East Ayrshire,75-84 years,475,62.6,57.1
+2017/18,East Ayrshire,85+ years,415,64.9,62.1
+2017/18,East Ayrshire,Unknown,0,0,0
+2017/18,East Dunbartonshire,All Ages,460,29.6,52.9
+2017/18,East Dunbartonshire,0-17 years,0,0,2.2
+2017/18,East Dunbartonshire,18-64 years,35,27.8,32.2
+2017/18,East Dunbartonshire,65-74 years,45,24.7,51.3
+2017/18,East Dunbartonshire,75-84 years,170,29.4,57.1
+2017/18,East Dunbartonshire,85+ years,210,33.3,62.1
+2017/18,East Dunbartonshire,Unknown,0,0,0
+2017/18,East Lothian,All Ages,85,5.9,52.9
+2017/18,East Lothian,0-17 years,0,0,2.2
+2017/18,East Lothian,18-64 years,15,4.1,32.2
+2017/18,East Lothian,65-74 years,10,5.1,51.3
+2017/18,East Lothian,75-84 years,40,9.7,57.1
+2017/18,East Lothian,85+ years,25,5.4,62.1
+2017/18,East Lothian,Unknown,0,0,0
+2017/18,East Renfrewshire,All Ages,910,78.3,52.9
+2017/18,East Renfrewshire,0-17 years,0,0,2.2
+2017/18,East Renfrewshire,18-64 years,70,50.4,32.2
+2017/18,East Renfrewshire,65-74 years,125,81.2,51.3
+2017/18,East Renfrewshire,75-84 years,315,81,57.1
+2017/18,East Renfrewshire,85+ years,400,83.3,62.1
+2017/18,East Renfrewshire,Unknown,0,0,0
+2017/18,Falkirk,All Ages,1610,59.9,52.9
+2017/18,Falkirk,0-17 years,0,0,2.2
+2017/18,Falkirk,18-64 years,190,27.3,32.2
+2017/18,Falkirk,65-74 years,245,58.9,51.3
+2017/18,Falkirk,75-84 years,545,69,57.1
+2017/18,Falkirk,85+ years,630,81.7,62.1
+2017/18,Falkirk,Unknown,0,0,0
+2017/18,Fife,All Ages,2430,61.5,52.9
+2017/18,Fife,0-17 years,0,0,2.2
+2017/18,Fife,18-64 years,400,39.1,32.2
+2017/18,Fife,65-74 years,390,62.6,51.3
+2017/18,Fife,75-84 years,740,69.2,57.1
+2017/18,Fife,85+ years,900,74.1,62.1
+2017/18,Fife,Unknown,0,0,0
+2017/18,Highland,All Ages,990,45.7,52.9
+2017/18,Highland,0-17 years,0,0,2.2
+2017/18,Highland,18-64 years,70,29.4,32.2
+2017/18,Highland,65-74 years,105,33,51.3
+2017/18,Highland,75-84 years,330,45,57.1
+2017/18,Highland,85+ years,485,55.2,62.1
+2017/18,Highland,Unknown,0,0,0
+2017/18,Inverclyde,All Ages,1075,76.3,52.9
+2017/18,Inverclyde,0-17 years,0,0,2.2
+2017/18,Inverclyde,18-64 years,95,62.5,32.2
+2017/18,Inverclyde,65-74 years,170,68.3,51.3
+2017/18,Inverclyde,75-84 years,425,77.1,57.1
+2017/18,Inverclyde,85+ years,380,83.2,62.1
+2017/18,Inverclyde,Unknown,0,0,0
+2017/18,Midlothian,All Ages,685,61.5,52.9
+2017/18,Midlothian,0-17 years,0,0,2.2
+2017/18,Midlothian,18-64 years,110,39.6,32.2
+2017/18,Midlothian,65-74 years,95,54.6,51.3
+2017/18,Midlothian,75-84 years,240,70.4,57.1
+2017/18,Midlothian,85+ years,240,76.9,62.1
+2017/18,Midlothian,Unknown,0,0,0
+2017/18,Moray,All Ages,610,46.3,52.9
+2017/18,Moray,0-17 years,0,0,2.2
+2017/18,Moray,18-64 years,65,23.3,32.2
+2017/18,Moray,65-74 years,80,41,51.3
+2017/18,Moray,75-84 years,205,51.2,57.1
+2017/18,Moray,85+ years,265,60.8,62.1
+2017/18,Moray,Unknown,0,0,0
+2017/18,North Ayrshire,All Ages,1650,70.3,52.9
+2017/18,North Ayrshire,0-17 years,0,0,2.2
+2017/18,North Ayrshire,18-64 years,155,46,32.2
+2017/18,North Ayrshire,65-74 years,275,66.3,51.3
+2017/18,North Ayrshire,75-84 years,590,71.5,57.1
+2017/18,North Ayrshire,85+ years,630,83.1,62.1
+2017/18,North Ayrshire,Unknown,0,0,0
+2017/18,North Lanarkshire,All Ages,3030,74,52.9
+2017/18,North Lanarkshire,0-17 years,0,0,2.2
+2017/18,North Lanarkshire,18-64 years,250,56.9,32.2
+2017/18,North Lanarkshire,65-74 years,530,68.5,51.3
+2017/18,North Lanarkshire,75-84 years,1220,76.6,57.1
+2017/18,North Lanarkshire,85+ years,1025,80.7,62.1
+2017/18,North Lanarkshire,Unknown,0,0,0
+2017/18,Orkney Islands,All Ages,165,75,52.9
+2017/18,Orkney Islands,0-17 years,0,0,2.2
+2017/18,Orkney Islands,18-64 years,15,65.2,32.2
+2017/18,Orkney Islands,65-74 years,20,71.4,51.3
+2017/18,Orkney Islands,75-84 years,60,76.9,57.1
+2017/18,Orkney Islands,85+ years,70,76.9,62.1
+2017/18,Orkney Islands,Unknown,0,0,0
+2017/18,Perth and Kinross,All Ages,1175,55.9,52.9
+2017/18,Perth and Kinross,0-17 years,0,0,2.2
+2017/18,Perth and Kinross,18-64 years,145,33.1,32.2
+2017/18,Perth and Kinross,65-74 years,120,46.7,51.3
+2017/18,Perth and Kinross,75-84 years,390,64,57.1
+2017/18,Perth and Kinross,85+ years,515,65,62.1
+2017/18,Perth and Kinross,Unknown,0,0,0
+2017/18,Renfrewshire,All Ages,1450,57.9,52.9
+2017/18,Renfrewshire,0-17 years,0,0,2.2
+2017/18,Renfrewshire,18-64 years,165,30.4,32.2
+2017/18,Renfrewshire,65-74 years,270,60.9,51.3
+2017/18,Renfrewshire,75-84 years,525,64.3,57.1
+2017/18,Renfrewshire,85+ years,495,71.8,62.1
+2017/18,Renfrewshire,Unknown,0,0,0
+2017/18,Shetland,All Ages,205,54.7,52.9
+2017/18,Shetland,0-17 years,0,0,2.2
+2017/18,Shetland,18-64 years,15,21.1,32.2
+2017/18,Shetland,65-74 years,30,50,51.3
+2017/18,Shetland,75-84 years,75,61,57.1
+2017/18,Shetland,85+ years,80,66.1,62.1
+2017/18,Shetland,Unknown,0,0,0
+2017/18,South Ayrshire,All Ages,1065,55.1,52.9
+2017/18,South Ayrshire,0-17 years,0,0,2.2
+2017/18,South Ayrshire,18-64 years,115,33.2,32.2
+2017/18,South Ayrshire,65-74 years,165,54.8,51.3
+2017/18,South Ayrshire,75-84 years,345,54,57.1
+2017/18,South Ayrshire,85+ years,440,68.2,62.1
+2017/18,South Ayrshire,Unknown,0,0,0
+2017/18,Stirling,All Ages,815,62.1,52.9
+2017/18,Stirling,0-17 years,0,0,2.2
+2017/18,Stirling,18-64 years,100,25.4,32.2
+2017/18,Stirling,65-74 years,105,64,51.3
+2017/18,Stirling,75-84 years,280,75.5,57.1
+2017/18,Stirling,85+ years,330,85.9,62.1
+2017/18,Stirling,Unknown,0,0,0
+2017/18,West Dunbartonshire,All Ages,1235,71.6,52.9
+2017/18,West Dunbartonshire,0-17 years,0,0,2.2
+2017/18,West Dunbartonshire,18-64 years,120,59.4,32.2
+2017/18,West Dunbartonshire,65-74 years,225,67.4,51.3
+2017/18,West Dunbartonshire,75-84 years,485,74.6,57.1
+2017/18,West Dunbartonshire,85+ years,410,76.4,62.1
+2017/18,West Dunbartonshire,Unknown,0,0,0
+2017/18,West Lothian,All Ages,1280,60.6,52.9
+2017/18,West Lothian,0-17 years,0,0,2.2
+2017/18,West Lothian,18-64 years,305,47.3,32.2
+2017/18,West Lothian,65-74 years,250,65.8,51.3
+2017/18,West Lothian,75-84 years,440,69.2,57.1
+2017/18,West Lothian,85+ years,285,64,62.1
+2017/18,West Lothian,Unknown,0,0,0
+2018/19,Scotland (All Areas Submitted),All Ages,46245,50.5,50.5
+2018/19,Scotland (All Areas Submitted),0-17 years,10,4.2,4.2
+2018/19,Scotland (All Areas Submitted),18-64 years,4595,32.2,32.2
+2018/19,Scotland (All Areas Submitted),65-74 years,6675,47,47
+2018/19,Scotland (All Areas Submitted),75-84 years,15935,52.4,52.4
+2018/19,Scotland (All Areas Submitted),85+ years,19025,58.6,58.6
+2018/19,Scotland (All Areas Submitted),Unknown,0,0,0
+2018/19,Aberdeen City,All Ages,1045,36.7,50.5
+2018/19,Aberdeen City,0-17 years,0,0,4.2
+2018/19,Aberdeen City,18-64 years,110,24.6,32.2
+2018/19,Aberdeen City,65-74 years,145,35.7,47
+2018/19,Aberdeen City,75-84 years,280,33.7,52.4
+2018/19,Aberdeen City,85+ years,505,43.8,58.6
+2018/19,Aberdeen City,Unknown,0,0,0
+2018/19,Aberdeenshire,All Ages,1610,55.5,50.5
+2018/19,Aberdeenshire,0-17 years,0,0,4.2
+2018/19,Aberdeenshire,18-64 years,120,35.3,32.2
+2018/19,Aberdeenshire,65-74 years,195,49.1,47
+2018/19,Aberdeenshire,75-84 years,530,53.4,52.4
+2018/19,Aberdeenshire,85+ years,760,64.8,58.6
+2018/19,Aberdeenshire,Unknown,0,0,0
+2018/19,Angus,All Ages,1340,68.6,50.5
+2018/19,Angus,0-17 years,0,0,4.2
+2018/19,Angus,18-64 years,125,36.8,32.2
+2018/19,Angus,65-74 years,195,68.9,47
+2018/19,Angus,75-84 years,420,73.2,52.4
+2018/19,Angus,85+ years,600,80,58.6
+2018/19,Angus,Unknown,0,0,0
+2018/19,Argyll and Bute,All Ages,1130,53.8,50.5
+2018/19,Argyll and Bute,0-17 years,0,0,4.2
+2018/19,Argyll and Bute,18-64 years,135,35.8,32.2
+2018/19,Argyll and Bute,65-74 years,130,44.5,47
+2018/19,Argyll and Bute,75-84 years,360,55.6,52.4
+2018/19,Argyll and Bute,85+ years,510,65.1,58.6
+2018/19,Argyll and Bute,Unknown,0,0,0
+2018/19,City of Edinburgh,All Ages,3080,44.3,50.5
+2018/19,City of Edinburgh,0-17 years,0,0,4.2
+2018/19,City of Edinburgh,18-64 years,475,25.6,32.2
+2018/19,City of Edinburgh,65-74 years,405,43.7,47
+2018/19,City of Edinburgh,75-84 years,870,49,52.4
+2018/19,City of Edinburgh,85+ years,1330,55.4,58.6
+2018/19,City of Edinburgh,Unknown,0,0,0
+2018/19,Clackmannanshire,All Ages,780,69.9,50.5
+2018/19,Clackmannanshire,0-17 years,0,0,4.2
+2018/19,Clackmannanshire,18-64 years,100,41.7,32.2
+2018/19,Clackmannanshire,65-74 years,135,71.4,47
+2018/19,Clackmannanshire,75-84 years,270,75,52.4
+2018/19,Clackmannanshire,85+ years,275,84.6,58.6
+2018/19,Clackmannanshire,Unknown,0,0,0
+2018/19,Comhairle nan Eilean Siar,All Ages,395,74.8,50.5
+2018/19,Comhairle nan Eilean Siar,0-17 years,0,0,4.2
+2018/19,Comhairle nan Eilean Siar,18-64 years,25,49,32.2
+2018/19,Comhairle nan Eilean Siar,65-74 years,45,65.2,47
+2018/19,Comhairle nan Eilean Siar,75-84 years,120,75.9,52.4
+2018/19,Comhairle nan Eilean Siar,85+ years,205,82,58.6
+2018/19,Comhairle nan Eilean Siar,Unknown,0,0,0
+2018/19,Dumfries and Galloway,All Ages,1440,48.3,50.5
+2018/19,Dumfries and Galloway,0-17 years,0,0,4.2
+2018/19,Dumfries and Galloway,18-64 years,105,16.3,32.2
+2018/19,Dumfries and Galloway,65-74 years,180,42.3,47
+2018/19,Dumfries and Galloway,75-84 years,485,55.8,52.4
+2018/19,Dumfries and Galloway,85+ years,670,64.9,58.6
+2018/19,Dumfries and Galloway,Unknown,0,0,0
+2018/19,Dundee City,All Ages,1735,59.8,50.5
+2018/19,Dundee City,0-17 years,0,0,4.2
+2018/19,Dundee City,18-64 years,160,47.6,32.2
+2018/19,Dundee City,65-74 years,290,57.3,47
+2018/19,Dundee City,75-84 years,605,61.3,52.4
+2018/19,Dundee City,85+ years,680,63.6,58.6
+2018/19,Dundee City,Unknown,0,0,0
+2018/19,East Ayrshire,All Ages,1910,70.5,50.5
+2018/19,East Ayrshire,0-17 years,0,0,4.2
+2018/19,East Ayrshire,18-64 years,205,58.4,32.2
+2018/19,East Ayrshire,65-74 years,290,63.2,47
+2018/19,East Ayrshire,75-84 years,745,72.9,52.4
+2018/19,East Ayrshire,85+ years,670,76.3,58.6
+2018/19,East Ayrshire,Unknown,0,0,0
+2018/19,East Dunbartonshire,All Ages,810,35.6,50.5
+2018/19,East Dunbartonshire,0-17 years,0,0,4.2
+2018/19,East Dunbartonshire,18-64 years,45,29.8,32.2
+2018/19,East Dunbartonshire,65-74 years,85,31,47
+2018/19,East Dunbartonshire,75-84 years,285,33.2,52.4
+2018/19,East Dunbartonshire,85+ years,395,41.2,58.6
+2018/19,East Dunbartonshire,Unknown,0,0,0
+2018/19,East Lothian,All Ages,300,16.3,50.5
+2018/19,East Lothian,0-17 years,0,0,4.2
+2018/19,East Lothian,18-64 years,20,4.7,32.2
+2018/19,East Lothian,65-74 years,30,13,47
+2018/19,East Lothian,75-84 years,100,18.3,52.4
+2018/19,East Lothian,85+ years,155,25,58.6
+2018/19,East Lothian,Unknown,0,0,0
+2018/19,East Renfrewshire,All Ages,975,63.1,50.5
+2018/19,East Renfrewshire,0-17 years,0,0,4.2
+2018/19,East Renfrewshire,18-64 years,80,51.3,32.2
+2018/19,East Renfrewshire,65-74 years,125,66.1,47
+2018/19,East Renfrewshire,75-84 years,310,61.8,52.4
+2018/19,East Renfrewshire,85+ years,460,66.4,58.6
+2018/19,East Renfrewshire,Unknown,0,0,0
+2018/19,Falkirk,All Ages,1830,64.1,50.5
+2018/19,Falkirk,0-17 years,0,0,4.2
+2018/19,Falkirk,18-64 years,150,51.5,32.2
+2018/19,Falkirk,65-74 years,240,54.3,47
+2018/19,Falkirk,75-84 years,665,62.7,52.4
+2018/19,Falkirk,85+ years,775,74.2,58.6
+2018/19,Falkirk,Unknown,0,0,0
+2018/19,Fife,All Ages,3290,59.5,50.5
+2018/19,Fife,0-17 years,0,0,4.2
+2018/19,Fife,18-64 years,485,37.7,32.2
+2018/19,Fife,65-74 years,470,58.2,47
+2018/19,Fife,75-84 years,1025,65.3,52.4
+2018/19,Fife,85+ years,1310,71,58.6
+2018/19,Fife,Unknown,0,0,0
+2018/19,Glasgow City,All Ages,4495,48.3,50.5
+2018/19,Glasgow City,0-17 years,0,0,4.2
+2018/19,Glasgow City,18-64 years,175,27.9,32.2
+2018/19,Glasgow City,65-74 years,640,38.8,47
+2018/19,Glasgow City,75-84 years,1730,47.3,52.4
+2018/19,Glasgow City,85+ years,1945,58,58.6
+2018/19,Glasgow City,Unknown,0,0,0
+2018/19,Highland,All Ages,1295,45.1,50.5
+2018/19,Highland,0-17 years,0,0,4.2
+2018/19,Highland,18-64 years,75,26.5,32.2
+2018/19,Highland,65-74 years,125,31.2,47
+2018/19,Highland,75-84 years,420,44.3,52.4
+2018/19,Highland,85+ years,675,54.7,58.6
+2018/19,Highland,Unknown,0,0,0
+2018/19,Inverclyde,All Ages,1250,61.9,50.5
+2018/19,Inverclyde,0-17 years,0,0,4.2
+2018/19,Inverclyde,18-64 years,110,50.7,32.2
+2018/19,Inverclyde,65-74 years,205,55.9,47
+2018/19,Inverclyde,75-84 years,455,61,52.4
+2018/19,Inverclyde,85+ years,480,69.7,58.6
+2018/19,Inverclyde,Unknown,0,0,0
+2018/19,Midlothian,All Ages,825,59.4,50.5
+2018/19,Midlothian,0-17 years,0,0,4.2
+2018/19,Midlothian,18-64 years,125,39.7,32.2
+2018/19,Midlothian,65-74 years,120,51.3,47
+2018/19,Midlothian,75-84 years,285,68.2,52.4
+2018/19,Midlothian,85+ years,295,70.6,58.6
+2018/19,Midlothian,Unknown,0,0,0
+2018/19,Moray,All Ages,685,40.7,50.5
+2018/19,Moray,0-17 years,0,0,4.2
+2018/19,Moray,18-64 years,65,19.6,32.2
+2018/19,Moray,65-74 years,80,36.7,47
+2018/19,Moray,75-84 years,210,42.2,52.4
+2018/19,Moray,85+ years,330,52.7,58.6
+2018/19,Moray,Unknown,0,0,0
+2018/19,North Ayrshire,All Ages,2285,65.2,50.5
+2018/19,North Ayrshire,0-17 years,0,0,4.2
+2018/19,North Ayrshire,18-64 years,265,39.4,32.2
+2018/19,North Ayrshire,65-74 years,390,63.2,47
+2018/19,North Ayrshire,75-84 years,785,67.4,52.4
+2018/19,North Ayrshire,85+ years,845,80.9,58.6
+2018/19,North Ayrshire,Unknown,0,0,0
+2018/19,North Lanarkshire,All Ages,4070,71.7,50.5
+2018/19,North Lanarkshire,0-17 years,0,0,4.2
+2018/19,North Lanarkshire,18-64 years,325,58.1,32.2
+2018/19,North Lanarkshire,65-74 years,695,66.9,47
+2018/19,North Lanarkshire,75-84 years,1605,73,52.4
+2018/19,North Lanarkshire,85+ years,1440,78,58.6
+2018/19,North Lanarkshire,Unknown,0,0,0
+2018/19,Perth and Kinross,All Ages,1505,54.9,50.5
+2018/19,Perth and Kinross,0-17 years,0,0,4.2
+2018/19,Perth and Kinross,18-64 years,130,37.5,32.2
+2018/19,Perth and Kinross,65-74 years,180,48.5,47
+2018/19,Perth and Kinross,75-84 years,510,57.6,52.4
+2018/19,Perth and Kinross,85+ years,685,60.5,58.6
+2018/19,Perth and Kinross,Unknown,0,0,0
+2018/19,Renfrewshire,All Ages,2245,64,50.5
+2018/19,Renfrewshire,0-17 years,0,0,4.2
+2018/19,Renfrewshire,18-64 years,215,32.6,32.2
+2018/19,Renfrewshire,65-74 years,365,60.3,47
+2018/19,Renfrewshire,75-84 years,805,68.7,52.4
+2018/19,Renfrewshire,85+ years,860,80.5,58.6
+2018/19,Renfrewshire,Unknown,0,0,0
+2018/19,Shetland,All Ages,240,54.2,50.5
+2018/19,Shetland,0-17 years,0,0,4.2
+2018/19,Shetland,18-64 years,20,21.5,32.2
+2018/19,Shetland,65-74 years,30,48.4,47
+2018/19,Shetland,75-84 years,75,56.8,52.4
+2018/19,Shetland,85+ years,115,73.7,58.6
+2018/19,Shetland,Unknown,0,0,0
+2018/19,South Ayrshire,All Ages,1565,56.4,50.5
+2018/19,South Ayrshire,0-17 years,0,0,4.2
+2018/19,South Ayrshire,18-64 years,170,32.5,32.2
+2018/19,South Ayrshire,65-74 years,215,49.7,47
+2018/19,South Ayrshire,75-84 years,540,60.9,52.4
+2018/19,South Ayrshire,85+ years,640,68.8,58.6
+2018/19,South Ayrshire,Unknown,0,0,0
+2018/19,Stirling,All Ages,1180,64.1,50.5
+2018/19,Stirling,0-17 years,0,0,4.2
+2018/19,Stirling,18-64 years,130,29,32.2
+2018/19,Stirling,65-74 years,140,59.6,47
+2018/19,Stirling,75-84 years,395,71.9,52.4
+2018/19,Stirling,85+ years,520,86.1,58.6
+2018/19,Stirling,Unknown,0,0,0
+2018/19,West Dunbartonshire,All Ages,1500,67.4,50.5
+2018/19,West Dunbartonshire,0-17 years,0,0,4.2
+2018/19,West Dunbartonshire,18-64 years,145,59.7,32.2
+2018/19,West Dunbartonshire,65-74 years,280,60.2,47
+2018/19,West Dunbartonshire,75-84 years,545,69.2,52.4
+2018/19,West Dunbartonshire,85+ years,530,72.5,58.6
+2018/19,West Dunbartonshire,Unknown,0,0,0
+2018/19,West Lothian,All Ages,1430,52.2,50.5
+2018/19,West Lothian,0-17 years,0,0,4.2
+2018/19,West Lothian,18-64 years,315,43.4,32.2
+2018/19,West Lothian,65-74 years,260,55.9,47
+2018/19,West Lothian,75-84 years,485,56,52.4
+2018/19,West Lothian,85+ years,370,54.3,58.6
+2018/19,West Lothian,Unknown,0,0,0
+2019/20,Scotland (All Areas Submitted),All Ages,43980,49.4,49.4
+2019/20,Scotland (All Areas Submitted),0-17 years,10,4.5,4.5
+2019/20,Scotland (All Areas Submitted),18-64 years,4550,30.7,30.7
+2019/20,Scotland (All Areas Submitted),65-74 years,6190,45.1,45.1
+2019/20,Scotland (All Areas Submitted),75-84 years,14990,51.8,51.8
+2019/20,Scotland (All Areas Submitted),85+ years,18240,58.1,58.1
+2019/20,Scotland (All Areas Submitted),Unknown,0,0,0
+2019/20,Aberdeenshire,All Ages,2015,57.6,49.4
+2019/20,Aberdeenshire,0-17 years,0,0,4.5
+2019/20,Aberdeenshire,18-64 years,150,35.6,30.7
+2019/20,Aberdeenshire,65-74 years,210,43.7,45.1
+2019/20,Aberdeenshire,75-84 years,680,57,51.8
+2019/20,Aberdeenshire,85+ years,975,69.5,58.1
+2019/20,Aberdeenshire,Unknown,0,0,0
+2019/20,Angus,All Ages,1435,65.7,49.4
+2019/20,Angus,0-17 years,0,0,4.5
+2019/20,Angus,18-64 years,140,38.4,30.7
+2019/20,Angus,65-74 years,210,66.7,45.1
+2019/20,Angus,75-84 years,480,70.3,51.8
+2019/20,Angus,85+ years,605,74.4,58.1
+2019/20,Angus,Unknown,0,0,0
+2019/20,Argyll and Bute,All Ages,1260,59.8,49.4
+2019/20,Argyll and Bute,0-17 years,0,0,4.5
+2019/20,Argyll and Bute,18-64 years,150,37.8,30.7
+2019/20,Argyll and Bute,65-74 years,150,53.2,45.1
+2019/20,Argyll and Bute,75-84 years,405,63.2,51.8
+2019/20,Argyll and Bute,85+ years,555,70.7,58.1
+2019/20,Argyll and Bute,Unknown,0,0,0
+2019/20,City of Edinburgh,All Ages,3100,47.7,49.4
+2019/20,City of Edinburgh,0-17 years,0,0,4.5
+2019/20,City of Edinburgh,18-64 years,510,26.3,30.7
+2019/20,City of Edinburgh,65-74 years,425,47.4,45.1
+2019/20,City of Edinburgh,75-84 years,850,55.1,51.8
+2019/20,City of Edinburgh,85+ years,1310,61.7,58.1
+2019/20,City of Edinburgh,Unknown,0,0,0
+2019/20,Clackmannanshire,All Ages,800,69.6,49.4
+2019/20,Clackmannanshire,0-17 years,0,0,4.5
+2019/20,Clackmannanshire,18-64 years,95,38,30.7
+2019/20,Clackmannanshire,65-74 years,120,67.4,45.1
+2019/20,Clackmannanshire,75-84 years,305,79.4,51.8
+2019/20,Clackmannanshire,85+ years,280,83.6,58.1
+2019/20,Clackmannanshire,Unknown,0,0,0
+2019/20,Comhairle nan Eilean Siar,All Ages,395,72.7,49.4
+2019/20,Comhairle nan Eilean Siar,0-17 years,0,0,4.5
+2019/20,Comhairle nan Eilean Siar,18-64 years,20,46.5,30.7
+2019/20,Comhairle nan Eilean Siar,65-74 years,50,59.5,45.1
+2019/20,Comhairle nan Eilean Siar,75-84 years,115,71,51.8
+2019/20,Comhairle nan Eilean Siar,85+ years,210,82.7,58.1
+2019/20,Comhairle nan Eilean Siar,Unknown,0,0,0
+2019/20,Dumfries and Galloway,All Ages,1480,48.2,49.4
+2019/20,Dumfries and Galloway,0-17 years,0,0,4.5
+2019/20,Dumfries and Galloway,18-64 years,140,19.1,30.7
+2019/20,Dumfries and Galloway,65-74 years,180,43.5,45.1
+2019/20,Dumfries and Galloway,75-84 years,505,57.9,51.8
+2019/20,Dumfries and Galloway,85+ years,655,64.7,58.1
+2019/20,Dumfries and Galloway,Unknown,0,0,0
+2019/20,Dundee City,All Ages,1765,68.4,49.4
+2019/20,Dundee City,0-17 years,0,0,4.5
+2019/20,Dundee City,18-64 years,190,50.4,30.7
+2019/20,Dundee City,65-74 years,290,67.3,45.1
+2019/20,Dundee City,75-84 years,590,72,51.8
+2019/20,Dundee City,85+ years,695,72.9,58.1
+2019/20,Dundee City,Unknown,0,0,0
+2019/20,East Ayrshire,All Ages,1920,68,49.4
+2019/20,East Ayrshire,0-17 years,0,0,4.5
+2019/20,East Ayrshire,18-64 years,215,53.8,30.7
+2019/20,East Ayrshire,65-74 years,255,54.8,45.1
+2019/20,East Ayrshire,75-84 years,735,69.2,51.8
+2019/20,East Ayrshire,85+ years,710,79.1,58.1
+2019/20,East Ayrshire,Unknown,0,0,0
+2019/20,East Dunbartonshire,All Ages,695,31.2,49.4
+2019/20,East Dunbartonshire,0-17 years,0,0,4.5
+2019/20,East Dunbartonshire,18-64 years,45,25.3,30.7
+2019/20,East Dunbartonshire,65-74 years,65,25.1,45.1
+2019/20,East Dunbartonshire,75-84 years,225,28.7,51.8
+2019/20,East Dunbartonshire,85+ years,355,36.2,58.1
+2019/20,East Dunbartonshire,Unknown,0,0,0
+2019/20,East Lothian,All Ages,400,20.8,49.4
+2019/20,East Lothian,0-17 years,0,0,4.5
+2019/20,East Lothian,18-64 years,30,6.5,30.7
+2019/20,East Lothian,65-74 years,45,18.6,45.1
+2019/20,East Lothian,75-84 years,135,24.7,51.8
+2019/20,East Lothian,85+ years,190,28.6,58.1
+2019/20,East Lothian,Unknown,0,0,0
+2019/20,East Renfrewshire,All Ages,1055,63.3,49.4
+2019/20,East Renfrewshire,0-17 years,0,0,4.5
+2019/20,East Renfrewshire,18-64 years,85,49.7,30.7
+2019/20,East Renfrewshire,65-74 years,120,56.9,45.1
+2019/20,East Renfrewshire,75-84 years,325,66.6,51.8
+2019/20,East Renfrewshire,85+ years,520,65.5,58.1
+2019/20,East Renfrewshire,Unknown,0,0,0
+2019/20,Falkirk,All Ages,2000,67.3,49.4
+2019/20,Falkirk,0-17 years,0,0,4.5
+2019/20,Falkirk,18-64 years,160,51.1,30.7
+2019/20,Falkirk,65-74 years,275,60.2,45.1
+2019/20,Falkirk,75-84 years,715,65.9,51.8
+2019/20,Falkirk,85+ years,850,77.4,58.1
+2019/20,Falkirk,Unknown,0,0,0
+2019/20,Fife,All Ages,2640,56.1,49.4
+2019/20,Fife,0-17 years,0,0,4.5
+2019/20,Fife,18-64 years,435,36.4,30.7
+2019/20,Fife,65-74 years,390,56.2,45.1
+2019/20,Fife,75-84 years,795,59.9,51.8
+2019/20,Fife,85+ years,1015,68.8,58.1
+2019/20,Fife,Unknown,0,0,0
+2019/20,Glasgow City,All Ages,4505,45.8,49.4
+2019/20,Glasgow City,0-17 years,0,0,4.5
+2019/20,Glasgow City,18-64 years,235,24.5,30.7
+2019/20,Glasgow City,65-74 years,635,35.9,45.1
+2019/20,Glasgow City,75-84 years,1705,46.5,51.8
+2019/20,Glasgow City,85+ years,1930,56.2,58.1
+2019/20,Glasgow City,Unknown,0,0,0
+2019/20,Highland,All Ages,1305,45.5,49.4
+2019/20,Highland,0-17 years,0,0,4.5
+2019/20,Highland,18-64 years,70,27.6,30.7
+2019/20,Highland,65-74 years,130,31.9,45.1
+2019/20,Highland,75-84 years,395,42.1,51.8
+2019/20,Highland,85+ years,705,55.7,58.1
+2019/20,Highland,Unknown,0,0,0
+2019/20,Inverclyde,All Ages,1245,61.3,49.4
+2019/20,Inverclyde,0-17 years,0,0,4.5
+2019/20,Inverclyde,18-64 years,100,44.2,30.7
+2019/20,Inverclyde,65-74 years,195,54.5,45.1
+2019/20,Inverclyde,75-84 years,445,59.3,51.8
+2019/20,Inverclyde,85+ years,505,72.7,58.1
+2019/20,Inverclyde,Unknown,0,0,0
+2019/20,Midlothian,All Ages,700,53.5,49.4
+2019/20,Midlothian,0-17 years,0,0,4.5
+2019/20,Midlothian,18-64 years,95,27.8,30.7
+2019/20,Midlothian,65-74 years,95,45,45.1
+2019/20,Midlothian,75-84 years,240,62.7,51.8
+2019/20,Midlothian,85+ years,265,71.8,58.1
+2019/20,Midlothian,Unknown,0,0,0
+2019/20,Moray,All Ages,630,42.9,49.4
+2019/20,Moray,0-17 years,0,0,4.5
+2019/20,Moray,18-64 years,40,16.6,30.7
+2019/20,Moray,65-74 years,85,40.1,45.1
+2019/20,Moray,75-84 years,195,44.4,51.8
+2019/20,Moray,85+ years,310,53.9,58.1
+2019/20,Moray,Unknown,0,0,0
+2019/20,North Ayrshire,All Ages,2455,67.5,49.4
+2019/20,North Ayrshire,0-17 years,0,0,4.5
+2019/20,North Ayrshire,18-64 years,290,40.4,30.7
+2019/20,North Ayrshire,65-74 years,390,64.1,45.1
+2019/20,North Ayrshire,75-84 years,870,72.9,51.8
+2019/20,North Ayrshire,85+ years,910,81.7,58.1
+2019/20,North Ayrshire,Unknown,0,0,0
+2019/20,North Lanarkshire,All Ages,4060,67.6,49.4
+2019/20,North Lanarkshire,0-17 years,0,0,4.5
+2019/20,North Lanarkshire,18-64 years,365,55.1,30.7
+2019/20,North Lanarkshire,65-74 years,665,60.8,45.1
+2019/20,North Lanarkshire,75-84 years,1560,69.4,51.8
+2019/20,North Lanarkshire,85+ years,1465,74.1,58.1
+2019/20,North Lanarkshire,Unknown,0,0,0
+2019/20,Orkney Islands,All Ages,215,77.9,49.4
+2019/20,Orkney Islands,0-17 years,0,0,4.5
+2019/20,Orkney Islands,18-64 years,15,62.5,30.7
+2019/20,Orkney Islands,65-74 years,25,78.1,45.1
+2019/20,Orkney Islands,75-84 years,65,71.4,51.8
+2019/20,Orkney Islands,85+ years,105,81.4,58.1
+2019/20,Orkney Islands,Unknown,0,0,0
+2019/20,Perth and Kinross,All Ages,1570,54.6,49.4
+2019/20,Perth and Kinross,0-17 years,0,0,4.5
+2019/20,Perth and Kinross,18-64 years,145,36.8,30.7
+2019/20,Perth and Kinross,65-74 years,180,47.5,45.1
+2019/20,Perth and Kinross,75-84 years,495,58.2,51.8
+2019/20,Perth and Kinross,85+ years,755,60.4,58.1
+2019/20,Perth and Kinross,Unknown,0,0,0
+2019/20,Renfrewshire,All Ages,1985,57.7,49.4
+2019/20,Renfrewshire,0-17 years,0,0,4.5
+2019/20,Renfrewshire,18-64 years,220,33.2,30.7
+2019/20,Renfrewshire,65-74 years,315,56.9,45.1
+2019/20,Renfrewshire,75-84 years,685,60.1,51.8
+2019/20,Renfrewshire,85+ years,765,70.8,58.1
+2019/20,Renfrewshire,Unknown,0,0,0
+2019/20,Scottish Borders,All Ages,205,10,49.4
+2019/20,Scottish Borders,0-17 years,0,0,4.5
+2019/20,Scottish Borders,18-64 years,15,7.5,30.7
+2019/20,Scottish Borders,65-74 years,30,10.9,45.1
+2019/20,Scottish Borders,75-84 years,70,10.5,51.8
+2019/20,Scottish Borders,85+ years,90,10,58.1
+2019/20,Scottish Borders,Unknown,0,0,0
+2019/20,Shetland,All Ages,270,52.2,49.4
+2019/20,Shetland,0-17 years,0,0,4.5
+2019/20,Shetland,18-64 years,20,17.7,30.7
+2019/20,Shetland,65-74 years,35,43.8,45.1
+2019/20,Shetland,75-84 years,85,54.1,51.8
+2019/20,Shetland,85+ years,125,74.9,58.1
+2019/20,Shetland,Unknown,0,0,0
+2019/20,Stirling,All Ages,1035,59.1,49.4
+2019/20,Stirling,0-17 years,0,0,4.5
+2019/20,Stirling,18-64 years,115,26.1,30.7
+2019/20,Stirling,65-74 years,115,57.2,45.1
+2019/20,Stirling,75-84 years,345,66.1,51.8
+2019/20,Stirling,85+ years,465,79.4,58.1
+2019/20,Stirling,Unknown,0,0,0
+2019/20,West Dunbartonshire,All Ages,1555,66.5,49.4
+2019/20,West Dunbartonshire,0-17 years,0,0,4.5
+2019/20,West Dunbartonshire,18-64 years,155,51,30.7
+2019/20,West Dunbartonshire,65-74 years,295,61.2,45.1
+2019/20,West Dunbartonshire,75-84 years,555,67.4,51.8
+2019/20,West Dunbartonshire,85+ years,550,75.3,58.1
+2019/20,West Dunbartonshire,Unknown,0,0,0
+2019/20,West Lothian,All Ages,1295,49.8,49.4
+2019/20,West Lothian,0-17 years,0,0,4.5
+2019/20,West Lothian,18-64 years,290,39.6,30.7
+2019/20,West Lothian,65-74 years,215,49.1,45.1
+2019/20,West Lothian,75-84 years,425,56,51.8
+2019/20,West Lothian,85+ years,370,55.8,58.1
+2019/20,West Lothian,Unknown,0,0,0
+2020/21,Scotland (All Areas Submitted),All Ages,45270,48.5,48.5
+2020/21,Scotland (All Areas Submitted),0-17 years,5,2.4,2.4
+2020/21,Scotland (All Areas Submitted),18-64 years,4840,30.1,30.1
+2020/21,Scotland (All Areas Submitted),65-74 years,6485,44.7,44.7
+2020/21,Scotland (All Areas Submitted),75-84 years,15270,51.5,51.5
+2020/21,Scotland (All Areas Submitted),85+ years,18670,56.9,56.9
+2020/21,Scotland (All Areas Submitted),Unknown,0,0,0
+2020/21,Aberdeenshire,All Ages,2030,56,48.5
+2020/21,Aberdeenshire,0-17 years,0,0,2.4
+2020/21,Aberdeenshire,18-64 years,145,32.4,30.1
+2020/21,Aberdeenshire,65-74 years,240,43.6,44.7
+2020/21,Aberdeenshire,75-84 years,675,54.8,51.5
+2020/21,Aberdeenshire,85+ years,970,69.5,56.9
+2020/21,Aberdeenshire,Unknown,0,0,0
+2020/21,Angus,All Ages,1660,74.6,48.5
+2020/21,Angus,0-17 years,0,0,2.4
+2020/21,Angus,18-64 years,165,42.2,30.1
+2020/21,Angus,65-74 years,255,77,44.7
+2020/21,Angus,75-84 years,525,77.8,51.5
+2020/21,Angus,85+ years,710,86.1,56.9
+2020/21,Angus,Unknown,0,0,0
+2020/21,Argyll and Bute,All Ages,1400,64,48.5
+2020/21,Argyll and Bute,0-17 years,0,0,2.4
+2020/21,Argyll and Bute,18-64 years,145,36.1,30.1
+2020/21,Argyll and Bute,65-74 years,190,61.1,44.7
+2020/21,Argyll and Bute,75-84 years,445,69,51.5
+2020/21,Argyll and Bute,85+ years,620,74.8,56.9
+2020/21,Argyll and Bute,Unknown,0,0,0
+2020/21,City of Edinburgh,All Ages,3455,47,48.5
+2020/21,City of Edinburgh,0-17 years,0,0,2.4
+2020/21,City of Edinburgh,18-64 years,530,25.2,30.1
+2020/21,City of Edinburgh,65-74 years,470,45.5,44.7
+2020/21,City of Edinburgh,75-84 years,955,53.1,51.5
+2020/21,City of Edinburgh,85+ years,1505,62.2,56.9
+2020/21,City of Edinburgh,Unknown,0,0,0
+2020/21,Clackmannanshire,All Ages,850,69.4,48.5
+2020/21,Clackmannanshire,0-17 years,0,0,2.4
+2020/21,Clackmannanshire,18-64 years,95,32.2,30.1
+2020/21,Clackmannanshire,65-74 years,135,68.9,44.7
+2020/21,Clackmannanshire,75-84 years,310,83.1,51.5
+2020/21,Clackmannanshire,85+ years,310,86.6,56.9
+2020/21,Clackmannanshire,Unknown,0,0,0
+2020/21,Comhairle nan Eilean Siar,All Ages,280,57.7,48.5
+2020/21,Comhairle nan Eilean Siar,0-17 years,0,0,2.4
+2020/21,Comhairle nan Eilean Siar,18-64 years,20,48.8,30.1
+2020/21,Comhairle nan Eilean Siar,65-74 years,45,60.8,44.7
+2020/21,Comhairle nan Eilean Siar,75-84 years,80,55.2,51.5
+2020/21,Comhairle nan Eilean Siar,85+ years,135,60,56.9
+2020/21,Comhairle nan Eilean Siar,Unknown,0,0,0
+2020/21,Dumfries and Galloway,All Ages,1625,49.7,48.5
+2020/21,Dumfries and Galloway,0-17 years,5,12.5,2.4
+2020/21,Dumfries and Galloway,18-64 years,190,24,30.1
+2020/21,Dumfries and Galloway,65-74 years,195,42.6,44.7
+2020/21,Dumfries and Galloway,75-84 years,515,56.7,51.5
+2020/21,Dumfries and Galloway,85+ years,720,67.1,56.9
+2020/21,Dumfries and Galloway,Unknown,0,0,0
+2020/21,Dundee City,All Ages,1650,64.2,48.5
+2020/21,Dundee City,0-17 years,0,0,2.4
+2020/21,Dundee City,18-64 years,190,49.4,30.1
+2020/21,Dundee City,65-74 years,270,65.4,44.7
+2020/21,Dundee City,75-84 years,545,67.2,51.5
+2020/21,Dundee City,85+ years,650,67.7,56.9
+2020/21,Dundee City,Unknown,0,0,0
+2020/21,East Ayrshire,All Ages,1805,65.4,48.5
+2020/21,East Ayrshire,0-17 years,0,0,2.4
+2020/21,East Ayrshire,18-64 years,255,52.9,30.1
+2020/21,East Ayrshire,65-74 years,240,55.2,44.7
+2020/21,East Ayrshire,75-84 years,665,67.8,51.5
+2020/21,East Ayrshire,85+ years,650,75.7,56.9
+2020/21,East Ayrshire,Unknown,0,0,0
+2020/21,East Dunbartonshire,All Ages,595,27.6,48.5
+2020/21,East Dunbartonshire,0-17 years,0,0,2.4
+2020/21,East Dunbartonshire,18-64 years,40,22.7,30.1
+2020/21,East Dunbartonshire,65-74 years,65,24.3,44.7
+2020/21,East Dunbartonshire,75-84 years,195,26,51.5
+2020/21,East Dunbartonshire,85+ years,300,31.9,56.9
+2020/21,East Dunbartonshire,Unknown,0,0,0
+2020/21,East Renfrewshire,All Ages,1130,61,48.5
+2020/21,East Renfrewshire,0-17 years,0,0,2.4
+2020/21,East Renfrewshire,18-64 years,85,44,30.1
+2020/21,East Renfrewshire,65-74 years,135,56.7,44.7
+2020/21,East Renfrewshire,75-84 years,325,55.4,51.5
+2020/21,East Renfrewshire,85+ years,580,69.5,56.9
+2020/21,East Renfrewshire,Unknown,0,0,0
+2020/21,Falkirk,All Ages,2145,74.2,48.5
+2020/21,Falkirk,0-17 years,0,0,2.4
+2020/21,Falkirk,18-64 years,175,55.2,30.1
+2020/21,Falkirk,65-74 years,290,63.2,44.7
+2020/21,Falkirk,75-84 years,720,73.5,51.5
+2020/21,Falkirk,85+ years,955,85.4,56.9
+2020/21,Falkirk,Unknown,0,0,0
+2020/21,Fife,All Ages,3150,63.2,48.5
+2020/21,Fife,0-17 years,0,0,2.4
+2020/21,Fife,18-64 years,485,39.5,30.1
+2020/21,Fife,65-74 years,440,59.3,44.7
+2020/21,Fife,75-84 years,995,69.3,51.5
+2020/21,Fife,85+ years,1230,78.8,56.9
+2020/21,Fife,Unknown,0,0,0
+2020/21,Glasgow City,All Ages,4455,47,48.5
+2020/21,Glasgow City,0-17 years,0,0,2.4
+2020/21,Glasgow City,18-64 years,290,25,30.1
+2020/21,Glasgow City,65-74 years,650,38.7,44.7
+2020/21,Glasgow City,75-84 years,1625,48.6,51.5
+2020/21,Glasgow City,85+ years,1885,57.5,56.9
+2020/21,Glasgow City,Unknown,0,0,0
+2020/21,Highland,All Ages,1135,37.3,48.5
+2020/21,Highland,0-17 years,0,0,2.4
+2020/21,Highland,18-64 years,80,28,30.1
+2020/21,Highland,65-74 years,105,22.7,44.7
+2020/21,Highland,75-84 years,355,35.2,51.5
+2020/21,Highland,85+ years,595,46.3,56.9
+2020/21,Highland,Unknown,0,0,0
+2020/21,Inverclyde,All Ages,1260,67.2,48.5
+2020/21,Inverclyde,0-17 years,0,0,2.4
+2020/21,Inverclyde,18-64 years,100,51.5,30.1
+2020/21,Inverclyde,65-74 years,195,56.4,44.7
+2020/21,Inverclyde,75-84 years,470,68.6,51.5
+2020/21,Inverclyde,85+ years,500,76.9,56.9
+2020/21,Inverclyde,Unknown,0,0,0
+2020/21,Midlothian,All Ages,750,54.9,48.5
+2020/21,Midlothian,0-17 years,0,0,2.4
+2020/21,Midlothian,18-64 years,95,28,30.1
+2020/21,Midlothian,65-74 years,105,45.3,44.7
+2020/21,Midlothian,75-84 years,255,63.4,51.5
+2020/21,Midlothian,85+ years,295,75.1,56.9
+2020/21,Midlothian,Unknown,0,0,0
+2020/21,Moray,All Ages,640,45.2,48.5
+2020/21,Moray,0-17 years,0,0,2.4
+2020/21,Moray,18-64 years,65,23.9,30.1
+2020/21,Moray,65-74 years,85,45.2,44.7
+2020/21,Moray,75-84 years,195,49.2,51.5
+2020/21,Moray,85+ years,295,52.7,56.9
+2020/21,Moray,Unknown,0,0,0
+2020/21,North Ayrshire,All Ages,3325,74.8,48.5
+2020/21,North Ayrshire,0-17 years,0,0,2.4
+2020/21,North Ayrshire,18-64 years,400,48.9,30.1
+2020/21,North Ayrshire,65-74 years,550,70.7,44.7
+2020/21,North Ayrshire,75-84 years,1225,80.8,51.5
+2020/21,North Ayrshire,85+ years,1150,88.1,56.9
+2020/21,North Ayrshire,Unknown,0,0,0
+2020/21,North Lanarkshire,All Ages,3640,65.7,48.5
+2020/21,North Lanarkshire,0-17 years,0,0,2.4
+2020/21,North Lanarkshire,18-64 years,335,55.3,30.1
+2020/21,North Lanarkshire,65-74 years,595,59.1,44.7
+2020/21,North Lanarkshire,75-84 years,1385,65,51.5
+2020/21,North Lanarkshire,85+ years,1320,73.5,56.9
+2020/21,North Lanarkshire,Unknown,0,0,0
+2020/21,Perth and Kinross,All Ages,1570,54.5,48.5
+2020/21,Perth and Kinross,0-17 years,0,0,2.4
+2020/21,Perth and Kinross,18-64 years,150,38,30.1
+2020/21,Perth and Kinross,65-74 years,215,53.6,44.7
+2020/21,Perth and Kinross,75-84 years,470,55,51.5
+2020/21,Perth and Kinross,85+ years,740,60.1,56.9
+2020/21,Perth and Kinross,Unknown,0,0,0
+2020/21,Renfrewshire,All Ages,2080,60.6,48.5
+2020/21,Renfrewshire,0-17 years,0,0,2.4
+2020/21,Renfrewshire,18-64 years,215,30.1,30.1
+2020/21,Renfrewshire,65-74 years,290,55.3,44.7
+2020/21,Renfrewshire,75-84 years,760,68.4,51.5
+2020/21,Renfrewshire,85+ years,820,76.3,56.9
+2020/21,Renfrewshire,Unknown,0,0,0
+2020/21,Scottish Borders,All Ages,385,18.9,48.5
+2020/21,Scottish Borders,0-17 years,0,0,2.4
+2020/21,Scottish Borders,18-64 years,25,12.2,30.1
+2020/21,Scottish Borders,65-74 years,55,19.9,44.7
+2020/21,Scottish Borders,75-84 years,125,19.4,51.5
+2020/21,Scottish Borders,85+ years,175,19.3,56.9
+2020/21,Scottish Borders,Unknown,0,0,0
+2020/21,Shetland,All Ages,285,57.3,48.5
+2020/21,Shetland,0-17 years,0,0,2.4
+2020/21,Shetland,18-64 years,20,19,30.1
+2020/21,Shetland,65-74 years,30,39.5,44.7
+2020/21,Shetland,75-84 years,105,67.3,51.5
+2020/21,Shetland,85+ years,125,78.1,56.9
+2020/21,Shetland,Unknown,0,0,0
+2020/21,Stirling,All Ages,1105,62.9,48.5
+2020/21,Stirling,0-17 years,0,0,2.4
+2020/21,Stirling,18-64 years,125,28.5,30.1
+2020/21,Stirling,65-74 years,125,57.9,44.7
+2020/21,Stirling,75-84 years,375,71.8,51.5
+2020/21,Stirling,85+ years,480,83.2,56.9
+2020/21,Stirling,Unknown,0,0,0
+2020/21,West Dunbartonshire,All Ages,1445,65.2,48.5
+2020/21,West Dunbartonshire,0-17 years,0,0,2.4
+2020/21,West Dunbartonshire,18-64 years,135,48,30.1
+2020/21,West Dunbartonshire,65-74 years,270,60.5,44.7
+2020/21,West Dunbartonshire,75-84 years,515,68.6,51.5
+2020/21,West Dunbartonshire,85+ years,530,71.8,56.9
+2020/21,West Dunbartonshire,Unknown,0,0,0
+2020/21,West Lothian,All Ages,1405,53.1,48.5
+2020/21,West Lothian,0-17 years,0,0,2.4
+2020/21,West Lothian,18-64 years,280,38.4,30.1
+2020/21,West Lothian,65-74 years,245,53.5,44.7
+2020/21,West Lothian,75-84 years,455,59.7,51.5
+2020/21,West Lothian,85+ years,425,61.4,56.9
+2020/21,West Lothian,Unknown,0,0,0

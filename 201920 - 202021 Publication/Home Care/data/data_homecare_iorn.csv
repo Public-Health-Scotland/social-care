@@ -1,0 +1,1005 @@
+financial_year,sending_location,iorn_group,hours_order,level_of_service,nclient,propn_iorn
+2017/18,Clackmannanshire,A (Most Independent),1,0 - <2 hours,10,16.7
+2017/18,Clackmannanshire,B,1,0 - <2 hours,25,13.5
+2017/18,Clackmannanshire,C,1,0 - <2 hours,0,0
+2017/18,Clackmannanshire,D,1,0 - <2 hours,0,0
+2017/18,Clackmannanshire,E,1,0 - <2 hours,0,0
+2017/18,Clackmannanshire,F,1,0 - <2 hours,0,0
+2017/18,Clackmannanshire,G,1,0 - <2 hours,0,NA
+2017/18,Clackmannanshire,H,1,0 - <2 hours,0,0
+2017/18,Clackmannanshire,I (Least Independent),1,0 - <2 hours,0,0
+2017/18,Clackmannanshire,A (Most Independent),2,2 - <4 hours,15,25
+2017/18,Clackmannanshire,B,2,2 - <4 hours,35,18.9
+2017/18,Clackmannanshire,C,2,2 - <4 hours,5,14.3
+2017/18,Clackmannanshire,D,2,2 - <4 hours,10,18.2
+2017/18,Clackmannanshire,E,2,2 - <4 hours,0,0
+2017/18,Clackmannanshire,F,2,2 - <4 hours,5,11.1
+2017/18,Clackmannanshire,G,2,2 - <4 hours,0,NA
+2017/18,Clackmannanshire,H,2,2 - <4 hours,0,0
+2017/18,Clackmannanshire,I (Least Independent),2,2 - <4 hours,0,0
+2017/18,Clackmannanshire,A (Most Independent),3,4 - <10 hours,25,41.7
+2017/18,Clackmannanshire,B,3,4 - <10 hours,90,48.6
+2017/18,Clackmannanshire,C,3,4 - <10 hours,15,42.9
+2017/18,Clackmannanshire,D,3,4 - <10 hours,20,36.4
+2017/18,Clackmannanshire,E,3,4 - <10 hours,5,50
+2017/18,Clackmannanshire,F,3,4 - <10 hours,5,11.1
+2017/18,Clackmannanshire,G,3,4 - <10 hours,0,NA
+2017/18,Clackmannanshire,H,3,4 - <10 hours,0,0
+2017/18,Clackmannanshire,I (Least Independent),3,4 - <10 hours,5,33.3
+2017/18,Clackmannanshire,A (Most Independent),4,10+ hours,10,16.7
+2017/18,Clackmannanshire,B,4,10+ hours,35,18.9
+2017/18,Clackmannanshire,C,4,10+ hours,15,42.9
+2017/18,Clackmannanshire,D,4,10+ hours,25,45.5
+2017/18,Clackmannanshire,E,4,10+ hours,5,50
+2017/18,Clackmannanshire,F,4,10+ hours,35,77.8
+2017/18,Clackmannanshire,G,4,10+ hours,0,NA
+2017/18,Clackmannanshire,H,4,10+ hours,5,100
+2017/18,Clackmannanshire,I (Least Independent),4,10+ hours,10,66.7
+2017/18,East Dunbartonshire,A (Most Independent),1,0 - <2 hours,0,0
+2017/18,East Dunbartonshire,B,1,0 - <2 hours,0,0
+2017/18,East Dunbartonshire,C,1,0 - <2 hours,0,NA
+2017/18,East Dunbartonshire,D,1,0 - <2 hours,0,NA
+2017/18,East Dunbartonshire,E,1,0 - <2 hours,0,0
+2017/18,East Dunbartonshire,F,1,0 - <2 hours,0,0
+2017/18,East Dunbartonshire,G,1,0 - <2 hours,0,NA
+2017/18,East Dunbartonshire,H,1,0 - <2 hours,0,0
+2017/18,East Dunbartonshire,I (Least Independent),1,0 - <2 hours,0,0
+2017/18,East Dunbartonshire,A (Most Independent),2,2 - <4 hours,5,50
+2017/18,East Dunbartonshire,B,2,2 - <4 hours,5,33.3
+2017/18,East Dunbartonshire,C,2,2 - <4 hours,0,NA
+2017/18,East Dunbartonshire,D,2,2 - <4 hours,0,NA
+2017/18,East Dunbartonshire,E,2,2 - <4 hours,0,0
+2017/18,East Dunbartonshire,F,2,2 - <4 hours,0,0
+2017/18,East Dunbartonshire,G,2,2 - <4 hours,0,NA
+2017/18,East Dunbartonshire,H,2,2 - <4 hours,0,0
+2017/18,East Dunbartonshire,I (Least Independent),2,2 - <4 hours,5,20
+2017/18,East Dunbartonshire,A (Most Independent),3,4 - <10 hours,5,50
+2017/18,East Dunbartonshire,B,3,4 - <10 hours,10,66.7
+2017/18,East Dunbartonshire,C,3,4 - <10 hours,0,NA
+2017/18,East Dunbartonshire,D,3,4 - <10 hours,0,NA
+2017/18,East Dunbartonshire,E,3,4 - <10 hours,5,100
+2017/18,East Dunbartonshire,F,3,4 - <10 hours,5,50
+2017/18,East Dunbartonshire,G,3,4 - <10 hours,0,NA
+2017/18,East Dunbartonshire,H,3,4 - <10 hours,5,33.3
+2017/18,East Dunbartonshire,I (Least Independent),3,4 - <10 hours,10,40
+2017/18,East Dunbartonshire,A (Most Independent),4,10+ hours,0,0
+2017/18,East Dunbartonshire,B,4,10+ hours,0,0
+2017/18,East Dunbartonshire,C,4,10+ hours,0,NA
+2017/18,East Dunbartonshire,D,4,10+ hours,0,NA
+2017/18,East Dunbartonshire,E,4,10+ hours,0,0
+2017/18,East Dunbartonshire,F,4,10+ hours,5,50
+2017/18,East Dunbartonshire,G,4,10+ hours,0,NA
+2017/18,East Dunbartonshire,H,4,10+ hours,10,66.7
+2017/18,East Dunbartonshire,I (Least Independent),4,10+ hours,10,40
+2017/18,Falkirk,A (Most Independent),1,0 - <2 hours,30,28.6
+2017/18,Falkirk,B,1,0 - <2 hours,35,20
+2017/18,Falkirk,C,1,0 - <2 hours,5,8.3
+2017/18,Falkirk,D,1,0 - <2 hours,5,4.3
+2017/18,Falkirk,E,1,0 - <2 hours,5,16.7
+2017/18,Falkirk,F,1,0 - <2 hours,5,7.7
+2017/18,Falkirk,G,1,0 - <2 hours,5,50
+2017/18,Falkirk,H,1,0 - <2 hours,0,0
+2017/18,Falkirk,I (Least Independent),1,0 - <2 hours,5,8.3
+2017/18,Falkirk,A (Most Independent),2,2 - <4 hours,35,33.3
+2017/18,Falkirk,B,2,2 - <4 hours,50,28.6
+2017/18,Falkirk,C,2,2 - <4 hours,15,25
+2017/18,Falkirk,D,2,2 - <4 hours,25,21.7
+2017/18,Falkirk,E,2,2 - <4 hours,5,16.7
+2017/18,Falkirk,F,2,2 - <4 hours,10,15.4
+2017/18,Falkirk,G,2,2 - <4 hours,0,0
+2017/18,Falkirk,H,2,2 - <4 hours,5,33.3
+2017/18,Falkirk,I (Least Independent),2,2 - <4 hours,10,16.7
+2017/18,Falkirk,A (Most Independent),3,4 - <10 hours,40,38.1
+2017/18,Falkirk,B,3,4 - <10 hours,75,42.9
+2017/18,Falkirk,C,3,4 - <10 hours,25,41.7
+2017/18,Falkirk,D,3,4 - <10 hours,55,47.8
+2017/18,Falkirk,E,3,4 - <10 hours,15,50
+2017/18,Falkirk,F,3,4 - <10 hours,30,46.2
+2017/18,Falkirk,G,3,4 - <10 hours,5,50
+2017/18,Falkirk,H,3,4 - <10 hours,5,33.3
+2017/18,Falkirk,I (Least Independent),3,4 - <10 hours,25,41.7
+2017/18,Falkirk,A (Most Independent),4,10+ hours,0,0
+2017/18,Falkirk,B,4,10+ hours,15,8.6
+2017/18,Falkirk,C,4,10+ hours,15,25
+2017/18,Falkirk,D,4,10+ hours,30,26.1
+2017/18,Falkirk,E,4,10+ hours,5,16.7
+2017/18,Falkirk,F,4,10+ hours,20,30.8
+2017/18,Falkirk,G,4,10+ hours,0,0
+2017/18,Falkirk,H,4,10+ hours,5,33.3
+2017/18,Falkirk,I (Least Independent),4,10+ hours,20,33.3
+2017/18,Inverclyde,A (Most Independent),1,0 - <2 hours,50,52.6
+2017/18,Inverclyde,B,1,0 - <2 hours,35,23.3
+2017/18,Inverclyde,C,1,0 - <2 hours,10,20
+2017/18,Inverclyde,D,1,0 - <2 hours,10,20
+2017/18,Inverclyde,E,1,0 - <2 hours,5,25
+2017/18,Inverclyde,F,1,0 - <2 hours,5,8.3
+2017/18,Inverclyde,G,1,0 - <2 hours,0,0
+2017/18,Inverclyde,H,1,0 - <2 hours,0,0
+2017/18,Inverclyde,I (Least Independent),1,0 - <2 hours,10,22.2
+2017/18,Inverclyde,A (Most Independent),2,2 - <4 hours,35,36.8
+2017/18,Inverclyde,B,2,2 - <4 hours,55,36.7
+2017/18,Inverclyde,C,2,2 - <4 hours,15,30
+2017/18,Inverclyde,D,2,2 - <4 hours,15,30
+2017/18,Inverclyde,E,2,2 - <4 hours,5,25
+2017/18,Inverclyde,F,2,2 - <4 hours,15,25
+2017/18,Inverclyde,G,2,2 - <4 hours,5,100
+2017/18,Inverclyde,H,2,2 - <4 hours,5,50
+2017/18,Inverclyde,I (Least Independent),2,2 - <4 hours,5,11.1
+2017/18,Inverclyde,A (Most Independent),3,4 - <10 hours,10,10.5
+2017/18,Inverclyde,B,3,4 - <10 hours,55,36.7
+2017/18,Inverclyde,C,3,4 - <10 hours,25,50
+2017/18,Inverclyde,D,3,4 - <10 hours,20,40
+2017/18,Inverclyde,E,3,4 - <10 hours,10,50
+2017/18,Inverclyde,F,3,4 - <10 hours,15,25
+2017/18,Inverclyde,G,3,4 - <10 hours,0,0
+2017/18,Inverclyde,H,3,4 - <10 hours,0,0
+2017/18,Inverclyde,I (Least Independent),3,4 - <10 hours,10,22.2
+2017/18,Inverclyde,A (Most Independent),4,10+ hours,0,0
+2017/18,Inverclyde,B,4,10+ hours,5,3.3
+2017/18,Inverclyde,C,4,10+ hours,0,0
+2017/18,Inverclyde,D,4,10+ hours,5,10
+2017/18,Inverclyde,E,4,10+ hours,0,0
+2017/18,Inverclyde,F,4,10+ hours,25,41.7
+2017/18,Inverclyde,G,4,10+ hours,0,0
+2017/18,Inverclyde,H,4,10+ hours,5,50
+2017/18,Inverclyde,I (Least Independent),4,10+ hours,20,44.4
+2017/18,Midlothian,B,1,0 - <2 hours,0,NA
+2017/18,Midlothian,C,1,0 - <2 hours,0,NA
+2017/18,Midlothian,D,1,0 - <2 hours,0,NA
+2017/18,Midlothian,E,1,0 - <2 hours,0,NA
+2017/18,Midlothian,F,1,0 - <2 hours,0,NA
+2017/18,Midlothian,G,1,0 - <2 hours,0,NA
+2017/18,Midlothian,H,1,0 - <2 hours,0,NA
+2017/18,Midlothian,I (Least Independent),1,0 - <2 hours,0,NA
+2017/18,Midlothian,B,2,2 - <4 hours,0,NA
+2017/18,Midlothian,C,2,2 - <4 hours,0,NA
+2017/18,Midlothian,D,2,2 - <4 hours,0,NA
+2017/18,Midlothian,E,2,2 - <4 hours,0,NA
+2017/18,Midlothian,F,2,2 - <4 hours,0,NA
+2017/18,Midlothian,G,2,2 - <4 hours,0,NA
+2017/18,Midlothian,H,2,2 - <4 hours,0,NA
+2017/18,Midlothian,I (Least Independent),2,2 - <4 hours,0,NA
+2017/18,Midlothian,B,3,4 - <10 hours,0,NA
+2017/18,Midlothian,C,3,4 - <10 hours,0,NA
+2017/18,Midlothian,D,3,4 - <10 hours,0,NA
+2017/18,Midlothian,E,3,4 - <10 hours,0,NA
+2017/18,Midlothian,F,3,4 - <10 hours,0,NA
+2017/18,Midlothian,G,3,4 - <10 hours,0,NA
+2017/18,Midlothian,H,3,4 - <10 hours,0,NA
+2017/18,Midlothian,I (Least Independent),3,4 - <10 hours,0,NA
+2017/18,Midlothian,B,4,10+ hours,0,NA
+2017/18,Midlothian,C,4,10+ hours,0,NA
+2017/18,Midlothian,D,4,10+ hours,0,NA
+2017/18,Midlothian,E,4,10+ hours,0,NA
+2017/18,Midlothian,F,4,10+ hours,0,NA
+2017/18,Midlothian,G,4,10+ hours,0,NA
+2017/18,Midlothian,H,4,10+ hours,0,NA
+2017/18,Midlothian,I (Least Independent),4,10+ hours,0,NA
+2017/18,North Lanarkshire,A (Most Independent),1,0 - <2 hours,35,33.3
+2017/18,North Lanarkshire,B,1,0 - <2 hours,70,25.5
+2017/18,North Lanarkshire,C,1,0 - <2 hours,25,15.2
+2017/18,North Lanarkshire,D,1,0 - <2 hours,50,20.8
+2017/18,North Lanarkshire,E,1,0 - <2 hours,5,20
+2017/18,North Lanarkshire,F,1,0 - <2 hours,20,16.7
+2017/18,North Lanarkshire,G,1,0 - <2 hours,0,0
+2017/18,North Lanarkshire,H,1,0 - <2 hours,5,33.3
+2017/18,North Lanarkshire,I (Least Independent),1,0 - <2 hours,20,14.8
+2017/18,North Lanarkshire,A (Most Independent),2,2 - <4 hours,30,28.6
+2017/18,North Lanarkshire,B,2,2 - <4 hours,80,29.1
+2017/18,North Lanarkshire,C,2,2 - <4 hours,35,21.2
+2017/18,North Lanarkshire,D,2,2 - <4 hours,50,20.8
+2017/18,North Lanarkshire,E,2,2 - <4 hours,5,20
+2017/18,North Lanarkshire,F,2,2 - <4 hours,15,12.5
+2017/18,North Lanarkshire,G,2,2 - <4 hours,5,33.3
+2017/18,North Lanarkshire,H,2,2 - <4 hours,5,33.3
+2017/18,North Lanarkshire,I (Least Independent),2,2 - <4 hours,20,14.8
+2017/18,North Lanarkshire,A (Most Independent),3,4 - <10 hours,35,33.3
+2017/18,North Lanarkshire,B,3,4 - <10 hours,95,34.5
+2017/18,North Lanarkshire,C,3,4 - <10 hours,65,39.4
+2017/18,North Lanarkshire,D,3,4 - <10 hours,90,37.5
+2017/18,North Lanarkshire,E,3,4 - <10 hours,10,40
+2017/18,North Lanarkshire,F,3,4 - <10 hours,40,33.3
+2017/18,North Lanarkshire,G,3,4 - <10 hours,5,33.3
+2017/18,North Lanarkshire,H,3,4 - <10 hours,5,33.3
+2017/18,North Lanarkshire,I (Least Independent),3,4 - <10 hours,60,44.4
+2017/18,North Lanarkshire,A (Most Independent),4,10+ hours,5,4.8
+2017/18,North Lanarkshire,B,4,10+ hours,30,10.9
+2017/18,North Lanarkshire,C,4,10+ hours,40,24.2
+2017/18,North Lanarkshire,D,4,10+ hours,50,20.8
+2017/18,North Lanarkshire,E,4,10+ hours,5,20
+2017/18,North Lanarkshire,F,4,10+ hours,45,37.5
+2017/18,North Lanarkshire,G,4,10+ hours,5,33.3
+2017/18,North Lanarkshire,H,4,10+ hours,0,0
+2017/18,North Lanarkshire,I (Least Independent),4,10+ hours,35,25.9
+2017/18,Orkney Islands,A (Most Independent),1,0 - <2 hours,0,NA
+2017/18,Orkney Islands,B,1,0 - <2 hours,0,NA
+2017/18,Orkney Islands,C,1,0 - <2 hours,0,NA
+2017/18,Orkney Islands,D,1,0 - <2 hours,0,NA
+2017/18,Orkney Islands,E,1,0 - <2 hours,0,NA
+2017/18,Orkney Islands,F,1,0 - <2 hours,0,NA
+2017/18,Orkney Islands,G,1,0 - <2 hours,0,NA
+2017/18,Orkney Islands,H,1,0 - <2 hours,0,NA
+2017/18,Orkney Islands,I (Least Independent),1,0 - <2 hours,0,0
+2017/18,Orkney Islands,A (Most Independent),2,2 - <4 hours,0,NA
+2017/18,Orkney Islands,B,2,2 - <4 hours,0,NA
+2017/18,Orkney Islands,C,2,2 - <4 hours,0,NA
+2017/18,Orkney Islands,D,2,2 - <4 hours,0,NA
+2017/18,Orkney Islands,E,2,2 - <4 hours,0,NA
+2017/18,Orkney Islands,F,2,2 - <4 hours,0,NA
+2017/18,Orkney Islands,G,2,2 - <4 hours,0,NA
+2017/18,Orkney Islands,H,2,2 - <4 hours,0,NA
+2017/18,Orkney Islands,I (Least Independent),2,2 - <4 hours,0,0
+2017/18,Orkney Islands,A (Most Independent),3,4 - <10 hours,0,NA
+2017/18,Orkney Islands,B,3,4 - <10 hours,0,NA
+2017/18,Orkney Islands,C,3,4 - <10 hours,0,NA
+2017/18,Orkney Islands,D,3,4 - <10 hours,0,NA
+2017/18,Orkney Islands,E,3,4 - <10 hours,0,NA
+2017/18,Orkney Islands,F,3,4 - <10 hours,0,NA
+2017/18,Orkney Islands,G,3,4 - <10 hours,0,NA
+2017/18,Orkney Islands,H,3,4 - <10 hours,0,NA
+2017/18,Orkney Islands,I (Least Independent),3,4 - <10 hours,0,0
+2017/18,Orkney Islands,A (Most Independent),4,10+ hours,0,NA
+2017/18,Orkney Islands,B,4,10+ hours,0,NA
+2017/18,Orkney Islands,C,4,10+ hours,0,NA
+2017/18,Orkney Islands,D,4,10+ hours,0,NA
+2017/18,Orkney Islands,E,4,10+ hours,0,NA
+2017/18,Orkney Islands,F,4,10+ hours,0,NA
+2017/18,Orkney Islands,G,4,10+ hours,0,NA
+2017/18,Orkney Islands,H,4,10+ hours,0,NA
+2017/18,Orkney Islands,I (Least Independent),4,10+ hours,5,100
+2017/18,Perth and Kinross,A (Most Independent),1,0 - <2 hours,50,27
+2017/18,Perth and Kinross,B,1,0 - <2 hours,65,14.8
+2017/18,Perth and Kinross,C,1,0 - <2 hours,15,10.3
+2017/18,Perth and Kinross,D,1,0 - <2 hours,15,8.1
+2017/18,Perth and Kinross,E,1,0 - <2 hours,0,0
+2017/18,Perth and Kinross,F,1,0 - <2 hours,5,3.7
+2017/18,Perth and Kinross,G,1,0 - <2 hours,0,0
+2017/18,Perth and Kinross,H,1,0 - <2 hours,0,0
+2017/18,Perth and Kinross,I (Least Independent),1,0 - <2 hours,5,7.7
+2017/18,Perth and Kinross,A (Most Independent),2,2 - <4 hours,45,24.3
+2017/18,Perth and Kinross,B,2,2 - <4 hours,75,17
+2017/18,Perth and Kinross,C,2,2 - <4 hours,15,10.3
+2017/18,Perth and Kinross,D,2,2 - <4 hours,20,10.8
+2017/18,Perth and Kinross,E,2,2 - <4 hours,10,13.3
+2017/18,Perth and Kinross,F,2,2 - <4 hours,10,7.4
+2017/18,Perth and Kinross,G,2,2 - <4 hours,0,0
+2017/18,Perth and Kinross,H,2,2 - <4 hours,5,12.5
+2017/18,Perth and Kinross,I (Least Independent),2,2 - <4 hours,0,0
+2017/18,Perth and Kinross,A (Most Independent),3,4 - <10 hours,50,27
+2017/18,Perth and Kinross,B,3,4 - <10 hours,195,44.3
+2017/18,Perth and Kinross,C,3,4 - <10 hours,60,41.4
+2017/18,Perth and Kinross,D,3,4 - <10 hours,65,35.1
+2017/18,Perth and Kinross,E,3,4 - <10 hours,20,26.7
+2017/18,Perth and Kinross,F,3,4 - <10 hours,50,37
+2017/18,Perth and Kinross,G,3,4 - <10 hours,5,20
+2017/18,Perth and Kinross,H,3,4 - <10 hours,10,25
+2017/18,Perth and Kinross,I (Least Independent),3,4 - <10 hours,10,15.4
+2017/18,Perth and Kinross,A (Most Independent),4,10+ hours,40,21.6
+2017/18,Perth and Kinross,B,4,10+ hours,105,23.9
+2017/18,Perth and Kinross,C,4,10+ hours,55,37.9
+2017/18,Perth and Kinross,D,4,10+ hours,85,45.9
+2017/18,Perth and Kinross,E,4,10+ hours,45,60
+2017/18,Perth and Kinross,F,4,10+ hours,70,51.9
+2017/18,Perth and Kinross,G,4,10+ hours,20,80
+2017/18,Perth and Kinross,H,4,10+ hours,25,62.5
+2017/18,Perth and Kinross,I (Least Independent),4,10+ hours,50,76.9
+2017/18,Renfrewshire,A (Most Independent),1,0 - <2 hours,0,NA
+2017/18,Renfrewshire,B,1,0 - <2 hours,0,NA
+2017/18,Renfrewshire,C,1,0 - <2 hours,0,NA
+2017/18,Renfrewshire,D,1,0 - <2 hours,0,NA
+2017/18,Renfrewshire,E,1,0 - <2 hours,0,NA
+2017/18,Renfrewshire,F,1,0 - <2 hours,0,NA
+2017/18,Renfrewshire,G,1,0 - <2 hours,0,NA
+2017/18,Renfrewshire,H,1,0 - <2 hours,0,NA
+2017/18,Renfrewshire,I (Least Independent),1,0 - <2 hours,0,NA
+2017/18,Renfrewshire,A (Most Independent),2,2 - <4 hours,0,NA
+2017/18,Renfrewshire,B,2,2 - <4 hours,0,NA
+2017/18,Renfrewshire,C,2,2 - <4 hours,0,NA
+2017/18,Renfrewshire,D,2,2 - <4 hours,0,NA
+2017/18,Renfrewshire,E,2,2 - <4 hours,0,NA
+2017/18,Renfrewshire,F,2,2 - <4 hours,0,NA
+2017/18,Renfrewshire,G,2,2 - <4 hours,0,NA
+2017/18,Renfrewshire,H,2,2 - <4 hours,0,NA
+2017/18,Renfrewshire,I (Least Independent),2,2 - <4 hours,0,NA
+2017/18,Renfrewshire,A (Most Independent),3,4 - <10 hours,0,NA
+2017/18,Renfrewshire,B,3,4 - <10 hours,0,NA
+2017/18,Renfrewshire,C,3,4 - <10 hours,0,NA
+2017/18,Renfrewshire,D,3,4 - <10 hours,0,NA
+2017/18,Renfrewshire,E,3,4 - <10 hours,0,NA
+2017/18,Renfrewshire,F,3,4 - <10 hours,0,NA
+2017/18,Renfrewshire,G,3,4 - <10 hours,0,NA
+2017/18,Renfrewshire,H,3,4 - <10 hours,0,NA
+2017/18,Renfrewshire,I (Least Independent),3,4 - <10 hours,0,NA
+2017/18,Renfrewshire,A (Most Independent),4,10+ hours,0,NA
+2017/18,Renfrewshire,B,4,10+ hours,0,NA
+2017/18,Renfrewshire,C,4,10+ hours,0,NA
+2017/18,Renfrewshire,D,4,10+ hours,0,NA
+2017/18,Renfrewshire,E,4,10+ hours,0,NA
+2017/18,Renfrewshire,F,4,10+ hours,0,NA
+2017/18,Renfrewshire,G,4,10+ hours,0,NA
+2017/18,Renfrewshire,H,4,10+ hours,0,NA
+2017/18,Renfrewshire,I (Least Independent),4,10+ hours,0,NA
+2018/19,Clackmannanshire,A (Most Independent),1,0 - <2 hours,15,25
+2018/19,Clackmannanshire,B,1,0 - <2 hours,30,22.2
+2018/19,Clackmannanshire,C,1,0 - <2 hours,5,14.3
+2018/19,Clackmannanshire,D,1,0 - <2 hours,5,6.2
+2018/19,Clackmannanshire,E,1,0 - <2 hours,0,0
+2018/19,Clackmannanshire,F,1,0 - <2 hours,5,10
+2018/19,Clackmannanshire,G,1,0 - <2 hours,0,NA
+2018/19,Clackmannanshire,H,1,0 - <2 hours,0,0
+2018/19,Clackmannanshire,I (Least Independent),1,0 - <2 hours,0,0
+2018/19,Clackmannanshire,A (Most Independent),2,2 - <4 hours,30,50
+2018/19,Clackmannanshire,B,2,2 - <4 hours,50,37
+2018/19,Clackmannanshire,C,2,2 - <4 hours,10,28.6
+2018/19,Clackmannanshire,D,2,2 - <4 hours,20,25
+2018/19,Clackmannanshire,E,2,2 - <4 hours,5,25
+2018/19,Clackmannanshire,F,2,2 - <4 hours,5,10
+2018/19,Clackmannanshire,G,2,2 - <4 hours,0,NA
+2018/19,Clackmannanshire,H,2,2 - <4 hours,5,25
+2018/19,Clackmannanshire,I (Least Independent),2,2 - <4 hours,5,14.3
+2018/19,Clackmannanshire,A (Most Independent),3,4 - <10 hours,15,25
+2018/19,Clackmannanshire,B,3,4 - <10 hours,50,37
+2018/19,Clackmannanshire,C,3,4 - <10 hours,20,57.1
+2018/19,Clackmannanshire,D,3,4 - <10 hours,45,56.2
+2018/19,Clackmannanshire,E,3,4 - <10 hours,10,50
+2018/19,Clackmannanshire,F,3,4 - <10 hours,20,40
+2018/19,Clackmannanshire,G,3,4 - <10 hours,0,NA
+2018/19,Clackmannanshire,H,3,4 - <10 hours,10,50
+2018/19,Clackmannanshire,I (Least Independent),3,4 - <10 hours,20,57.1
+2018/19,Clackmannanshire,A (Most Independent),4,10+ hours,0,0
+2018/19,Clackmannanshire,B,4,10+ hours,5,3.7
+2018/19,Clackmannanshire,C,4,10+ hours,0,0
+2018/19,Clackmannanshire,D,4,10+ hours,10,12.5
+2018/19,Clackmannanshire,E,4,10+ hours,5,25
+2018/19,Clackmannanshire,F,4,10+ hours,20,40
+2018/19,Clackmannanshire,G,4,10+ hours,0,NA
+2018/19,Clackmannanshire,H,4,10+ hours,5,25
+2018/19,Clackmannanshire,I (Least Independent),4,10+ hours,10,28.6
+2018/19,East Dunbartonshire,A (Most Independent),1,0 - <2 hours,0,0
+2018/19,East Dunbartonshire,B,1,0 - <2 hours,0,0
+2018/19,East Dunbartonshire,C,1,0 - <2 hours,0,NA
+2018/19,East Dunbartonshire,D,1,0 - <2 hours,0,0
+2018/19,East Dunbartonshire,E,1,0 - <2 hours,0,0
+2018/19,East Dunbartonshire,F,1,0 - <2 hours,5,20
+2018/19,East Dunbartonshire,G,1,0 - <2 hours,0,0
+2018/19,East Dunbartonshire,H,1,0 - <2 hours,10,11.1
+2018/19,East Dunbartonshire,I (Least Independent),1,0 - <2 hours,10,9.1
+2018/19,East Dunbartonshire,A (Most Independent),2,2 - <4 hours,5,33.3
+2018/19,East Dunbartonshire,B,2,2 - <4 hours,5,33.3
+2018/19,East Dunbartonshire,C,2,2 - <4 hours,0,NA
+2018/19,East Dunbartonshire,D,2,2 - <4 hours,0,0
+2018/19,East Dunbartonshire,E,2,2 - <4 hours,5,50
+2018/19,East Dunbartonshire,F,2,2 - <4 hours,5,20
+2018/19,East Dunbartonshire,G,2,2 - <4 hours,0,0
+2018/19,East Dunbartonshire,H,2,2 - <4 hours,25,27.8
+2018/19,East Dunbartonshire,I (Least Independent),2,2 - <4 hours,25,22.7
+2018/19,East Dunbartonshire,A (Most Independent),3,4 - <10 hours,10,66.7
+2018/19,East Dunbartonshire,B,3,4 - <10 hours,10,66.7
+2018/19,East Dunbartonshire,C,3,4 - <10 hours,0,NA
+2018/19,East Dunbartonshire,D,3,4 - <10 hours,5,100
+2018/19,East Dunbartonshire,E,3,4 - <10 hours,5,50
+2018/19,East Dunbartonshire,F,3,4 - <10 hours,10,40
+2018/19,East Dunbartonshire,G,3,4 - <10 hours,5,100
+2018/19,East Dunbartonshire,H,3,4 - <10 hours,40,44.4
+2018/19,East Dunbartonshire,I (Least Independent),3,4 - <10 hours,55,50
+2018/19,East Dunbartonshire,A (Most Independent),4,10+ hours,0,0
+2018/19,East Dunbartonshire,B,4,10+ hours,0,0
+2018/19,East Dunbartonshire,C,4,10+ hours,0,NA
+2018/19,East Dunbartonshire,D,4,10+ hours,0,0
+2018/19,East Dunbartonshire,E,4,10+ hours,0,0
+2018/19,East Dunbartonshire,F,4,10+ hours,5,20
+2018/19,East Dunbartonshire,G,4,10+ hours,0,0
+2018/19,East Dunbartonshire,H,4,10+ hours,15,16.7
+2018/19,East Dunbartonshire,I (Least Independent),4,10+ hours,20,18.2
+2018/19,Inverclyde,A (Most Independent),1,0 - <2 hours,90,81.8
+2018/19,Inverclyde,B,1,0 - <2 hours,130,66.7
+2018/19,Inverclyde,C,1,0 - <2 hours,45,52.9
+2018/19,Inverclyde,D,1,0 - <2 hours,25,50
+2018/19,Inverclyde,E,1,0 - <2 hours,20,57.1
+2018/19,Inverclyde,F,1,0 - <2 hours,25,31.2
+2018/19,Inverclyde,G,1,0 - <2 hours,5,50
+2018/19,Inverclyde,H,1,0 - <2 hours,10,40
+2018/19,Inverclyde,I (Least Independent),1,0 - <2 hours,25,33.3
+2018/19,Inverclyde,A (Most Independent),2,2 - <4 hours,15,13.6
+2018/19,Inverclyde,B,2,2 - <4 hours,45,23.1
+2018/19,Inverclyde,C,2,2 - <4 hours,30,35.3
+2018/19,Inverclyde,D,2,2 - <4 hours,15,30
+2018/19,Inverclyde,E,2,2 - <4 hours,10,28.6
+2018/19,Inverclyde,F,2,2 - <4 hours,20,25
+2018/19,Inverclyde,G,2,2 - <4 hours,5,50
+2018/19,Inverclyde,H,2,2 - <4 hours,5,20
+2018/19,Inverclyde,I (Least Independent),2,2 - <4 hours,20,26.7
+2018/19,Inverclyde,A (Most Independent),3,4 - <10 hours,5,4.5
+2018/19,Inverclyde,B,3,4 - <10 hours,15,7.7
+2018/19,Inverclyde,C,3,4 - <10 hours,10,11.8
+2018/19,Inverclyde,D,3,4 - <10 hours,10,20
+2018/19,Inverclyde,E,3,4 - <10 hours,5,14.3
+2018/19,Inverclyde,F,3,4 - <10 hours,20,25
+2018/19,Inverclyde,G,3,4 - <10 hours,0,0
+2018/19,Inverclyde,H,3,4 - <10 hours,10,40
+2018/19,Inverclyde,I (Least Independent),3,4 - <10 hours,20,26.7
+2018/19,Inverclyde,A (Most Independent),4,10+ hours,0,0
+2018/19,Inverclyde,B,4,10+ hours,5,2.6
+2018/19,Inverclyde,C,4,10+ hours,0,0
+2018/19,Inverclyde,D,4,10+ hours,0,0
+2018/19,Inverclyde,E,4,10+ hours,0,0
+2018/19,Inverclyde,F,4,10+ hours,15,18.8
+2018/19,Inverclyde,G,4,10+ hours,0,0
+2018/19,Inverclyde,H,4,10+ hours,0,0
+2018/19,Inverclyde,I (Least Independent),4,10+ hours,10,13.3
+2018/19,Midlothian,A (Most Independent),1,0 - <2 hours,0,0
+2018/19,Midlothian,B,1,0 - <2 hours,5,25
+2018/19,Midlothian,C,1,0 - <2 hours,0,0
+2018/19,Midlothian,D,1,0 - <2 hours,0,0
+2018/19,Midlothian,E,1,0 - <2 hours,0,0
+2018/19,Midlothian,F,1,0 - <2 hours,10,25
+2018/19,Midlothian,G,1,0 - <2 hours,0,NA
+2018/19,Midlothian,H,1,0 - <2 hours,5,25
+2018/19,Midlothian,I (Least Independent),1,0 - <2 hours,5,25
+2018/19,Midlothian,A (Most Independent),2,2 - <4 hours,5,100
+2018/19,Midlothian,B,2,2 - <4 hours,5,25
+2018/19,Midlothian,C,2,2 - <4 hours,5,50
+2018/19,Midlothian,D,2,2 - <4 hours,5,50
+2018/19,Midlothian,E,2,2 - <4 hours,5,100
+2018/19,Midlothian,F,2,2 - <4 hours,10,25
+2018/19,Midlothian,G,2,2 - <4 hours,0,NA
+2018/19,Midlothian,H,2,2 - <4 hours,10,50
+2018/19,Midlothian,I (Least Independent),2,2 - <4 hours,5,25
+2018/19,Midlothian,A (Most Independent),3,4 - <10 hours,0,0
+2018/19,Midlothian,B,3,4 - <10 hours,10,50
+2018/19,Midlothian,C,3,4 - <10 hours,5,50
+2018/19,Midlothian,D,3,4 - <10 hours,5,50
+2018/19,Midlothian,E,3,4 - <10 hours,0,0
+2018/19,Midlothian,F,3,4 - <10 hours,20,50
+2018/19,Midlothian,G,3,4 - <10 hours,0,NA
+2018/19,Midlothian,H,3,4 - <10 hours,5,25
+2018/19,Midlothian,I (Least Independent),3,4 - <10 hours,10,50
+2018/19,Midlothian,A (Most Independent),4,10+ hours,0,0
+2018/19,Midlothian,B,4,10+ hours,0,0
+2018/19,Midlothian,C,4,10+ hours,0,0
+2018/19,Midlothian,D,4,10+ hours,0,0
+2018/19,Midlothian,E,4,10+ hours,0,0
+2018/19,Midlothian,F,4,10+ hours,0,0
+2018/19,Midlothian,G,4,10+ hours,0,NA
+2018/19,Midlothian,H,4,10+ hours,0,0
+2018/19,Midlothian,I (Least Independent),4,10+ hours,0,0
+2018/19,North Lanarkshire,A (Most Independent),1,0 - <2 hours,50,38.5
+2018/19,North Lanarkshire,B,1,0 - <2 hours,130,41.9
+2018/19,North Lanarkshire,C,1,0 - <2 hours,50,24.4
+2018/19,North Lanarkshire,D,1,0 - <2 hours,85,34.7
+2018/19,North Lanarkshire,E,1,0 - <2 hours,5,14.3
+2018/19,North Lanarkshire,F,1,0 - <2 hours,40,20
+2018/19,North Lanarkshire,G,1,0 - <2 hours,5,25
+2018/19,North Lanarkshire,H,1,0 - <2 hours,15,30
+2018/19,North Lanarkshire,I (Least Independent),1,0 - <2 hours,65,20.6
+2018/19,North Lanarkshire,A (Most Independent),2,2 - <4 hours,40,30.8
+2018/19,North Lanarkshire,B,2,2 - <4 hours,95,30.6
+2018/19,North Lanarkshire,C,2,2 - <4 hours,70,34.1
+2018/19,North Lanarkshire,D,2,2 - <4 hours,80,32.7
+2018/19,North Lanarkshire,E,2,2 - <4 hours,10,28.6
+2018/19,North Lanarkshire,F,2,2 - <4 hours,70,35
+2018/19,North Lanarkshire,G,2,2 - <4 hours,5,25
+2018/19,North Lanarkshire,H,2,2 - <4 hours,15,30
+2018/19,North Lanarkshire,I (Least Independent),2,2 - <4 hours,100,31.7
+2018/19,North Lanarkshire,A (Most Independent),3,4 - <10 hours,40,30.8
+2018/19,North Lanarkshire,B,3,4 - <10 hours,80,25.8
+2018/19,North Lanarkshire,C,3,4 - <10 hours,70,34.1
+2018/19,North Lanarkshire,D,3,4 - <10 hours,70,28.6
+2018/19,North Lanarkshire,E,3,4 - <10 hours,20,57.1
+2018/19,North Lanarkshire,F,3,4 - <10 hours,70,35
+2018/19,North Lanarkshire,G,3,4 - <10 hours,10,50
+2018/19,North Lanarkshire,H,3,4 - <10 hours,20,40
+2018/19,North Lanarkshire,I (Least Independent),3,4 - <10 hours,130,41.3
+2018/19,North Lanarkshire,A (Most Independent),4,10+ hours,0,0
+2018/19,North Lanarkshire,B,4,10+ hours,5,1.6
+2018/19,North Lanarkshire,C,4,10+ hours,15,7.3
+2018/19,North Lanarkshire,D,4,10+ hours,10,4.1
+2018/19,North Lanarkshire,E,4,10+ hours,0,0
+2018/19,North Lanarkshire,F,4,10+ hours,20,10
+2018/19,North Lanarkshire,G,4,10+ hours,0,0
+2018/19,North Lanarkshire,H,4,10+ hours,0,0
+2018/19,North Lanarkshire,I (Least Independent),4,10+ hours,20,6.3
+2019/20,Clackmannanshire,A (Most Independent),1,0 - <2 hours,15,27.3
+2019/20,Clackmannanshire,B,1,0 - <2 hours,40,33.3
+2019/20,Clackmannanshire,C,1,0 - <2 hours,5,11.1
+2019/20,Clackmannanshire,D,1,0 - <2 hours,10,16.7
+2019/20,Clackmannanshire,E,1,0 - <2 hours,5,50
+2019/20,Clackmannanshire,F,1,0 - <2 hours,0,0
+2019/20,Clackmannanshire,G,1,0 - <2 hours,0,0
+2019/20,Clackmannanshire,H,1,0 - <2 hours,0,0
+2019/20,Clackmannanshire,I (Least Independent),1,0 - <2 hours,5,11.1
+2019/20,Clackmannanshire,A (Most Independent),2,2 - <4 hours,25,45.5
+2019/20,Clackmannanshire,B,2,2 - <4 hours,50,41.7
+2019/20,Clackmannanshire,C,2,2 - <4 hours,15,33.3
+2019/20,Clackmannanshire,D,2,2 - <4 hours,20,33.3
+2019/20,Clackmannanshire,E,2,2 - <4 hours,0,0
+2019/20,Clackmannanshire,F,2,2 - <4 hours,5,12.5
+2019/20,Clackmannanshire,G,2,2 - <4 hours,0,0
+2019/20,Clackmannanshire,H,2,2 - <4 hours,0,0
+2019/20,Clackmannanshire,I (Least Independent),2,2 - <4 hours,10,22.2
+2019/20,Clackmannanshire,A (Most Independent),3,4 - <10 hours,10,18.2
+2019/20,Clackmannanshire,B,3,4 - <10 hours,30,25
+2019/20,Clackmannanshire,C,3,4 - <10 hours,20,44.4
+2019/20,Clackmannanshire,D,3,4 - <10 hours,25,41.7
+2019/20,Clackmannanshire,E,3,4 - <10 hours,5,50
+2019/20,Clackmannanshire,F,3,4 - <10 hours,20,50
+2019/20,Clackmannanshire,G,3,4 - <10 hours,5,100
+2019/20,Clackmannanshire,H,3,4 - <10 hours,10,66.7
+2019/20,Clackmannanshire,I (Least Independent),3,4 - <10 hours,15,33.3
+2019/20,Clackmannanshire,A (Most Independent),4,10+ hours,5,9.1
+2019/20,Clackmannanshire,B,4,10+ hours,0,0
+2019/20,Clackmannanshire,C,4,10+ hours,5,11.1
+2019/20,Clackmannanshire,D,4,10+ hours,5,8.3
+2019/20,Clackmannanshire,E,4,10+ hours,0,0
+2019/20,Clackmannanshire,F,4,10+ hours,15,37.5
+2019/20,Clackmannanshire,G,4,10+ hours,0,0
+2019/20,Clackmannanshire,H,4,10+ hours,5,33.3
+2019/20,Clackmannanshire,I (Least Independent),4,10+ hours,15,33.3
+2019/20,East Dunbartonshire,A (Most Independent),1,0 - <2 hours,5,16.7
+2019/20,East Dunbartonshire,B,1,0 - <2 hours,0,0
+2019/20,East Dunbartonshire,C,1,0 - <2 hours,0,NA
+2019/20,East Dunbartonshire,D,1,0 - <2 hours,0,0
+2019/20,East Dunbartonshire,E,1,0 - <2 hours,0,0
+2019/20,East Dunbartonshire,F,1,0 - <2 hours,0,0
+2019/20,East Dunbartonshire,G,1,0 - <2 hours,0,0
+2019/20,East Dunbartonshire,H,1,0 - <2 hours,5,6.2
+2019/20,East Dunbartonshire,I (Least Independent),1,0 - <2 hours,10,8.3
+2019/20,East Dunbartonshire,A (Most Independent),2,2 - <4 hours,10,33.3
+2019/20,East Dunbartonshire,B,2,2 - <4 hours,10,33.3
+2019/20,East Dunbartonshire,C,2,2 - <4 hours,0,NA
+2019/20,East Dunbartonshire,D,2,2 - <4 hours,0,0
+2019/20,East Dunbartonshire,E,2,2 - <4 hours,0,0
+2019/20,East Dunbartonshire,F,2,2 - <4 hours,5,20
+2019/20,East Dunbartonshire,G,2,2 - <4 hours,0,0
+2019/20,East Dunbartonshire,H,2,2 - <4 hours,20,25
+2019/20,East Dunbartonshire,I (Least Independent),2,2 - <4 hours,15,12.5
+2019/20,East Dunbartonshire,A (Most Independent),3,4 - <10 hours,15,50
+2019/20,East Dunbartonshire,B,3,4 - <10 hours,15,50
+2019/20,East Dunbartonshire,C,3,4 - <10 hours,0,NA
+2019/20,East Dunbartonshire,D,3,4 - <10 hours,10,100
+2019/20,East Dunbartonshire,E,3,4 - <10 hours,10,66.7
+2019/20,East Dunbartonshire,F,3,4 - <10 hours,15,60
+2019/20,East Dunbartonshire,G,3,4 - <10 hours,5,100
+2019/20,East Dunbartonshire,H,3,4 - <10 hours,45,56.2
+2019/20,East Dunbartonshire,I (Least Independent),3,4 - <10 hours,75,62.5
+2019/20,East Dunbartonshire,A (Most Independent),4,10+ hours,0,0
+2019/20,East Dunbartonshire,B,4,10+ hours,5,16.7
+2019/20,East Dunbartonshire,C,4,10+ hours,0,NA
+2019/20,East Dunbartonshire,D,4,10+ hours,0,0
+2019/20,East Dunbartonshire,E,4,10+ hours,5,33.3
+2019/20,East Dunbartonshire,F,4,10+ hours,5,20
+2019/20,East Dunbartonshire,G,4,10+ hours,0,0
+2019/20,East Dunbartonshire,H,4,10+ hours,10,12.5
+2019/20,East Dunbartonshire,I (Least Independent),4,10+ hours,20,16.7
+2019/20,Inverclyde,A (Most Independent),1,0 - <2 hours,30,66.7
+2019/20,Inverclyde,B,1,0 - <2 hours,65,72.2
+2019/20,Inverclyde,C,1,0 - <2 hours,15,50
+2019/20,Inverclyde,D,1,0 - <2 hours,15,60
+2019/20,Inverclyde,E,1,0 - <2 hours,5,50
+2019/20,Inverclyde,F,1,0 - <2 hours,15,33.3
+2019/20,Inverclyde,G,1,0 - <2 hours,0,NA
+2019/20,Inverclyde,H,1,0 - <2 hours,5,50
+2019/20,Inverclyde,I (Least Independent),1,0 - <2 hours,25,45.5
+2019/20,Inverclyde,A (Most Independent),2,2 - <4 hours,10,22.2
+2019/20,Inverclyde,B,2,2 - <4 hours,20,22.2
+2019/20,Inverclyde,C,2,2 - <4 hours,10,33.3
+2019/20,Inverclyde,D,2,2 - <4 hours,5,20
+2019/20,Inverclyde,E,2,2 - <4 hours,5,50
+2019/20,Inverclyde,F,2,2 - <4 hours,10,22.2
+2019/20,Inverclyde,G,2,2 - <4 hours,0,NA
+2019/20,Inverclyde,H,2,2 - <4 hours,5,50
+2019/20,Inverclyde,I (Least Independent),2,2 - <4 hours,10,18.2
+2019/20,Inverclyde,A (Most Independent),3,4 - <10 hours,5,11.1
+2019/20,Inverclyde,B,3,4 - <10 hours,5,5.6
+2019/20,Inverclyde,C,3,4 - <10 hours,5,16.7
+2019/20,Inverclyde,D,3,4 - <10 hours,5,20
+2019/20,Inverclyde,E,3,4 - <10 hours,0,0
+2019/20,Inverclyde,F,3,4 - <10 hours,15,33.3
+2019/20,Inverclyde,G,3,4 - <10 hours,0,NA
+2019/20,Inverclyde,H,3,4 - <10 hours,0,0
+2019/20,Inverclyde,I (Least Independent),3,4 - <10 hours,10,18.2
+2019/20,Inverclyde,A (Most Independent),4,10+ hours,0,0
+2019/20,Inverclyde,B,4,10+ hours,0,0
+2019/20,Inverclyde,C,4,10+ hours,0,0
+2019/20,Inverclyde,D,4,10+ hours,0,0
+2019/20,Inverclyde,E,4,10+ hours,0,0
+2019/20,Inverclyde,F,4,10+ hours,5,11.1
+2019/20,Inverclyde,G,4,10+ hours,0,NA
+2019/20,Inverclyde,H,4,10+ hours,0,0
+2019/20,Inverclyde,I (Least Independent),4,10+ hours,10,18.2
+2019/20,Midlothian,A (Most Independent),1,0 - <2 hours,5,100
+2019/20,Midlothian,B,1,0 - <2 hours,0,0
+2019/20,Midlothian,C,1,0 - <2 hours,0,0
+2019/20,Midlothian,D,1,0 - <2 hours,0,0
+2019/20,Midlothian,E,1,0 - <2 hours,0,0
+2019/20,Midlothian,F,1,0 - <2 hours,15,37.5
+2019/20,Midlothian,G,1,0 - <2 hours,0,NA
+2019/20,Midlothian,H,1,0 - <2 hours,5,33.3
+2019/20,Midlothian,I (Least Independent),1,0 - <2 hours,5,25
+2019/20,Midlothian,A (Most Independent),2,2 - <4 hours,0,0
+2019/20,Midlothian,B,2,2 - <4 hours,0,0
+2019/20,Midlothian,C,2,2 - <4 hours,0,0
+2019/20,Midlothian,D,2,2 - <4 hours,5,50
+2019/20,Midlothian,E,2,2 - <4 hours,0,0
+2019/20,Midlothian,F,2,2 - <4 hours,10,25
+2019/20,Midlothian,G,2,2 - <4 hours,0,NA
+2019/20,Midlothian,H,2,2 - <4 hours,5,33.3
+2019/20,Midlothian,I (Least Independent),2,2 - <4 hours,5,25
+2019/20,Midlothian,A (Most Independent),3,4 - <10 hours,0,0
+2019/20,Midlothian,B,3,4 - <10 hours,5,50
+2019/20,Midlothian,C,3,4 - <10 hours,5,50
+2019/20,Midlothian,D,3,4 - <10 hours,5,50
+2019/20,Midlothian,E,3,4 - <10 hours,5,100
+2019/20,Midlothian,F,3,4 - <10 hours,10,25
+2019/20,Midlothian,G,3,4 - <10 hours,0,NA
+2019/20,Midlothian,H,3,4 - <10 hours,5,33.3
+2019/20,Midlothian,I (Least Independent),3,4 - <10 hours,10,50
+2019/20,Midlothian,A (Most Independent),4,10+ hours,0,0
+2019/20,Midlothian,B,4,10+ hours,5,50
+2019/20,Midlothian,C,4,10+ hours,5,50
+2019/20,Midlothian,D,4,10+ hours,0,0
+2019/20,Midlothian,E,4,10+ hours,0,0
+2019/20,Midlothian,F,4,10+ hours,5,12.5
+2019/20,Midlothian,G,4,10+ hours,0,NA
+2019/20,Midlothian,H,4,10+ hours,0,0
+2019/20,Midlothian,I (Least Independent),4,10+ hours,0,0
+2019/20,North Lanarkshire,A (Most Independent),1,0 - <2 hours,55,36.7
+2019/20,North Lanarkshire,B,1,0 - <2 hours,130,42.6
+2019/20,North Lanarkshire,C,1,0 - <2 hours,50,26.3
+2019/20,North Lanarkshire,D,1,0 - <2 hours,40,22.9
+2019/20,North Lanarkshire,E,1,0 - <2 hours,10,28.6
+2019/20,North Lanarkshire,F,1,0 - <2 hours,40,22.9
+2019/20,North Lanarkshire,G,1,0 - <2 hours,5,33.3
+2019/20,North Lanarkshire,H,1,0 - <2 hours,15,33.3
+2019/20,North Lanarkshire,I (Least Independent),1,0 - <2 hours,70,20.6
+2019/20,North Lanarkshire,A (Most Independent),2,2 - <4 hours,50,33.3
+2019/20,North Lanarkshire,B,2,2 - <4 hours,95,31.1
+2019/20,North Lanarkshire,C,2,2 - <4 hours,60,31.6
+2019/20,North Lanarkshire,D,2,2 - <4 hours,60,34.3
+2019/20,North Lanarkshire,E,2,2 - <4 hours,10,28.6
+2019/20,North Lanarkshire,F,2,2 - <4 hours,50,28.6
+2019/20,North Lanarkshire,G,2,2 - <4 hours,5,33.3
+2019/20,North Lanarkshire,H,2,2 - <4 hours,10,22.2
+2019/20,North Lanarkshire,I (Least Independent),2,2 - <4 hours,95,27.9
+2019/20,North Lanarkshire,A (Most Independent),3,4 - <10 hours,35,23.3
+2019/20,North Lanarkshire,B,3,4 - <10 hours,70,23
+2019/20,North Lanarkshire,C,3,4 - <10 hours,65,34.2
+2019/20,North Lanarkshire,D,3,4 - <10 hours,65,37.1
+2019/20,North Lanarkshire,E,3,4 - <10 hours,15,42.9
+2019/20,North Lanarkshire,F,3,4 - <10 hours,70,40
+2019/20,North Lanarkshire,G,3,4 - <10 hours,5,33.3
+2019/20,North Lanarkshire,H,3,4 - <10 hours,20,44.4
+2019/20,North Lanarkshire,I (Least Independent),3,4 - <10 hours,145,42.6
+2019/20,North Lanarkshire,A (Most Independent),4,10+ hours,10,6.7
+2019/20,North Lanarkshire,B,4,10+ hours,10,3.3
+2019/20,North Lanarkshire,C,4,10+ hours,15,7.9
+2019/20,North Lanarkshire,D,4,10+ hours,10,5.7
+2019/20,North Lanarkshire,E,4,10+ hours,0,0
+2019/20,North Lanarkshire,F,4,10+ hours,15,8.6
+2019/20,North Lanarkshire,G,4,10+ hours,0,0
+2019/20,North Lanarkshire,H,4,10+ hours,0,0
+2019/20,North Lanarkshire,I (Least Independent),4,10+ hours,30,8.8
+2019/20,Orkney Islands,A (Most Independent),1,0 - <2 hours,5,100
+2019/20,Orkney Islands,B,1,0 - <2 hours,15,60
+2019/20,Orkney Islands,C,1,0 - <2 hours,10,66.7
+2019/20,Orkney Islands,D,1,0 - <2 hours,0,0
+2019/20,Orkney Islands,E,1,0 - <2 hours,5,100
+2019/20,Orkney Islands,F,1,0 - <2 hours,5,100
+2019/20,Orkney Islands,G,1,0 - <2 hours,0,NA
+2019/20,Orkney Islands,H,1,0 - <2 hours,0,NA
+2019/20,Orkney Islands,I (Least Independent),1,0 - <2 hours,10,16.7
+2019/20,Orkney Islands,A (Most Independent),2,2 - <4 hours,0,0
+2019/20,Orkney Islands,B,2,2 - <4 hours,5,20
+2019/20,Orkney Islands,C,2,2 - <4 hours,5,33.3
+2019/20,Orkney Islands,D,2,2 - <4 hours,5,50
+2019/20,Orkney Islands,E,2,2 - <4 hours,0,0
+2019/20,Orkney Islands,F,2,2 - <4 hours,0,0
+2019/20,Orkney Islands,G,2,2 - <4 hours,0,NA
+2019/20,Orkney Islands,H,2,2 - <4 hours,0,NA
+2019/20,Orkney Islands,I (Least Independent),2,2 - <4 hours,15,25
+2019/20,Orkney Islands,A (Most Independent),3,4 - <10 hours,0,0
+2019/20,Orkney Islands,B,3,4 - <10 hours,5,20
+2019/20,Orkney Islands,C,3,4 - <10 hours,0,0
+2019/20,Orkney Islands,D,3,4 - <10 hours,5,50
+2019/20,Orkney Islands,E,3,4 - <10 hours,0,0
+2019/20,Orkney Islands,F,3,4 - <10 hours,0,0
+2019/20,Orkney Islands,G,3,4 - <10 hours,0,NA
+2019/20,Orkney Islands,H,3,4 - <10 hours,0,NA
+2019/20,Orkney Islands,I (Least Independent),3,4 - <10 hours,30,50
+2019/20,Orkney Islands,A (Most Independent),4,10+ hours,0,0
+2019/20,Orkney Islands,B,4,10+ hours,0,0
+2019/20,Orkney Islands,C,4,10+ hours,0,0
+2019/20,Orkney Islands,D,4,10+ hours,0,0
+2019/20,Orkney Islands,E,4,10+ hours,0,0
+2019/20,Orkney Islands,F,4,10+ hours,0,0
+2019/20,Orkney Islands,G,4,10+ hours,0,NA
+2019/20,Orkney Islands,H,4,10+ hours,0,NA
+2019/20,Orkney Islands,I (Least Independent),4,10+ hours,5,8.3
+2019/20,Perth and Kinross,A (Most Independent),1,0 - <2 hours,60,27.3
+2019/20,Perth and Kinross,B,1,0 - <2 hours,180,33
+2019/20,Perth and Kinross,C,1,0 - <2 hours,45,20
+2019/20,Perth and Kinross,D,1,0 - <2 hours,60,15.6
+2019/20,Perth and Kinross,E,1,0 - <2 hours,15,13
+2019/20,Perth and Kinross,F,1,0 - <2 hours,30,14.3
+2019/20,Perth and Kinross,G,1,0 - <2 hours,15,15.8
+2019/20,Perth and Kinross,H,1,0 - <2 hours,5,3.7
+2019/20,Perth and Kinross,I (Least Independent),1,0 - <2 hours,15,7.7
+2019/20,Perth and Kinross,A (Most Independent),2,2 - <4 hours,30,13.6
+2019/20,Perth and Kinross,B,2,2 - <4 hours,160,29.4
+2019/20,Perth and Kinross,C,2,2 - <4 hours,85,37.8
+2019/20,Perth and Kinross,D,2,2 - <4 hours,90,23.4
+2019/20,Perth and Kinross,E,2,2 - <4 hours,35,30.4
+2019/20,Perth and Kinross,F,2,2 - <4 hours,40,19
+2019/20,Perth and Kinross,G,2,2 - <4 hours,15,15.8
+2019/20,Perth and Kinross,H,2,2 - <4 hours,20,14.8
+2019/20,Perth and Kinross,I (Least Independent),2,2 - <4 hours,25,12.8
+2019/20,Perth and Kinross,A (Most Independent),3,4 - <10 hours,100,45.5
+2019/20,Perth and Kinross,B,3,4 - <10 hours,180,33
+2019/20,Perth and Kinross,C,3,4 - <10 hours,80,35.6
+2019/20,Perth and Kinross,D,3,4 - <10 hours,175,45.5
+2019/20,Perth and Kinross,E,3,4 - <10 hours,55,47.8
+2019/20,Perth and Kinross,F,3,4 - <10 hours,105,50
+2019/20,Perth and Kinross,G,3,4 - <10 hours,50,52.6
+2019/20,Perth and Kinross,H,3,4 - <10 hours,75,55.6
+2019/20,Perth and Kinross,I (Least Independent),3,4 - <10 hours,85,43.6
+2019/20,Perth and Kinross,A (Most Independent),4,10+ hours,30,13.6
+2019/20,Perth and Kinross,B,4,10+ hours,25,4.6
+2019/20,Perth and Kinross,C,4,10+ hours,15,6.7
+2019/20,Perth and Kinross,D,4,10+ hours,60,15.6
+2019/20,Perth and Kinross,E,4,10+ hours,10,8.7
+2019/20,Perth and Kinross,F,4,10+ hours,35,16.7
+2019/20,Perth and Kinross,G,4,10+ hours,15,15.8
+2019/20,Perth and Kinross,H,4,10+ hours,35,25.9
+2019/20,Perth and Kinross,I (Least Independent),4,10+ hours,70,35.9
+2020/21,Clackmannanshire,A (Most Independent),1,0 - <2 hours,10,25
+2020/21,Clackmannanshire,B,1,0 - <2 hours,30,33.3
+2020/21,Clackmannanshire,C,1,0 - <2 hours,5,16.7
+2020/21,Clackmannanshire,D,1,0 - <2 hours,5,11.1
+2020/21,Clackmannanshire,E,1,0 - <2 hours,0,0
+2020/21,Clackmannanshire,F,1,0 - <2 hours,5,9.1
+2020/21,Clackmannanshire,G,1,0 - <2 hours,0,NA
+2020/21,Clackmannanshire,H,1,0 - <2 hours,0,0
+2020/21,Clackmannanshire,I (Least Independent),1,0 - <2 hours,5,12.5
+2020/21,Clackmannanshire,A (Most Independent),2,2 - <4 hours,15,37.5
+2020/21,Clackmannanshire,B,2,2 - <4 hours,30,33.3
+2020/21,Clackmannanshire,C,2,2 - <4 hours,5,16.7
+2020/21,Clackmannanshire,D,2,2 - <4 hours,15,33.3
+2020/21,Clackmannanshire,E,2,2 - <4 hours,5,33.3
+2020/21,Clackmannanshire,F,2,2 - <4 hours,10,18.2
+2020/21,Clackmannanshire,G,2,2 - <4 hours,0,NA
+2020/21,Clackmannanshire,H,2,2 - <4 hours,5,33.3
+2020/21,Clackmannanshire,I (Least Independent),2,2 - <4 hours,10,25
+2020/21,Clackmannanshire,A (Most Independent),3,4 - <10 hours,15,37.5
+2020/21,Clackmannanshire,B,3,4 - <10 hours,30,33.3
+2020/21,Clackmannanshire,C,3,4 - <10 hours,20,66.7
+2020/21,Clackmannanshire,D,3,4 - <10 hours,20,44.4
+2020/21,Clackmannanshire,E,3,4 - <10 hours,5,33.3
+2020/21,Clackmannanshire,F,3,4 - <10 hours,20,36.4
+2020/21,Clackmannanshire,G,3,4 - <10 hours,0,NA
+2020/21,Clackmannanshire,H,3,4 - <10 hours,5,33.3
+2020/21,Clackmannanshire,I (Least Independent),3,4 - <10 hours,15,37.5
+2020/21,Clackmannanshire,A (Most Independent),4,10+ hours,0,0
+2020/21,Clackmannanshire,B,4,10+ hours,0,0
+2020/21,Clackmannanshire,C,4,10+ hours,0,0
+2020/21,Clackmannanshire,D,4,10+ hours,5,11.1
+2020/21,Clackmannanshire,E,4,10+ hours,5,33.3
+2020/21,Clackmannanshire,F,4,10+ hours,20,36.4
+2020/21,Clackmannanshire,G,4,10+ hours,0,NA
+2020/21,Clackmannanshire,H,4,10+ hours,5,33.3
+2020/21,Clackmannanshire,I (Least Independent),4,10+ hours,10,25
+2020/21,East Dunbartonshire,A (Most Independent),1,0 - <2 hours,0,NA
+2020/21,East Dunbartonshire,B,1,0 - <2 hours,0,NA
+2020/21,East Dunbartonshire,C,1,0 - <2 hours,0,NA
+2020/21,East Dunbartonshire,D,1,0 - <2 hours,0,NA
+2020/21,East Dunbartonshire,E,1,0 - <2 hours,0,NA
+2020/21,East Dunbartonshire,F,1,0 - <2 hours,0,0
+2020/21,East Dunbartonshire,G,1,0 - <2 hours,0,0
+2020/21,East Dunbartonshire,H,1,0 - <2 hours,5,7.1
+2020/21,East Dunbartonshire,I (Least Independent),1,0 - <2 hours,10,8
+2020/21,East Dunbartonshire,A (Most Independent),2,2 - <4 hours,0,NA
+2020/21,East Dunbartonshire,B,2,2 - <4 hours,0,NA
+2020/21,East Dunbartonshire,C,2,2 - <4 hours,0,NA
+2020/21,East Dunbartonshire,D,2,2 - <4 hours,0,NA
+2020/21,East Dunbartonshire,E,2,2 - <4 hours,0,NA
+2020/21,East Dunbartonshire,F,2,2 - <4 hours,5,20
+2020/21,East Dunbartonshire,G,2,2 - <4 hours,5,50
+2020/21,East Dunbartonshire,H,2,2 - <4 hours,15,21.4
+2020/21,East Dunbartonshire,I (Least Independent),2,2 - <4 hours,25,20
+2020/21,East Dunbartonshire,A (Most Independent),3,4 - <10 hours,0,NA
+2020/21,East Dunbartonshire,B,3,4 - <10 hours,0,NA
+2020/21,East Dunbartonshire,C,3,4 - <10 hours,0,NA
+2020/21,East Dunbartonshire,D,3,4 - <10 hours,0,NA
+2020/21,East Dunbartonshire,E,3,4 - <10 hours,0,NA
+2020/21,East Dunbartonshire,F,3,4 - <10 hours,15,60
+2020/21,East Dunbartonshire,G,3,4 - <10 hours,5,50
+2020/21,East Dunbartonshire,H,3,4 - <10 hours,35,50
+2020/21,East Dunbartonshire,I (Least Independent),3,4 - <10 hours,65,52
+2020/21,East Dunbartonshire,A (Most Independent),4,10+ hours,0,NA
+2020/21,East Dunbartonshire,B,4,10+ hours,0,NA
+2020/21,East Dunbartonshire,C,4,10+ hours,0,NA
+2020/21,East Dunbartonshire,D,4,10+ hours,0,NA
+2020/21,East Dunbartonshire,E,4,10+ hours,0,NA
+2020/21,East Dunbartonshire,F,4,10+ hours,5,20
+2020/21,East Dunbartonshire,G,4,10+ hours,0,0
+2020/21,East Dunbartonshire,H,4,10+ hours,15,21.4
+2020/21,East Dunbartonshire,I (Least Independent),4,10+ hours,25,20
+2020/21,Inverclyde,A (Most Independent),1,0 - <2 hours,50,90.9
+2020/21,Inverclyde,B,1,0 - <2 hours,85,77.3
+2020/21,Inverclyde,C,1,0 - <2 hours,45,75
+2020/21,Inverclyde,D,1,0 - <2 hours,20,66.7
+2020/21,Inverclyde,E,1,0 - <2 hours,10,100
+2020/21,Inverclyde,F,1,0 - <2 hours,30,46.2
+2020/21,Inverclyde,G,1,0 - <2 hours,0,NA
+2020/21,Inverclyde,H,1,0 - <2 hours,5,50
+2020/21,Inverclyde,I (Least Independent),1,0 - <2 hours,20,36.4
+2020/21,Inverclyde,A (Most Independent),2,2 - <4 hours,5,9.1
+2020/21,Inverclyde,B,2,2 - <4 hours,20,18.2
+2020/21,Inverclyde,C,2,2 - <4 hours,10,16.7
+2020/21,Inverclyde,D,2,2 - <4 hours,5,16.7
+2020/21,Inverclyde,E,2,2 - <4 hours,0,0
+2020/21,Inverclyde,F,2,2 - <4 hours,20,30.8
+2020/21,Inverclyde,G,2,2 - <4 hours,0,NA
+2020/21,Inverclyde,H,2,2 - <4 hours,0,0
+2020/21,Inverclyde,I (Least Independent),2,2 - <4 hours,15,27.3
+2020/21,Inverclyde,A (Most Independent),3,4 - <10 hours,0,0
+2020/21,Inverclyde,B,3,4 - <10 hours,5,4.5
+2020/21,Inverclyde,C,3,4 - <10 hours,5,8.3
+2020/21,Inverclyde,D,3,4 - <10 hours,5,16.7
+2020/21,Inverclyde,E,3,4 - <10 hours,0,0
+2020/21,Inverclyde,F,3,4 - <10 hours,15,23.1
+2020/21,Inverclyde,G,3,4 - <10 hours,0,NA
+2020/21,Inverclyde,H,3,4 - <10 hours,5,50
+2020/21,Inverclyde,I (Least Independent),3,4 - <10 hours,15,27.3
+2020/21,Inverclyde,A (Most Independent),4,10+ hours,0,0
+2020/21,Inverclyde,B,4,10+ hours,0,0
+2020/21,Inverclyde,C,4,10+ hours,0,0
+2020/21,Inverclyde,D,4,10+ hours,0,0
+2020/21,Inverclyde,E,4,10+ hours,0,0
+2020/21,Inverclyde,F,4,10+ hours,0,0
+2020/21,Inverclyde,G,4,10+ hours,0,NA
+2020/21,Inverclyde,H,4,10+ hours,0,0
+2020/21,Inverclyde,I (Least Independent),4,10+ hours,5,9.1
+2020/21,Midlothian,A (Most Independent),1,0 - <2 hours,0,NA
+2020/21,Midlothian,B,1,0 - <2 hours,5,50
+2020/21,Midlothian,C,1,0 - <2 hours,5,25
+2020/21,Midlothian,D,1,0 - <2 hours,0,0
+2020/21,Midlothian,E,1,0 - <2 hours,0,0
+2020/21,Midlothian,F,1,0 - <2 hours,5,14.3
+2020/21,Midlothian,G,1,0 - <2 hours,0,NA
+2020/21,Midlothian,H,1,0 - <2 hours,0,0
+2020/21,Midlothian,I (Least Independent),1,0 - <2 hours,5,25
+2020/21,Midlothian,A (Most Independent),2,2 - <4 hours,0,NA
+2020/21,Midlothian,B,2,2 - <4 hours,0,0
+2020/21,Midlothian,C,2,2 - <4 hours,5,25
+2020/21,Midlothian,D,2,2 - <4 hours,0,0
+2020/21,Midlothian,E,2,2 - <4 hours,0,0
+2020/21,Midlothian,F,2,2 - <4 hours,5,14.3
+2020/21,Midlothian,G,2,2 - <4 hours,0,NA
+2020/21,Midlothian,H,2,2 - <4 hours,5,33.3
+2020/21,Midlothian,I (Least Independent),2,2 - <4 hours,5,25
+2020/21,Midlothian,A (Most Independent),3,4 - <10 hours,0,NA
+2020/21,Midlothian,B,3,4 - <10 hours,5,50
+2020/21,Midlothian,C,3,4 - <10 hours,5,25
+2020/21,Midlothian,D,3,4 - <10 hours,5,100
+2020/21,Midlothian,E,3,4 - <10 hours,5,100
+2020/21,Midlothian,F,3,4 - <10 hours,15,42.9
+2020/21,Midlothian,G,3,4 - <10 hours,0,NA
+2020/21,Midlothian,H,3,4 - <10 hours,5,33.3
+2020/21,Midlothian,I (Least Independent),3,4 - <10 hours,5,25
+2020/21,Midlothian,A (Most Independent),4,10+ hours,0,NA
+2020/21,Midlothian,B,4,10+ hours,0,0
+2020/21,Midlothian,C,4,10+ hours,5,25
+2020/21,Midlothian,D,4,10+ hours,0,0
+2020/21,Midlothian,E,4,10+ hours,0,0
+2020/21,Midlothian,F,4,10+ hours,10,28.6
+2020/21,Midlothian,G,4,10+ hours,0,NA
+2020/21,Midlothian,H,4,10+ hours,5,33.3
+2020/21,Midlothian,I (Least Independent),4,10+ hours,5,25
+2020/21,North Lanarkshire,A (Most Independent),1,0 - <2 hours,20,23.5
+2020/21,North Lanarkshire,B,1,0 - <2 hours,75,30.6
+2020/21,North Lanarkshire,C,1,0 - <2 hours,45,23.1
+2020/21,North Lanarkshire,D,1,0 - <2 hours,55,25
+2020/21,North Lanarkshire,E,1,0 - <2 hours,10,33.3
+2020/21,North Lanarkshire,F,1,0 - <2 hours,40,22.2
+2020/21,North Lanarkshire,G,1,0 - <2 hours,5,25
+2020/21,North Lanarkshire,H,1,0 - <2 hours,10,18.2
+2020/21,North Lanarkshire,I (Least Independent),1,0 - <2 hours,55,20
+2020/21,North Lanarkshire,A (Most Independent),2,2 - <4 hours,25,29.4
+2020/21,North Lanarkshire,B,2,2 - <4 hours,85,34.7
+2020/21,North Lanarkshire,C,2,2 - <4 hours,60,30.8
+2020/21,North Lanarkshire,D,2,2 - <4 hours,65,29.5
+2020/21,North Lanarkshire,E,2,2 - <4 hours,10,33.3
+2020/21,North Lanarkshire,F,2,2 - <4 hours,40,22.2
+2020/21,North Lanarkshire,G,2,2 - <4 hours,5,25
+2020/21,North Lanarkshire,H,2,2 - <4 hours,15,27.3
+2020/21,North Lanarkshire,I (Least Independent),2,2 - <4 hours,85,30.9
+2020/21,North Lanarkshire,A (Most Independent),3,4 - <10 hours,35,41.2
+2020/21,North Lanarkshire,B,3,4 - <10 hours,70,28.6
+2020/21,North Lanarkshire,C,3,4 - <10 hours,75,38.5
+2020/21,North Lanarkshire,D,3,4 - <10 hours,80,36.4
+2020/21,North Lanarkshire,E,3,4 - <10 hours,10,33.3
+2020/21,North Lanarkshire,F,3,4 - <10 hours,80,44.4
+2020/21,North Lanarkshire,G,3,4 - <10 hours,10,50
+2020/21,North Lanarkshire,H,3,4 - <10 hours,25,45.5
+2020/21,North Lanarkshire,I (Least Independent),3,4 - <10 hours,110,40
+2020/21,North Lanarkshire,A (Most Independent),4,10+ hours,5,5.9
+2020/21,North Lanarkshire,B,4,10+ hours,15,6.1
+2020/21,North Lanarkshire,C,4,10+ hours,15,7.7
+2020/21,North Lanarkshire,D,4,10+ hours,20,9.1
+2020/21,North Lanarkshire,E,4,10+ hours,0,0
+2020/21,North Lanarkshire,F,4,10+ hours,20,11.1
+2020/21,North Lanarkshire,G,4,10+ hours,0,0
+2020/21,North Lanarkshire,H,4,10+ hours,5,9.1
+2020/21,North Lanarkshire,I (Least Independent),4,10+ hours,25,9.1
+2020/21,Perth and Kinross,A (Most Independent),1,0 - <2 hours,40,25.8
+2020/21,Perth and Kinross,B,1,0 - <2 hours,180,31.3
+2020/21,Perth and Kinross,C,1,0 - <2 hours,65,23.6
+2020/21,Perth and Kinross,D,1,0 - <2 hours,65,15.5
+2020/21,Perth and Kinross,E,1,0 - <2 hours,20,15.4
+2020/21,Perth and Kinross,F,1,0 - <2 hours,15,6.8
+2020/21,Perth and Kinross,G,1,0 - <2 hours,10,12.5
+2020/21,Perth and Kinross,H,1,0 - <2 hours,5,4
+2020/21,Perth and Kinross,I (Least Independent),1,0 - <2 hours,15,8.3
+2020/21,Perth and Kinross,A (Most Independent),2,2 - <4 hours,35,22.6
+2020/21,Perth and Kinross,B,2,2 - <4 hours,170,29.6
+2020/21,Perth and Kinross,C,2,2 - <4 hours,80,29.1
+2020/21,Perth and Kinross,D,2,2 - <4 hours,100,23.8
+2020/21,Perth and Kinross,E,2,2 - <4 hours,30,23.1
+2020/21,Perth and Kinross,F,2,2 - <4 hours,45,20.5
+2020/21,Perth and Kinross,G,2,2 - <4 hours,15,18.8
+2020/21,Perth and Kinross,H,2,2 - <4 hours,25,20
+2020/21,Perth and Kinross,I (Least Independent),2,2 - <4 hours,20,11.1
+2020/21,Perth and Kinross,A (Most Independent),3,4 - <10 hours,55,35.5
+2020/21,Perth and Kinross,B,3,4 - <10 hours,190,33
+2020/21,Perth and Kinross,C,3,4 - <10 hours,105,38.2
+2020/21,Perth and Kinross,D,3,4 - <10 hours,200,47.6
+2020/21,Perth and Kinross,E,3,4 - <10 hours,60,46.2
+2020/21,Perth and Kinross,F,3,4 - <10 hours,115,52.3
+2020/21,Perth and Kinross,G,3,4 - <10 hours,35,43.8
+2020/21,Perth and Kinross,H,3,4 - <10 hours,60,48
+2020/21,Perth and Kinross,I (Least Independent),3,4 - <10 hours,80,44.4
+2020/21,Perth and Kinross,A (Most Independent),4,10+ hours,25,16.1
+2020/21,Perth and Kinross,B,4,10+ hours,35,6.1
+2020/21,Perth and Kinross,C,4,10+ hours,25,9.1
+2020/21,Perth and Kinross,D,4,10+ hours,55,13.1
+2020/21,Perth and Kinross,E,4,10+ hours,20,15.4
+2020/21,Perth and Kinross,F,4,10+ hours,45,20.5
+2020/21,Perth and Kinross,G,4,10+ hours,20,25
+2020/21,Perth and Kinross,H,4,10+ hours,35,28
+2020/21,Perth and Kinross,I (Least Independent),4,10+ hours,65,36.1
+2020/21,Renfrewshire,A (Most Independent),1,0 - <2 hours,10,33.3
+2020/21,Renfrewshire,B,1,0 - <2 hours,15,17.6
+2020/21,Renfrewshire,C,1,0 - <2 hours,5,14.3
+2020/21,Renfrewshire,D,1,0 - <2 hours,5,14.3
+2020/21,Renfrewshire,E,1,0 - <2 hours,5,14.3
+2020/21,Renfrewshire,F,1,0 - <2 hours,5,10
+2020/21,Renfrewshire,G,1,0 - <2 hours,5,33.3
+2020/21,Renfrewshire,H,1,0 - <2 hours,10,20
+2020/21,Renfrewshire,I (Least Independent),1,0 - <2 hours,10,6.7
+2020/21,Renfrewshire,A (Most Independent),2,2 - <4 hours,5,16.7
+2020/21,Renfrewshire,B,2,2 - <4 hours,35,41.2
+2020/21,Renfrewshire,C,2,2 - <4 hours,10,28.6
+2020/21,Renfrewshire,D,2,2 - <4 hours,15,42.9
+2020/21,Renfrewshire,E,2,2 - <4 hours,15,42.9
+2020/21,Renfrewshire,F,2,2 - <4 hours,10,20
+2020/21,Renfrewshire,G,2,2 - <4 hours,5,33.3
+2020/21,Renfrewshire,H,2,2 - <4 hours,15,30
+2020/21,Renfrewshire,I (Least Independent),2,2 - <4 hours,35,23.3
+2020/21,Renfrewshire,A (Most Independent),3,4 - <10 hours,10,33.3
+2020/21,Renfrewshire,B,3,4 - <10 hours,30,35.3
+2020/21,Renfrewshire,C,3,4 - <10 hours,20,57.1
+2020/21,Renfrewshire,D,3,4 - <10 hours,15,42.9
+2020/21,Renfrewshire,E,3,4 - <10 hours,15,42.9
+2020/21,Renfrewshire,F,3,4 - <10 hours,25,50
+2020/21,Renfrewshire,G,3,4 - <10 hours,5,33.3
+2020/21,Renfrewshire,H,3,4 - <10 hours,20,40
+2020/21,Renfrewshire,I (Least Independent),3,4 - <10 hours,60,40
+2020/21,Renfrewshire,A (Most Independent),4,10+ hours,5,16.7
+2020/21,Renfrewshire,B,4,10+ hours,5,5.9
+2020/21,Renfrewshire,C,4,10+ hours,0,0
+2020/21,Renfrewshire,D,4,10+ hours,0,0
+2020/21,Renfrewshire,E,4,10+ hours,0,0
+2020/21,Renfrewshire,F,4,10+ hours,10,20
+2020/21,Renfrewshire,G,4,10+ hours,0,0
+2020/21,Renfrewshire,H,4,10+ hours,5,10
+2020/21,Renfrewshire,I (Least Independent),4,10+ hours,45,30

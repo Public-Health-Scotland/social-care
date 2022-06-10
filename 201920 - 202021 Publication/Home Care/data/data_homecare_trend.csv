@@ -1,0 +1,2473 @@
+time_period,financial_quarter,sending_location,age_group,measure,value
+Financial Quarter,2017/18 Q4,Scotland (Estimated),All Ages,"Rate per 1,000 Population",12.5
+Financial Quarter,2017/18 Q4,Scotland (Estimated),All Ages,Number of People,67975
+Financial Quarter,2017/18 Q4,Scotland (Estimated),All Ages,Number of Hours,8297750
+Financial Quarter,2017/18 Q4,Aberdeen City,All Ages,"Rate per 1,000 Population",8.9
+Financial Quarter,2017/18 Q4,Aberdeen City,All Ages,Number of People,2035
+Financial Quarter,2017/18 Q4,Aberdeen City,All Ages,Number of Hours,325055
+Financial Quarter,2017/18 Q4,Aberdeenshire,All Ages,"Rate per 1,000 Population",9.7
+Financial Quarter,2017/18 Q4,Aberdeenshire,All Ages,Number of People,2535
+Financial Quarter,2017/18 Q4,Aberdeenshire,All Ages,Number of Hours,233160
+Financial Quarter,2017/18 Q4,Angus,All Ages,"Rate per 1,000 Population",9.9
+Financial Quarter,2017/18 Q4,Angus,All Ages,Number of People,1150
+Financial Quarter,2017/18 Q4,Angus,All Ages,Number of Hours,90520
+Financial Quarter,2017/18 Q4,Argyll and Bute,All Ages,"Rate per 1,000 Population",16.8
+Financial Quarter,2017/18 Q4,Argyll and Bute,All Ages,Number of People,1455
+Financial Quarter,2017/18 Q4,Argyll and Bute,All Ages,Number of Hours,184510
+Financial Quarter,2017/18 Q4,City of Edinburgh,All Ages,"Rate per 1,000 Population",10.3
+Financial Quarter,2017/18 Q4,City of Edinburgh,All Ages,Number of People,5295
+Financial Quarter,2017/18 Q4,City of Edinburgh,All Ages,Number of Hours,1192495
+Financial Quarter,2017/18 Q4,Clackmannanshire,All Ages,"Rate per 1,000 Population",16.7
+Financial Quarter,2017/18 Q4,Clackmannanshire,All Ages,Number of People,860
+Financial Quarter,2017/18 Q4,Clackmannanshire,All Ages,Number of Hours,133285
+Financial Quarter,2017/18 Q4,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",14.5
+Financial Quarter,2017/18 Q4,Comhairle nan Eilean Siar,All Ages,Number of People,390
+Financial Quarter,2017/18 Q4,Comhairle nan Eilean Siar,All Ages,Number of Hours,21610
+Financial Quarter,2017/18 Q4,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",16.3
+Financial Quarter,2017/18 Q4,Dumfries and Galloway,All Ages,Number of People,2425
+Financial Quarter,2017/18 Q4,Dumfries and Galloway,All Ages,Number of Hours,429210
+Financial Quarter,2017/18 Q4,Dundee City,All Ages,"Rate per 1,000 Population",14.3
+Financial Quarter,2017/18 Q4,Dundee City,All Ages,Number of People,2130
+Financial Quarter,2017/18 Q4,Dundee City,All Ages,Number of Hours,263020
+Financial Quarter,2017/18 Q4,East Ayrshire,All Ages,"Rate per 1,000 Population",16.6
+Financial Quarter,2017/18 Q4,East Ayrshire,All Ages,Number of People,2025
+Financial Quarter,2017/18 Q4,East Ayrshire,All Ages,Number of Hours,262980
+Financial Quarter,2017/18 Q4,East Dunbartonshire,All Ages,"Rate per 1,000 Population",14.4
+Financial Quarter,2017/18 Q4,East Dunbartonshire,All Ages,Number of People,1555
+Financial Quarter,2017/18 Q4,East Dunbartonshire,All Ages,Number of Hours,162980
+Financial Quarter,2017/18 Q4,East Lothian,All Ages,"Rate per 1,000 Population",13.8
+Financial Quarter,2017/18 Q4,East Lothian,All Ages,Number of People,1450
+Financial Quarter,2017/18 Q4,East Lothian,All Ages,Number of Hours,258600
+Financial Quarter,2017/18 Q4,East Renfrewshire,All Ages,"Rate per 1,000 Population",12.2
+Financial Quarter,2017/18 Q4,East Renfrewshire,All Ages,Number of People,1160
+Financial Quarter,2017/18 Q4,East Renfrewshire,All Ages,Number of Hours,106350
+Financial Quarter,2017/18 Q4,Falkirk,All Ages,"Rate per 1,000 Population",16.8
+Financial Quarter,2017/18 Q4,Falkirk,All Ages,Number of People,2690
+Financial Quarter,2017/18 Q4,Falkirk,All Ages,Number of Hours,316480
+Financial Quarter,2017/18 Q4,Fife,All Ages,"Rate per 1,000 Population",10.6
+Financial Quarter,2017/18 Q4,Fife,All Ages,Number of People,3950
+Financial Quarter,2017/18 Q4,Fife,All Ages,Number of Hours,723675
+Financial Quarter,2017/18 Q4,Glasgow City,All Ages,"Rate per 1,000 Population",10.7
+Financial Quarter,2017/18 Q4,Glasgow City,All Ages,Number of People,6665
+Financial Quarter,2017/18 Q4,Glasgow City,All Ages,Number of Hours,585810
+Financial Quarter,2017/18 Q4,Highland,All Ages,"Rate per 1,000 Population",9.2
+Financial Quarter,2017/18 Q4,Highland,All Ages,Number of People,2170
+Financial Quarter,2017/18 Q4,Highland,All Ages,Number of Hours,202950
+Financial Quarter,2017/18 Q4,Inverclyde,All Ages,"Rate per 1,000 Population",17.9
+Financial Quarter,2017/18 Q4,Inverclyde,All Ages,Number of People,1410
+Financial Quarter,2017/18 Q4,Inverclyde,All Ages,Number of Hours,110695
+Financial Quarter,2017/18 Q4,Midlothian,All Ages,"Rate per 1,000 Population",12.4
+Financial Quarter,2017/18 Q4,Midlothian,All Ages,Number of People,1115
+Financial Quarter,2017/18 Q4,Moray,All Ages,"Rate per 1,000 Population",13.8
+Financial Quarter,2017/18 Q4,Moray,All Ages,Number of People,1320
+Financial Quarter,2017/18 Q4,North Ayrshire,All Ages,"Rate per 1,000 Population",17.3
+Financial Quarter,2017/18 Q4,North Ayrshire,All Ages,Number of People,2350
+Financial Quarter,2017/18 Q4,North Lanarkshire,All Ages,"Rate per 1,000 Population",12
+Financial Quarter,2017/18 Q4,North Lanarkshire,All Ages,Number of People,4095
+Financial Quarter,2017/18 Q4,North Lanarkshire,All Ages,Number of Hours,383565
+Financial Quarter,2017/18 Q4,Orkney Islands,All Ages,"Rate per 1,000 Population",10
+Financial Quarter,2017/18 Q4,Orkney Islands,All Ages,Number of People,220
+Financial Quarter,2017/18 Q4,Orkney Islands,All Ages,Number of Hours,20400
+Financial Quarter,2017/18 Q4,Perth and Kinross,All Ages,"Rate per 1,000 Population",13.9
+Financial Quarter,2017/18 Q4,Perth and Kinross,All Ages,Number of People,2100
+Financial Quarter,2017/18 Q4,Perth and Kinross,All Ages,Number of Hours,350355
+Financial Quarter,2017/18 Q4,Renfrewshire,All Ages,"Rate per 1,000 Population",14.2
+Financial Quarter,2017/18 Q4,Renfrewshire,All Ages,Number of People,2505
+Financial Quarter,2017/18 Q4,Renfrewshire,All Ages,Number of Hours,428920
+Financial Quarter,2017/18 Q4,Scottish Borders,All Ages,"Rate per 1,000 Population",11.4
+Financial Quarter,2017/18 Q4,Scottish Borders,All Ages,Number of People,1310
+Financial Quarter,2017/18 Q4,Scottish Borders,All Ages,Number of Hours,95070
+Financial Quarter,2017/18 Q4,Shetland,All Ages,"Rate per 1,000 Population",16.2
+Financial Quarter,2017/18 Q4,Shetland,All Ages,Number of People,375
+Financial Quarter,2017/18 Q4,Shetland,All Ages,Number of Hours,33005
+Financial Quarter,2017/18 Q4,South Ayrshire,All Ages,"Rate per 1,000 Population",17.2
+Financial Quarter,2017/18 Q4,South Ayrshire,All Ages,Number of People,1935
+Financial Quarter,2017/18 Q4,South Ayrshire,All Ages,Number of Hours,206225
+Financial Quarter,2017/18 Q4,South Lanarkshire,All Ages,"Rate per 1,000 Population",13.1
+Financial Quarter,2017/18 Q4,South Lanarkshire,All Ages,Number of People,4160
+Financial Quarter,2017/18 Q4,South Lanarkshire,All Ages,Number of Hours,538770
+Financial Quarter,2017/18 Q4,Stirling,All Ages,"Rate per 1,000 Population",14
+Financial Quarter,2017/18 Q4,Stirling,All Ages,Number of People,1315
+Financial Quarter,2017/18 Q4,Stirling,All Ages,Number of Hours,238330
+Financial Quarter,2017/18 Q4,West Dunbartonshire,All Ages,"Rate per 1,000 Population",19.3
+Financial Quarter,2017/18 Q4,West Dunbartonshire,All Ages,Number of People,1725
+Financial Quarter,2017/18 Q4,West Dunbartonshire,All Ages,Number of Hours,116880
+Financial Quarter,2017/18 Q4,West Lothian,All Ages,"Rate per 1,000 Population",11.6
+Financial Quarter,2017/18 Q4,West Lothian,All Ages,Number of People,2110
+Financial Quarter,2017/18 Q4,West Lothian,All Ages,Number of Hours,282845
+Financial Quarter,2018/19 Q1,Scotland (Estimated),All Ages,"Rate per 1,000 Population",12.3
+Financial Quarter,2018/19 Q1,Scotland (Estimated),All Ages,Number of People,66915
+Financial Quarter,2018/19 Q1,Scotland (Estimated),All Ages,Number of Hours,8879510
+Financial Quarter,2018/19 Q1,Aberdeen City,All Ages,"Rate per 1,000 Population",9
+Financial Quarter,2018/19 Q1,Aberdeen City,All Ages,Number of People,2055
+Financial Quarter,2018/19 Q1,Aberdeen City,All Ages,Number of Hours,339930
+Financial Quarter,2018/19 Q1,Aberdeenshire,All Ages,"Rate per 1,000 Population",8.5
+Financial Quarter,2018/19 Q1,Aberdeenshire,All Ages,Number of People,2210
+Financial Quarter,2018/19 Q1,Aberdeenshire,All Ages,Number of Hours,213000
+Financial Quarter,2018/19 Q1,Angus,All Ages,"Rate per 1,000 Population",10.7
+Financial Quarter,2018/19 Q1,Angus,All Ages,Number of People,1245
+Financial Quarter,2018/19 Q1,Angus,All Ages,Number of Hours,99610
+Financial Quarter,2018/19 Q1,Argyll and Bute,All Ages,"Rate per 1,000 Population",18.7
+Financial Quarter,2018/19 Q1,Argyll and Bute,All Ages,Number of People,1615
+Financial Quarter,2018/19 Q1,Argyll and Bute,All Ages,Number of Hours,288160
+Financial Quarter,2018/19 Q1,City of Edinburgh,All Ages,"Rate per 1,000 Population",10.2
+Financial Quarter,2018/19 Q1,City of Edinburgh,All Ages,Number of People,5270
+Financial Quarter,2018/19 Q1,City of Edinburgh,All Ages,Number of Hours,1138150
+Financial Quarter,2018/19 Q1,Clackmannanshire,All Ages,"Rate per 1,000 Population",16.3
+Financial Quarter,2018/19 Q1,Clackmannanshire,All Ages,Number of People,840
+Financial Quarter,2018/19 Q1,Clackmannanshire,All Ages,Number of Hours,131450
+Financial Quarter,2018/19 Q1,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",14.3
+Financial Quarter,2018/19 Q1,Comhairle nan Eilean Siar,All Ages,Number of People,385
+Financial Quarter,2018/19 Q1,Comhairle nan Eilean Siar,All Ages,Number of Hours,22170
+Financial Quarter,2018/19 Q1,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",15.9
+Financial Quarter,2018/19 Q1,Dumfries and Galloway,All Ages,Number of People,2365
+Financial Quarter,2018/19 Q1,Dumfries and Galloway,All Ages,Number of Hours,438585
+Financial Quarter,2018/19 Q1,Dundee City,All Ages,"Rate per 1,000 Population",14.1
+Financial Quarter,2018/19 Q1,Dundee City,All Ages,Number of People,2100
+Financial Quarter,2018/19 Q1,Dundee City,All Ages,Number of Hours,257615
+Financial Quarter,2018/19 Q1,East Ayrshire,All Ages,"Rate per 1,000 Population",15.9
+Financial Quarter,2018/19 Q1,East Ayrshire,All Ages,Number of People,1940
+Financial Quarter,2018/19 Q1,East Ayrshire,All Ages,Number of Hours,219590
+Financial Quarter,2018/19 Q1,East Dunbartonshire,All Ages,"Rate per 1,000 Population",14.6
+Financial Quarter,2018/19 Q1,East Dunbartonshire,All Ages,Number of People,1585
+Financial Quarter,2018/19 Q1,East Dunbartonshire,All Ages,Number of Hours,170070
+Financial Quarter,2018/19 Q1,East Lothian,All Ages,"Rate per 1,000 Population",13.9
+Financial Quarter,2018/19 Q1,East Lothian,All Ages,Number of People,1470
+Financial Quarter,2018/19 Q1,East Lothian,All Ages,Number of Hours,251995
+Financial Quarter,2018/19 Q1,East Renfrewshire,All Ages,"Rate per 1,000 Population",11.1
+Financial Quarter,2018/19 Q1,East Renfrewshire,All Ages,Number of People,1055
+Financial Quarter,2018/19 Q1,East Renfrewshire,All Ages,Number of Hours,85925
+Financial Quarter,2018/19 Q1,Falkirk,All Ages,"Rate per 1,000 Population",12.8
+Financial Quarter,2018/19 Q1,Falkirk,All Ages,Number of People,2045
+Financial Quarter,2018/19 Q1,Falkirk,All Ages,Number of Hours,154155
+Financial Quarter,2018/19 Q1,Fife,All Ages,"Rate per 1,000 Population",12
+Financial Quarter,2018/19 Q1,Fife,All Ages,Number of People,4465
+Financial Quarter,2018/19 Q1,Fife,All Ages,Number of Hours,752025
+Financial Quarter,2018/19 Q1,Glasgow City,All Ages,"Rate per 1,000 Population",10.2
+Financial Quarter,2018/19 Q1,Glasgow City,All Ages,Number of People,6360
+Financial Quarter,2018/19 Q1,Glasgow City,All Ages,Number of Hours,592485
+Financial Quarter,2018/19 Q1,Highland,All Ages,"Rate per 1,000 Population",9.1
+Financial Quarter,2018/19 Q1,Highland,All Ages,Number of People,2140
+Financial Quarter,2018/19 Q1,Highland,All Ages,Number of Hours,205335
+Financial Quarter,2018/19 Q1,Inverclyde,All Ages,"Rate per 1,000 Population",18
+Financial Quarter,2018/19 Q1,Inverclyde,All Ages,Number of People,1405
+Financial Quarter,2018/19 Q1,Inverclyde,All Ages,Number of Hours,113780
+Financial Quarter,2018/19 Q1,Midlothian,All Ages,"Rate per 1,000 Population",11.2
+Financial Quarter,2018/19 Q1,Midlothian,All Ages,Number of People,1020
+Financial Quarter,2018/19 Q1,Midlothian,All Ages,Number of Hours,93285
+Financial Quarter,2018/19 Q1,Moray,All Ages,"Rate per 1,000 Population",13.5
+Financial Quarter,2018/19 Q1,Moray,All Ages,Number of People,1290
+Financial Quarter,2018/19 Q1,Moray,All Ages,Number of Hours,316310
+Financial Quarter,2018/19 Q1,North Ayrshire,All Ages,"Rate per 1,000 Population",18.1
+Financial Quarter,2018/19 Q1,North Ayrshire,All Ages,Number of People,2450
+Financial Quarter,2018/19 Q1,North Ayrshire,All Ages,Number of Hours,334235
+Financial Quarter,2018/19 Q1,North Lanarkshire,All Ages,"Rate per 1,000 Population",11.7
+Financial Quarter,2018/19 Q1,North Lanarkshire,All Ages,Number of People,3990
+Financial Quarter,2018/19 Q1,North Lanarkshire,All Ages,Number of Hours,386355
+Financial Quarter,2018/19 Q1,Orkney Islands,All Ages,"Rate per 1,000 Population",9.9
+Financial Quarter,2018/19 Q1,Orkney Islands,All Ages,Number of People,220
+Financial Quarter,2018/19 Q1,Orkney Islands,All Ages,Number of Hours,19650
+Financial Quarter,2018/19 Q1,Perth and Kinross,All Ages,"Rate per 1,000 Population",12.1
+Financial Quarter,2018/19 Q1,Perth and Kinross,All Ages,Number of People,1835
+Financial Quarter,2018/19 Q1,Perth and Kinross,All Ages,Number of Hours,235475
+Financial Quarter,2018/19 Q1,Renfrewshire,All Ages,"Rate per 1,000 Population",13.9
+Financial Quarter,2018/19 Q1,Renfrewshire,All Ages,Number of People,2475
+Financial Quarter,2018/19 Q1,Renfrewshire,All Ages,Number of Hours,420585
+Financial Quarter,2018/19 Q1,Scottish Borders,All Ages,"Rate per 1,000 Population",12.1
+Financial Quarter,2018/19 Q1,Scottish Borders,All Ages,Number of People,1395
+Financial Quarter,2018/19 Q1,Scottish Borders,All Ages,Number of Hours,122200
+Financial Quarter,2018/19 Q1,Shetland,All Ages,"Rate per 1,000 Population",16.3
+Financial Quarter,2018/19 Q1,Shetland,All Ages,Number of People,375
+Financial Quarter,2018/19 Q1,Shetland,All Ages,Number of Hours,36040
+Financial Quarter,2018/19 Q1,South Ayrshire,All Ages,"Rate per 1,000 Population",17
+Financial Quarter,2018/19 Q1,South Ayrshire,All Ages,Number of People,1915
+Financial Quarter,2018/19 Q1,South Ayrshire,All Ages,Number of Hours,205635
+Financial Quarter,2018/19 Q1,South Lanarkshire,All Ages,"Rate per 1,000 Population",13
+Financial Quarter,2018/19 Q1,South Lanarkshire,All Ages,Number of People,4135
+Financial Quarter,2018/19 Q1,South Lanarkshire,All Ages,Number of Hours,560555
+Financial Quarter,2018/19 Q1,Stirling,All Ages,"Rate per 1,000 Population",14.9
+Financial Quarter,2018/19 Q1,Stirling,All Ages,Number of People,1410
+Financial Quarter,2018/19 Q1,Stirling,All Ages,Number of Hours,253720
+Financial Quarter,2018/19 Q1,West Dunbartonshire,All Ages,"Rate per 1,000 Population",18.7
+Financial Quarter,2018/19 Q1,West Dunbartonshire,All Ages,Number of People,1670
+Financial Quarter,2018/19 Q1,West Dunbartonshire,All Ages,Number of Hours,138645
+Financial Quarter,2018/19 Q1,West Lothian,All Ages,"Rate per 1,000 Population",12
+Financial Quarter,2018/19 Q1,West Lothian,All Ages,Number of People,2180
+Financial Quarter,2018/19 Q1,West Lothian,All Ages,Number of Hours,282795
+Financial Quarter,2018/19 Q2,Scotland (Estimated),All Ages,"Rate per 1,000 Population",12.2
+Financial Quarter,2018/19 Q2,Scotland (Estimated),All Ages,Number of People,66425
+Financial Quarter,2018/19 Q2,Scotland (Estimated),All Ages,Number of Hours,8890525
+Financial Quarter,2018/19 Q2,Aberdeen City,All Ages,"Rate per 1,000 Population",9.3
+Financial Quarter,2018/19 Q2,Aberdeen City,All Ages,Number of People,2115
+Financial Quarter,2018/19 Q2,Aberdeen City,All Ages,Number of Hours,353495
+Financial Quarter,2018/19 Q2,Aberdeenshire,All Ages,"Rate per 1,000 Population",8.6
+Financial Quarter,2018/19 Q2,Aberdeenshire,All Ages,Number of People,2260
+Financial Quarter,2018/19 Q2,Aberdeenshire,All Ages,Number of Hours,219970
+Financial Quarter,2018/19 Q2,Angus,All Ages,"Rate per 1,000 Population",11.1
+Financial Quarter,2018/19 Q2,Angus,All Ages,Number of People,1285
+Financial Quarter,2018/19 Q2,Angus,All Ages,Number of Hours,111170
+Financial Quarter,2018/19 Q2,Argyll and Bute,All Ages,"Rate per 1,000 Population",18.4
+Financial Quarter,2018/19 Q2,Argyll and Bute,All Ages,Number of People,1585
+Financial Quarter,2018/19 Q2,Argyll and Bute,All Ages,Number of Hours,293710
+Financial Quarter,2018/19 Q2,City of Edinburgh,All Ages,"Rate per 1,000 Population",10.1
+Financial Quarter,2018/19 Q2,City of Edinburgh,All Ages,Number of People,5225
+Financial Quarter,2018/19 Q2,City of Edinburgh,All Ages,Number of Hours,1162060
+Financial Quarter,2018/19 Q2,Clackmannanshire,All Ages,"Rate per 1,000 Population",16.1
+Financial Quarter,2018/19 Q2,Clackmannanshire,All Ages,Number of People,830
+Financial Quarter,2018/19 Q2,Clackmannanshire,All Ages,Number of Hours,136180
+Financial Quarter,2018/19 Q2,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",14.5
+Financial Quarter,2018/19 Q2,Comhairle nan Eilean Siar,All Ages,Number of People,390
+Financial Quarter,2018/19 Q2,Comhairle nan Eilean Siar,All Ages,Number of Hours,21520
+Financial Quarter,2018/19 Q2,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",15.8
+Financial Quarter,2018/19 Q2,Dumfries and Galloway,All Ages,Number of People,2355
+Financial Quarter,2018/19 Q2,Dumfries and Galloway,All Ages,Number of Hours,446420
+Financial Quarter,2018/19 Q2,Dundee City,All Ages,"Rate per 1,000 Population",13.1
+Financial Quarter,2018/19 Q2,Dundee City,All Ages,Number of People,1955
+Financial Quarter,2018/19 Q2,Dundee City,All Ages,Number of Hours,237090
+Financial Quarter,2018/19 Q2,East Ayrshire,All Ages,"Rate per 1,000 Population",15.8
+Financial Quarter,2018/19 Q2,East Ayrshire,All Ages,Number of People,1925
+Financial Quarter,2018/19 Q2,East Ayrshire,All Ages,Number of Hours,212915
+Financial Quarter,2018/19 Q2,East Dunbartonshire,All Ages,"Rate per 1,000 Population",14.8
+Financial Quarter,2018/19 Q2,East Dunbartonshire,All Ages,Number of People,1600
+Financial Quarter,2018/19 Q2,East Dunbartonshire,All Ages,Number of Hours,175820
+Financial Quarter,2018/19 Q2,East Lothian,All Ages,"Rate per 1,000 Population",13.9
+Financial Quarter,2018/19 Q2,East Lothian,All Ages,Number of People,1470
+Financial Quarter,2018/19 Q2,East Lothian,All Ages,Number of Hours,266315
+Financial Quarter,2018/19 Q2,East Renfrewshire,All Ages,"Rate per 1,000 Population",10.9
+Financial Quarter,2018/19 Q2,East Renfrewshire,All Ages,Number of People,1040
+Financial Quarter,2018/19 Q2,East Renfrewshire,All Ages,Number of Hours,92355
+Financial Quarter,2018/19 Q2,Falkirk,All Ages,"Rate per 1,000 Population",12.7
+Financial Quarter,2018/19 Q2,Falkirk,All Ages,Number of People,2040
+Financial Quarter,2018/19 Q2,Falkirk,All Ages,Number of Hours,163350
+Financial Quarter,2018/19 Q2,Fife,All Ages,"Rate per 1,000 Population",12
+Financial Quarter,2018/19 Q2,Fife,All Ages,Number of People,4450
+Financial Quarter,2018/19 Q2,Fife,All Ages,Number of Hours,761040
+Financial Quarter,2018/19 Q2,Glasgow City,All Ages,"Rate per 1,000 Population",10.2
+Financial Quarter,2018/19 Q2,Glasgow City,All Ages,Number of People,6370
+Financial Quarter,2018/19 Q2,Glasgow City,All Ages,Number of Hours,610690
+Financial Quarter,2018/19 Q2,Highland,All Ages,"Rate per 1,000 Population",8.9
+Financial Quarter,2018/19 Q2,Highland,All Ages,Number of People,2095
+Financial Quarter,2018/19 Q2,Highland,All Ages,Number of Hours,206595
+Financial Quarter,2018/19 Q2,Inverclyde,All Ages,"Rate per 1,000 Population",17.5
+Financial Quarter,2018/19 Q2,Inverclyde,All Ages,Number of People,1370
+Financial Quarter,2018/19 Q2,Inverclyde,All Ages,Number of Hours,110755
+Financial Quarter,2018/19 Q2,Midlothian,All Ages,"Rate per 1,000 Population",11.4
+Financial Quarter,2018/19 Q2,Midlothian,All Ages,Number of People,1040
+Financial Quarter,2018/19 Q2,Midlothian,All Ages,Number of Hours,107395
+Financial Quarter,2018/19 Q2,Moray,All Ages,"Rate per 1,000 Population",12.2
+Financial Quarter,2018/19 Q2,Moray,All Ages,Number of People,1170
+Financial Quarter,2018/19 Q2,Moray,All Ages,Number of Hours,203755
+Financial Quarter,2018/19 Q2,North Ayrshire,All Ages,"Rate per 1,000 Population",18.6
+Financial Quarter,2018/19 Q2,North Ayrshire,All Ages,Number of People,2510
+Financial Quarter,2018/19 Q2,North Ayrshire,All Ages,Number of Hours,368985
+Financial Quarter,2018/19 Q2,North Lanarkshire,All Ages,"Rate per 1,000 Population",11.8
+Financial Quarter,2018/19 Q2,North Lanarkshire,All Ages,Number of People,4005
+Financial Quarter,2018/19 Q2,North Lanarkshire,All Ages,Number of Hours,386695
+Financial Quarter,2018/19 Q2,Orkney Islands,All Ages,"Rate per 1,000 Population",9.9
+Financial Quarter,2018/19 Q2,Orkney Islands,All Ages,Number of People,220
+Financial Quarter,2018/19 Q2,Orkney Islands,All Ages,Number of Hours,20085
+Financial Quarter,2018/19 Q2,Perth and Kinross,All Ages,"Rate per 1,000 Population",12
+Financial Quarter,2018/19 Q2,Perth and Kinross,All Ages,Number of People,1815
+Financial Quarter,2018/19 Q2,Perth and Kinross,All Ages,Number of Hours,246005
+Financial Quarter,2018/19 Q2,Renfrewshire,All Ages,"Rate per 1,000 Population",13.6
+Financial Quarter,2018/19 Q2,Renfrewshire,All Ages,Number of People,2425
+Financial Quarter,2018/19 Q2,Renfrewshire,All Ages,Number of Hours,421715
+Financial Quarter,2018/19 Q2,Scottish Borders,All Ages,"Rate per 1,000 Population",12.1
+Financial Quarter,2018/19 Q2,Scottish Borders,All Ages,Number of People,1390
+Financial Quarter,2018/19 Q2,Scottish Borders,All Ages,Number of Hours,120915
+Financial Quarter,2018/19 Q2,Shetland,All Ages,"Rate per 1,000 Population",16.7
+Financial Quarter,2018/19 Q2,Shetland,All Ages,Number of People,385
+Financial Quarter,2018/19 Q2,Shetland,All Ages,Number of Hours,37875
+Financial Quarter,2018/19 Q2,South Ayrshire,All Ages,"Rate per 1,000 Population",17.7
+Financial Quarter,2018/19 Q2,South Ayrshire,All Ages,Number of People,1990
+Financial Quarter,2018/19 Q2,South Ayrshire,All Ages,Number of Hours,221525
+Financial Quarter,2018/19 Q2,South Lanarkshire,All Ages,"Rate per 1,000 Population",13.2
+Financial Quarter,2018/19 Q2,South Lanarkshire,All Ages,Number of People,4215
+Financial Quarter,2018/19 Q2,South Lanarkshire,All Ages,Number of Hours,571455
+Financial Quarter,2018/19 Q2,Stirling,All Ages,"Rate per 1,000 Population",15.2
+Financial Quarter,2018/19 Q2,Stirling,All Ages,Number of People,1435
+Financial Quarter,2018/19 Q2,Stirling,All Ages,Number of Hours,255815
+Financial Quarter,2018/19 Q2,West Dunbartonshire,All Ages,"Rate per 1,000 Population",18.1
+Financial Quarter,2018/19 Q2,West Dunbartonshire,All Ages,Number of People,1610
+Financial Quarter,2018/19 Q2,West Dunbartonshire,All Ages,Number of Hours,119945
+Financial Quarter,2018/19 Q2,West Lothian,All Ages,"Rate per 1,000 Population",10.2
+Financial Quarter,2018/19 Q2,West Lothian,All Ages,Number of People,1855
+Financial Quarter,2018/19 Q2,West Lothian,All Ages,Number of Hours,226915
+Financial Quarter,2018/19 Q3,Scotland (Estimated),All Ages,"Rate per 1,000 Population",12.2
+Financial Quarter,2018/19 Q3,Scotland (Estimated),All Ages,Number of People,66565
+Financial Quarter,2018/19 Q3,Scotland (Estimated),All Ages,Number of Hours,8872475
+Financial Quarter,2018/19 Q3,Aberdeen City,All Ages,"Rate per 1,000 Population",9.3
+Financial Quarter,2018/19 Q3,Aberdeen City,All Ages,Number of People,2115
+Financial Quarter,2018/19 Q3,Aberdeen City,All Ages,Number of Hours,362285
+Financial Quarter,2018/19 Q3,Aberdeenshire,All Ages,"Rate per 1,000 Population",8.6
+Financial Quarter,2018/19 Q3,Aberdeenshire,All Ages,Number of People,2260
+Financial Quarter,2018/19 Q3,Aberdeenshire,All Ages,Number of Hours,224970
+Financial Quarter,2018/19 Q3,Angus,All Ages,"Rate per 1,000 Population",11.8
+Financial Quarter,2018/19 Q3,Angus,All Ages,Number of People,1370
+Financial Quarter,2018/19 Q3,Angus,All Ages,Number of Hours,14185
+Financial Quarter,2018/19 Q3,Argyll and Bute,All Ages,"Rate per 1,000 Population",18.8
+Financial Quarter,2018/19 Q3,Argyll and Bute,All Ages,Number of People,1625
+Financial Quarter,2018/19 Q3,Argyll and Bute,All Ages,Number of Hours,293890
+Financial Quarter,2018/19 Q3,City of Edinburgh,All Ages,"Rate per 1,000 Population",10.1
+Financial Quarter,2018/19 Q3,City of Edinburgh,All Ages,Number of People,5240
+Financial Quarter,2018/19 Q3,City of Edinburgh,All Ages,Number of Hours,1170540
+Financial Quarter,2018/19 Q3,Clackmannanshire,All Ages,"Rate per 1,000 Population",16.2
+Financial Quarter,2018/19 Q3,Clackmannanshire,All Ages,Number of People,835
+Financial Quarter,2018/19 Q3,Clackmannanshire,All Ages,Number of Hours,135605
+Financial Quarter,2018/19 Q3,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",14.2
+Financial Quarter,2018/19 Q3,Comhairle nan Eilean Siar,All Ages,Number of People,380
+Financial Quarter,2018/19 Q3,Comhairle nan Eilean Siar,All Ages,Number of Hours,23375
+Financial Quarter,2018/19 Q3,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",15.7
+Financial Quarter,2018/19 Q3,Dumfries and Galloway,All Ages,Number of People,2335
+Financial Quarter,2018/19 Q3,Dumfries and Galloway,All Ages,Number of Hours,454385
+Financial Quarter,2018/19 Q3,Dundee City,All Ages,"Rate per 1,000 Population",13.3
+Financial Quarter,2018/19 Q3,Dundee City,All Ages,Number of People,1980
+Financial Quarter,2018/19 Q3,Dundee City,All Ages,Number of Hours,230235
+Financial Quarter,2018/19 Q3,East Ayrshire,All Ages,"Rate per 1,000 Population",16
+Financial Quarter,2018/19 Q3,East Ayrshire,All Ages,Number of People,1955
+Financial Quarter,2018/19 Q3,East Ayrshire,All Ages,Number of Hours,190370
+Financial Quarter,2018/19 Q3,East Dunbartonshire,All Ages,"Rate per 1,000 Population",15
+Financial Quarter,2018/19 Q3,East Dunbartonshire,All Ages,Number of People,1630
+Financial Quarter,2018/19 Q3,East Dunbartonshire,All Ages,Number of Hours,174785
+Financial Quarter,2018/19 Q3,East Lothian,All Ages,"Rate per 1,000 Population",13.7
+Financial Quarter,2018/19 Q3,East Lothian,All Ages,Number of People,1445
+Financial Quarter,2018/19 Q3,East Lothian,All Ages,Number of Hours,262855
+Financial Quarter,2018/19 Q3,East Renfrewshire,All Ages,"Rate per 1,000 Population",13
+Financial Quarter,2018/19 Q3,East Renfrewshire,All Ages,Number of People,1240
+Financial Quarter,2018/19 Q3,East Renfrewshire,All Ages,Number of Hours,130035
+Financial Quarter,2018/19 Q3,Falkirk,All Ages,"Rate per 1,000 Population",12.7
+Financial Quarter,2018/19 Q3,Falkirk,All Ages,Number of People,2040
+Financial Quarter,2018/19 Q3,Falkirk,All Ages,Number of Hours,160010
+Financial Quarter,2018/19 Q3,Fife,All Ages,"Rate per 1,000 Population",10.2
+Financial Quarter,2018/19 Q3,Fife,All Ages,Number of People,3785
+Financial Quarter,2018/19 Q3,Fife,All Ages,Number of Hours,730940
+Financial Quarter,2018/19 Q3,Glasgow City,All Ages,"Rate per 1,000 Population",10.4
+Financial Quarter,2018/19 Q3,Glasgow City,All Ages,Number of People,6485
+Financial Quarter,2018/19 Q3,Glasgow City,All Ages,Number of Hours,609695
+Financial Quarter,2018/19 Q3,Highland,All Ages,"Rate per 1,000 Population",9
+Financial Quarter,2018/19 Q3,Highland,All Ages,Number of People,2110
+Financial Quarter,2018/19 Q3,Highland,All Ages,Number of Hours,202990
+Financial Quarter,2018/19 Q3,Inverclyde,All Ages,"Rate per 1,000 Population",17.7
+Financial Quarter,2018/19 Q3,Inverclyde,All Ages,Number of People,1380
+Financial Quarter,2018/19 Q3,Inverclyde,All Ages,Number of Hours,120630
+Financial Quarter,2018/19 Q3,Midlothian,All Ages,"Rate per 1,000 Population",11.2
+Financial Quarter,2018/19 Q3,Midlothian,All Ages,Number of People,1025
+Financial Quarter,2018/19 Q3,Midlothian,All Ages,Number of Hours,113210
+Financial Quarter,2018/19 Q3,Moray,All Ages,"Rate per 1,000 Population",12.7
+Financial Quarter,2018/19 Q3,Moray,All Ages,Number of People,1210
+Financial Quarter,2018/19 Q3,Moray,All Ages,Number of Hours,207720
+Financial Quarter,2018/19 Q3,North Ayrshire,All Ages,"Rate per 1,000 Population",18.8
+Financial Quarter,2018/19 Q3,North Ayrshire,All Ages,Number of People,2545
+Financial Quarter,2018/19 Q3,North Ayrshire,All Ages,Number of Hours,374310
+Financial Quarter,2018/19 Q3,North Lanarkshire,All Ages,"Rate per 1,000 Population",11.9
+Financial Quarter,2018/19 Q3,North Lanarkshire,All Ages,Number of People,4055
+Financial Quarter,2018/19 Q3,North Lanarkshire,All Ages,Number of Hours,390750
+Financial Quarter,2018/19 Q3,Orkney Islands,All Ages,"Rate per 1,000 Population",9.9
+Financial Quarter,2018/19 Q3,Orkney Islands,All Ages,Number of People,220
+Financial Quarter,2018/19 Q3,Orkney Islands,All Ages,Number of Hours,21065
+Financial Quarter,2018/19 Q3,Perth and Kinross,All Ages,"Rate per 1,000 Population",12.1
+Financial Quarter,2018/19 Q3,Perth and Kinross,All Ages,Number of People,1830
+Financial Quarter,2018/19 Q3,Perth and Kinross,All Ages,Number of Hours,248200
+Financial Quarter,2018/19 Q3,Renfrewshire,All Ages,"Rate per 1,000 Population",13.4
+Financial Quarter,2018/19 Q3,Renfrewshire,All Ages,Number of People,2380
+Financial Quarter,2018/19 Q3,Renfrewshire,All Ages,Number of Hours,411475
+Financial Quarter,2018/19 Q3,Scottish Borders,All Ages,"Rate per 1,000 Population",12.6
+Financial Quarter,2018/19 Q3,Scottish Borders,All Ages,Number of People,1455
+Financial Quarter,2018/19 Q3,Scottish Borders,All Ages,Number of Hours,125330
+Financial Quarter,2018/19 Q3,Shetland,All Ages,"Rate per 1,000 Population",16.3
+Financial Quarter,2018/19 Q3,Shetland,All Ages,Number of People,375
+Financial Quarter,2018/19 Q3,Shetland,All Ages,Number of Hours,38990
+Financial Quarter,2018/19 Q3,South Ayrshire,All Ages,"Rate per 1,000 Population",17.9
+Financial Quarter,2018/19 Q3,South Ayrshire,All Ages,Number of People,2020
+Financial Quarter,2018/19 Q3,South Ayrshire,All Ages,Number of Hours,231075
+Financial Quarter,2018/19 Q3,South Lanarkshire,All Ages,"Rate per 1,000 Population",13
+Financial Quarter,2018/19 Q3,South Lanarkshire,All Ages,Number of People,4150
+Financial Quarter,2018/19 Q3,South Lanarkshire,All Ages,Number of Hours,567210
+Financial Quarter,2018/19 Q3,Stirling,All Ages,"Rate per 1,000 Population",14.9
+Financial Quarter,2018/19 Q3,Stirling,All Ages,Number of People,1410
+Financial Quarter,2018/19 Q3,Stirling,All Ages,Number of Hours,251545
+Financial Quarter,2018/19 Q3,West Dunbartonshire,All Ages,"Rate per 1,000 Population",18.8
+Financial Quarter,2018/19 Q3,West Dunbartonshire,All Ages,Number of People,1675
+Financial Quarter,2018/19 Q3,West Dunbartonshire,All Ages,Number of Hours,121370
+Financial Quarter,2018/19 Q3,West Lothian,All Ages,"Rate per 1,000 Population",11
+Financial Quarter,2018/19 Q3,West Lothian,All Ages,Number of People,1995
+Financial Quarter,2018/19 Q3,West Lothian,All Ages,Number of Hours,278455
+Financial Quarter,2018/19 Q4,Scotland (Estimated),All Ages,"Rate per 1,000 Population",12.3
+Financial Quarter,2018/19 Q4,Scotland (Estimated),All Ages,Number of People,67115
+Financial Quarter,2018/19 Q4,Scotland (Estimated),All Ages,Number of Hours,8578940
+Financial Quarter,2018/19 Q4,Aberdeen City,All Ages,"Rate per 1,000 Population",9.3
+Financial Quarter,2018/19 Q4,Aberdeen City,All Ages,Number of People,2120
+Financial Quarter,2018/19 Q4,Aberdeen City,All Ages,Number of Hours,356295
+Financial Quarter,2018/19 Q4,Aberdeenshire,All Ages,"Rate per 1,000 Population",8.4
+Financial Quarter,2018/19 Q4,Aberdeenshire,All Ages,Number of People,2185
+Financial Quarter,2018/19 Q4,Aberdeenshire,All Ages,Number of Hours,209295
+Financial Quarter,2018/19 Q4,Angus,All Ages,"Rate per 1,000 Population",12.4
+Financial Quarter,2018/19 Q4,Angus,All Ages,Number of People,1440
+Financial Quarter,2018/19 Q4,Angus,All Ages,Number of Hours,13050
+Financial Quarter,2018/19 Q4,Argyll and Bute,All Ages,"Rate per 1,000 Population",18.8
+Financial Quarter,2018/19 Q4,Argyll and Bute,All Ages,Number of People,1625
+Financial Quarter,2018/19 Q4,Argyll and Bute,All Ages,Number of Hours,284755
+Financial Quarter,2018/19 Q4,City of Edinburgh,All Ages,"Rate per 1,000 Population",10.3
+Financial Quarter,2018/19 Q4,City of Edinburgh,All Ages,Number of People,5320
+Financial Quarter,2018/19 Q4,City of Edinburgh,All Ages,Number of Hours,1154445
+Financial Quarter,2018/19 Q4,Clackmannanshire,All Ages,"Rate per 1,000 Population",16.9
+Financial Quarter,2018/19 Q4,Clackmannanshire,All Ages,Number of People,870
+Financial Quarter,2018/19 Q4,Clackmannanshire,All Ages,Number of Hours,134030
+Financial Quarter,2018/19 Q4,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",14.5
+Financial Quarter,2018/19 Q4,Comhairle nan Eilean Siar,All Ages,Number of People,390
+Financial Quarter,2018/19 Q4,Comhairle nan Eilean Siar,All Ages,Number of Hours,23105
+Financial Quarter,2018/19 Q4,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",15.6
+Financial Quarter,2018/19 Q4,Dumfries and Galloway,All Ages,Number of People,2325
+Financial Quarter,2018/19 Q4,Dumfries and Galloway,All Ages,Number of Hours,423870
+Financial Quarter,2018/19 Q4,Dundee City,All Ages,"Rate per 1,000 Population",13.4
+Financial Quarter,2018/19 Q4,Dundee City,All Ages,Number of People,1990
+Financial Quarter,2018/19 Q4,Dundee City,All Ages,Number of Hours,229840
+Financial Quarter,2018/19 Q4,East Ayrshire,All Ages,"Rate per 1,000 Population",16.6
+Financial Quarter,2018/19 Q4,East Ayrshire,All Ages,Number of People,2025
+Financial Quarter,2018/19 Q4,East Ayrshire,All Ages,Number of Hours,185845
+Financial Quarter,2018/19 Q4,East Dunbartonshire,All Ages,"Rate per 1,000 Population",15
+Financial Quarter,2018/19 Q4,East Dunbartonshire,All Ages,Number of People,1630
+Financial Quarter,2018/19 Q4,East Dunbartonshire,All Ages,Number of Hours,172070
+Financial Quarter,2018/19 Q4,East Lothian,All Ages,"Rate per 1,000 Population",13.8
+Financial Quarter,2018/19 Q4,East Lothian,All Ages,Number of People,1460
+Financial Quarter,2018/19 Q4,East Lothian,All Ages,Number of Hours,265175
+Financial Quarter,2018/19 Q4,East Renfrewshire,All Ages,"Rate per 1,000 Population",12.5
+Financial Quarter,2018/19 Q4,East Renfrewshire,All Ages,Number of People,1185
+Financial Quarter,2018/19 Q4,East Renfrewshire,All Ages,Number of Hours,128820
+Financial Quarter,2018/19 Q4,Falkirk,All Ages,"Rate per 1,000 Population",13.1
+Financial Quarter,2018/19 Q4,Falkirk,All Ages,Number of People,2100
+Financial Quarter,2018/19 Q4,Falkirk,All Ages,Number of Hours,158700
+Financial Quarter,2018/19 Q4,Fife,All Ages,"Rate per 1,000 Population",10.2
+Financial Quarter,2018/19 Q4,Fife,All Ages,Number of People,3790
+Financial Quarter,2018/19 Q4,Fife,All Ages,Number of Hours,718550
+Financial Quarter,2018/19 Q4,Glasgow City,All Ages,"Rate per 1,000 Population",10.5
+Financial Quarter,2018/19 Q4,Glasgow City,All Ages,Number of People,6595
+Financial Quarter,2018/19 Q4,Glasgow City,All Ages,Number of Hours,612685
+Financial Quarter,2018/19 Q4,Highland,All Ages,"Rate per 1,000 Population",8.9
+Financial Quarter,2018/19 Q4,Highland,All Ages,Number of People,2095
+Financial Quarter,2018/19 Q4,Highland,All Ages,Number of Hours,196815
+Financial Quarter,2018/19 Q4,Inverclyde,All Ages,"Rate per 1,000 Population",17.7
+Financial Quarter,2018/19 Q4,Inverclyde,All Ages,Number of People,1380
+Financial Quarter,2018/19 Q4,Inverclyde,All Ages,Number of Hours,108575
+Financial Quarter,2018/19 Q4,Midlothian,All Ages,"Rate per 1,000 Population",11.5
+Financial Quarter,2018/19 Q4,Midlothian,All Ages,Number of People,1050
+Financial Quarter,2018/19 Q4,Midlothian,All Ages,Number of Hours,110765
+Financial Quarter,2018/19 Q4,Moray,All Ages,"Rate per 1,000 Population",12.1
+Financial Quarter,2018/19 Q4,Moray,All Ages,Number of People,1155
+Financial Quarter,2018/19 Q4,Moray,All Ages,Number of Hours,131490
+Financial Quarter,2018/19 Q4,North Ayrshire,All Ages,"Rate per 1,000 Population",19.5
+Financial Quarter,2018/19 Q4,North Ayrshire,All Ages,Number of People,2635
+Financial Quarter,2018/19 Q4,North Ayrshire,All Ages,Number of Hours,375025
+Financial Quarter,2018/19 Q4,North Lanarkshire,All Ages,"Rate per 1,000 Population",11.8
+Financial Quarter,2018/19 Q4,North Lanarkshire,All Ages,Number of People,4005
+Financial Quarter,2018/19 Q4,North Lanarkshire,All Ages,Number of Hours,354890
+Financial Quarter,2018/19 Q4,Orkney Islands,All Ages,"Rate per 1,000 Population",9.9
+Financial Quarter,2018/19 Q4,Orkney Islands,All Ages,Number of People,220
+Financial Quarter,2018/19 Q4,Orkney Islands,All Ages,Number of Hours,21065
+Financial Quarter,2018/19 Q4,Perth and Kinross,All Ages,"Rate per 1,000 Population",12.5
+Financial Quarter,2018/19 Q4,Perth and Kinross,All Ages,Number of People,1885
+Financial Quarter,2018/19 Q4,Perth and Kinross,All Ages,Number of Hours,236445
+Financial Quarter,2018/19 Q4,Renfrewshire,All Ages,"Rate per 1,000 Population",13.5
+Financial Quarter,2018/19 Q4,Renfrewshire,All Ages,Number of People,2405
+Financial Quarter,2018/19 Q4,Renfrewshire,All Ages,Number of Hours,409365
+Financial Quarter,2018/19 Q4,Scottish Borders,All Ages,"Rate per 1,000 Population",12.7
+Financial Quarter,2018/19 Q4,Scottish Borders,All Ages,Number of People,1465
+Financial Quarter,2018/19 Q4,Scottish Borders,All Ages,Number of Hours,126935
+Financial Quarter,2018/19 Q4,Shetland,All Ages,"Rate per 1,000 Population",15.2
+Financial Quarter,2018/19 Q4,Shetland,All Ages,Number of People,350
+Financial Quarter,2018/19 Q4,Shetland,All Ages,Number of Hours,33330
+Financial Quarter,2018/19 Q4,South Ayrshire,All Ages,"Rate per 1,000 Population",18.3
+Financial Quarter,2018/19 Q4,South Ayrshire,All Ages,Number of People,2055
+Financial Quarter,2018/19 Q4,South Ayrshire,All Ages,Number of Hours,243445
+Financial Quarter,2018/19 Q4,South Lanarkshire,All Ages,"Rate per 1,000 Population",13.2
+Financial Quarter,2018/19 Q4,South Lanarkshire,All Ages,Number of People,4210
+Financial Quarter,2018/19 Q4,South Lanarkshire,All Ages,Number of Hours,559455
+Financial Quarter,2018/19 Q4,Stirling,All Ages,"Rate per 1,000 Population",14.9
+Financial Quarter,2018/19 Q4,Stirling,All Ages,Number of People,1410
+Financial Quarter,2018/19 Q4,Stirling,All Ages,Number of Hours,251455
+Financial Quarter,2018/19 Q4,West Dunbartonshire,All Ages,"Rate per 1,000 Population",18.7
+Financial Quarter,2018/19 Q4,West Dunbartonshire,All Ages,Number of People,1665
+Financial Quarter,2018/19 Q4,West Dunbartonshire,All Ages,Number of Hours,118020
+Financial Quarter,2018/19 Q4,West Lothian,All Ages,"Rate per 1,000 Population",11.4
+Financial Quarter,2018/19 Q4,West Lothian,All Ages,Number of People,2085
+Financial Quarter,2018/19 Q4,West Lothian,All Ages,Number of Hours,252400
+Financial Quarter,2019/20 Q1,Scotland (Estimated),All Ages,"Rate per 1,000 Population",12.3
+Financial Quarter,2019/20 Q1,Scotland (Estimated),All Ages,Number of People,67420
+Financial Quarter,2019/20 Q1,Scotland (Estimated),All Ages,Number of Hours,9348695
+Financial Quarter,2019/20 Q1,Aberdeen City,All Ages,"Rate per 1,000 Population",9
+Financial Quarter,2019/20 Q1,Aberdeen City,All Ages,Number of People,2055
+Financial Quarter,2019/20 Q1,Aberdeen City,All Ages,Number of Hours,339930
+Financial Quarter,2019/20 Q1,Aberdeenshire,All Ages,"Rate per 1,000 Population",9.7
+Financial Quarter,2019/20 Q1,Aberdeenshire,All Ages,Number of People,2530
+Financial Quarter,2019/20 Q1,Aberdeenshire,All Ages,Number of Hours,239760
+Financial Quarter,2019/20 Q1,Angus,All Ages,"Rate per 1,000 Population",12.1
+Financial Quarter,2019/20 Q1,Angus,All Ages,Number of People,1405
+Financial Quarter,2019/20 Q1,Angus,All Ages,Number of Hours,13145
+Financial Quarter,2019/20 Q1,Argyll and Bute,All Ages,"Rate per 1,000 Population",18.9
+Financial Quarter,2019/20 Q1,Argyll and Bute,All Ages,Number of People,1625
+Financial Quarter,2019/20 Q1,Argyll and Bute,All Ages,Number of Hours,289280
+Financial Quarter,2019/20 Q1,City of Edinburgh,All Ages,"Rate per 1,000 Population",10.4
+Financial Quarter,2019/20 Q1,City of Edinburgh,All Ages,Number of People,5485
+Financial Quarter,2019/20 Q1,City of Edinburgh,All Ages,Number of Hours,1290230
+Financial Quarter,2019/20 Q1,Clackmannanshire,All Ages,"Rate per 1,000 Population",16.8
+Financial Quarter,2019/20 Q1,Clackmannanshire,All Ages,Number of People,865
+Financial Quarter,2019/20 Q1,Clackmannanshire,All Ages,Number of Hours,135480
+Financial Quarter,2019/20 Q1,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",14
+Financial Quarter,2019/20 Q1,Comhairle nan Eilean Siar,All Ages,Number of People,375
+Financial Quarter,2019/20 Q1,Comhairle nan Eilean Siar,All Ages,Number of Hours,16150
+Financial Quarter,2019/20 Q1,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",16.1
+Financial Quarter,2019/20 Q1,Dumfries and Galloway,All Ages,Number of People,2390
+Financial Quarter,2019/20 Q1,Dumfries and Galloway,All Ages,Number of Hours,461035
+Financial Quarter,2019/20 Q1,Dundee City,All Ages,"Rate per 1,000 Population",13
+Financial Quarter,2019/20 Q1,Dundee City,All Ages,Number of People,1935
+Financial Quarter,2019/20 Q1,Dundee City,All Ages,Number of Hours,245755
+Financial Quarter,2019/20 Q1,East Ayrshire,All Ages,"Rate per 1,000 Population",16.4
+Financial Quarter,2019/20 Q1,East Ayrshire,All Ages,Number of People,1995
+Financial Quarter,2019/20 Q1,East Ayrshire,All Ages,Number of Hours,184170
+Financial Quarter,2019/20 Q1,East Dunbartonshire,All Ages,"Rate per 1,000 Population",14.1
+Financial Quarter,2019/20 Q1,East Dunbartonshire,All Ages,Number of People,1530
+Financial Quarter,2019/20 Q1,East Dunbartonshire,All Ages,Number of Hours,166390
+Financial Quarter,2019/20 Q1,East Lothian,All Ages,"Rate per 1,000 Population",13.9
+Financial Quarter,2019/20 Q1,East Lothian,All Ages,Number of People,1490
+Financial Quarter,2019/20 Q1,East Lothian,All Ages,Number of Hours,256050
+Financial Quarter,2019/20 Q1,East Renfrewshire,All Ages,"Rate per 1,000 Population",12.4
+Financial Quarter,2019/20 Q1,East Renfrewshire,All Ages,Number of People,1180
+Financial Quarter,2019/20 Q1,East Renfrewshire,All Ages,Number of Hours,114985
+Financial Quarter,2019/20 Q1,Falkirk,All Ages,"Rate per 1,000 Population",13.2
+Financial Quarter,2019/20 Q1,Falkirk,All Ages,Number of People,2130
+Financial Quarter,2019/20 Q1,Falkirk,All Ages,Number of Hours,171865
+Financial Quarter,2019/20 Q1,Fife,All Ages,"Rate per 1,000 Population",9.9
+Financial Quarter,2019/20 Q1,Fife,All Ages,Number of People,3680
+Financial Quarter,2019/20 Q1,Fife,All Ages,Number of Hours,827545
+Financial Quarter,2019/20 Q1,Glasgow City,All Ages,"Rate per 1,000 Population",10.4
+Financial Quarter,2019/20 Q1,Glasgow City,All Ages,Number of People,6610
+Financial Quarter,2019/20 Q1,Glasgow City,All Ages,Number of Hours,631725
+Financial Quarter,2019/20 Q1,Highland,All Ages,"Rate per 1,000 Population",8.9
+Financial Quarter,2019/20 Q1,Highland,All Ages,Number of People,2095
+Financial Quarter,2019/20 Q1,Highland,All Ages,Number of Hours,199660
+Financial Quarter,2019/20 Q1,Inverclyde,All Ages,"Rate per 1,000 Population",18.1
+Financial Quarter,2019/20 Q1,Inverclyde,All Ages,Number of People,1410
+Financial Quarter,2019/20 Q1,Inverclyde,All Ages,Number of Hours,122005
+Financial Quarter,2019/20 Q1,Midlothian,All Ages,"Rate per 1,000 Population",11.8
+Financial Quarter,2019/20 Q1,Midlothian,All Ages,Number of People,1095
+Financial Quarter,2019/20 Q1,Midlothian,All Ages,Number of Hours,149485
+Financial Quarter,2019/20 Q1,Moray,All Ages,"Rate per 1,000 Population",11.8
+Financial Quarter,2019/20 Q1,Moray,All Ages,Number of People,1135
+Financial Quarter,2019/20 Q1,Moray,All Ages,Number of Hours,130200
+Financial Quarter,2019/20 Q1,North Ayrshire,All Ages,"Rate per 1,000 Population",20
+Financial Quarter,2019/20 Q1,North Ayrshire,All Ages,Number of People,2690
+Financial Quarter,2019/20 Q1,North Ayrshire,All Ages,Number of Hours,412955
+Financial Quarter,2019/20 Q1,North Lanarkshire,All Ages,"Rate per 1,000 Population",11.9
+Financial Quarter,2019/20 Q1,North Lanarkshire,All Ages,Number of People,4055
+Financial Quarter,2019/20 Q1,North Lanarkshire,All Ages,Number of Hours,384745
+Financial Quarter,2019/20 Q1,Orkney Islands,All Ages,"Rate per 1,000 Population",9.2
+Financial Quarter,2019/20 Q1,Orkney Islands,All Ages,Number of People,205
+Financial Quarter,2019/20 Q1,Orkney Islands,All Ages,Number of Hours,19650
+Financial Quarter,2019/20 Q1,Perth and Kinross,All Ages,"Rate per 1,000 Population",12.8
+Financial Quarter,2019/20 Q1,Perth and Kinross,All Ages,Number of People,1940
+Financial Quarter,2019/20 Q1,Perth and Kinross,All Ages,Number of Hours,262335
+Financial Quarter,2019/20 Q1,Renfrewshire,All Ages,"Rate per 1,000 Population",13.1
+Financial Quarter,2019/20 Q1,Renfrewshire,All Ages,Number of People,2355
+Financial Quarter,2019/20 Q1,Renfrewshire,All Ages,Number of Hours,432225
+Financial Quarter,2019/20 Q1,Scottish Borders,All Ages,"Rate per 1,000 Population",12.9
+Financial Quarter,2019/20 Q1,Scottish Borders,All Ages,Number of People,1490
+Financial Quarter,2019/20 Q1,Scottish Borders,All Ages,Number of Hours,138675
+Financial Quarter,2019/20 Q1,Shetland,All Ages,"Rate per 1,000 Population",18.1
+Financial Quarter,2019/20 Q1,Shetland,All Ages,Number of People,415
+Financial Quarter,2019/20 Q1,Shetland,All Ages,Number of Hours,40020
+Financial Quarter,2019/20 Q1,South Ayrshire,All Ages,"Rate per 1,000 Population",16.1
+Financial Quarter,2019/20 Q1,South Ayrshire,All Ages,Number of People,1810
+Financial Quarter,2019/20 Q1,South Ayrshire,All Ages,Number of Hours,416980
+Financial Quarter,2019/20 Q1,South Lanarkshire,All Ages,"Rate per 1,000 Population",13.2
+Financial Quarter,2019/20 Q1,South Lanarkshire,All Ages,Number of People,4230
+Financial Quarter,2019/20 Q1,South Lanarkshire,All Ages,Number of Hours,572665
+Financial Quarter,2019/20 Q1,Stirling,All Ages,"Rate per 1,000 Population",14.6
+Financial Quarter,2019/20 Q1,Stirling,All Ages,Number of People,1375
+Financial Quarter,2019/20 Q1,Stirling,All Ages,Number of Hours,250665
+Financial Quarter,2019/20 Q1,West Dunbartonshire,All Ages,"Rate per 1,000 Population",19
+Financial Quarter,2019/20 Q1,West Dunbartonshire,All Ages,Number of People,1690
+Financial Quarter,2019/20 Q1,West Dunbartonshire,All Ages,Number of Hours,119335
+Financial Quarter,2019/20 Q1,West Lothian,All Ages,"Rate per 1,000 Population",11.7
+Financial Quarter,2019/20 Q1,West Lothian,All Ages,Number of People,2150
+Financial Quarter,2019/20 Q1,West Lothian,All Ages,Number of Hours,313595
+Financial Quarter,2019/20 Q2,Scotland (Estimated),All Ages,"Rate per 1,000 Population",12.4
+Financial Quarter,2019/20 Q2,Scotland (Estimated),All Ages,Number of People,67570
+Financial Quarter,2019/20 Q2,Scotland (Estimated),All Ages,Number of Hours,9560000
+Financial Quarter,2019/20 Q2,Aberdeen City,All Ages,"Rate per 1,000 Population",9.2
+Financial Quarter,2019/20 Q2,Aberdeen City,All Ages,Number of People,2115
+Financial Quarter,2019/20 Q2,Aberdeen City,All Ages,Number of Hours,353495
+Financial Quarter,2019/20 Q2,Aberdeenshire,All Ages,"Rate per 1,000 Population",9.7
+Financial Quarter,2019/20 Q2,Aberdeenshire,All Ages,Number of People,2530
+Financial Quarter,2019/20 Q2,Aberdeenshire,All Ages,Number of Hours,242195
+Financial Quarter,2019/20 Q2,Angus,All Ages,"Rate per 1,000 Population",12.5
+Financial Quarter,2019/20 Q2,Angus,All Ages,Number of People,1455
+Financial Quarter,2019/20 Q2,Angus,All Ages,Number of Hours,13540
+Financial Quarter,2019/20 Q2,Argyll and Bute,All Ages,"Rate per 1,000 Population",19
+Financial Quarter,2019/20 Q2,Argyll and Bute,All Ages,Number of People,1635
+Financial Quarter,2019/20 Q2,Argyll and Bute,All Ages,Number of Hours,287460
+Financial Quarter,2019/20 Q2,City of Edinburgh,All Ages,"Rate per 1,000 Population",10.4
+Financial Quarter,2019/20 Q2,City of Edinburgh,All Ages,Number of People,5480
+Financial Quarter,2019/20 Q2,City of Edinburgh,All Ages,Number of Hours,1313545
+Financial Quarter,2019/20 Q2,Clackmannanshire,All Ages,"Rate per 1,000 Population",17.1
+Financial Quarter,2019/20 Q2,Clackmannanshire,All Ages,Number of People,880
+Financial Quarter,2019/20 Q2,Clackmannanshire,All Ages,Number of Hours,140640
+Financial Quarter,2019/20 Q2,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",15.5
+Financial Quarter,2019/20 Q2,Comhairle nan Eilean Siar,All Ages,Number of People,415
+Financial Quarter,2019/20 Q2,Comhairle nan Eilean Siar,All Ages,Number of Hours,24825
+Financial Quarter,2019/20 Q2,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",15.9
+Financial Quarter,2019/20 Q2,Dumfries and Galloway,All Ages,Number of People,2360
+Financial Quarter,2019/20 Q2,Dumfries and Galloway,All Ages,Number of Hours,480905
+Financial Quarter,2019/20 Q2,Dundee City,All Ages,"Rate per 1,000 Population",12.3
+Financial Quarter,2019/20 Q2,Dundee City,All Ages,Number of People,1830
+Financial Quarter,2019/20 Q2,Dundee City,All Ages,Number of Hours,251540
+Financial Quarter,2019/20 Q2,East Ayrshire,All Ages,"Rate per 1,000 Population",16.2
+Financial Quarter,2019/20 Q2,East Ayrshire,All Ages,Number of People,1980
+Financial Quarter,2019/20 Q2,East Ayrshire,All Ages,Number of Hours,184095
+Financial Quarter,2019/20 Q2,East Dunbartonshire,All Ages,"Rate per 1,000 Population",14
+Financial Quarter,2019/20 Q2,East Dunbartonshire,All Ages,Number of People,1520
+Financial Quarter,2019/20 Q2,East Dunbartonshire,All Ages,Number of Hours,162090
+Financial Quarter,2019/20 Q2,East Lothian,All Ages,"Rate per 1,000 Population",13.9
+Financial Quarter,2019/20 Q2,East Lothian,All Ages,Number of People,1490
+Financial Quarter,2019/20 Q2,East Lothian,All Ages,Number of Hours,270390
+Financial Quarter,2019/20 Q2,East Renfrewshire,All Ages,"Rate per 1,000 Population",12.6
+Financial Quarter,2019/20 Q2,East Renfrewshire,All Ages,Number of People,1200
+Financial Quarter,2019/20 Q2,East Renfrewshire,All Ages,Number of Hours,120575
+Financial Quarter,2019/20 Q2,Falkirk,All Ages,"Rate per 1,000 Population",13.2
+Financial Quarter,2019/20 Q2,Falkirk,All Ages,Number of People,2125
+Financial Quarter,2019/20 Q2,Falkirk,All Ages,Number of Hours,172165
+Financial Quarter,2019/20 Q2,Fife,All Ages,"Rate per 1,000 Population",9.8
+Financial Quarter,2019/20 Q2,Fife,All Ages,Number of People,3675
+Financial Quarter,2019/20 Q2,Fife,All Ages,Number of Hours,841390
+Financial Quarter,2019/20 Q2,Glasgow City,All Ages,"Rate per 1,000 Population",10.4
+Financial Quarter,2019/20 Q2,Glasgow City,All Ages,Number of People,6610
+Financial Quarter,2019/20 Q2,Glasgow City,All Ages,Number of Hours,645545
+Financial Quarter,2019/20 Q2,Highland,All Ages,"Rate per 1,000 Population",8.9
+Financial Quarter,2019/20 Q2,Highland,All Ages,Number of People,2100
+Financial Quarter,2019/20 Q2,Highland,All Ages,Number of Hours,193695
+Financial Quarter,2019/20 Q2,Inverclyde,All Ages,"Rate per 1,000 Population",18.1
+Financial Quarter,2019/20 Q2,Inverclyde,All Ages,Number of People,1410
+Financial Quarter,2019/20 Q2,Inverclyde,All Ages,Number of Hours,112235
+Financial Quarter,2019/20 Q2,Midlothian,All Ages,"Rate per 1,000 Population",11.5
+Financial Quarter,2019/20 Q2,Midlothian,All Ages,Number of People,1065
+Financial Quarter,2019/20 Q2,Midlothian,All Ages,Number of Hours,178375
+Financial Quarter,2019/20 Q2,Moray,All Ages,"Rate per 1,000 Population",12
+Financial Quarter,2019/20 Q2,Moray,All Ages,Number of People,1150
+Financial Quarter,2019/20 Q2,Moray,All Ages,Number of Hours,134415
+Financial Quarter,2019/20 Q2,North Ayrshire,All Ages,"Rate per 1,000 Population",20
+Financial Quarter,2019/20 Q2,North Ayrshire,All Ages,Number of People,2690
+Financial Quarter,2019/20 Q2,North Ayrshire,All Ages,Number of Hours,420615
+Financial Quarter,2019/20 Q2,North Lanarkshire,All Ages,"Rate per 1,000 Population",12.2
+Financial Quarter,2019/20 Q2,North Lanarkshire,All Ages,Number of People,4180
+Financial Quarter,2019/20 Q2,North Lanarkshire,All Ages,Number of Hours,414630
+Financial Quarter,2019/20 Q2,Orkney Islands,All Ages,"Rate per 1,000 Population",9.2
+Financial Quarter,2019/20 Q2,Orkney Islands,All Ages,Number of People,205
+Financial Quarter,2019/20 Q2,Orkney Islands,All Ages,Number of Hours,20085
+Financial Quarter,2019/20 Q2,Perth and Kinross,All Ages,"Rate per 1,000 Population",13.2
+Financial Quarter,2019/20 Q2,Perth and Kinross,All Ages,Number of People,2005
+Financial Quarter,2019/20 Q2,Perth and Kinross,All Ages,Number of Hours,269370
+Financial Quarter,2019/20 Q2,Renfrewshire,All Ages,"Rate per 1,000 Population",13.3
+Financial Quarter,2019/20 Q2,Renfrewshire,All Ages,Number of People,2380
+Financial Quarter,2019/20 Q2,Renfrewshire,All Ages,Number of Hours,438400
+Financial Quarter,2019/20 Q2,Scottish Borders,All Ages,"Rate per 1,000 Population",13.3
+Financial Quarter,2019/20 Q2,Scottish Borders,All Ages,Number of People,1535
+Financial Quarter,2019/20 Q2,Scottish Borders,All Ages,Number of Hours,142920
+Financial Quarter,2019/20 Q2,Shetland,All Ages,"Rate per 1,000 Population",18.3
+Financial Quarter,2019/20 Q2,Shetland,All Ages,Number of People,420
+Financial Quarter,2019/20 Q2,Shetland,All Ages,Number of Hours,40520
+Financial Quarter,2019/20 Q2,South Ayrshire,All Ages,"Rate per 1,000 Population",15.5
+Financial Quarter,2019/20 Q2,South Ayrshire,All Ages,Number of People,1750
+Financial Quarter,2019/20 Q2,South Ayrshire,All Ages,Number of Hours,405140
+Financial Quarter,2019/20 Q2,South Lanarkshire,All Ages,"Rate per 1,000 Population",13.2
+Financial Quarter,2019/20 Q2,South Lanarkshire,All Ages,Number of People,4245
+Financial Quarter,2019/20 Q2,South Lanarkshire,All Ages,Number of Hours,577840
+Financial Quarter,2019/20 Q2,Stirling,All Ages,"Rate per 1,000 Population",14.8
+Financial Quarter,2019/20 Q2,Stirling,All Ages,Number of People,1390
+Financial Quarter,2019/20 Q2,Stirling,All Ages,Number of Hours,251355
+Financial Quarter,2019/20 Q2,West Dunbartonshire,All Ages,"Rate per 1,000 Population",19.1
+Financial Quarter,2019/20 Q2,West Dunbartonshire,All Ages,Number of People,1695
+Financial Quarter,2019/20 Q2,West Dunbartonshire,All Ages,Number of Hours,125345
+Financial Quarter,2019/20 Q2,West Lothian,All Ages,"Rate per 1,000 Population",11.2
+Financial Quarter,2019/20 Q2,West Lothian,All Ages,Number of People,2050
+Financial Quarter,2019/20 Q2,West Lothian,All Ages,Number of Hours,330665
+Financial Quarter,2019/20 Q3,Scotland (Estimated),All Ages,"Rate per 1,000 Population",12.3
+Financial Quarter,2019/20 Q3,Scotland (Estimated),All Ages,Number of People,67120
+Financial Quarter,2019/20 Q3,Scotland (Estimated),All Ages,Number of Hours,9411145
+Financial Quarter,2019/20 Q3,Aberdeen City,All Ages,"Rate per 1,000 Population",9.2
+Financial Quarter,2019/20 Q3,Aberdeen City,All Ages,Number of People,2115
+Financial Quarter,2019/20 Q3,Aberdeen City,All Ages,Number of Hours,362285
+Financial Quarter,2019/20 Q3,Aberdeenshire,All Ages,"Rate per 1,000 Population",9.5
+Financial Quarter,2019/20 Q3,Aberdeenshire,All Ages,Number of People,2480
+Financial Quarter,2019/20 Q3,Aberdeenshire,All Ages,Number of Hours,242195
+Financial Quarter,2019/20 Q3,Angus,All Ages,"Rate per 1,000 Population",12.7
+Financial Quarter,2019/20 Q3,Angus,All Ages,Number of People,1475
+Financial Quarter,2019/20 Q3,Angus,All Ages,Number of Hours,13920
+Financial Quarter,2019/20 Q3,Argyll and Bute,All Ages,"Rate per 1,000 Population",18.9
+Financial Quarter,2019/20 Q3,Argyll and Bute,All Ages,Number of People,1620
+Financial Quarter,2019/20 Q3,Argyll and Bute,All Ages,Number of Hours,284080
+Financial Quarter,2019/20 Q3,City of Edinburgh,All Ages,"Rate per 1,000 Population",9.7
+Financial Quarter,2019/20 Q3,City of Edinburgh,All Ages,Number of People,5090
+Financial Quarter,2019/20 Q3,City of Edinburgh,All Ages,Number of Hours,1294905
+Financial Quarter,2019/20 Q3,Clackmannanshire,All Ages,"Rate per 1,000 Population",16.9
+Financial Quarter,2019/20 Q3,Clackmannanshire,All Ages,Number of People,870
+Financial Quarter,2019/20 Q3,Clackmannanshire,All Ages,Number of Hours,140700
+Financial Quarter,2019/20 Q3,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",14.8
+Financial Quarter,2019/20 Q3,Comhairle nan Eilean Siar,All Ages,Number of People,395
+Financial Quarter,2019/20 Q3,Comhairle nan Eilean Siar,All Ages,Number of Hours,23765
+Financial Quarter,2019/20 Q3,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",16.2
+Financial Quarter,2019/20 Q3,Dumfries and Galloway,All Ages,Number of People,2410
+Financial Quarter,2019/20 Q3,Dumfries and Galloway,All Ages,Number of Hours,459025
+Financial Quarter,2019/20 Q3,Dundee City,All Ages,"Rate per 1,000 Population",12.3
+Financial Quarter,2019/20 Q3,Dundee City,All Ages,Number of People,1840
+Financial Quarter,2019/20 Q3,Dundee City,All Ages,Number of Hours,247295
+Financial Quarter,2019/20 Q3,East Ayrshire,All Ages,"Rate per 1,000 Population",16.1
+Financial Quarter,2019/20 Q3,East Ayrshire,All Ages,Number of People,1960
+Financial Quarter,2019/20 Q3,East Ayrshire,All Ages,Number of Hours,180205
+Financial Quarter,2019/20 Q3,East Dunbartonshire,All Ages,"Rate per 1,000 Population",13.6
+Financial Quarter,2019/20 Q3,East Dunbartonshire,All Ages,Number of People,1480
+Financial Quarter,2019/20 Q3,East Dunbartonshire,All Ages,Number of Hours,153580
+Financial Quarter,2019/20 Q3,East Lothian,All Ages,"Rate per 1,000 Population",14
+Financial Quarter,2019/20 Q3,East Lothian,All Ages,Number of People,1495
+Financial Quarter,2019/20 Q3,East Lothian,All Ages,Number of Hours,258205
+Financial Quarter,2019/20 Q3,East Renfrewshire,All Ages,"Rate per 1,000 Population",12.4
+Financial Quarter,2019/20 Q3,East Renfrewshire,All Ages,Number of People,1185
+Financial Quarter,2019/20 Q3,East Renfrewshire,All Ages,Number of Hours,116820
+Financial Quarter,2019/20 Q3,Falkirk,All Ages,"Rate per 1,000 Population",13.2
+Financial Quarter,2019/20 Q3,Falkirk,All Ages,Number of People,2130
+Financial Quarter,2019/20 Q3,Falkirk,All Ages,Number of Hours,171045
+Financial Quarter,2019/20 Q3,Fife,All Ages,"Rate per 1,000 Population",9.8
+Financial Quarter,2019/20 Q3,Fife,All Ages,Number of People,3645
+Financial Quarter,2019/20 Q3,Fife,All Ages,Number of Hours,838670
+Financial Quarter,2019/20 Q3,Glasgow City,All Ages,"Rate per 1,000 Population",10.7
+Financial Quarter,2019/20 Q3,Glasgow City,All Ages,Number of People,6750
+Financial Quarter,2019/20 Q3,Glasgow City,All Ages,Number of Hours,653705
+Financial Quarter,2019/20 Q3,Highland,All Ages,"Rate per 1,000 Population",8.8
+Financial Quarter,2019/20 Q3,Highland,All Ages,Number of People,2080
+Financial Quarter,2019/20 Q3,Highland,All Ages,Number of Hours,189600
+Financial Quarter,2019/20 Q3,Inverclyde,All Ages,"Rate per 1,000 Population",18.1
+Financial Quarter,2019/20 Q3,Inverclyde,All Ages,Number of People,1410
+Financial Quarter,2019/20 Q3,Inverclyde,All Ages,Number of Hours,114585
+Financial Quarter,2019/20 Q3,Midlothian,All Ages,"Rate per 1,000 Population",11.4
+Financial Quarter,2019/20 Q3,Midlothian,All Ages,Number of People,1050
+Financial Quarter,2019/20 Q3,Midlothian,All Ages,Number of Hours,178785
+Financial Quarter,2019/20 Q3,Moray,All Ages,"Rate per 1,000 Population",11.7
+Financial Quarter,2019/20 Q3,Moray,All Ages,Number of People,1125
+Financial Quarter,2019/20 Q3,Moray,All Ages,Number of Hours,130425
+Financial Quarter,2019/20 Q3,North Ayrshire,All Ages,"Rate per 1,000 Population",19.8
+Financial Quarter,2019/20 Q3,North Ayrshire,All Ages,Number of People,2670
+Financial Quarter,2019/20 Q3,North Ayrshire,All Ages,Number of Hours,410470
+Financial Quarter,2019/20 Q3,North Lanarkshire,All Ages,"Rate per 1,000 Population",12
+Financial Quarter,2019/20 Q3,North Lanarkshire,All Ages,Number of People,4100
+Financial Quarter,2019/20 Q3,North Lanarkshire,All Ages,Number of Hours,363660
+Financial Quarter,2019/20 Q3,Orkney Islands,All Ages,"Rate per 1,000 Population",9.4
+Financial Quarter,2019/20 Q3,Orkney Islands,All Ages,Number of People,210
+Financial Quarter,2019/20 Q3,Orkney Islands,All Ages,Number of Hours,21065
+Financial Quarter,2019/20 Q3,Perth and Kinross,All Ages,"Rate per 1,000 Population",13
+Financial Quarter,2019/20 Q3,Perth and Kinross,All Ages,Number of People,1975
+Financial Quarter,2019/20 Q3,Perth and Kinross,All Ages,Number of Hours,274600
+Financial Quarter,2019/20 Q3,Renfrewshire,All Ages,"Rate per 1,000 Population",13.5
+Financial Quarter,2019/20 Q3,Renfrewshire,All Ages,Number of People,2415
+Financial Quarter,2019/20 Q3,Renfrewshire,All Ages,Number of Hours,423745
+Financial Quarter,2019/20 Q3,Scottish Borders,All Ages,"Rate per 1,000 Population",13.7
+Financial Quarter,2019/20 Q3,Scottish Borders,All Ages,Number of People,1585
+Financial Quarter,2019/20 Q3,Scottish Borders,All Ages,Number of Hours,145585
+Financial Quarter,2019/20 Q3,Shetland,All Ages,"Rate per 1,000 Population",18.1
+Financial Quarter,2019/20 Q3,Shetland,All Ages,Number of People,415
+Financial Quarter,2019/20 Q3,Shetland,All Ages,Number of Hours,42925
+Financial Quarter,2019/20 Q3,South Ayrshire,All Ages,"Rate per 1,000 Population",15.5
+Financial Quarter,2019/20 Q3,South Ayrshire,All Ages,Number of People,1740
+Financial Quarter,2019/20 Q3,South Ayrshire,All Ages,Number of Hours,408060
+Financial Quarter,2019/20 Q3,South Lanarkshire,All Ages,"Rate per 1,000 Population",13.4
+Financial Quarter,2019/20 Q3,South Lanarkshire,All Ages,Number of People,4300
+Financial Quarter,2019/20 Q3,South Lanarkshire,All Ages,Number of Hours,573260
+Financial Quarter,2019/20 Q3,Stirling,All Ages,"Rate per 1,000 Population",14.5
+Financial Quarter,2019/20 Q3,Stirling,All Ages,Number of People,1370
+Financial Quarter,2019/20 Q3,Stirling,All Ages,Number of Hours,252595
+Financial Quarter,2019/20 Q3,West Dunbartonshire,All Ages,"Rate per 1,000 Population",19.6
+Financial Quarter,2019/20 Q3,West Dunbartonshire,All Ages,Number of People,1745
+Financial Quarter,2019/20 Q3,West Dunbartonshire,All Ages,Number of Hours,125755
+Financial Quarter,2019/20 Q3,West Lothian,All Ages,"Rate per 1,000 Population",10.9
+Financial Quarter,2019/20 Q3,West Lothian,All Ages,Number of People,1990
+Financial Quarter,2019/20 Q3,West Lothian,All Ages,Number of Hours,315640
+Financial Quarter,2019/20 Q4,Scotland (Estimated),All Ages,"Rate per 1,000 Population",12.3
+Financial Quarter,2019/20 Q4,Scotland (Estimated),All Ages,Number of People,67255
+Financial Quarter,2019/20 Q4,Scotland (Estimated),All Ages,Number of Hours,9439330
+Financial Quarter,2019/20 Q4,Aberdeen City,All Ages,"Rate per 1,000 Population",9.3
+Financial Quarter,2019/20 Q4,Aberdeen City,All Ages,Number of People,2120
+Financial Quarter,2019/20 Q4,Aberdeen City,All Ages,Number of Hours,356295
+Financial Quarter,2019/20 Q4,Aberdeenshire,All Ages,"Rate per 1,000 Population",9.6
+Financial Quarter,2019/20 Q4,Aberdeenshire,All Ages,Number of People,2510
+Financial Quarter,2019/20 Q4,Aberdeenshire,All Ages,Number of Hours,236835
+Financial Quarter,2019/20 Q4,Angus,All Ages,"Rate per 1,000 Population",13.1
+Financial Quarter,2019/20 Q4,Angus,All Ages,Number of People,1525
+Financial Quarter,2019/20 Q4,Angus,All Ages,Number of Hours,138000
+Financial Quarter,2019/20 Q4,Argyll and Bute,All Ages,"Rate per 1,000 Population",19.3
+Financial Quarter,2019/20 Q4,Argyll and Bute,All Ages,Number of People,1660
+Financial Quarter,2019/20 Q4,Argyll and Bute,All Ages,Number of Hours,279225
+Financial Quarter,2019/20 Q4,City of Edinburgh,All Ages,"Rate per 1,000 Population",9.4
+Financial Quarter,2019/20 Q4,City of Edinburgh,All Ages,Number of People,4960
+Financial Quarter,2019/20 Q4,City of Edinburgh,All Ages,Number of Hours,1252320
+Financial Quarter,2019/20 Q4,Clackmannanshire,All Ages,"Rate per 1,000 Population",17.2
+Financial Quarter,2019/20 Q4,Clackmannanshire,All Ages,Number of People,885
+Financial Quarter,2019/20 Q4,Clackmannanshire,All Ages,Number of Hours,137990
+Financial Quarter,2019/20 Q4,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",14.2
+Financial Quarter,2019/20 Q4,Comhairle nan Eilean Siar,All Ages,Number of People,380
+Financial Quarter,2019/20 Q4,Comhairle nan Eilean Siar,All Ages,Number of Hours,24480
+Financial Quarter,2019/20 Q4,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",16.3
+Financial Quarter,2019/20 Q4,Dumfries and Galloway,All Ages,Number of People,2420
+Financial Quarter,2019/20 Q4,Dumfries and Galloway,All Ages,Number of Hours,452790
+Financial Quarter,2019/20 Q4,Dundee City,All Ages,"Rate per 1,000 Population",13
+Financial Quarter,2019/20 Q4,Dundee City,All Ages,Number of People,1940
+Financial Quarter,2019/20 Q4,Dundee City,All Ages,Number of Hours,281925
+Financial Quarter,2019/20 Q4,East Ayrshire,All Ages,"Rate per 1,000 Population",16.6
+Financial Quarter,2019/20 Q4,East Ayrshire,All Ages,Number of People,2020
+Financial Quarter,2019/20 Q4,East Ayrshire,All Ages,Number of Hours,181680
+Financial Quarter,2019/20 Q4,East Dunbartonshire,All Ages,"Rate per 1,000 Population",13
+Financial Quarter,2019/20 Q4,East Dunbartonshire,All Ages,Number of People,1410
+Financial Quarter,2019/20 Q4,East Dunbartonshire,All Ages,Number of Hours,145945
+Financial Quarter,2019/20 Q4,East Lothian,All Ages,"Rate per 1,000 Population",13.9
+Financial Quarter,2019/20 Q4,East Lothian,All Ages,Number of People,1490
+Financial Quarter,2019/20 Q4,East Lothian,All Ages,Number of Hours,247270
+Financial Quarter,2019/20 Q4,East Renfrewshire,All Ages,"Rate per 1,000 Population",12.7
+Financial Quarter,2019/20 Q4,East Renfrewshire,All Ages,Number of People,1210
+Financial Quarter,2019/20 Q4,East Renfrewshire,All Ages,Number of Hours,115955
+Financial Quarter,2019/20 Q4,Falkirk,All Ages,"Rate per 1,000 Population",13.5
+Financial Quarter,2019/20 Q4,Falkirk,All Ages,Number of People,2180
+Financial Quarter,2019/20 Q4,Falkirk,All Ages,Number of Hours,164860
+Financial Quarter,2019/20 Q4,Fife,All Ages,"Rate per 1,000 Population",9.7
+Financial Quarter,2019/20 Q4,Fife,All Ages,Number of People,3610
+Financial Quarter,2019/20 Q4,Fife,All Ages,Number of Hours,816280
+Financial Quarter,2019/20 Q4,Glasgow City,All Ages,"Rate per 1,000 Population",10.8
+Financial Quarter,2019/20 Q4,Glasgow City,All Ages,Number of People,6820
+Financial Quarter,2019/20 Q4,Glasgow City,All Ages,Number of Hours,649190
+Financial Quarter,2019/20 Q4,Highland,All Ages,"Rate per 1,000 Population",9
+Financial Quarter,2019/20 Q4,Highland,All Ages,Number of People,2115
+Financial Quarter,2019/20 Q4,Highland,All Ages,Number of Hours,185960
+Financial Quarter,2019/20 Q4,Inverclyde,All Ages,"Rate per 1,000 Population",18.3
+Financial Quarter,2019/20 Q4,Inverclyde,All Ages,Number of People,1420
+Financial Quarter,2019/20 Q4,Inverclyde,All Ages,Number of Hours,114455
+Financial Quarter,2019/20 Q4,Midlothian,All Ages,"Rate per 1,000 Population",10.9
+Financial Quarter,2019/20 Q4,Midlothian,All Ages,Number of People,1005
+Financial Quarter,2019/20 Q4,Midlothian,All Ages,Number of Hours,187265
+Financial Quarter,2019/20 Q4,Moray,All Ages,"Rate per 1,000 Population",11.6
+Financial Quarter,2019/20 Q4,Moray,All Ages,Number of People,1110
+Financial Quarter,2019/20 Q4,Moray,All Ages,Number of Hours,131870
+Financial Quarter,2019/20 Q4,North Ayrshire,All Ages,"Rate per 1,000 Population",19.8
+Financial Quarter,2019/20 Q4,North Ayrshire,All Ages,Number of People,2665
+Financial Quarter,2019/20 Q4,North Ayrshire,All Ages,Number of Hours,394885
+Financial Quarter,2019/20 Q4,North Lanarkshire,All Ages,"Rate per 1,000 Population",12
+Financial Quarter,2019/20 Q4,North Lanarkshire,All Ages,Number of People,4105
+Financial Quarter,2019/20 Q4,North Lanarkshire,All Ages,Number of Hours,376130
+Financial Quarter,2019/20 Q4,Orkney Islands,All Ages,"Rate per 1,000 Population",9.7
+Financial Quarter,2019/20 Q4,Orkney Islands,All Ages,Number of People,215
+Financial Quarter,2019/20 Q4,Orkney Islands,All Ages,Number of Hours,21325
+Financial Quarter,2019/20 Q4,Perth and Kinross,All Ages,"Rate per 1,000 Population",12.7
+Financial Quarter,2019/20 Q4,Perth and Kinross,All Ages,Number of People,1935
+Financial Quarter,2019/20 Q4,Perth and Kinross,All Ages,Number of Hours,269580
+Financial Quarter,2019/20 Q4,Renfrewshire,All Ages,"Rate per 1,000 Population",13.9
+Financial Quarter,2019/20 Q4,Renfrewshire,All Ages,Number of People,2485
+Financial Quarter,2019/20 Q4,Renfrewshire,All Ages,Number of Hours,432800
+Financial Quarter,2019/20 Q4,Scottish Borders,All Ages,"Rate per 1,000 Population",13.7
+Financial Quarter,2019/20 Q4,Scottish Borders,All Ages,Number of People,1585
+Financial Quarter,2019/20 Q4,Scottish Borders,All Ages,Number of Hours,141210
+Financial Quarter,2019/20 Q4,Shetland,All Ages,"Rate per 1,000 Population",17.9
+Financial Quarter,2019/20 Q4,Shetland,All Ages,Number of People,410
+Financial Quarter,2019/20 Q4,Shetland,All Ages,Number of Hours,40420
+Financial Quarter,2019/20 Q4,South Ayrshire,All Ages,"Rate per 1,000 Population",16
+Financial Quarter,2019/20 Q4,South Ayrshire,All Ages,Number of People,1805
+Financial Quarter,2019/20 Q4,South Ayrshire,All Ages,Number of Hours,398200
+Financial Quarter,2019/20 Q4,South Lanarkshire,All Ages,"Rate per 1,000 Population",13.1
+Financial Quarter,2019/20 Q4,South Lanarkshire,All Ages,Number of People,4200
+Financial Quarter,2019/20 Q4,South Lanarkshire,All Ages,Number of Hours,568100
+Financial Quarter,2019/20 Q4,Stirling,All Ages,"Rate per 1,000 Population",14.6
+Financial Quarter,2019/20 Q4,Stirling,All Ages,Number of People,1375
+Financial Quarter,2019/20 Q4,Stirling,All Ages,Number of Hours,250230
+Financial Quarter,2019/20 Q4,West Dunbartonshire,All Ages,"Rate per 1,000 Population",19.7
+Financial Quarter,2019/20 Q4,West Dunbartonshire,All Ages,Number of People,1755
+Financial Quarter,2019/20 Q4,West Dunbartonshire,All Ages,Number of Hours,123275
+Financial Quarter,2019/20 Q4,West Lothian,All Ages,"Rate per 1,000 Population",10.6
+Financial Quarter,2019/20 Q4,West Lothian,All Ages,Number of People,1935
+Financial Quarter,2019/20 Q4,West Lothian,All Ages,Number of Hours,301265
+Financial Quarter,2020/21 Q1,Scotland (Estimated),All Ages,"Rate per 1,000 Population",11.9
+Financial Quarter,2020/21 Q1,Scotland (Estimated),All Ages,Number of People,64785
+Financial Quarter,2020/21 Q1,Scotland (Estimated),All Ages,Number of Hours,9391595
+Financial Quarter,2020/21 Q1,Aberdeen City,All Ages,"Rate per 1,000 Population",8.8
+Financial Quarter,2020/21 Q1,Aberdeen City,All Ages,Number of People,2020
+Financial Quarter,2020/21 Q1,Aberdeen City,All Ages,Number of Hours,353670
+Financial Quarter,2020/21 Q1,Aberdeenshire,All Ages,"Rate per 1,000 Population",9.1
+Financial Quarter,2020/21 Q1,Aberdeenshire,All Ages,Number of People,2385
+Financial Quarter,2020/21 Q1,Aberdeenshire,All Ages,Number of Hours,227155
+Financial Quarter,2020/21 Q1,Angus,All Ages,"Rate per 1,000 Population",12.7
+Financial Quarter,2020/21 Q1,Angus,All Ages,Number of People,1470
+Financial Quarter,2020/21 Q1,Angus,All Ages,Number of Hours,139185
+Financial Quarter,2020/21 Q1,Argyll and Bute,All Ages,"Rate per 1,000 Population",19.1
+Financial Quarter,2020/21 Q1,Argyll and Bute,All Ages,Number of People,1635
+Financial Quarter,2020/21 Q1,Argyll and Bute,All Ages,Number of Hours,299500
+Financial Quarter,2020/21 Q1,City of Edinburgh,All Ages,"Rate per 1,000 Population",9.8
+Financial Quarter,2020/21 Q1,City of Edinburgh,All Ages,Number of People,5195
+Financial Quarter,2020/21 Q1,City of Edinburgh,All Ages,Number of Hours,1370690
+Financial Quarter,2020/21 Q1,Clackmannanshire,All Ages,"Rate per 1,000 Population",16.7
+Financial Quarter,2020/21 Q1,Clackmannanshire,All Ages,Number of People,855
+Financial Quarter,2020/21 Q1,Clackmannanshire,All Ages,Number of Hours,141370
+Financial Quarter,2020/21 Q1,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",11.5
+Financial Quarter,2020/21 Q1,Comhairle nan Eilean Siar,All Ages,Number of People,305
+Financial Quarter,2020/21 Q1,Comhairle nan Eilean Siar,All Ages,Number of Hours,19455
+Financial Quarter,2020/21 Q1,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",16.6
+Financial Quarter,2020/21 Q1,Dumfries and Galloway,All Ages,Number of People,2455
+Financial Quarter,2020/21 Q1,Dumfries and Galloway,All Ages,Number of Hours,515765
+Financial Quarter,2020/21 Q1,Dundee City,All Ages,"Rate per 1,000 Population",13
+Financial Quarter,2020/21 Q1,Dundee City,All Ages,Number of People,1935
+Financial Quarter,2020/21 Q1,Dundee City,All Ages,Number of Hours,230165
+Financial Quarter,2020/21 Q1,East Ayrshire,All Ages,"Rate per 1,000 Population",15.3
+Financial Quarter,2020/21 Q1,East Ayrshire,All Ages,Number of People,1855
+Financial Quarter,2020/21 Q1,East Ayrshire,All Ages,Number of Hours,161520
+Financial Quarter,2020/21 Q1,East Dunbartonshire,All Ages,"Rate per 1,000 Population",12.4
+Financial Quarter,2020/21 Q1,East Dunbartonshire,All Ages,Number of People,1345
+Financial Quarter,2020/21 Q1,East Dunbartonshire,All Ages,Number of Hours,138095
+Financial Quarter,2020/21 Q1,East Lothian,All Ages,"Rate per 1,000 Population",13.5
+Financial Quarter,2020/21 Q1,East Lothian,All Ages,Number of People,1460
+Financial Quarter,2020/21 Q1,East Lothian,All Ages,Number of Hours,264470
+Financial Quarter,2020/21 Q1,East Renfrewshire,All Ages,"Rate per 1,000 Population",12.7
+Financial Quarter,2020/21 Q1,East Renfrewshire,All Ages,Number of People,1220
+Financial Quarter,2020/21 Q1,East Renfrewshire,All Ages,Number of Hours,125970
+Financial Quarter,2020/21 Q1,Falkirk,All Ages,"Rate per 1,000 Population",13
+Financial Quarter,2020/21 Q1,Falkirk,All Ages,Number of People,2095
+Financial Quarter,2020/21 Q1,Falkirk,All Ages,Number of Hours,152535
+Financial Quarter,2020/21 Q1,Fife,All Ages,"Rate per 1,000 Population",9.6
+Financial Quarter,2020/21 Q1,Fife,All Ages,Number of People,3575
+Financial Quarter,2020/21 Q1,Fife,All Ages,Number of Hours,806100
+Financial Quarter,2020/21 Q1,Glasgow City,All Ages,"Rate per 1,000 Population",9.7
+Financial Quarter,2020/21 Q1,Glasgow City,All Ages,Number of People,6170
+Financial Quarter,2020/21 Q1,Glasgow City,All Ages,Number of Hours,622140
+Financial Quarter,2020/21 Q1,Highland,All Ages,"Rate per 1,000 Population",9.1
+Financial Quarter,2020/21 Q1,Highland,All Ages,Number of People,2145
+Financial Quarter,2020/21 Q1,Highland,All Ages,Number of Hours,191690
+Financial Quarter,2020/21 Q1,Inverclyde,All Ages,"Rate per 1,000 Population",16
+Financial Quarter,2020/21 Q1,Inverclyde,All Ages,Number of People,1235
+Financial Quarter,2020/21 Q1,Inverclyde,All Ages,Number of Hours,74035
+Financial Quarter,2020/21 Q1,Midlothian,All Ages,"Rate per 1,000 Population",10.8
+Financial Quarter,2020/21 Q1,Midlothian,All Ages,Number of People,1010
+Financial Quarter,2020/21 Q1,Midlothian,All Ages,Number of Hours,197140
+Financial Quarter,2020/21 Q1,Moray,All Ages,"Rate per 1,000 Population",10.4
+Financial Quarter,2020/21 Q1,Moray,All Ages,Number of People,1000
+Financial Quarter,2020/21 Q1,Moray,All Ages,Number of Hours,172390
+Financial Quarter,2020/21 Q1,North Ayrshire,All Ages,"Rate per 1,000 Population",21.1
+Financial Quarter,2020/21 Q1,North Ayrshire,All Ages,Number of People,2835
+Financial Quarter,2020/21 Q1,North Ayrshire,All Ages,Number of Hours,357155
+Financial Quarter,2020/21 Q1,North Lanarkshire,All Ages,"Rate per 1,000 Population",10.3
+Financial Quarter,2020/21 Q1,North Lanarkshire,All Ages,Number of People,3530
+Financial Quarter,2020/21 Q1,North Lanarkshire,All Ages,Number of Hours,342660
+Financial Quarter,2020/21 Q1,Orkney Islands,All Ages,"Rate per 1,000 Population",8.7
+Financial Quarter,2020/21 Q1,Orkney Islands,All Ages,Number of People,195
+Financial Quarter,2020/21 Q1,Orkney Islands,All Ages,Number of Hours,18055
+Financial Quarter,2020/21 Q1,Perth and Kinross,All Ages,"Rate per 1,000 Population",12.3
+Financial Quarter,2020/21 Q1,Perth and Kinross,All Ages,Number of People,1865
+Financial Quarter,2020/21 Q1,Perth and Kinross,All Ages,Number of Hours,251905
+Financial Quarter,2020/21 Q1,Renfrewshire,All Ages,"Rate per 1,000 Population",12.9
+Financial Quarter,2020/21 Q1,Renfrewshire,All Ages,Number of People,2315
+Financial Quarter,2020/21 Q1,Renfrewshire,All Ages,Number of Hours,455845
+Financial Quarter,2020/21 Q1,Scottish Borders,All Ages,"Rate per 1,000 Population",13.1
+Financial Quarter,2020/21 Q1,Scottish Borders,All Ages,Number of People,1505
+Financial Quarter,2020/21 Q1,Scottish Borders,All Ages,Number of Hours,133255
+Financial Quarter,2020/21 Q1,Shetland,All Ages,"Rate per 1,000 Population",16.6
+Financial Quarter,2020/21 Q1,Shetland,All Ages,Number of People,380
+Financial Quarter,2020/21 Q1,Shetland,All Ages,Number of Hours,40025
+Financial Quarter,2020/21 Q1,South Ayrshire,All Ages,"Rate per 1,000 Population",16.2
+Financial Quarter,2020/21 Q1,South Ayrshire,All Ages,Number of People,1815
+Financial Quarter,2020/21 Q1,South Ayrshire,All Ages,Number of Hours,405835
+Financial Quarter,2020/21 Q1,South Lanarkshire,All Ages,"Rate per 1,000 Population",12.9
+Financial Quarter,2020/21 Q1,South Lanarkshire,All Ages,Number of People,4135
+Financial Quarter,2020/21 Q1,South Lanarkshire,All Ages,Number of Hours,576930
+Financial Quarter,2020/21 Q1,Stirling,All Ages,"Rate per 1,000 Population",14.1
+Financial Quarter,2020/21 Q1,Stirling,All Ages,Number of People,1325
+Financial Quarter,2020/21 Q1,Stirling,All Ages,Number of Hours,197510
+Financial Quarter,2020/21 Q1,West Dunbartonshire,All Ages,"Rate per 1,000 Population",17.1
+Financial Quarter,2020/21 Q1,West Dunbartonshire,All Ages,Number of People,1510
+Financial Quarter,2020/21 Q1,West Dunbartonshire,All Ages,Number of Hours,101355
+Financial Quarter,2020/21 Q1,West Lothian,All Ages,"Rate per 1,000 Population",10.9
+Financial Quarter,2020/21 Q1,West Lothian,All Ages,Number of People,1995
+Financial Quarter,2020/21 Q1,West Lothian,All Ages,Number of Hours,308030
+Financial Quarter,2020/21 Q2,Scotland (Estimated),All Ages,"Rate per 1,000 Population",12.3
+Financial Quarter,2020/21 Q2,Scotland (Estimated),All Ages,Number of People,67100
+Financial Quarter,2020/21 Q2,Scotland (Estimated),All Ages,Number of Hours,9856205
+Financial Quarter,2020/21 Q2,Aberdeen City,All Ages,"Rate per 1,000 Population",9
+Financial Quarter,2020/21 Q2,Aberdeen City,All Ages,Number of People,2055
+Financial Quarter,2020/21 Q2,Aberdeen City,All Ages,Number of Hours,369025
+Financial Quarter,2020/21 Q2,Aberdeenshire,All Ages,"Rate per 1,000 Population",9.7
+Financial Quarter,2020/21 Q2,Aberdeenshire,All Ages,Number of People,2535
+Financial Quarter,2020/21 Q2,Aberdeenshire,All Ages,Number of Hours,249785
+Financial Quarter,2020/21 Q2,Angus,All Ages,"Rate per 1,000 Population",13
+Financial Quarter,2020/21 Q2,Angus,All Ages,Number of People,1510
+Financial Quarter,2020/21 Q2,Angus,All Ages,Number of Hours,152785
+Financial Quarter,2020/21 Q2,Argyll and Bute,All Ages,"Rate per 1,000 Population",19.1
+Financial Quarter,2020/21 Q2,Argyll and Bute,All Ages,Number of People,1635
+Financial Quarter,2020/21 Q2,Argyll and Bute,All Ages,Number of Hours,296245
+Financial Quarter,2020/21 Q2,City of Edinburgh,All Ages,"Rate per 1,000 Population",10.4
+Financial Quarter,2020/21 Q2,City of Edinburgh,All Ages,Number of People,5475
+Financial Quarter,2020/21 Q2,City of Edinburgh,All Ages,Number of Hours,1441380
+Financial Quarter,2020/21 Q2,Clackmannanshire,All Ages,"Rate per 1,000 Population",17.4
+Financial Quarter,2020/21 Q2,Clackmannanshire,All Ages,Number of People,890
+Financial Quarter,2020/21 Q2,Clackmannanshire,All Ages,Number of Hours,149930
+Financial Quarter,2020/21 Q2,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",12.6
+Financial Quarter,2020/21 Q2,Comhairle nan Eilean Siar,All Ages,Number of People,335
+Financial Quarter,2020/21 Q2,Comhairle nan Eilean Siar,All Ages,Number of Hours,21085
+Financial Quarter,2020/21 Q2,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",16.7
+Financial Quarter,2020/21 Q2,Dumfries and Galloway,All Ages,Number of People,2480
+Financial Quarter,2020/21 Q2,Dumfries and Galloway,All Ages,Number of Hours,655910
+Financial Quarter,2020/21 Q2,Dundee City,All Ages,"Rate per 1,000 Population",12.8
+Financial Quarter,2020/21 Q2,Dundee City,All Ages,Number of People,1900
+Financial Quarter,2020/21 Q2,Dundee City,All Ages,Number of Hours,240495
+Financial Quarter,2020/21 Q2,East Ayrshire,All Ages,"Rate per 1,000 Population",15.9
+Financial Quarter,2020/21 Q2,East Ayrshire,All Ages,Number of People,1930
+Financial Quarter,2020/21 Q2,East Ayrshire,All Ages,Number of Hours,176970
+Financial Quarter,2020/21 Q2,East Dunbartonshire,All Ages,"Rate per 1,000 Population",13.2
+Financial Quarter,2020/21 Q2,East Dunbartonshire,All Ages,Number of People,1435
+Financial Quarter,2020/21 Q2,East Dunbartonshire,All Ages,Number of Hours,144345
+Financial Quarter,2020/21 Q2,East Lothian,All Ages,"Rate per 1,000 Population",13.5
+Financial Quarter,2020/21 Q2,East Lothian,All Ages,Number of People,1460
+Financial Quarter,2020/21 Q2,East Lothian,All Ages,Number of Hours,272190
+Financial Quarter,2020/21 Q2,East Renfrewshire,All Ages,"Rate per 1,000 Population",13.8
+Financial Quarter,2020/21 Q2,East Renfrewshire,All Ages,Number of People,1325
+Financial Quarter,2020/21 Q2,East Renfrewshire,All Ages,Number of Hours,134855
+Financial Quarter,2020/21 Q2,Falkirk,All Ages,"Rate per 1,000 Population",13.1
+Financial Quarter,2020/21 Q2,Falkirk,All Ages,Number of People,2110
+Financial Quarter,2020/21 Q2,Falkirk,All Ages,Number of Hours,163540
+Financial Quarter,2020/21 Q2,Fife,All Ages,"Rate per 1,000 Population",9.9
+Financial Quarter,2020/21 Q2,Fife,All Ages,Number of People,3705
+Financial Quarter,2020/21 Q2,Fife,All Ages,Number of Hours,833440
+Financial Quarter,2020/21 Q2,Glasgow City,All Ages,"Rate per 1,000 Population",10.2
+Financial Quarter,2020/21 Q2,Glasgow City,All Ages,Number of People,6515
+Financial Quarter,2020/21 Q2,Glasgow City,All Ages,Number of Hours,630715
+Financial Quarter,2020/21 Q2,Highland,All Ages,"Rate per 1,000 Population",9.4
+Financial Quarter,2020/21 Q2,Highland,All Ages,Number of People,2210
+Financial Quarter,2020/21 Q2,Highland,All Ages,Number of Hours,200260
+Financial Quarter,2020/21 Q2,Inverclyde,All Ages,"Rate per 1,000 Population",16.9
+Financial Quarter,2020/21 Q2,Inverclyde,All Ages,Number of People,1305
+Financial Quarter,2020/21 Q2,Inverclyde,All Ages,Number of Hours,79870
+Financial Quarter,2020/21 Q2,Midlothian,All Ages,"Rate per 1,000 Population",10.8
+Financial Quarter,2020/21 Q2,Midlothian,All Ages,Number of People,1005
+Financial Quarter,2020/21 Q2,Midlothian,All Ages,Number of Hours,195125
+Financial Quarter,2020/21 Q2,Moray,All Ages,"Rate per 1,000 Population",10.8
+Financial Quarter,2020/21 Q2,Moray,All Ages,Number of People,1035
+Financial Quarter,2020/21 Q2,Moray,All Ages,Number of Hours,182085
+Financial Quarter,2020/21 Q2,North Ayrshire,All Ages,"Rate per 1,000 Population",22.1
+Financial Quarter,2020/21 Q2,North Ayrshire,All Ages,Number of People,2965
+Financial Quarter,2020/21 Q2,North Ayrshire,All Ages,Number of Hours,368460
+Financial Quarter,2020/21 Q2,North Lanarkshire,All Ages,"Rate per 1,000 Population",11.1
+Financial Quarter,2020/21 Q2,North Lanarkshire,All Ages,Number of People,3800
+Financial Quarter,2020/21 Q2,North Lanarkshire,All Ages,Number of Hours,360440
+Financial Quarter,2020/21 Q2,Orkney Islands,All Ages,"Rate per 1,000 Population",8.9
+Financial Quarter,2020/21 Q2,Orkney Islands,All Ages,Number of People,200
+Financial Quarter,2020/21 Q2,Orkney Islands,All Ages,Number of Hours,18475
+Financial Quarter,2020/21 Q2,Perth and Kinross,All Ages,"Rate per 1,000 Population",12.8
+Financial Quarter,2020/21 Q2,Perth and Kinross,All Ages,Number of People,1945
+Financial Quarter,2020/21 Q2,Perth and Kinross,All Ages,Number of Hours,264405
+Financial Quarter,2020/21 Q2,Renfrewshire,All Ages,"Rate per 1,000 Population",13.3
+Financial Quarter,2020/21 Q2,Renfrewshire,All Ages,Number of People,2385
+Financial Quarter,2020/21 Q2,Renfrewshire,All Ages,Number of Hours,445415
+Financial Quarter,2020/21 Q2,Scottish Borders,All Ages,"Rate per 1,000 Population",13.3
+Financial Quarter,2020/21 Q2,Scottish Borders,All Ages,Number of People,1535
+Financial Quarter,2020/21 Q2,Scottish Borders,All Ages,Number of Hours,137895
+Financial Quarter,2020/21 Q2,Shetland,All Ages,"Rate per 1,000 Population",17.1
+Financial Quarter,2020/21 Q2,Shetland,All Ages,Number of People,390
+Financial Quarter,2020/21 Q2,Shetland,All Ages,Number of Hours,41540
+Financial Quarter,2020/21 Q2,South Ayrshire,All Ages,"Rate per 1,000 Population",16.8
+Financial Quarter,2020/21 Q2,South Ayrshire,All Ages,Number of People,1880
+Financial Quarter,2020/21 Q2,South Ayrshire,All Ages,Number of Hours,419755
+Financial Quarter,2020/21 Q2,South Lanarkshire,All Ages,"Rate per 1,000 Population",13.2
+Financial Quarter,2020/21 Q2,South Lanarkshire,All Ages,Number of People,4245
+Financial Quarter,2020/21 Q2,South Lanarkshire,All Ages,Number of Hours,609040
+Financial Quarter,2020/21 Q2,Stirling,All Ages,"Rate per 1,000 Population",14.1
+Financial Quarter,2020/21 Q2,Stirling,All Ages,Number of People,1330
+Financial Quarter,2020/21 Q2,Stirling,All Ages,Number of Hours,215270
+Financial Quarter,2020/21 Q2,West Dunbartonshire,All Ages,"Rate per 1,000 Population",17.8
+Financial Quarter,2020/21 Q2,West Dunbartonshire,All Ages,Number of People,1570
+Financial Quarter,2020/21 Q2,West Dunbartonshire,All Ages,Number of Hours,109265
+Financial Quarter,2020/21 Q2,West Lothian,All Ages,"Rate per 1,000 Population",10.9
+Financial Quarter,2020/21 Q2,West Lothian,All Ages,Number of People,2000
+Financial Quarter,2020/21 Q2,West Lothian,All Ages,Number of Hours,276205
+Financial Quarter,2020/21 Q3,Scotland (Estimated),All Ages,"Rate per 1,000 Population",12.4
+Financial Quarter,2020/21 Q3,Scotland (Estimated),All Ages,Number of People,67915
+Financial Quarter,2020/21 Q3,Scotland (Estimated),All Ages,Number of Hours,10114600
+Financial Quarter,2020/21 Q3,Aberdeen City,All Ages,"Rate per 1,000 Population",8.4
+Financial Quarter,2020/21 Q3,Aberdeen City,All Ages,Number of People,1935
+Financial Quarter,2020/21 Q3,Aberdeen City,All Ages,Number of Hours,316015
+Financial Quarter,2020/21 Q3,Aberdeenshire,All Ages,"Rate per 1,000 Population",9.8
+Financial Quarter,2020/21 Q3,Aberdeenshire,All Ages,Number of People,2560
+Financial Quarter,2020/21 Q3,Aberdeenshire,All Ages,Number of Hours,260260
+Financial Quarter,2020/21 Q3,Angus,All Ages,"Rate per 1,000 Population",13.3
+Financial Quarter,2020/21 Q3,Angus,All Ages,Number of People,1535
+Financial Quarter,2020/21 Q3,Angus,All Ages,Number of Hours,159375
+Financial Quarter,2020/21 Q3,Argyll and Bute,All Ages,"Rate per 1,000 Population",19.1
+Financial Quarter,2020/21 Q3,Argyll and Bute,All Ages,Number of People,1635
+Financial Quarter,2020/21 Q3,Argyll and Bute,All Ages,Number of Hours,295015
+Financial Quarter,2020/21 Q3,City of Edinburgh,All Ages,"Rate per 1,000 Population",10.7
+Financial Quarter,2020/21 Q3,City of Edinburgh,All Ages,Number of People,5625
+Financial Quarter,2020/21 Q3,City of Edinburgh,All Ages,Number of Hours,1408930
+Financial Quarter,2020/21 Q3,Clackmannanshire,All Ages,"Rate per 1,000 Population",17.4
+Financial Quarter,2020/21 Q3,Clackmannanshire,All Ages,Number of People,890
+Financial Quarter,2020/21 Q3,Clackmannanshire,All Ages,Number of Hours,154750
+Financial Quarter,2020/21 Q3,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",12.8
+Financial Quarter,2020/21 Q3,Comhairle nan Eilean Siar,All Ages,Number of People,340
+Financial Quarter,2020/21 Q3,Comhairle nan Eilean Siar,All Ages,Number of Hours,21785
+Financial Quarter,2020/21 Q3,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",17.6
+Financial Quarter,2020/21 Q3,Dumfries and Galloway,All Ages,Number of People,2605
+Financial Quarter,2020/21 Q3,Dumfries and Galloway,All Ages,Number of Hours,763840
+Financial Quarter,2020/21 Q3,Dundee City,All Ages,"Rate per 1,000 Population",12.9
+Financial Quarter,2020/21 Q3,Dundee City,All Ages,Number of People,1920
+Financial Quarter,2020/21 Q3,Dundee City,All Ages,Number of Hours,228325
+Financial Quarter,2020/21 Q3,East Ayrshire,All Ages,"Rate per 1,000 Population",16.4
+Financial Quarter,2020/21 Q3,East Ayrshire,All Ages,Number of People,2000
+Financial Quarter,2020/21 Q3,East Ayrshire,All Ages,Number of Hours,209425
+Financial Quarter,2020/21 Q3,East Dunbartonshire,All Ages,"Rate per 1,000 Population",13.7
+Financial Quarter,2020/21 Q3,East Dunbartonshire,All Ages,Number of People,1490
+Financial Quarter,2020/21 Q3,East Dunbartonshire,All Ages,Number of Hours,147470
+Financial Quarter,2020/21 Q3,East Lothian,All Ages,"Rate per 1,000 Population",13.3
+Financial Quarter,2020/21 Q3,East Lothian,All Ages,Number of People,1435
+Financial Quarter,2020/21 Q3,East Lothian,All Ages,Number of Hours,275510
+Financial Quarter,2020/21 Q3,East Renfrewshire,All Ages,"Rate per 1,000 Population",13.8
+Financial Quarter,2020/21 Q3,East Renfrewshire,All Ages,Number of People,1325
+Financial Quarter,2020/21 Q3,East Renfrewshire,All Ages,Number of Hours,135380
+Financial Quarter,2020/21 Q3,Falkirk,All Ages,"Rate per 1,000 Population",12.4
+Financial Quarter,2020/21 Q3,Falkirk,All Ages,Number of People,1990
+Financial Quarter,2020/21 Q3,Falkirk,All Ages,Number of Hours,161740
+Financial Quarter,2020/21 Q3,Fife,All Ages,"Rate per 1,000 Population",10
+Financial Quarter,2020/21 Q3,Fife,All Ages,Number of People,3725
+Financial Quarter,2020/21 Q3,Fife,All Ages,Number of Hours,835120
+Financial Quarter,2020/21 Q3,Glasgow City,All Ages,"Rate per 1,000 Population",10.4
+Financial Quarter,2020/21 Q3,Glasgow City,All Ages,Number of People,6580
+Financial Quarter,2020/21 Q3,Glasgow City,All Ages,Number of Hours,629815
+Financial Quarter,2020/21 Q3,Highland,All Ages,"Rate per 1,000 Population",9.7
+Financial Quarter,2020/21 Q3,Highland,All Ages,Number of People,2280
+Financial Quarter,2020/21 Q3,Highland,All Ages,Number of Hours,209560
+Financial Quarter,2020/21 Q3,Inverclyde,All Ages,"Rate per 1,000 Population",17
+Financial Quarter,2020/21 Q3,Inverclyde,All Ages,Number of People,1310
+Financial Quarter,2020/21 Q3,Inverclyde,All Ages,Number of Hours,84365
+Financial Quarter,2020/21 Q3,Midlothian,All Ages,"Rate per 1,000 Population",11.1
+Financial Quarter,2020/21 Q3,Midlothian,All Ages,Number of People,1035
+Financial Quarter,2020/21 Q3,Midlothian,All Ages,Number of Hours,215225
+Financial Quarter,2020/21 Q3,Moray,All Ages,"Rate per 1,000 Population",11
+Financial Quarter,2020/21 Q3,Moray,All Ages,Number of People,1055
+Financial Quarter,2020/21 Q3,Moray,All Ages,Number of Hours,198900
+Financial Quarter,2020/21 Q3,North Ayrshire,All Ages,"Rate per 1,000 Population",22.8
+Financial Quarter,2020/21 Q3,North Ayrshire,All Ages,Number of People,3065
+Financial Quarter,2020/21 Q3,North Ayrshire,All Ages,Number of Hours,392195
+Financial Quarter,2020/21 Q3,North Lanarkshire,All Ages,"Rate per 1,000 Population",11.1
+Financial Quarter,2020/21 Q3,North Lanarkshire,All Ages,Number of People,3770
+Financial Quarter,2020/21 Q3,North Lanarkshire,All Ages,Number of Hours,365870
+Financial Quarter,2020/21 Q3,Orkney Islands,All Ages,"Rate per 1,000 Population",9.2
+Financial Quarter,2020/21 Q3,Orkney Islands,All Ages,Number of People,205
+Financial Quarter,2020/21 Q3,Orkney Islands,All Ages,Number of Hours,18635
+Financial Quarter,2020/21 Q3,Perth and Kinross,All Ages,"Rate per 1,000 Population",12.9
+Financial Quarter,2020/21 Q3,Perth and Kinross,All Ages,Number of People,1965
+Financial Quarter,2020/21 Q3,Perth and Kinross,All Ages,Number of Hours,263040
+Financial Quarter,2020/21 Q3,Renfrewshire,All Ages,"Rate per 1,000 Population",13.5
+Financial Quarter,2020/21 Q3,Renfrewshire,All Ages,Number of People,2430
+Financial Quarter,2020/21 Q3,Renfrewshire,All Ages,Number of Hours,449225
+Financial Quarter,2020/21 Q3,Scottish Borders,All Ages,"Rate per 1,000 Population",13
+Financial Quarter,2020/21 Q3,Scottish Borders,All Ages,Number of People,1500
+Financial Quarter,2020/21 Q3,Scottish Borders,All Ages,Number of Hours,137480
+Financial Quarter,2020/21 Q3,Shetland,All Ages,"Rate per 1,000 Population",17.1
+Financial Quarter,2020/21 Q3,Shetland,All Ages,Number of People,390
+Financial Quarter,2020/21 Q3,Shetland,All Ages,Number of Hours,43990
+Financial Quarter,2020/21 Q3,South Ayrshire,All Ages,"Rate per 1,000 Population",17.8
+Financial Quarter,2020/21 Q3,South Ayrshire,All Ages,Number of People,1995
+Financial Quarter,2020/21 Q3,South Ayrshire,All Ages,Number of Hours,430355
+Financial Quarter,2020/21 Q3,South Lanarkshire,All Ages,"Rate per 1,000 Population",13.4
+Financial Quarter,2020/21 Q3,South Lanarkshire,All Ages,Number of People,4305
+Financial Quarter,2020/21 Q3,South Lanarkshire,All Ages,Number of Hours,608930
+Financial Quarter,2020/21 Q3,Stirling,All Ages,"Rate per 1,000 Population",14.1
+Financial Quarter,2020/21 Q3,Stirling,All Ages,Number of People,1330
+Financial Quarter,2020/21 Q3,Stirling,All Ages,Number of Hours,254560
+Financial Quarter,2020/21 Q3,West Dunbartonshire,All Ages,"Rate per 1,000 Population",18.2
+Financial Quarter,2020/21 Q3,West Dunbartonshire,All Ages,Number of People,1605
+Financial Quarter,2020/21 Q3,West Dunbartonshire,All Ages,Number of Hours,110600
+Financial Quarter,2020/21 Q3,West Lothian,All Ages,"Rate per 1,000 Population",11.4
+Financial Quarter,2020/21 Q3,West Lothian,All Ages,Number of People,2090
+Financial Quarter,2020/21 Q3,West Lothian,All Ages,Number of Hours,328900
+Financial Quarter,2020/21 Q4,Scotland (Estimated),All Ages,"Rate per 1,000 Population",12.4
+Financial Quarter,2020/21 Q4,Scotland (Estimated),All Ages,Number of People,67835
+Financial Quarter,2020/21 Q4,Scotland (Estimated),All Ages,Number of Hours,9273040
+Financial Quarter,2020/21 Q4,Aberdeen City,All Ages,"Rate per 1,000 Population",9.3
+Financial Quarter,2020/21 Q4,Aberdeen City,All Ages,Number of People,2120
+Financial Quarter,2020/21 Q4,Aberdeen City,All Ages,Number of Hours,316015
+Financial Quarter,2020/21 Q4,Aberdeenshire,All Ages,"Rate per 1,000 Population",10.1
+Financial Quarter,2020/21 Q4,Aberdeenshire,All Ages,Number of People,2625
+Financial Quarter,2020/21 Q4,Aberdeenshire,All Ages,Number of Hours,257280
+Financial Quarter,2020/21 Q4,Angus,All Ages,"Rate per 1,000 Population",13.3
+Financial Quarter,2020/21 Q4,Angus,All Ages,Number of People,1540
+Financial Quarter,2020/21 Q4,Angus,All Ages,Number of Hours,160750
+Financial Quarter,2020/21 Q4,Argyll and Bute,All Ages,"Rate per 1,000 Population",19.3
+Financial Quarter,2020/21 Q4,Argyll and Bute,All Ages,Number of People,1645
+Financial Quarter,2020/21 Q4,Argyll and Bute,All Ages,Number of Hours,284715
+Financial Quarter,2020/21 Q4,City of Edinburgh,All Ages,"Rate per 1,000 Population",11.1
+Financial Quarter,2020/21 Q4,City of Edinburgh,All Ages,Number of People,5855
+Financial Quarter,2020/21 Q4,City of Edinburgh,All Ages,Number of Hours,1426465
+Financial Quarter,2020/21 Q4,Clackmannanshire,All Ages,"Rate per 1,000 Population",17.6
+Financial Quarter,2020/21 Q4,Clackmannanshire,All Ages,Number of People,905
+Financial Quarter,2020/21 Q4,Clackmannanshire,All Ages,Number of Hours,149730
+Financial Quarter,2020/21 Q4,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",13
+Financial Quarter,2020/21 Q4,Comhairle nan Eilean Siar,All Ages,Number of People,345
+Financial Quarter,2020/21 Q4,Comhairle nan Eilean Siar,All Ages,Number of Hours,22250
+Financial Quarter,2020/21 Q4,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",16.7
+Financial Quarter,2020/21 Q4,Dumfries and Galloway,All Ages,Number of People,2470
+Financial Quarter,2020/21 Q4,Dumfries and Galloway,All Ages,Number of Hours,702520
+Financial Quarter,2020/21 Q4,Dundee City,All Ages,"Rate per 1,000 Population",13.6
+Financial Quarter,2020/21 Q4,Dundee City,All Ages,Number of People,2025
+Financial Quarter,2020/21 Q4,Dundee City,All Ages,Number of Hours,247760
+Financial Quarter,2020/21 Q4,East Ayrshire,All Ages,"Rate per 1,000 Population",16.5
+Financial Quarter,2020/21 Q4,East Ayrshire,All Ages,Number of People,2010
+Financial Quarter,2020/21 Q4,East Ayrshire,All Ages,Number of Hours,213620
+Financial Quarter,2020/21 Q4,East Dunbartonshire,All Ages,"Rate per 1,000 Population",13.6
+Financial Quarter,2020/21 Q4,East Dunbartonshire,All Ages,Number of People,1475
+Financial Quarter,2020/21 Q4,East Dunbartonshire,All Ages,Number of Hours,140440
+Financial Quarter,2020/21 Q4,East Lothian,All Ages,"Rate per 1,000 Population",13.2
+Financial Quarter,2020/21 Q4,East Lothian,All Ages,Number of People,1420
+Financial Quarter,2020/21 Q4,East Lothian,All Ages,Number of Hours,279125
+Financial Quarter,2020/21 Q4,East Renfrewshire,All Ages,"Rate per 1,000 Population",14.1
+Financial Quarter,2020/21 Q4,East Renfrewshire,All Ages,Number of People,1355
+Financial Quarter,2020/21 Q4,East Renfrewshire,All Ages,Number of Hours,129110
+Financial Quarter,2020/21 Q4,Falkirk,All Ages,"Rate per 1,000 Population",12.6
+Financial Quarter,2020/21 Q4,Falkirk,All Ages,Number of People,2030
+Financial Quarter,2020/21 Q4,Falkirk,All Ages,Number of Hours,159750
+Financial Quarter,2020/21 Q4,Fife,All Ages,"Rate per 1,000 Population",9.7
+Financial Quarter,2020/21 Q4,Fife,All Ages,Number of People,3620
+Financial Quarter,2020/21 Q4,Fife,All Ages,Number of Hours,442530
+Financial Quarter,2020/21 Q4,Glasgow City,All Ages,"Rate per 1,000 Population",10
+Financial Quarter,2020/21 Q4,Glasgow City,All Ages,Number of People,6355
+Financial Quarter,2020/21 Q4,Glasgow City,All Ages,Number of Hours,599355
+Financial Quarter,2020/21 Q4,Highland,All Ages,"Rate per 1,000 Population",9.8
+Financial Quarter,2020/21 Q4,Highland,All Ages,Number of People,2305
+Financial Quarter,2020/21 Q4,Highland,All Ages,Number of Hours,208350
+Financial Quarter,2020/21 Q4,Inverclyde,All Ages,"Rate per 1,000 Population",16.9
+Financial Quarter,2020/21 Q4,Inverclyde,All Ages,Number of People,1300
+Financial Quarter,2020/21 Q4,Inverclyde,All Ages,Number of Hours,81155
+Financial Quarter,2020/21 Q4,Midlothian,All Ages,"Rate per 1,000 Population",11.3
+Financial Quarter,2020/21 Q4,Midlothian,All Ages,Number of People,1050
+Financial Quarter,2020/21 Q4,Midlothian,All Ages,Number of Hours,190435
+Financial Quarter,2020/21 Q4,Moray,All Ages,"Rate per 1,000 Population",11.8
+Financial Quarter,2020/21 Q4,Moray,All Ages,Number of People,1125
+Financial Quarter,2020/21 Q4,Moray,All Ages,Number of Hours,200125
+Financial Quarter,2020/21 Q4,North Ayrshire,All Ages,"Rate per 1,000 Population",22.6
+Financial Quarter,2020/21 Q4,North Ayrshire,All Ages,Number of People,3035
+Financial Quarter,2020/21 Q4,North Ayrshire,All Ages,Number of Hours,360955
+Financial Quarter,2020/21 Q4,North Lanarkshire,All Ages,"Rate per 1,000 Population",11.2
+Financial Quarter,2020/21 Q4,North Lanarkshire,All Ages,Number of People,3830
+Financial Quarter,2020/21 Q4,North Lanarkshire,All Ages,Number of Hours,369775
+Financial Quarter,2020/21 Q4,Orkney Islands,All Ages,"Rate per 1,000 Population",8.3
+Financial Quarter,2020/21 Q4,Orkney Islands,All Ages,Number of People,185
+Financial Quarter,2020/21 Q4,Orkney Islands,All Ages,Number of Hours,17680
+Financial Quarter,2020/21 Q4,Perth and Kinross,All Ages,"Rate per 1,000 Population",13.3
+Financial Quarter,2020/21 Q4,Perth and Kinross,All Ages,Number of People,2015
+Financial Quarter,2020/21 Q4,Perth and Kinross,All Ages,Number of Hours,272415
+Financial Quarter,2020/21 Q4,Renfrewshire,All Ages,"Rate per 1,000 Population",11.5
+Financial Quarter,2020/21 Q4,Renfrewshire,All Ages,Number of People,2055
+Financial Quarter,2020/21 Q4,Renfrewshire,All Ages,Number of Hours,218655
+Financial Quarter,2020/21 Q4,Scottish Borders,All Ages,"Rate per 1,000 Population",12.8
+Financial Quarter,2020/21 Q4,Scottish Borders,All Ages,Number of People,1475
+Financial Quarter,2020/21 Q4,Scottish Borders,All Ages,Number of Hours,132870
+Financial Quarter,2020/21 Q4,Shetland,All Ages,"Rate per 1,000 Population",17.9
+Financial Quarter,2020/21 Q4,Shetland,All Ages,Number of People,410
+Financial Quarter,2020/21 Q4,Shetland,All Ages,Number of Hours,46310
+Financial Quarter,2020/21 Q4,South Ayrshire,All Ages,"Rate per 1,000 Population",17.3
+Financial Quarter,2020/21 Q4,South Ayrshire,All Ages,Number of People,1935
+Financial Quarter,2020/21 Q4,South Ayrshire,All Ages,Number of Hours,421580
+Financial Quarter,2020/21 Q4,South Lanarkshire,All Ages,"Rate per 1,000 Population",13.4
+Financial Quarter,2020/21 Q4,South Lanarkshire,All Ages,Number of People,4310
+Financial Quarter,2020/21 Q4,South Lanarkshire,All Ages,Number of Hours,595460
+Financial Quarter,2020/21 Q4,Stirling,All Ages,"Rate per 1,000 Population",14.5
+Financial Quarter,2020/21 Q4,Stirling,All Ages,Number of People,1365
+Financial Quarter,2020/21 Q4,Stirling,All Ages,Number of Hours,208145
+Financial Quarter,2020/21 Q4,West Dunbartonshire,All Ages,"Rate per 1,000 Population",18.1
+Financial Quarter,2020/21 Q4,West Dunbartonshire,All Ages,Number of People,1595
+Financial Quarter,2020/21 Q4,West Dunbartonshire,All Ages,Number of Hours,107495
+Financial Quarter,2020/21 Q4,West Lothian,All Ages,"Rate per 1,000 Population",11.2
+Financial Quarter,2020/21 Q4,West Lothian,All Ages,Number of People,2050
+Financial Quarter,2020/21 Q4,West Lothian,All Ages,Number of Hours,310220
+Census Week,2009/10,Scotland (Estimated),All Ages,"Rate per 1,000 Population",12.7
+Census Week,2009/10,Scotland (Estimated),All Ages,Number of People,66225
+Census Week,2009/10,Scotland (Estimated),All Ages,Number of Hours,632160
+Census Week,2009/10,Aberdeen City,All Ages,"Rate per 1,000 Population",8.8
+Census Week,2009/10,Aberdeen City,All Ages,Number of People,1900
+Census Week,2009/10,Aberdeen City,All Ages,Number of Hours,15260
+Census Week,2009/10,Aberdeenshire,All Ages,"Rate per 1,000 Population",9.6
+Census Week,2009/10,Aberdeenshire,All Ages,Number of People,2395
+Census Week,2009/10,Aberdeenshire,All Ages,Number of Hours,16505
+Census Week,2009/10,Angus,All Ages,"Rate per 1,000 Population",15.5
+Census Week,2009/10,Angus,All Ages,Number of People,1780
+Census Week,2009/10,Angus,All Ages,Number of Hours,6555
+Census Week,2009/10,Argyll and Bute,All Ages,"Rate per 1,000 Population",9.1
+Census Week,2009/10,Argyll and Bute,All Ages,Number of People,815
+Census Week,2009/10,Argyll and Bute,All Ages,Number of Hours,8225
+Census Week,2009/10,City of Edinburgh,All Ages,"Rate per 1,000 Population",9.9
+Census Week,2009/10,City of Edinburgh,All Ages,Number of People,4595
+Census Week,2009/10,City of Edinburgh,All Ages,Number of Hours,40875
+Census Week,2009/10,Clackmannanshire,All Ages,"Rate per 1,000 Population",14.5
+Census Week,2009/10,Clackmannanshire,All Ages,Number of People,745
+Census Week,2009/10,Clackmannanshire,All Ages,Number of Hours,6020
+Census Week,2009/10,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",20.8
+Census Week,2009/10,Comhairle nan Eilean Siar,All Ages,Number of People,570
+Census Week,2009/10,Comhairle nan Eilean Siar,All Ages,Number of Hours,5795
+Census Week,2009/10,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",15.9
+Census Week,2009/10,Dumfries and Galloway,All Ages,Number of People,2410
+Census Week,2009/10,Dumfries and Galloway,All Ages,Number of Hours,34830
+Census Week,2009/10,Dundee City,All Ages,"Rate per 1,000 Population",15.2
+Census Week,2009/10,Dundee City,All Ages,Number of People,2205
+Census Week,2009/10,Dundee City,All Ages,Number of Hours,15235
+Census Week,2009/10,East Ayrshire,All Ages,"Rate per 1,000 Population",15.7
+Census Week,2009/10,East Ayrshire,All Ages,Number of People,1920
+Census Week,2009/10,East Ayrshire,All Ages,Number of Hours,20985
+Census Week,2009/10,East Dunbartonshire,All Ages,"Rate per 1,000 Population",14.2
+Census Week,2009/10,East Dunbartonshire,All Ages,Number of People,1490
+Census Week,2009/10,East Dunbartonshire,All Ages,Number of Hours,16565
+Census Week,2009/10,East Lothian,All Ages,"Rate per 1,000 Population",15.9
+Census Week,2009/10,East Lothian,All Ages,Number of People,1560
+Census Week,2009/10,East Lothian,All Ages,Number of Hours,19285
+Census Week,2009/10,East Renfrewshire,All Ages,"Rate per 1,000 Population",10.6
+Census Week,2009/10,East Renfrewshire,All Ages,Number of People,955
+Census Week,2009/10,East Renfrewshire,All Ages,Number of Hours,8075
+Census Week,2009/10,Falkirk,All Ages,"Rate per 1,000 Population",16.8
+Census Week,2009/10,Falkirk,All Ages,Number of People,2595
+Census Week,2009/10,Falkirk,All Ages,Number of Hours,23620
+Census Week,2009/10,Fife,All Ages,"Rate per 1,000 Population",13.4
+Census Week,2009/10,Fife,All Ages,Number of People,4835
+Census Week,2009/10,Fife,All Ages,Number of Hours,60065
+Census Week,2009/10,Glasgow City,All Ages,"Rate per 1,000 Population",13.6
+Census Week,2009/10,Glasgow City,All Ages,Number of People,7900
+Census Week,2009/10,Glasgow City,All Ages,Number of Hours,77805
+Census Week,2009/10,Highland,All Ages,"Rate per 1,000 Population",8.9
+Census Week,2009/10,Highland,All Ages,Number of People,2040
+Census Week,2009/10,Highland,All Ages,Number of Hours,12705
+Census Week,2009/10,Inverclyde,All Ages,"Rate per 1,000 Population",17.1
+Census Week,2009/10,Inverclyde,All Ages,Number of People,1395
+Census Week,2009/10,Inverclyde,All Ages,Number of Hours,14915
+Census Week,2009/10,Midlothian,All Ages,"Rate per 1,000 Population",12
+Census Week,2009/10,Midlothian,All Ages,Number of People,980
+Census Week,2009/10,Midlothian,All Ages,Number of Hours,10720
+Census Week,2009/10,Moray,All Ages,"Rate per 1,000 Population",12.7
+Census Week,2009/10,Moray,All Ages,Number of People,1180
+Census Week,2009/10,Moray,All Ages,Number of Hours,10560
+Census Week,2009/10,North Ayrshire,All Ages,"Rate per 1,000 Population",10.3
+Census Week,2009/10,North Ayrshire,All Ages,Number of People,1420
+Census Week,2009/10,North Ayrshire,All Ages,Number of Hours,11025
+Census Week,2009/10,North Lanarkshire,All Ages,"Rate per 1,000 Population",11
+Census Week,2009/10,North Lanarkshire,All Ages,Number of People,3690
+Census Week,2009/10,North Lanarkshire,All Ages,Number of Hours,34745
+Census Week,2009/10,Orkney Islands,All Ages,"Rate per 1,000 Population",13.6
+Census Week,2009/10,Orkney Islands,All Ages,Number of People,285
+Census Week,2009/10,Orkney Islands,All Ages,Number of Hours,1820
+Census Week,2009/10,Perth and Kinross,All Ages,"Rate per 1,000 Population",10.6
+Census Week,2009/10,Perth and Kinross,All Ages,Number of People,1525
+Census Week,2009/10,Perth and Kinross,All Ages,Number of Hours,11605
+Census Week,2009/10,Renfrewshire,All Ages,"Rate per 1,000 Population",12.8
+Census Week,2009/10,Renfrewshire,All Ages,Number of People,2220
+Census Week,2009/10,Renfrewshire,All Ages,Number of Hours,12675
+Census Week,2009/10,Scottish Borders,All Ages,"Rate per 1,000 Population",12.2
+Census Week,2009/10,Scottish Borders,All Ages,Number of People,1390
+Census Week,2009/10,Scottish Borders,All Ages,Number of Hours,10875
+Census Week,2009/10,Shetland,All Ages,"Rate per 1,000 Population",20.6
+Census Week,2009/10,Shetland,All Ages,Number of People,470
+Census Week,2009/10,Shetland,All Ages,Number of Hours,3275
+Census Week,2009/10,South Ayrshire,All Ages,"Rate per 1,000 Population",19.7
+Census Week,2009/10,South Ayrshire,All Ages,Number of People,2215
+Census Week,2009/10,South Ayrshire,All Ages,Number of Hours,24565
+Census Week,2009/10,South Lanarkshire,All Ages,"Rate per 1,000 Population",13.1
+Census Week,2009/10,South Lanarkshire,All Ages,Number of People,4085
+Census Week,2009/10,South Lanarkshire,All Ages,Number of Hours,53690
+Census Week,2009/10,Stirling,All Ages,"Rate per 1,000 Population",13.6
+Census Week,2009/10,Stirling,All Ages,Number of People,1210
+Census Week,2009/10,Stirling,All Ages,Number of Hours,16010
+Census Week,2009/10,West Dunbartonshire,All Ages,"Rate per 1,000 Population",19.4
+Census Week,2009/10,West Dunbartonshire,All Ages,Number of People,1770
+Census Week,2009/10,West Dunbartonshire,All Ages,Number of Hours,12630
+Census Week,2009/10,West Lothian,All Ages,"Rate per 1,000 Population",9.7
+Census Week,2009/10,West Lothian,All Ages,Number of People,1675
+Census Week,2009/10,West Lothian,All Ages,Number of Hours,14645
+Census Week,2010/11,Scotland (Estimated),All Ages,"Rate per 1,000 Population",12.1
+Census Week,2010/11,Scotland (Estimated),All Ages,Number of People,63460
+Census Week,2010/11,Scotland (Estimated),All Ages,Number of Hours,607415
+Census Week,2010/11,Aberdeen City,All Ages,"Rate per 1,000 Population",8.8
+Census Week,2010/11,Aberdeen City,All Ages,Number of People,1930
+Census Week,2010/11,Aberdeen City,All Ages,Number of Hours,15895
+Census Week,2010/11,Aberdeenshire,All Ages,"Rate per 1,000 Population",8.6
+Census Week,2010/11,Aberdeenshire,All Ages,Number of People,2155
+Census Week,2010/11,Aberdeenshire,All Ages,Number of Hours,14085
+Census Week,2010/11,Angus,All Ages,"Rate per 1,000 Population",14.4
+Census Week,2010/11,Angus,All Ages,Number of People,1660
+Census Week,2010/11,Angus,All Ages,Number of Hours,6295
+Census Week,2010/11,Argyll and Bute,All Ages,"Rate per 1,000 Population",9.4
+Census Week,2010/11,Argyll and Bute,All Ages,Number of People,830
+Census Week,2010/11,Argyll and Bute,All Ages,Number of Hours,8290
+Census Week,2010/11,City of Edinburgh,All Ages,"Rate per 1,000 Population",9.3
+Census Week,2010/11,City of Edinburgh,All Ages,Number of People,4380
+Census Week,2010/11,City of Edinburgh,All Ages,Number of Hours,42045
+Census Week,2010/11,Clackmannanshire,All Ages,"Rate per 1,000 Population",13.8
+Census Week,2010/11,Clackmannanshire,All Ages,Number of People,710
+Census Week,2010/11,Clackmannanshire,All Ages,Number of Hours,5985
+Census Week,2010/11,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",19.2
+Census Week,2010/11,Comhairle nan Eilean Siar,All Ages,Number of People,530
+Census Week,2010/11,Comhairle nan Eilean Siar,All Ages,Number of Hours,4950
+Census Week,2010/11,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",15.5
+Census Week,2010/11,Dumfries and Galloway,All Ages,Number of People,2340
+Census Week,2010/11,Dumfries and Galloway,All Ages,Number of Hours,30350
+Census Week,2010/11,Dundee City,All Ages,"Rate per 1,000 Population",14.7
+Census Week,2010/11,Dundee City,All Ages,Number of People,2150
+Census Week,2010/11,Dundee City,All Ages,Number of Hours,14975
+Census Week,2010/11,East Ayrshire,All Ages,"Rate per 1,000 Population",15
+Census Week,2010/11,East Ayrshire,All Ages,Number of People,1835
+Census Week,2010/11,East Ayrshire,All Ages,Number of Hours,18225
+Census Week,2010/11,East Dunbartonshire,All Ages,"Rate per 1,000 Population",13.3
+Census Week,2010/11,East Dunbartonshire,All Ages,Number of People,1400
+Census Week,2010/11,East Dunbartonshire,All Ages,Number of Hours,16920
+Census Week,2010/11,East Lothian,All Ages,"Rate per 1,000 Population",16
+Census Week,2010/11,East Lothian,All Ages,Number of People,1590
+Census Week,2010/11,East Lothian,All Ages,Number of Hours,19845
+Census Week,2010/11,East Renfrewshire,All Ages,"Rate per 1,000 Population",10.9
+Census Week,2010/11,East Renfrewshire,All Ages,Number of People,985
+Census Week,2010/11,East Renfrewshire,All Ages,Number of Hours,8350
+Census Week,2010/11,Falkirk,All Ages,"Rate per 1,000 Population",15.3
+Census Week,2010/11,Falkirk,All Ages,Number of People,2370
+Census Week,2010/11,Falkirk,All Ages,Number of Hours,22725
+Census Week,2010/11,Fife,All Ages,"Rate per 1,000 Population",12.2
+Census Week,2010/11,Fife,All Ages,Number of People,4440
+Census Week,2010/11,Fife,All Ages,Number of Hours,44220
+Census Week,2010/11,Glasgow City,All Ages,"Rate per 1,000 Population",12.4
+Census Week,2010/11,Glasgow City,All Ages,Number of People,7255
+Census Week,2010/11,Glasgow City,All Ages,Number of Hours,71170
+Census Week,2010/11,Highland,All Ages,"Rate per 1,000 Population",8.9
+Census Week,2010/11,Highland,All Ages,Number of People,2050
+Census Week,2010/11,Highland,All Ages,Number of Hours,14400
+Census Week,2010/11,Inverclyde,All Ages,"Rate per 1,000 Population",15.6
+Census Week,2010/11,Inverclyde,All Ages,Number of People,1275
+Census Week,2010/11,Inverclyde,All Ages,Number of Hours,11295
+Census Week,2010/11,Midlothian,All Ages,"Rate per 1,000 Population",12.1
+Census Week,2010/11,Midlothian,All Ages,Number of People,995
+Census Week,2010/11,Midlothian,All Ages,Number of Hours,10980
+Census Week,2010/11,Moray,All Ages,"Rate per 1,000 Population",12.8
+Census Week,2010/11,Moray,All Ages,Number of People,1195
+Census Week,2010/11,Moray,All Ages,Number of Hours,10170
+Census Week,2010/11,North Ayrshire,All Ages,"Rate per 1,000 Population",10.3
+Census Week,2010/11,North Ayrshire,All Ages,Number of People,1425
+Census Week,2010/11,North Ayrshire,All Ages,Number of Hours,11250
+Census Week,2010/11,North Lanarkshire,All Ages,"Rate per 1,000 Population",10.2
+Census Week,2010/11,North Lanarkshire,All Ages,Number of People,3430
+Census Week,2010/11,North Lanarkshire,All Ages,Number of Hours,29805
+Census Week,2010/11,Orkney Islands,All Ages,"Rate per 1,000 Population",12.3
+Census Week,2010/11,Orkney Islands,All Ages,Number of People,260
+Census Week,2010/11,Orkney Islands,All Ages,Number of Hours,1580
+Census Week,2010/11,Perth and Kinross,All Ages,"Rate per 1,000 Population",10.4
+Census Week,2010/11,Perth and Kinross,All Ages,Number of People,1520
+Census Week,2010/11,Perth and Kinross,All Ages,Number of Hours,11905
+Census Week,2010/11,Renfrewshire,All Ages,"Rate per 1,000 Population",10.5
+Census Week,2010/11,Renfrewshire,All Ages,Number of People,1820
+Census Week,2010/11,Renfrewshire,All Ages,Number of Hours,25420
+Census Week,2010/11,Scottish Borders,All Ages,"Rate per 1,000 Population",12.1
+Census Week,2010/11,Scottish Borders,All Ages,Number of People,1375
+Census Week,2010/11,Scottish Borders,All Ages,Number of Hours,9900
+Census Week,2010/11,Shetland,All Ages,"Rate per 1,000 Population",21.7
+Census Week,2010/11,Shetland,All Ages,Number of People,500
+Census Week,2010/11,Shetland,All Ages,Number of Hours,3770
+Census Week,2010/11,South Ayrshire,All Ages,"Rate per 1,000 Population",21.6
+Census Week,2010/11,South Ayrshire,All Ages,Number of People,2435
+Census Week,2010/11,South Ayrshire,All Ages,Number of Hours,26855
+Census Week,2010/11,South Lanarkshire,All Ages,"Rate per 1,000 Population",12.7
+Census Week,2010/11,South Lanarkshire,All Ages,Number of People,3965
+Census Week,2010/11,South Lanarkshire,All Ages,Number of Hours,52375
+Census Week,2010/11,Stirling,All Ages,"Rate per 1,000 Population",13.9
+Census Week,2010/11,Stirling,All Ages,Number of People,1245
+Census Week,2010/11,Stirling,All Ages,Number of Hours,17100
+Census Week,2010/11,West Dunbartonshire,All Ages,"Rate per 1,000 Population",18.3
+Census Week,2010/11,West Dunbartonshire,All Ages,Number of People,1665
+Census Week,2010/11,West Dunbartonshire,All Ages,Number of Hours,11975
+Census Week,2010/11,West Lothian,All Ages,"Rate per 1,000 Population",10.1
+Census Week,2010/11,West Lothian,All Ages,Number of People,1750
+Census Week,2010/11,West Lothian,All Ages,Number of Hours,14305
+Census Week,2011/12,Scotland (Estimated),All Ages,"Rate per 1,000 Population",11.9
+Census Week,2011/12,Scotland (Estimated),All Ages,Number of People,62830
+Census Week,2011/12,Scotland (Estimated),All Ages,Number of Hours,627380
+Census Week,2011/12,Aberdeen City,All Ages,"Rate per 1,000 Population",9
+Census Week,2011/12,Aberdeen City,All Ages,Number of People,1995
+Census Week,2011/12,Aberdeen City,All Ages,Number of Hours,16330
+Census Week,2011/12,Aberdeenshire,All Ages,"Rate per 1,000 Population",8.4
+Census Week,2011/12,Aberdeenshire,All Ages,Number of People,2120
+Census Week,2011/12,Aberdeenshire,All Ages,Number of Hours,14835
+Census Week,2011/12,Angus,All Ages,"Rate per 1,000 Population",13.4
+Census Week,2011/12,Angus,All Ages,Number of People,1555
+Census Week,2011/12,Angus,All Ages,Number of Hours,6595
+Census Week,2011/12,Argyll and Bute,All Ages,"Rate per 1,000 Population",10.1
+Census Week,2011/12,Argyll and Bute,All Ages,Number of People,900
+Census Week,2011/12,Argyll and Bute,All Ages,Number of Hours,9340
+Census Week,2011/12,City of Edinburgh,All Ages,"Rate per 1,000 Population",8.9
+Census Week,2011/12,City of Edinburgh,All Ages,Number of People,4235
+Census Week,2011/12,City of Edinburgh,All Ages,Number of Hours,42555
+Census Week,2011/12,Clackmannanshire,All Ages,"Rate per 1,000 Population",13.3
+Census Week,2011/12,Clackmannanshire,All Ages,Number of People,685
+Census Week,2011/12,Clackmannanshire,All Ages,Number of Hours,6330
+Census Week,2011/12,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",19.7
+Census Week,2011/12,Comhairle nan Eilean Siar,All Ages,Number of People,545
+Census Week,2011/12,Comhairle nan Eilean Siar,All Ages,Number of Hours,4955
+Census Week,2011/12,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",16.4
+Census Week,2011/12,Dumfries and Galloway,All Ages,Number of People,2480
+Census Week,2011/12,Dumfries and Galloway,All Ages,Number of Hours,36725
+Census Week,2011/12,Dundee City,All Ages,"Rate per 1,000 Population",12.8
+Census Week,2011/12,Dundee City,All Ages,Number of People,1880
+Census Week,2011/12,Dundee City,All Ages,Number of Hours,14885
+Census Week,2011/12,East Ayrshire,All Ages,"Rate per 1,000 Population",16.8
+Census Week,2011/12,East Ayrshire,All Ages,Number of People,2065
+Census Week,2011/12,East Ayrshire,All Ages,Number of Hours,22810
+Census Week,2011/12,East Dunbartonshire,All Ages,"Rate per 1,000 Population",11.8
+Census Week,2011/12,East Dunbartonshire,All Ages,Number of People,1240
+Census Week,2011/12,East Dunbartonshire,All Ages,Number of Hours,16730
+Census Week,2011/12,East Lothian,All Ages,"Rate per 1,000 Population",16.1
+Census Week,2011/12,East Lothian,All Ages,Number of People,1605
+Census Week,2011/12,East Lothian,All Ages,Number of Hours,22000
+Census Week,2011/12,East Renfrewshire,All Ages,"Rate per 1,000 Population",11.2
+Census Week,2011/12,East Renfrewshire,All Ages,Number of People,1020
+Census Week,2011/12,East Renfrewshire,All Ages,Number of Hours,8625
+Census Week,2011/12,Falkirk,All Ages,"Rate per 1,000 Population",15.3
+Census Week,2011/12,Falkirk,All Ages,Number of People,2385
+Census Week,2011/12,Falkirk,All Ages,Number of Hours,20995
+Census Week,2011/12,Fife,All Ages,"Rate per 1,000 Population",11.7
+Census Week,2011/12,Fife,All Ages,Number of People,4290
+Census Week,2011/12,Fife,All Ages,Number of Hours,38665
+Census Week,2011/12,Glasgow City,All Ages,"Rate per 1,000 Population",11.8
+Census Week,2011/12,Glasgow City,All Ages,Number of People,6980
+Census Week,2011/12,Glasgow City,All Ages,Number of Hours,70655
+Census Week,2011/12,Highland,All Ages,"Rate per 1,000 Population",8.5
+Census Week,2011/12,Highland,All Ages,Number of People,1980
+Census Week,2011/12,Highland,All Ages,Number of Hours,14365
+Census Week,2011/12,Inverclyde,All Ages,"Rate per 1,000 Population",15.4
+Census Week,2011/12,Inverclyde,All Ages,Number of People,1250
+Census Week,2011/12,Inverclyde,All Ages,Number of Hours,11165
+Census Week,2011/12,Midlothian,All Ages,"Rate per 1,000 Population",12.4
+Census Week,2011/12,Midlothian,All Ages,Number of People,1035
+Census Week,2011/12,Midlothian,All Ages,Number of Hours,10680
+Census Week,2011/12,Moray,All Ages,"Rate per 1,000 Population",12.9
+Census Week,2011/12,Moray,All Ages,Number of People,1210
+Census Week,2011/12,Moray,All Ages,Number of Hours,10355
+Census Week,2011/12,North Ayrshire,All Ages,"Rate per 1,000 Population",13.4
+Census Week,2011/12,North Ayrshire,All Ages,Number of People,1850
+Census Week,2011/12,North Ayrshire,All Ages,Number of Hours,25380
+Census Week,2011/12,North Lanarkshire,All Ages,"Rate per 1,000 Population",9.8
+Census Week,2011/12,North Lanarkshire,All Ages,Number of People,3310
+Census Week,2011/12,North Lanarkshire,All Ages,Number of Hours,27240
+Census Week,2011/12,Orkney Islands,All Ages,"Rate per 1,000 Population",11.2
+Census Week,2011/12,Orkney Islands,All Ages,Number of People,240
+Census Week,2011/12,Orkney Islands,All Ages,Number of Hours,1535
+Census Week,2011/12,Perth and Kinross,All Ages,"Rate per 1,000 Population",9.2
+Census Week,2011/12,Perth and Kinross,All Ages,Number of People,1355
+Census Week,2011/12,Perth and Kinross,All Ages,Number of Hours,10715
+Census Week,2011/12,Renfrewshire,All Ages,"Rate per 1,000 Population",10.5
+Census Week,2011/12,Renfrewshire,All Ages,Number of People,1830
+Census Week,2011/12,Renfrewshire,All Ages,Number of Hours,26770
+Census Week,2011/12,Scottish Borders,All Ages,"Rate per 1,000 Population",12.4
+Census Week,2011/12,Scottish Borders,All Ages,Number of People,1415
+Census Week,2011/12,Scottish Borders,All Ages,Number of Hours,10710
+Census Week,2011/12,Shetland,All Ages,"Rate per 1,000 Population",20.2
+Census Week,2011/12,Shetland,All Ages,Number of People,470
+Census Week,2011/12,Shetland,All Ages,Number of Hours,3090
+Census Week,2011/12,South Ayrshire,All Ages,"Rate per 1,000 Population",20.1
+Census Week,2011/12,South Ayrshire,All Ages,Number of People,2275
+Census Week,2011/12,South Ayrshire,All Ages,Number of Hours,24755
+Census Week,2011/12,South Lanarkshire,All Ages,"Rate per 1,000 Population",12.5
+Census Week,2011/12,South Lanarkshire,All Ages,Number of People,3935
+Census Week,2011/12,South Lanarkshire,All Ages,Number of Hours,50870
+Census Week,2011/12,Stirling,All Ages,"Rate per 1,000 Population",13.5
+Census Week,2011/12,Stirling,All Ages,Number of People,1215
+Census Week,2011/12,Stirling,All Ages,Number of Hours,18380
+Census Week,2011/12,West Dunbartonshire,All Ages,"Rate per 1,000 Population",18.2
+Census Week,2011/12,West Dunbartonshire,All Ages,Number of People,1645
+Census Week,2011/12,West Dunbartonshire,All Ages,Number of Hours,12775
+Census Week,2011/12,West Lothian,All Ages,"Rate per 1,000 Population",10.4
+Census Week,2011/12,West Lothian,All Ages,Number of People,1830
+Census Week,2011/12,West Lothian,All Ages,Number of Hours,15565
+Census Week,2012/13,Scotland (Estimated),All Ages,"Rate per 1,000 Population",11.5
+Census Week,2012/13,Scotland (Estimated),All Ages,Number of People,61070
+Census Week,2012/13,Scotland (Estimated),All Ages,Number of Hours,631145
+Census Week,2012/13,Aberdeen City,All Ages,"Rate per 1,000 Population",8
+Census Week,2012/13,Aberdeen City,All Ages,Number of People,1800
+Census Week,2012/13,Aberdeen City,All Ages,Number of Hours,14795
+Census Week,2012/13,Aberdeenshire,All Ages,"Rate per 1,000 Population",8.8
+Census Week,2012/13,Aberdeenshire,All Ages,Number of People,2240
+Census Week,2012/13,Aberdeenshire,All Ages,Number of Hours,17160
+Census Week,2012/13,Angus,All Ages,"Rate per 1,000 Population",12.7
+Census Week,2012/13,Angus,All Ages,Number of People,1475
+Census Week,2012/13,Angus,All Ages,Number of Hours,6175
+Census Week,2012/13,Argyll and Bute,All Ages,"Rate per 1,000 Population",11.3
+Census Week,2012/13,Argyll and Bute,All Ages,Number of People,980
+Census Week,2012/13,Argyll and Bute,All Ages,Number of Hours,10250
+Census Week,2012/13,City of Edinburgh,All Ages,"Rate per 1,000 Population",8.9
+Census Week,2012/13,City of Edinburgh,All Ages,Number of People,4305
+Census Week,2012/13,City of Edinburgh,All Ages,Number of Hours,49065
+Census Week,2012/13,Clackmannanshire,All Ages,"Rate per 1,000 Population",14.1
+Census Week,2012/13,Clackmannanshire,All Ages,Number of People,725
+Census Week,2012/13,Clackmannanshire,All Ages,Number of Hours,7205
+Census Week,2012/13,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",19.4
+Census Week,2012/13,Comhairle nan Eilean Siar,All Ages,Number of People,535
+Census Week,2012/13,Comhairle nan Eilean Siar,All Ages,Number of Hours,4890
+Census Week,2012/13,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",15.1
+Census Week,2012/13,Dumfries and Galloway,All Ages,Number of People,2280
+Census Week,2012/13,Dumfries and Galloway,All Ages,Number of Hours,29750
+Census Week,2012/13,Dundee City,All Ages,"Rate per 1,000 Population",11.8
+Census Week,2012/13,Dundee City,All Ages,Number of People,1750
+Census Week,2012/13,Dundee City,All Ages,Number of Hours,14670
+Census Week,2012/13,East Ayrshire,All Ages,"Rate per 1,000 Population",15.1
+Census Week,2012/13,East Ayrshire,All Ages,Number of People,1855
+Census Week,2012/13,East Ayrshire,All Ages,Number of Hours,18225
+Census Week,2012/13,East Dunbartonshire,All Ages,"Rate per 1,000 Population",11.5
+Census Week,2012/13,East Dunbartonshire,All Ages,Number of People,1215
+Census Week,2012/13,East Dunbartonshire,All Ages,Number of Hours,17560
+Census Week,2012/13,East Lothian,All Ages,"Rate per 1,000 Population",15.2
+Census Week,2012/13,East Lothian,All Ages,Number of People,1535
+Census Week,2012/13,East Lothian,All Ages,Number of Hours,21865
+Census Week,2012/13,East Renfrewshire,All Ages,"Rate per 1,000 Population",11.3
+Census Week,2012/13,East Renfrewshire,All Ages,Number of People,1025
+Census Week,2012/13,East Renfrewshire,All Ages,Number of Hours,12815
+Census Week,2012/13,Falkirk,All Ages,"Rate per 1,000 Population",15.6
+Census Week,2012/13,Falkirk,All Ages,Number of People,2440
+Census Week,2012/13,Falkirk,All Ages,Number of Hours,20910
+Census Week,2012/13,Fife,All Ages,"Rate per 1,000 Population",11.5
+Census Week,2012/13,Fife,All Ages,Number of People,4200
+Census Week,2012/13,Fife,All Ages,Number of Hours,51720
+Census Week,2012/13,Glasgow City,All Ages,"Rate per 1,000 Population",10.4
+Census Week,2012/13,Glasgow City,All Ages,Number of People,6210
+Census Week,2012/13,Glasgow City,All Ages,Number of Hours,62505
+Census Week,2012/13,Highland,All Ages,"Rate per 1,000 Population",8.2
+Census Week,2012/13,Highland,All Ages,Number of People,1920
+Census Week,2012/13,Highland,All Ages,Number of Hours,13320
+Census Week,2012/13,Inverclyde,All Ages,"Rate per 1,000 Population",16.9
+Census Week,2012/13,Inverclyde,All Ages,Number of People,1360
+Census Week,2012/13,Inverclyde,All Ages,Number of Hours,13085
+Census Week,2012/13,Midlothian,All Ages,"Rate per 1,000 Population",11.2
+Census Week,2012/13,Midlothian,All Ages,Number of People,945
+Census Week,2012/13,Midlothian,All Ages,Number of Hours,11340
+Census Week,2012/13,Moray,All Ages,"Rate per 1,000 Population",13
+Census Week,2012/13,Moray,All Ages,Number of People,1210
+Census Week,2012/13,Moray,All Ages,Number of Hours,10500
+Census Week,2012/13,North Ayrshire,All Ages,"Rate per 1,000 Population",14.5
+Census Week,2012/13,North Ayrshire,All Ages,Number of People,1990
+Census Week,2012/13,North Ayrshire,All Ages,Number of Hours,26485
+Census Week,2012/13,North Lanarkshire,All Ages,"Rate per 1,000 Population",9.7
+Census Week,2012/13,North Lanarkshire,All Ages,Number of People,3285
+Census Week,2012/13,North Lanarkshire,All Ages,Number of Hours,27390
+Census Week,2012/13,Orkney Islands,All Ages,"Rate per 1,000 Population",10.7
+Census Week,2012/13,Orkney Islands,All Ages,Number of People,230
+Census Week,2012/13,Orkney Islands,All Ages,Number of Hours,1480
+Census Week,2012/13,Perth and Kinross,All Ages,"Rate per 1,000 Population",8.2
+Census Week,2012/13,Perth and Kinross,All Ages,Number of People,1210
+Census Week,2012/13,Perth and Kinross,All Ages,Number of Hours,9365
+Census Week,2012/13,Renfrewshire,All Ages,"Rate per 1,000 Population",10.9
+Census Week,2012/13,Renfrewshire,All Ages,Number of People,1900
+Census Week,2012/13,Renfrewshire,All Ages,Number of Hours,29075
+Census Week,2012/13,Scottish Borders,All Ages,"Rate per 1,000 Population",12.4
+Census Week,2012/13,Scottish Borders,All Ages,Number of People,1415
+Census Week,2012/13,Scottish Borders,All Ages,Number of Hours,9935
+Census Week,2012/13,Shetland,All Ages,"Rate per 1,000 Population",19.2
+Census Week,2012/13,Shetland,All Ages,Number of People,445
+Census Week,2012/13,Shetland,All Ages,Number of Hours,2685
+Census Week,2012/13,South Ayrshire,All Ages,"Rate per 1,000 Population",19.9
+Census Week,2012/13,South Ayrshire,All Ages,Number of People,2250
+Census Week,2012/13,South Ayrshire,All Ages,Number of Hours,25435
+Census Week,2012/13,South Lanarkshire,All Ages,"Rate per 1,000 Population",11.6
+Census Week,2012/13,South Lanarkshire,All Ages,Number of People,3645
+Census Week,2012/13,South Lanarkshire,All Ages,Number of Hours,44300
+Census Week,2012/13,Stirling,All Ages,"Rate per 1,000 Population",13.8
+Census Week,2012/13,Stirling,All Ages,Number of People,1255
+Census Week,2012/13,Stirling,All Ages,Number of Hours,18850
+Census Week,2012/13,West Dunbartonshire,All Ages,"Rate per 1,000 Population",16.8
+Census Week,2012/13,West Dunbartonshire,All Ages,Number of People,1520
+Census Week,2012/13,West Dunbartonshire,All Ages,Number of Hours,11510
+Census Week,2012/13,West Lothian,All Ages,"Rate per 1,000 Population",11
+Census Week,2012/13,West Lothian,All Ages,Number of People,1930
+Census Week,2012/13,West Lothian,All Ages,Number of Hours,16820
+Census Week,2013/14,Scotland (Estimated),All Ages,"Rate per 1,000 Population",11.6
+Census Week,2013/14,Scotland (Estimated),All Ages,Number of People,61735
+Census Week,2013/14,Scotland (Estimated),All Ages,Number of Hours,678890
+Census Week,2013/14,Aberdeen City,All Ages,"Rate per 1,000 Population",8.4
+Census Week,2013/14,Aberdeen City,All Ages,Number of People,1915
+Census Week,2013/14,Aberdeen City,All Ages,Number of Hours,18500
+Census Week,2013/14,Aberdeenshire,All Ages,"Rate per 1,000 Population",8.2
+Census Week,2013/14,Aberdeenshire,All Ages,Number of People,2115
+Census Week,2013/14,Aberdeenshire,All Ages,Number of Hours,18105
+Census Week,2013/14,Angus,All Ages,"Rate per 1,000 Population",19.3
+Census Week,2013/14,Angus,All Ages,Number of People,2245
+Census Week,2013/14,Angus,All Ages,Number of Hours,20475
+Census Week,2013/14,Argyll and Bute,All Ages,"Rate per 1,000 Population",13
+Census Week,2013/14,Argyll and Bute,All Ages,Number of People,1145
+Census Week,2013/14,Argyll and Bute,All Ages,Number of Hours,12300
+Census Week,2013/14,City of Edinburgh,All Ages,"Rate per 1,000 Population",9.8
+Census Week,2013/14,City of Edinburgh,All Ages,Number of People,4765
+Census Week,2013/14,City of Edinburgh,All Ages,Number of Hours,74455
+Census Week,2013/14,Clackmannanshire,All Ages,"Rate per 1,000 Population",13.6
+Census Week,2013/14,Clackmannanshire,All Ages,Number of People,695
+Census Week,2013/14,Clackmannanshire,All Ages,Number of Hours,7870
+Census Week,2013/14,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",17.9
+Census Week,2013/14,Comhairle nan Eilean Siar,All Ages,Number of People,490
+Census Week,2013/14,Comhairle nan Eilean Siar,All Ages,Number of Hours,4745
+Census Week,2013/14,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",13.4
+Census Week,2013/14,Dumfries and Galloway,All Ages,Number of People,2020
+Census Week,2013/14,Dumfries and Galloway,All Ages,Number of Hours,26975
+Census Week,2013/14,Dundee City,All Ages,"Rate per 1,000 Population",12.5
+Census Week,2013/14,Dundee City,All Ages,Number of People,1855
+Census Week,2013/14,Dundee City,All Ages,Number of Hours,17590
+Census Week,2013/14,East Ayrshire,All Ages,"Rate per 1,000 Population",15.6
+Census Week,2013/14,East Ayrshire,All Ages,Number of People,1915
+Census Week,2013/14,East Ayrshire,All Ages,Number of Hours,18675
+Census Week,2013/14,East Dunbartonshire,All Ages,"Rate per 1,000 Population",12.6
+Census Week,2013/14,East Dunbartonshire,All Ages,Number of People,1330
+Census Week,2013/14,East Dunbartonshire,All Ages,Number of Hours,21130
+Census Week,2013/14,East Lothian,All Ages,"Rate per 1,000 Population",15.3
+Census Week,2013/14,East Lothian,All Ages,Number of People,1550
+Census Week,2013/14,East Lothian,All Ages,Number of Hours,21915
+Census Week,2013/14,East Renfrewshire,All Ages,"Rate per 1,000 Population",10.8
+Census Week,2013/14,East Renfrewshire,All Ages,Number of People,990
+Census Week,2013/14,East Renfrewshire,All Ages,Number of Hours,7400
+Census Week,2013/14,Falkirk,All Ages,"Rate per 1,000 Population",16
+Census Week,2013/14,Falkirk,All Ages,Number of People,2510
+Census Week,2013/14,Falkirk,All Ages,Number of Hours,22425
+Census Week,2013/14,Fife,All Ages,"Rate per 1,000 Population",10.4
+Census Week,2013/14,Fife,All Ages,Number of People,3825
+Census Week,2013/14,Fife,All Ages,Number of Hours,53390
+Census Week,2013/14,Glasgow City,All Ages,"Rate per 1,000 Population",9.6
+Census Week,2013/14,Glasgow City,All Ages,Number of People,5720
+Census Week,2013/14,Glasgow City,All Ages,Number of Hours,57850
+Census Week,2013/14,Highland,All Ages,"Rate per 1,000 Population",8.8
+Census Week,2013/14,Highland,All Ages,Number of People,2060
+Census Week,2013/14,Highland,All Ages,Number of Hours,14175
+Census Week,2013/14,Inverclyde,All Ages,"Rate per 1,000 Population",16.7
+Census Week,2013/14,Inverclyde,All Ages,Number of People,1345
+Census Week,2013/14,Inverclyde,All Ages,Number of Hours,12605
+Census Week,2013/14,Midlothian,All Ages,"Rate per 1,000 Population",11.2
+Census Week,2013/14,Midlothian,All Ages,Number of People,945
+Census Week,2013/14,Midlothian,All Ages,Number of Hours,9875
+Census Week,2013/14,Moray,All Ages,"Rate per 1,000 Population",13.4
+Census Week,2013/14,Moray,All Ages,Number of People,1260
+Census Week,2013/14,Moray,All Ages,Number of Hours,12525
+Census Week,2013/14,North Ayrshire,All Ages,"Rate per 1,000 Population",14.2
+Census Week,2013/14,North Ayrshire,All Ages,Number of People,1950
+Census Week,2013/14,North Ayrshire,All Ages,Number of Hours,27045
+Census Week,2013/14,North Lanarkshire,All Ages,"Rate per 1,000 Population",10
+Census Week,2013/14,North Lanarkshire,All Ages,Number of People,3380
+Census Week,2013/14,North Lanarkshire,All Ages,Number of Hours,29775
+Census Week,2013/14,Orkney Islands,All Ages,"Rate per 1,000 Population",12.8
+Census Week,2013/14,Orkney Islands,All Ages,Number of People,275
+Census Week,2013/14,Orkney Islands,All Ages,Number of Hours,2560
+Census Week,2013/14,Perth and Kinross,All Ages,"Rate per 1,000 Population",9.2
+Census Week,2013/14,Perth and Kinross,All Ages,Number of People,1355
+Census Week,2013/14,Perth and Kinross,All Ages,Number of Hours,10560
+Census Week,2013/14,Renfrewshire,All Ages,"Rate per 1,000 Population",11.7
+Census Week,2013/14,Renfrewshire,All Ages,Number of People,2035
+Census Week,2013/14,Renfrewshire,All Ages,Number of Hours,30100
+Census Week,2013/14,Scottish Borders,All Ages,"Rate per 1,000 Population",12
+Census Week,2013/14,Scottish Borders,All Ages,Number of People,1370
+Census Week,2013/14,Scottish Borders,All Ages,Number of Hours,9195
+Census Week,2013/14,Shetland,All Ages,"Rate per 1,000 Population",15.9
+Census Week,2013/14,Shetland,All Ages,Number of People,370
+Census Week,2013/14,Shetland,All Ages,Number of Hours,2310
+Census Week,2013/14,South Ayrshire,All Ages,"Rate per 1,000 Population",16.3
+Census Week,2013/14,South Ayrshire,All Ages,Number of People,1835
+Census Week,2013/14,South Ayrshire,All Ages,Number of Hours,21835
+Census Week,2013/14,South Lanarkshire,All Ages,"Rate per 1,000 Population",11.5
+Census Week,2013/14,South Lanarkshire,All Ages,Number of People,3620
+Census Week,2013/14,South Lanarkshire,All Ages,Number of Hours,43680
+Census Week,2013/14,Stirling,All Ages,"Rate per 1,000 Population",13.6
+Census Week,2013/14,Stirling,All Ages,Number of People,1245
+Census Week,2013/14,Stirling,All Ages,Number of Hours,18610
+Census Week,2013/14,West Dunbartonshire,All Ages,"Rate per 1,000 Population",17.1
+Census Week,2013/14,West Dunbartonshire,All Ages,Number of People,1535
+Census Week,2013/14,West Dunbartonshire,All Ages,Number of Hours,11725
+Census Week,2013/14,West Lothian,All Ages,"Rate per 1,000 Population",11.8
+Census Week,2013/14,West Lothian,All Ages,Number of People,2075
+Census Week,2013/14,West Lothian,All Ages,Number of Hours,18515
+Census Week,2014/15,Scotland (Estimated),All Ages,"Rate per 1,000 Population",11.5
+Census Week,2014/15,Scotland (Estimated),All Ages,Number of People,61500
+Census Week,2014/15,Scotland (Estimated),All Ages,Number of Hours,700335
+Census Week,2014/15,Aberdeen City,All Ages,"Rate per 1,000 Population",7.6
+Census Week,2014/15,Aberdeen City,All Ages,Number of People,1745
+Census Week,2014/15,Aberdeen City,All Ages,Number of Hours,17920
+Census Week,2014/15,Aberdeenshire,All Ages,"Rate per 1,000 Population",8
+Census Week,2014/15,Aberdeenshire,All Ages,Number of People,2085
+Census Week,2014/15,Aberdeenshire,All Ages,Number of Hours,17975
+Census Week,2014/15,Angus,All Ages,"Rate per 1,000 Population",18.2
+Census Week,2014/15,Angus,All Ages,Number of People,2120
+Census Week,2014/15,Angus,All Ages,Number of Hours,17325
+Census Week,2014/15,Argyll and Bute,All Ages,"Rate per 1,000 Population",13.5
+Census Week,2014/15,Argyll and Bute,All Ages,Number of People,1180
+Census Week,2014/15,Argyll and Bute,All Ages,Number of Hours,12200
+Census Week,2014/15,City of Edinburgh,All Ages,"Rate per 1,000 Population",10
+Census Week,2014/15,City of Edinburgh,All Ages,Number of People,4905
+Census Week,2014/15,City of Edinburgh,All Ages,Number of Hours,72755
+Census Week,2014/15,Clackmannanshire,All Ages,"Rate per 1,000 Population",12.4
+Census Week,2014/15,Clackmannanshire,All Ages,Number of People,635
+Census Week,2014/15,Clackmannanshire,All Ages,Number of Hours,7645
+Census Week,2014/15,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",17.6
+Census Week,2014/15,Comhairle nan Eilean Siar,All Ages,Number of People,480
+Census Week,2014/15,Comhairle nan Eilean Siar,All Ages,Number of Hours,4540
+Census Week,2014/15,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",15.3
+Census Week,2014/15,Dumfries and Galloway,All Ages,Number of People,2295
+Census Week,2014/15,Dumfries and Galloway,All Ages,Number of Hours,39180
+Census Week,2014/15,Dundee City,All Ages,"Rate per 1,000 Population",12.6
+Census Week,2014/15,Dundee City,All Ages,Number of People,1860
+Census Week,2014/15,Dundee City,All Ages,Number of Hours,15970
+Census Week,2014/15,East Ayrshire,All Ages,"Rate per 1,000 Population",14.6
+Census Week,2014/15,East Ayrshire,All Ages,Number of People,1785
+Census Week,2014/15,East Ayrshire,All Ages,Number of Hours,17910
+Census Week,2014/15,East Dunbartonshire,All Ages,"Rate per 1,000 Population",12.6
+Census Week,2014/15,East Dunbartonshire,All Ages,Number of People,1345
+Census Week,2014/15,East Dunbartonshire,All Ages,Number of Hours,19735
+Census Week,2014/15,East Lothian,All Ages,"Rate per 1,000 Population",15.2
+Census Week,2014/15,East Lothian,All Ages,Number of People,1555
+Census Week,2014/15,East Lothian,All Ages,Number of Hours,21505
+Census Week,2014/15,East Renfrewshire,All Ages,"Rate per 1,000 Population",10.5
+Census Week,2014/15,East Renfrewshire,All Ages,Number of People,970
+Census Week,2014/15,East Renfrewshire,All Ages,Number of Hours,6145
+Census Week,2014/15,Falkirk,All Ages,"Rate per 1,000 Population",15.3
+Census Week,2014/15,Falkirk,All Ages,Number of People,2420
+Census Week,2014/15,Falkirk,All Ages,Number of Hours,21705
+Census Week,2014/15,Fife,All Ages,"Rate per 1,000 Population",9.8
+Census Week,2014/15,Fife,All Ages,Number of People,3615
+Census Week,2014/15,Fife,All Ages,Number of Hours,54160
+Census Week,2014/15,Glasgow City,All Ages,"Rate per 1,000 Population",10.6
+Census Week,2014/15,Glasgow City,All Ages,Number of People,6370
+Census Week,2014/15,Glasgow City,All Ages,Number of Hours,74880
+Census Week,2014/15,Highland,All Ages,"Rate per 1,000 Population",8.2
+Census Week,2014/15,Highland,All Ages,Number of People,1920
+Census Week,2014/15,Highland,All Ages,Number of Hours,13875
+Census Week,2014/15,Inverclyde,All Ages,"Rate per 1,000 Population",15.8
+Census Week,2014/15,Inverclyde,All Ages,Number of People,1260
+Census Week,2014/15,Inverclyde,All Ages,Number of Hours,16720
+Census Week,2014/15,Midlothian,All Ages,"Rate per 1,000 Population",9.7
+Census Week,2014/15,Midlothian,All Ages,Number of People,840
+Census Week,2014/15,Midlothian,All Ages,Number of Hours,10245
+Census Week,2014/15,Moray,All Ages,"Rate per 1,000 Population",12.7
+Census Week,2014/15,Moray,All Ages,Number of People,1200
+Census Week,2014/15,Moray,All Ages,Number of Hours,12185
+Census Week,2014/15,North Ayrshire,All Ages,"Rate per 1,000 Population",14.9
+Census Week,2014/15,North Ayrshire,All Ages,Number of People,2030
+Census Week,2014/15,North Ayrshire,All Ages,Number of Hours,25710
+Census Week,2014/15,North Lanarkshire,All Ages,"Rate per 1,000 Population",10.5
+Census Week,2014/15,North Lanarkshire,All Ages,Number of People,3545
+Census Week,2014/15,North Lanarkshire,All Ages,Number of Hours,32005
+Census Week,2014/15,Orkney Islands,All Ages,"Rate per 1,000 Population",12.5
+Census Week,2014/15,Orkney Islands,All Ages,Number of People,270
+Census Week,2014/15,Orkney Islands,All Ages,Number of Hours,2535
+Census Week,2014/15,Perth and Kinross,All Ages,"Rate per 1,000 Population",9.2
+Census Week,2014/15,Perth and Kinross,All Ages,Number of People,1365
+Census Week,2014/15,Perth and Kinross,All Ages,Number of Hours,10595
+Census Week,2014/15,Renfrewshire,All Ages,"Rate per 1,000 Population",13.2
+Census Week,2014/15,Renfrewshire,All Ages,Number of People,2295
+Census Week,2014/15,Renfrewshire,All Ages,Number of Hours,34630
+Census Week,2014/15,Scottish Borders,All Ages,"Rate per 1,000 Population",11.1
+Census Week,2014/15,Scottish Borders,All Ages,Number of People,1265
+Census Week,2014/15,Scottish Borders,All Ages,Number of Hours,8450
+Census Week,2014/15,Shetland,All Ages,"Rate per 1,000 Population",14.4
+Census Week,2014/15,Shetland,All Ages,Number of People,335
+Census Week,2014/15,Shetland,All Ages,Number of Hours,2570
+Census Week,2014/15,South Ayrshire,All Ages,"Rate per 1,000 Population",15.3
+Census Week,2014/15,South Ayrshire,All Ages,Number of People,1720
+Census Week,2014/15,South Ayrshire,All Ages,Number of Hours,18430
+Census Week,2014/15,South Lanarkshire,All Ages,"Rate per 1,000 Population",11
+Census Week,2014/15,South Lanarkshire,All Ages,Number of People,3470
+Census Week,2014/15,South Lanarkshire,All Ages,Number of Hours,42610
+Census Week,2014/15,Stirling,All Ages,"Rate per 1,000 Population",13.2
+Census Week,2014/15,Stirling,All Ages,Number of People,1210
+Census Week,2014/15,Stirling,All Ages,Number of Hours,18895
+Census Week,2014/15,West Dunbartonshire,All Ages,"Rate per 1,000 Population",15.4
+Census Week,2014/15,West Dunbartonshire,All Ages,Number of People,1385
+Census Week,2014/15,West Dunbartonshire,All Ages,Number of Hours,10485
+Census Week,2014/15,West Lothian,All Ages,"Rate per 1,000 Population",11.3
+Census Week,2014/15,West Lothian,All Ages,Number of People,2010
+Census Week,2014/15,West Lothian,All Ages,Number of Hours,18835
+Census Week,2015/16,Scotland (Estimated),All Ages,"Rate per 1,000 Population",11.1
+Census Week,2015/16,Scotland (Estimated),All Ages,Number of People,59775
+Census Week,2015/16,Scotland (Estimated),All Ages,Number of Hours,676515
+Census Week,2015/16,Aberdeen City,All Ages,"Rate per 1,000 Population",8
+Census Week,2015/16,Aberdeen City,All Ages,Number of People,1840
+Census Week,2015/16,Aberdeen City,All Ages,Number of Hours,19185
+Census Week,2015/16,Aberdeenshire,All Ages,"Rate per 1,000 Population",8.2
+Census Week,2015/16,Aberdeenshire,All Ages,Number of People,2140
+Census Week,2015/16,Aberdeenshire,All Ages,Number of Hours,17755
+Census Week,2015/16,Angus,All Ages,"Rate per 1,000 Population",11.6
+Census Week,2015/16,Angus,All Ages,Number of People,1360
+Census Week,2015/16,Angus,All Ages,Number of Hours,10895
+Census Week,2015/16,Argyll and Bute,All Ages,"Rate per 1,000 Population",12.5
+Census Week,2015/16,Argyll and Bute,All Ages,Number of People,1090
+Census Week,2015/16,Argyll and Bute,All Ages,Number of Hours,11320
+Census Week,2015/16,City of Edinburgh,All Ages,"Rate per 1,000 Population",9.6
+Census Week,2015/16,City of Edinburgh,All Ages,Number of People,4765
+Census Week,2015/16,City of Edinburgh,All Ages,Number of Hours,78490
+Census Week,2015/16,Clackmannanshire,All Ages,"Rate per 1,000 Population",13.5
+Census Week,2015/16,Clackmannanshire,All Ages,Number of People,695
+Census Week,2015/16,Clackmannanshire,All Ages,Number of Hours,8735
+Census Week,2015/16,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",15.7
+Census Week,2015/16,Comhairle nan Eilean Siar,All Ages,Number of People,425
+Census Week,2015/16,Comhairle nan Eilean Siar,All Ages,Number of Hours,3540
+Census Week,2015/16,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",16.3
+Census Week,2015/16,Dumfries and Galloway,All Ages,Number of People,2440
+Census Week,2015/16,Dumfries and Galloway,All Ages,Number of Hours,34000
+Census Week,2015/16,Dundee City,All Ages,"Rate per 1,000 Population",12.6
+Census Week,2015/16,Dundee City,All Ages,Number of People,1870
+Census Week,2015/16,Dundee City,All Ages,Number of Hours,17955
+Census Week,2015/16,East Ayrshire,All Ages,"Rate per 1,000 Population",15.1
+Census Week,2015/16,East Ayrshire,All Ages,Number of People,1840
+Census Week,2015/16,East Ayrshire,All Ages,Number of Hours,18185
+Census Week,2015/16,East Dunbartonshire,All Ages,"Rate per 1,000 Population",12.4
+Census Week,2015/16,East Dunbartonshire,All Ages,Number of People,1325
+Census Week,2015/16,East Dunbartonshire,All Ages,Number of Hours,17905
+Census Week,2015/16,East Lothian,All Ages,"Rate per 1,000 Population",14.1
+Census Week,2015/16,East Lothian,All Ages,Number of People,1450
+Census Week,2015/16,East Lothian,All Ages,Number of Hours,21285
+Census Week,2015/16,East Renfrewshire,All Ages,"Rate per 1,000 Population",8.9
+Census Week,2015/16,East Renfrewshire,All Ages,Number of People,830
+Census Week,2015/16,East Renfrewshire,All Ages,Number of Hours,5980
+Census Week,2015/16,Falkirk,All Ages,"Rate per 1,000 Population",15.5
+Census Week,2015/16,Falkirk,All Ages,Number of People,2450
+Census Week,2015/16,Falkirk,All Ages,Number of Hours,21990
+Census Week,2015/16,Fife,All Ages,"Rate per 1,000 Population",10.1
+Census Week,2015/16,Fife,All Ages,Number of People,3715
+Census Week,2015/16,Fife,All Ages,Number of Hours,55545
+Census Week,2015/16,Glasgow City,All Ages,"Rate per 1,000 Population",9.6
+Census Week,2015/16,Glasgow City,All Ages,Number of People,5795
+Census Week,2015/16,Glasgow City,All Ages,Number of Hours,54720
+Census Week,2015/16,Highland,All Ages,"Rate per 1,000 Population",8.1
+Census Week,2015/16,Highland,All Ages,Number of People,1890
+Census Week,2015/16,Highland,All Ages,Number of Hours,14335
+Census Week,2015/16,Inverclyde,All Ages,"Rate per 1,000 Population",15.9
+Census Week,2015/16,Inverclyde,All Ages,Number of People,1265
+Census Week,2015/16,Inverclyde,All Ages,Number of Hours,10175
+Census Week,2015/16,Midlothian,All Ages,"Rate per 1,000 Population",11.2
+Census Week,2015/16,Midlothian,All Ages,Number of People,975
+Census Week,2015/16,Midlothian,All Ages,Number of Hours,9690
+Census Week,2015/16,Moray,All Ages,"Rate per 1,000 Population",11.6
+Census Week,2015/16,Moray,All Ages,Number of People,1110
+Census Week,2015/16,Moray,All Ages,Number of Hours,11530
+Census Week,2015/16,North Ayrshire,All Ages,"Rate per 1,000 Population",15.2
+Census Week,2015/16,North Ayrshire,All Ages,Number of People,2075
+Census Week,2015/16,North Ayrshire,All Ages,Number of Hours,28240
+Census Week,2015/16,North Lanarkshire,All Ages,"Rate per 1,000 Population",10.4
+Census Week,2015/16,North Lanarkshire,All Ages,Number of People,3530
+Census Week,2015/16,North Lanarkshire,All Ages,Number of Hours,30960
+Census Week,2015/16,Orkney Islands,All Ages,"Rate per 1,000 Population",8.3
+Census Week,2015/16,Orkney Islands,All Ages,Number of People,180
+Census Week,2015/16,Orkney Islands,All Ages,Number of Hours,1230
+Census Week,2015/16,Perth and Kinross,All Ages,"Rate per 1,000 Population",10.8
+Census Week,2015/16,Perth and Kinross,All Ages,Number of People,1615
+Census Week,2015/16,Perth and Kinross,All Ages,Number of Hours,20955
+Census Week,2015/16,Renfrewshire,All Ages,"Rate per 1,000 Population",13.1
+Census Week,2015/16,Renfrewshire,All Ages,Number of People,2295
+Census Week,2015/16,Renfrewshire,All Ages,Number of Hours,32875
+Census Week,2015/16,Scottish Borders,All Ages,"Rate per 1,000 Population",11.1
+Census Week,2015/16,Scottish Borders,All Ages,Number of People,1265
+Census Week,2015/16,Scottish Borders,All Ages,Number of Hours,8410
+Census Week,2015/16,Shetland,All Ages,"Rate per 1,000 Population",13.4
+Census Week,2015/16,Shetland,All Ages,Number of People,310
+Census Week,2015/16,Shetland,All Ages,Number of Hours,2505
+Census Week,2015/16,South Ayrshire,All Ages,"Rate per 1,000 Population",14.5
+Census Week,2015/16,South Ayrshire,All Ages,Number of People,1625
+Census Week,2015/16,South Ayrshire,All Ages,Number of Hours,17995
+Census Week,2015/16,South Lanarkshire,All Ages,"Rate per 1,000 Population",10.9
+Census Week,2015/16,South Lanarkshire,All Ages,Number of People,3435
+Census Week,2015/16,South Lanarkshire,All Ages,Number of Hours,43555
+Census Week,2015/16,Stirling,All Ages,"Rate per 1,000 Population",12.8
+Census Week,2015/16,Stirling,All Ages,Number of People,1185
+Census Week,2015/16,Stirling,All Ages,Number of Hours,18825
+Census Week,2015/16,West Dunbartonshire,All Ages,"Rate per 1,000 Population",16
+Census Week,2015/16,West Dunbartonshire,All Ages,Number of People,1430
+Census Week,2015/16,West Dunbartonshire,All Ages,Number of Hours,9825
+Census Week,2015/16,West Lothian,All Ages,"Rate per 1,000 Population",8.7
+Census Week,2015/16,West Lothian,All Ages,Number of People,1560
+Census Week,2015/16,West Lothian,All Ages,Number of Hours,17930
+Census Week,2016/17,Scotland (Estimated),All Ages,"Rate per 1,000 Population",11
+Census Week,2016/17,Scotland (Estimated),All Ages,Number of People,59640
+Census Week,2016/17,Scotland (Estimated),All Ages,Number of Hours,696620
+Census Week,2016/17,Aberdeen City,All Ages,"Rate per 1,000 Population",7.7
+Census Week,2016/17,Aberdeen City,All Ages,Number of People,1780
+Census Week,2016/17,Aberdeen City,All Ages,Number of Hours,22585
+Census Week,2016/17,Aberdeenshire,All Ages,"Rate per 1,000 Population",8.8
+Census Week,2016/17,Aberdeenshire,All Ages,Number of People,2295
+Census Week,2016/17,Aberdeenshire,All Ages,Number of Hours,20920
+Census Week,2016/17,Angus,All Ages,"Rate per 1,000 Population",11.7
+Census Week,2016/17,Angus,All Ages,Number of People,1360
+Census Week,2016/17,Angus,All Ages,Number of Hours,10895
+Census Week,2016/17,Argyll and Bute,All Ages,"Rate per 1,000 Population",12.3
+Census Week,2016/17,Argyll and Bute,All Ages,Number of People,1070
+Census Week,2016/17,Argyll and Bute,All Ages,Number of Hours,10480
+Census Week,2016/17,City of Edinburgh,All Ages,"Rate per 1,000 Population",8.9
+Census Week,2016/17,City of Edinburgh,All Ages,Number of People,4525
+Census Week,2016/17,City of Edinburgh,All Ages,Number of Hours,75065
+Census Week,2016/17,Clackmannanshire,All Ages,"Rate per 1,000 Population",13
+Census Week,2016/17,Clackmannanshire,All Ages,Number of People,665
+Census Week,2016/17,Clackmannanshire,All Ages,Number of Hours,8545
+Census Week,2016/17,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",14.7
+Census Week,2016/17,Comhairle nan Eilean Siar,All Ages,Number of People,395
+Census Week,2016/17,Comhairle nan Eilean Siar,All Ages,Number of Hours,2645
+Census Week,2016/17,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",15.8
+Census Week,2016/17,Dumfries and Galloway,All Ages,Number of People,2365
+Census Week,2016/17,Dumfries and Galloway,All Ages,Number of Hours,42445
+Census Week,2016/17,Dundee City,All Ages,"Rate per 1,000 Population",12.9
+Census Week,2016/17,Dundee City,All Ages,Number of People,1915
+Census Week,2016/17,Dundee City,All Ages,Number of Hours,20225
+Census Week,2016/17,East Ayrshire,All Ages,"Rate per 1,000 Population",14.3
+Census Week,2016/17,East Ayrshire,All Ages,Number of People,1745
+Census Week,2016/17,East Ayrshire,All Ages,Number of Hours,17440
+Census Week,2016/17,East Dunbartonshire,All Ages,"Rate per 1,000 Population",12.5
+Census Week,2016/17,East Dunbartonshire,All Ages,Number of People,1345
+Census Week,2016/17,East Dunbartonshire,All Ages,Number of Hours,18220
+Census Week,2016/17,East Lothian,All Ages,"Rate per 1,000 Population",13.8
+Census Week,2016/17,East Lothian,All Ages,Number of People,1440
+Census Week,2016/17,East Lothian,All Ages,Number of Hours,22010
+Census Week,2016/17,East Renfrewshire,All Ages,"Rate per 1,000 Population",11.6
+Census Week,2016/17,East Renfrewshire,All Ages,Number of People,1090
+Census Week,2016/17,East Renfrewshire,All Ages,Number of Hours,7825
+Census Week,2016/17,Falkirk,All Ages,"Rate per 1,000 Population",15
+Census Week,2016/17,Falkirk,All Ages,Number of People,2390
+Census Week,2016/17,Falkirk,All Ages,Number of Hours,21750
+Census Week,2016/17,Fife,All Ages,"Rate per 1,000 Population",9.9
+Census Week,2016/17,Fife,All Ages,Number of People,3655
+Census Week,2016/17,Fife,All Ages,Number of Hours,62615
+Census Week,2016/17,Glasgow City,All Ages,"Rate per 1,000 Population",9.3
+Census Week,2016/17,Glasgow City,All Ages,Number of People,5695
+Census Week,2016/17,Glasgow City,All Ages,Number of Hours,52900
+Census Week,2016/17,Highland,All Ages,"Rate per 1,000 Population",7.8
+Census Week,2016/17,Highland,All Ages,Number of People,1820
+Census Week,2016/17,Highland,All Ages,Number of Hours,13820
+Census Week,2016/17,Inverclyde,All Ages,"Rate per 1,000 Population",16.1
+Census Week,2016/17,Inverclyde,All Ages,Number of People,1275
+Census Week,2016/17,Inverclyde,All Ages,Number of Hours,9325
+Census Week,2016/17,Midlothian,All Ages,"Rate per 1,000 Population",11.6
+Census Week,2016/17,Midlothian,All Ages,Number of People,1030
+Census Week,2016/17,Midlothian,All Ages,Number of Hours,10690
+Census Week,2016/17,Moray,All Ages,"Rate per 1,000 Population",9.8
+Census Week,2016/17,Moray,All Ages,Number of People,945
+Census Week,2016/17,Moray,All Ages,Number of Hours,12520
+Census Week,2016/17,North Ayrshire,All Ages,"Rate per 1,000 Population",15.6
+Census Week,2016/17,North Ayrshire,All Ages,Number of People,2120
+Census Week,2016/17,North Ayrshire,All Ages,Number of Hours,26625
+Census Week,2016/17,North Lanarkshire,All Ages,"Rate per 1,000 Population",10.4
+Census Week,2016/17,North Lanarkshire,All Ages,Number of People,3540
+Census Week,2016/17,North Lanarkshire,All Ages,Number of Hours,30725
+Census Week,2016/17,Orkney Islands,All Ages,"Rate per 1,000 Population",9.4
+Census Week,2016/17,Orkney Islands,All Ages,Number of People,205
+Census Week,2016/17,Orkney Islands,All Ages,Number of Hours,1555
+Census Week,2016/17,Perth and Kinross,All Ages,"Rate per 1,000 Population",11.6
+Census Week,2016/17,Perth and Kinross,All Ages,Number of People,1750
+Census Week,2016/17,Perth and Kinross,All Ages,Number of Hours,24270
+Census Week,2016/17,Renfrewshire,All Ages,"Rate per 1,000 Population",12
+Census Week,2016/17,Renfrewshire,All Ages,Number of People,2110
+Census Week,2016/17,Renfrewshire,All Ages,Number of Hours,30260
+Census Week,2016/17,Scottish Borders,All Ages,"Rate per 1,000 Population",10.3
+Census Week,2016/17,Scottish Borders,All Ages,Number of People,1185
+Census Week,2016/17,Scottish Borders,All Ages,Number of Hours,8060
+Census Week,2016/17,Shetland,All Ages,"Rate per 1,000 Population",12.7
+Census Week,2016/17,Shetland,All Ages,Number of People,295
+Census Week,2016/17,Shetland,All Ages,Number of Hours,2520
+Census Week,2016/17,South Ayrshire,All Ages,"Rate per 1,000 Population",15.4
+Census Week,2016/17,South Ayrshire,All Ages,Number of People,1730
+Census Week,2016/17,South Ayrshire,All Ages,Number of Hours,19065
+Census Week,2016/17,South Lanarkshire,All Ages,"Rate per 1,000 Population",11.1
+Census Week,2016/17,South Lanarkshire,All Ages,Number of People,3510
+Census Week,2016/17,South Lanarkshire,All Ages,Number of Hours,43300
+Census Week,2016/17,Stirling,All Ages,"Rate per 1,000 Population",12.8
+Census Week,2016/17,Stirling,All Ages,Number of People,1200
+Census Week,2016/17,Stirling,All Ages,Number of Hours,18900
+Census Week,2016/17,West Dunbartonshire,All Ages,"Rate per 1,000 Population",16.5
+Census Week,2016/17,West Dunbartonshire,All Ages,Number of People,1485
+Census Week,2016/17,West Dunbartonshire,All Ages,Number of Hours,9295
+Census Week,2016/17,West Lothian,All Ages,"Rate per 1,000 Population",9.6
+Census Week,2016/17,West Lothian,All Ages,Number of People,1725
+Census Week,2016/17,West Lothian,All Ages,Number of Hours,19125
+Census Week,2017/18,Scotland (Estimated),All Ages,"Rate per 1,000 Population",11.1
+Census Week,2017/18,Scotland (Estimated),All Ages,Number of People,59940
+Census Week,2017/18,Scotland (Estimated),All Ages,Number of Hours,702885
+Census Week,2017/18,Aberdeen City,All Ages,"Rate per 1,000 Population",7.6
+Census Week,2017/18,Aberdeen City,All Ages,Number of People,1750
+Census Week,2017/18,Aberdeen City,All Ages,Number of Hours,25050
+Census Week,2017/18,Aberdeenshire,All Ages,"Rate per 1,000 Population",8.6
+Census Week,2017/18,Aberdeenshire,All Ages,Number of People,2255
+Census Week,2017/18,Aberdeenshire,All Ages,Number of Hours,18315
+Census Week,2017/18,Angus,All Ages,"Rate per 1,000 Population",9.1
+Census Week,2017/18,Angus,All Ages,Number of People,1060
+Census Week,2017/18,Angus,All Ages,Number of Hours,7510
+Census Week,2017/18,Argyll and Bute,All Ages,"Rate per 1,000 Population",14.7
+Census Week,2017/18,Argyll and Bute,All Ages,Number of People,1275
+Census Week,2017/18,Argyll and Bute,All Ages,Number of Hours,14065
+Census Week,2017/18,City of Edinburgh,All Ages,"Rate per 1,000 Population",9.3
+Census Week,2017/18,City of Edinburgh,All Ages,Number of People,4760
+Census Week,2017/18,City of Edinburgh,All Ages,Number of Hours,92310
+Census Week,2017/18,Clackmannanshire,All Ages,"Rate per 1,000 Population",15
+Census Week,2017/18,Clackmannanshire,All Ages,Number of People,770
+Census Week,2017/18,Clackmannanshire,All Ages,Number of Hours,10715
+Census Week,2017/18,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",13.7
+Census Week,2017/18,Comhairle nan Eilean Siar,All Ages,Number of People,370
+Census Week,2017/18,Comhairle nan Eilean Siar,All Ages,Number of Hours,1730
+Census Week,2017/18,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",14.4
+Census Week,2017/18,Dumfries and Galloway,All Ages,Number of People,2155
+Census Week,2017/18,Dumfries and Galloway,All Ages,Number of Hours,33825
+Census Week,2017/18,Dundee City,All Ages,"Rate per 1,000 Population",12.7
+Census Week,2017/18,Dundee City,All Ages,Number of People,1885
+Census Week,2017/18,Dundee City,All Ages,Number of Hours,20580
+Census Week,2017/18,East Ayrshire,All Ages,"Rate per 1,000 Population",14.8
+Census Week,2017/18,East Ayrshire,All Ages,Number of People,1805
+Census Week,2017/18,East Ayrshire,All Ages,Number of Hours,20435
+Census Week,2017/18,East Dunbartonshire,All Ages,"Rate per 1,000 Population",12.6
+Census Week,2017/18,East Dunbartonshire,All Ages,Number of People,1365
+Census Week,2017/18,East Dunbartonshire,All Ages,Number of Hours,12960
+Census Week,2017/18,East Lothian,All Ages,"Rate per 1,000 Population",11.5
+Census Week,2017/18,East Lothian,All Ages,Number of People,1210
+Census Week,2017/18,East Lothian,All Ages,Number of Hours,18985
+Census Week,2017/18,East Renfrewshire,All Ages,"Rate per 1,000 Population",11.4
+Census Week,2017/18,East Renfrewshire,All Ages,Number of People,1080
+Census Week,2017/18,East Renfrewshire,All Ages,Number of Hours,9805
+Census Week,2017/18,Falkirk,All Ages,"Rate per 1,000 Population",15.4
+Census Week,2017/18,Falkirk,All Ages,Number of People,2460
+Census Week,2017/18,Falkirk,All Ages,Number of Hours,24935
+Census Week,2017/18,Fife,All Ages,"Rate per 1,000 Population",9.5
+Census Week,2017/18,Fife,All Ages,Number of People,3520
+Census Week,2017/18,Fife,All Ages,Number of Hours,56620
+Census Week,2017/18,Glasgow City,All Ages,"Rate per 1,000 Population",8.6
+Census Week,2017/18,Glasgow City,All Ages,Number of People,5365
+Census Week,2017/18,Glasgow City,All Ages,Number of Hours,45155
+Census Week,2017/18,Highland,All Ages,"Rate per 1,000 Population",8.5
+Census Week,2017/18,Highland,All Ages,Number of People,1995
+Census Week,2017/18,Highland,All Ages,Number of Hours,16120
+Census Week,2017/18,Inverclyde,All Ages,"Rate per 1,000 Population",15.7
+Census Week,2017/18,Inverclyde,All Ages,Number of People,1240
+Census Week,2017/18,Inverclyde,All Ages,Number of Hours,8545
+Census Week,2017/18,Midlothian,All Ages,"Rate per 1,000 Population",10.8
+Census Week,2017/18,Midlothian,All Ages,Number of People,975
+Census Week,2017/18,Midlothian,All Ages,Number of Hours,10690
+Census Week,2017/18,Moray,All Ages,"Rate per 1,000 Population",12.4
+Census Week,2017/18,Moray,All Ages,Number of People,1190
+Census Week,2017/18,Moray,All Ages,Number of Hours,12520
+Census Week,2017/18,North Ayrshire,All Ages,"Rate per 1,000 Population",15.6
+Census Week,2017/18,North Ayrshire,All Ages,Number of People,2120
+Census Week,2017/18,North Ayrshire,All Ages,Number of Hours,26625
+Census Week,2017/18,North Lanarkshire,All Ages,"Rate per 1,000 Population",12
+Census Week,2017/18,North Lanarkshire,All Ages,Number of People,4095
+Census Week,2017/18,North Lanarkshire,All Ages,Number of Hours,34815
+Census Week,2017/18,Orkney Islands,All Ages,"Rate per 1,000 Population",10
+Census Week,2017/18,Orkney Islands,All Ages,Number of People,220
+Census Week,2017/18,Orkney Islands,All Ages,Number of Hours,1650
+Census Week,2017/18,Perth and Kinross,All Ages,"Rate per 1,000 Population",11.6
+Census Week,2017/18,Perth and Kinross,All Ages,Number of People,1750
+Census Week,2017/18,Perth and Kinross,All Ages,Number of Hours,27675
+Census Week,2017/18,Renfrewshire,All Ages,"Rate per 1,000 Population",12.2
+Census Week,2017/18,Renfrewshire,All Ages,Number of People,2155
+Census Week,2017/18,Renfrewshire,All Ages,Number of Hours,33990
+Census Week,2017/18,Scottish Borders,All Ages,"Rate per 1,000 Population",9.8
+Census Week,2017/18,Scottish Borders,All Ages,Number of People,1125
+Census Week,2017/18,Scottish Borders,All Ages,Number of Hours,7570
+Census Week,2017/18,Shetland,All Ages,"Rate per 1,000 Population",14.7
+Census Week,2017/18,Shetland,All Ages,Number of People,340
+Census Week,2017/18,Shetland,All Ages,Number of Hours,2505
+Census Week,2017/18,South Ayrshire,All Ages,"Rate per 1,000 Population",13.8
+Census Week,2017/18,South Ayrshire,All Ages,Number of People,1550
+Census Week,2017/18,South Ayrshire,All Ages,Number of Hours,16660
+Census Week,2017/18,South Lanarkshire,All Ages,"Rate per 1,000 Population",11
+Census Week,2017/18,South Lanarkshire,All Ages,Number of People,3515
+Census Week,2017/18,South Lanarkshire,All Ages,Number of Hours,41740
+Census Week,2017/18,Stirling,All Ages,"Rate per 1,000 Population",12.1
+Census Week,2017/18,Stirling,All Ages,Number of People,1135
+Census Week,2017/18,Stirling,All Ages,Number of Hours,18255
+Census Week,2017/18,West Dunbartonshire,All Ages,"Rate per 1,000 Population",16.9
+Census Week,2017/18,West Dunbartonshire,All Ages,Number of People,1510
+Census Week,2017/18,West Dunbartonshire,All Ages,Number of Hours,9045
+Census Week,2017/18,West Lothian,All Ages,"Rate per 1,000 Population",10.7
+Census Week,2017/18,West Lothian,All Ages,Number of People,1940
+Census Week,2017/18,West Lothian,All Ages,Number of Hours,21480
+Census Week,2018/19,Scotland (Estimated),All Ages,"Rate per 1,000 Population",11
+Census Week,2018/19,Scotland (Estimated),All Ages,Number of People,59875
+Census Week,2018/19,Scotland (Estimated),All Ages,Number of Hours,686130
+Census Week,2018/19,Aberdeen City,All Ages,"Rate per 1,000 Population",8.2
+Census Week,2018/19,Aberdeen City,All Ages,Number of People,1870
+Census Week,2018/19,Aberdeen City,All Ages,Number of Hours,27435
+Census Week,2018/19,Aberdeenshire,All Ages,"Rate per 1,000 Population",7.7
+Census Week,2018/19,Aberdeenshire,All Ages,Number of People,2025
+Census Week,2018/19,Aberdeenshire,All Ages,Number of Hours,16540
+Census Week,2018/19,Angus,All Ages,"Rate per 1,000 Population",9.8
+Census Week,2018/19,Angus,All Ages,Number of People,1135
+Census Week,2018/19,Angus,All Ages,Number of Hours,1155
+Census Week,2018/19,Argyll and Bute,All Ages,"Rate per 1,000 Population",16.9
+Census Week,2018/19,Argyll and Bute,All Ages,Number of People,1460
+Census Week,2018/19,Argyll and Bute,All Ages,Number of Hours,21970
+Census Week,2018/19,City of Edinburgh,All Ages,"Rate per 1,000 Population",9.4
+Census Week,2018/19,City of Edinburgh,All Ages,Number of People,4850
+Census Week,2018/19,City of Edinburgh,All Ages,Number of Hours,90820
+Census Week,2018/19,Clackmannanshire,All Ages,"Rate per 1,000 Population",15.1
+Census Week,2018/19,Clackmannanshire,All Ages,Number of People,775
+Census Week,2018/19,Clackmannanshire,All Ages,Number of Hours,10360
+Census Week,2018/19,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",13.2
+Census Week,2018/19,Comhairle nan Eilean Siar,All Ages,Number of People,355
+Census Week,2018/19,Comhairle nan Eilean Siar,All Ages,Number of Hours,1815
+Census Week,2018/19,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",14.3
+Census Week,2018/19,Dumfries and Galloway,All Ages,Number of People,2130
+Census Week,2018/19,Dumfries and Galloway,All Ages,Number of Hours,36420
+Census Week,2018/19,Dundee City,All Ages,"Rate per 1,000 Population",11.5
+Census Week,2018/19,Dundee City,All Ages,Number of People,1715
+Census Week,2018/19,Dundee City,All Ages,Number of Hours,17690
+Census Week,2018/19,East Ayrshire,All Ages,"Rate per 1,000 Population",14.7
+Census Week,2018/19,East Ayrshire,All Ages,Number of People,1785
+Census Week,2018/19,East Ayrshire,All Ages,Number of Hours,14405
+Census Week,2018/19,East Dunbartonshire,All Ages,"Rate per 1,000 Population",13.3
+Census Week,2018/19,East Dunbartonshire,All Ages,Number of People,1440
+Census Week,2018/19,East Dunbartonshire,All Ages,Number of Hours,13660
+Census Week,2018/19,East Lothian,All Ages,"Rate per 1,000 Population",12.5
+Census Week,2018/19,East Lothian,All Ages,Number of People,1320
+Census Week,2018/19,East Lothian,All Ages,Number of Hours,20300
+Census Week,2018/19,East Renfrewshire,All Ages,"Rate per 1,000 Population",11.4
+Census Week,2018/19,East Renfrewshire,All Ages,Number of People,1085
+Census Week,2018/19,East Renfrewshire,All Ages,Number of Hours,10165
+Census Week,2018/19,Falkirk,All Ages,"Rate per 1,000 Population",11.9
+Census Week,2018/19,Falkirk,All Ages,Number of People,1905
+Census Week,2018/19,Falkirk,All Ages,Number of Hours,12950
+Census Week,2018/19,Fife,All Ages,"Rate per 1,000 Population",9.2
+Census Week,2018/19,Fife,All Ages,Number of People,3410
+Census Week,2018/19,Fife,All Ages,Number of Hours,56035
+Census Week,2018/19,Glasgow City,All Ages,"Rate per 1,000 Population",8.6
+Census Week,2018/19,Glasgow City,All Ages,Number of People,5360
+Census Week,2018/19,Glasgow City,All Ages,Number of Hours,47870
+Census Week,2018/19,Highland,All Ages,"Rate per 1,000 Population",8.2
+Census Week,2018/19,Highland,All Ages,Number of People,1940
+Census Week,2018/19,Highland,All Ages,Number of Hours,15735
+Census Week,2018/19,Inverclyde,All Ages,"Rate per 1,000 Population",15.4
+Census Week,2018/19,Inverclyde,All Ages,Number of People,1200
+Census Week,2018/19,Inverclyde,All Ages,Number of Hours,8455
+Census Week,2018/19,Midlothian,All Ages,"Rate per 1,000 Population",9.7
+Census Week,2018/19,Midlothian,All Ages,Number of People,885
+Census Week,2018/19,Midlothian,All Ages,Number of Hours,8680
+Census Week,2018/19,Moray,All Ages,"Rate per 1,000 Population",10.8
+Census Week,2018/19,Moray,All Ages,Number of People,1035
+Census Week,2018/19,Moray,All Ages,Number of Hours,10225
+Census Week,2018/19,North Ayrshire,All Ages,"Rate per 1,000 Population",17.4
+Census Week,2018/19,North Ayrshire,All Ages,Number of People,2350
+Census Week,2018/19,North Ayrshire,All Ages,Number of Hours,29410
+Census Week,2018/19,North Lanarkshire,All Ages,"Rate per 1,000 Population",11.8
+Census Week,2018/19,North Lanarkshire,All Ages,Number of People,4000
+Census Week,2018/19,North Lanarkshire,All Ages,Number of Hours,31975
+Census Week,2018/19,Orkney Islands,All Ages,"Rate per 1,000 Population",9.9
+Census Week,2018/19,Orkney Islands,All Ages,Number of People,220
+Census Week,2018/19,Orkney Islands,All Ages,Number of Hours,1650
+Census Week,2018/19,Perth and Kinross,All Ages,"Rate per 1,000 Population",9.9
+Census Week,2018/19,Perth and Kinross,All Ages,Number of People,1505
+Census Week,2018/19,Perth and Kinross,All Ages,Number of Hours,18060
+Census Week,2018/19,Renfrewshire,All Ages,"Rate per 1,000 Population",13.5
+Census Week,2018/19,Renfrewshire,All Ages,Number of People,2405
+Census Week,2018/19,Renfrewshire,All Ages,Number of Hours,34865
+Census Week,2018/19,Scottish Borders,All Ages,"Rate per 1,000 Population",11.4
+Census Week,2018/19,Scottish Borders,All Ages,Number of People,1315
+Census Week,2018/19,Scottish Borders,All Ages,Number of Hours,9885
+Census Week,2018/19,Shetland,All Ages,"Rate per 1,000 Population",13.9
+Census Week,2018/19,Shetland,All Ages,Number of People,320
+Census Week,2018/19,Shetland,All Ages,Number of Hours,2410
+Census Week,2018/19,South Ayrshire,All Ages,"Rate per 1,000 Population",15.9
+Census Week,2018/19,South Ayrshire,All Ages,Number of People,1785
+Census Week,2018/19,South Ayrshire,All Ages,Number of Hours,22760
+Census Week,2018/19,South Lanarkshire,All Ages,"Rate per 1,000 Population",11.3
+Census Week,2018/19,South Lanarkshire,All Ages,Number of People,3605
+Census Week,2018/19,South Lanarkshire,All Ages,Number of Hours,44265
+Census Week,2018/19,Stirling,All Ages,"Rate per 1,000 Population",13.5
+Census Week,2018/19,Stirling,All Ages,Number of People,1275
+Census Week,2018/19,Stirling,All Ages,Number of Hours,19535
+Census Week,2018/19,West Dunbartonshire,All Ages,"Rate per 1,000 Population",16.9
+Census Week,2018/19,West Dunbartonshire,All Ages,Number of People,1510
+Census Week,2018/19,West Dunbartonshire,All Ages,Number of Hours,9295
+Census Week,2018/19,West Lothian,All Ages,"Rate per 1,000 Population",10.5
+Census Week,2018/19,West Lothian,All Ages,Number of People,1905
+Census Week,2018/19,West Lothian,All Ages,Number of Hours,19345
+Census Week,2019/20,Scotland (Estimated),All Ages,"Rate per 1,000 Population",10.8
+Census Week,2019/20,Scotland (Estimated),All Ages,Number of People,59000
+Census Week,2019/20,Scotland (Estimated),All Ages,Number of Hours,721265
+Census Week,2019/20,Aberdeen City,All Ages,"Rate per 1,000 Population",8.2
+Census Week,2019/20,Aberdeen City,All Ages,Number of People,1870
+Census Week,2019/20,Aberdeen City,All Ages,Number of Hours,27435
+Census Week,2019/20,Aberdeenshire,All Ages,"Rate per 1,000 Population",8.1
+Census Week,2019/20,Aberdeenshire,All Ages,Number of People,2120
+Census Week,2019/20,Aberdeenshire,All Ages,Number of Hours,17685
+Census Week,2019/20,Angus,All Ages,"Rate per 1,000 Population",10.8
+Census Week,2019/20,Angus,All Ages,Number of People,1255
+Census Week,2019/20,Angus,All Ages,Number of Hours,10320
+Census Week,2019/20,Argyll and Bute,All Ages,"Rate per 1,000 Population",17.4
+Census Week,2019/20,Argyll and Bute,All Ages,Number of People,1495
+Census Week,2019/20,Argyll and Bute,All Ages,Number of Hours,21625
+Census Week,2019/20,City of Edinburgh,All Ages,"Rate per 1,000 Population",8.8
+Census Week,2019/20,City of Edinburgh,All Ages,Number of People,4640
+Census Week,2019/20,City of Edinburgh,All Ages,Number of Hours,95635
+Census Week,2019/20,Clackmannanshire,All Ages,"Rate per 1,000 Population",15.3
+Census Week,2019/20,Clackmannanshire,All Ages,Number of People,790
+Census Week,2019/20,Clackmannanshire,All Ages,Number of Hours,10415
+Census Week,2019/20,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",12.7
+Census Week,2019/20,Comhairle nan Eilean Siar,All Ages,Number of People,340
+Census Week,2019/20,Comhairle nan Eilean Siar,All Ages,Number of Hours,1930
+Census Week,2019/20,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",14.7
+Census Week,2019/20,Dumfries and Galloway,All Ages,Number of People,2195
+Census Week,2019/20,Dumfries and Galloway,All Ages,Number of Hours,34285
+Census Week,2019/20,Dundee City,All Ages,"Rate per 1,000 Population",11.6
+Census Week,2019/20,Dundee City,All Ages,Number of People,1735
+Census Week,2019/20,Dundee City,All Ages,Number of Hours,21295
+Census Week,2019/20,East Ayrshire,All Ages,"Rate per 1,000 Population",15.4
+Census Week,2019/20,East Ayrshire,All Ages,Number of People,1875
+Census Week,2019/20,East Ayrshire,All Ages,Number of Hours,14065
+Census Week,2019/20,East Dunbartonshire,All Ages,"Rate per 1,000 Population",10.3
+Census Week,2019/20,East Dunbartonshire,All Ages,Number of People,1115
+Census Week,2019/20,East Dunbartonshire,All Ages,Number of Hours,10800
+Census Week,2019/20,East Lothian,All Ages,"Rate per 1,000 Population",12.4
+Census Week,2019/20,East Lothian,All Ages,Number of People,1325
+Census Week,2019/20,East Lothian,All Ages,Number of Hours,18705
+Census Week,2019/20,East Renfrewshire,All Ages,"Rate per 1,000 Population",11.1
+Census Week,2019/20,East Renfrewshire,All Ages,Number of People,1060
+Census Week,2019/20,East Renfrewshire,All Ages,Number of Hours,9335
+Census Week,2019/20,Falkirk,All Ages,"Rate per 1,000 Population",11.7
+Census Week,2019/20,Falkirk,All Ages,Number of People,1880
+Census Week,2019/20,Falkirk,All Ages,Number of Hours,12735
+Census Week,2019/20,Fife,All Ages,"Rate per 1,000 Population",8.7
+Census Week,2019/20,Fife,All Ages,Number of People,3240
+Census Week,2019/20,Fife,All Ages,Number of Hours,61865
+Census Week,2019/20,Glasgow City,All Ages,"Rate per 1,000 Population",8.6
+Census Week,2019/20,Glasgow City,All Ages,Number of People,5445
+Census Week,2019/20,Glasgow City,All Ages,Number of Hours,49450
+Census Week,2019/20,Highland,All Ages,"Rate per 1,000 Population",8
+Census Week,2019/20,Highland,All Ages,Number of People,1875
+Census Week,2019/20,Highland,All Ages,Number of Hours,14330
+Census Week,2019/20,Inverclyde,All Ages,"Rate per 1,000 Population",16.3
+Census Week,2019/20,Inverclyde,All Ages,Number of People,1265
+Census Week,2019/20,Inverclyde,All Ages,Number of Hours,8895
+Census Week,2019/20,Midlothian,All Ages,"Rate per 1,000 Population",9.5
+Census Week,2019/20,Midlothian,All Ages,Number of People,875
+Census Week,2019/20,Midlothian,All Ages,Number of Hours,15185
+Census Week,2019/20,Moray,All Ages,"Rate per 1,000 Population",9.1
+Census Week,2019/20,Moray,All Ages,Number of People,875
+Census Week,2019/20,Moray,All Ages,Number of Hours,8795
+Census Week,2019/20,North Ayrshire,All Ages,"Rate per 1,000 Population",17.6
+Census Week,2019/20,North Ayrshire,All Ages,Number of People,2365
+Census Week,2019/20,North Ayrshire,All Ages,Number of Hours,30470
+Census Week,2019/20,North Lanarkshire,All Ages,"Rate per 1,000 Population",12
+Census Week,2019/20,North Lanarkshire,All Ages,Number of People,4095
+Census Week,2019/20,North Lanarkshire,All Ages,Number of Hours,32815
+Census Week,2019/20,Orkney Islands,All Ages,"Rate per 1,000 Population",9.2
+Census Week,2019/20,Orkney Islands,All Ages,Number of People,205
+Census Week,2019/20,Orkney Islands,All Ages,Number of Hours,1690
+Census Week,2019/20,Perth and Kinross,All Ages,"Rate per 1,000 Population",10.4
+Census Week,2019/20,Perth and Kinross,All Ages,Number of People,1585
+Census Week,2019/20,Perth and Kinross,All Ages,Number of Hours,20315
+Census Week,2019/20,Renfrewshire,All Ages,"Rate per 1,000 Population",11.6
+Census Week,2019/20,Renfrewshire,All Ages,Number of People,2085
+Census Week,2019/20,Renfrewshire,All Ages,Number of Hours,32050
+Census Week,2019/20,Scottish Borders,All Ages,"Rate per 1,000 Population",12.3
+Census Week,2019/20,Scottish Borders,All Ages,Number of People,1415
+Census Week,2019/20,Scottish Borders,All Ages,Number of Hours,10890
+Census Week,2019/20,Shetland,All Ages,"Rate per 1,000 Population",15.9
+Census Week,2019/20,Shetland,All Ages,Number of People,365
+Census Week,2019/20,Shetland,All Ages,Number of Hours,3095
+Census Week,2019/20,South Ayrshire,All Ages,"Rate per 1,000 Population",14.2
+Census Week,2019/20,South Ayrshire,All Ages,Number of People,1595
+Census Week,2019/20,South Ayrshire,All Ages,Number of Hours,30205
+Census Week,2019/20,South Lanarkshire,All Ages,"Rate per 1,000 Population",11.1
+Census Week,2019/20,South Lanarkshire,All Ages,Number of People,3545
+Census Week,2019/20,South Lanarkshire,All Ages,Number of Hours,43340
+Census Week,2019/20,Stirling,All Ages,"Rate per 1,000 Population",12.8
+Census Week,2019/20,Stirling,All Ages,Number of People,1210
+Census Week,2019/20,Stirling,All Ages,Number of Hours,19025
+Census Week,2019/20,West Dunbartonshire,All Ages,"Rate per 1,000 Population",17.4
+Census Week,2019/20,West Dunbartonshire,All Ages,Number of People,1550
+Census Week,2019/20,West Dunbartonshire,All Ages,Number of Hours,9435
+Census Week,2019/20,West Lothian,All Ages,"Rate per 1,000 Population",9.4
+Census Week,2019/20,West Lothian,All Ages,Number of People,1720
+Census Week,2019/20,West Lothian,All Ages,Number of Hours,23150
+Census Week,2020/21,Scotland (Estimated),All Ages,"Rate per 1,000 Population",11
+Census Week,2020/21,Scotland (Estimated),All Ages,Number of People,59960
+Census Week,2020/21,Scotland (Estimated),All Ages,Number of Hours,733505
+Census Week,2020/21,Aberdeen City,All Ages,"Rate per 1,000 Population",8.2
+Census Week,2020/21,Aberdeen City,All Ages,Number of People,1870
+Census Week,2020/21,Aberdeen City,All Ages,Number of Hours,27435
+Census Week,2020/21,Aberdeenshire,All Ages,"Rate per 1,000 Population",8.8
+Census Week,2020/21,Aberdeenshire,All Ages,Number of People,2290
+Census Week,2020/21,Aberdeenshire,All Ages,Number of Hours,20345
+Census Week,2020/21,Angus,All Ages,"Rate per 1,000 Population",11.1
+Census Week,2020/21,Angus,All Ages,Number of People,1285
+Census Week,2020/21,Angus,All Ages,Number of Hours,12170
+Census Week,2020/21,Argyll and Bute,All Ages,"Rate per 1,000 Population",16.9
+Census Week,2020/21,Argyll and Bute,All Ages,Number of People,1440
+Census Week,2020/21,Argyll and Bute,All Ages,Number of Hours,22235
+Census Week,2020/21,City of Edinburgh,All Ages,"Rate per 1,000 Population",9.9
+Census Week,2020/21,City of Edinburgh,All Ages,Number of People,5245
+Census Week,2020/21,City of Edinburgh,All Ages,Number of Hours,111965
+Census Week,2020/21,Clackmannanshire,All Ages,"Rate per 1,000 Population",15.7
+Census Week,2020/21,Clackmannanshire,All Ages,Number of People,805
+Census Week,2020/21,Clackmannanshire,All Ages,Number of Hours,11940
+Census Week,2020/21,Comhairle nan Eilean Siar,All Ages,"Rate per 1,000 Population",12.3
+Census Week,2020/21,Comhairle nan Eilean Siar,All Ages,Number of People,325
+Census Week,2020/21,Comhairle nan Eilean Siar,All Ages,Number of Hours,1830
+Census Week,2020/21,Dumfries and Galloway,All Ages,"Rate per 1,000 Population",14.9
+Census Week,2020/21,Dumfries and Galloway,All Ages,Number of People,2215
+Census Week,2020/21,Dumfries and Galloway,All Ages,Number of Hours,53620
+Census Week,2020/21,Dundee City,All Ages,"Rate per 1,000 Population",12
+Census Week,2020/21,Dundee City,All Ages,Number of People,1785
+Census Week,2020/21,Dundee City,All Ages,Number of Hours,18760
+Census Week,2020/21,East Ayrshire,All Ages,"Rate per 1,000 Population",14.1
+Census Week,2020/21,East Ayrshire,All Ages,Number of People,1715
+Census Week,2020/21,East Ayrshire,All Ages,Number of Hours,16500
+Census Week,2020/21,East Dunbartonshire,All Ages,"Rate per 1,000 Population",11.4
+Census Week,2020/21,East Dunbartonshire,All Ages,Number of People,1235
+Census Week,2020/21,East Dunbartonshire,All Ages,Number of Hours,10910
+Census Week,2020/21,East Lothian,All Ages,"Rate per 1,000 Population",11.7
+Census Week,2020/21,East Lothian,All Ages,Number of People,1260
+Census Week,2020/21,East Lothian,All Ages,Number of Hours,21165
+Census Week,2020/21,East Renfrewshire,All Ages,"Rate per 1,000 Population",12.3
+Census Week,2020/21,East Renfrewshire,All Ages,Number of People,1185
+Census Week,2020/21,East Renfrewshire,All Ages,Number of Hours,10240
+Census Week,2020/21,Falkirk,All Ages,"Rate per 1,000 Population",11
+Census Week,2020/21,Falkirk,All Ages,Number of People,1760
+Census Week,2020/21,Falkirk,All Ages,Number of Hours,12835
+Census Week,2020/21,Fife,All Ages,"Rate per 1,000 Population",9
+Census Week,2020/21,Fife,All Ages,Number of People,3385
+Census Week,2020/21,Fife,All Ages,Number of Hours,35245
+Census Week,2020/21,Glasgow City,All Ages,"Rate per 1,000 Population",8.1
+Census Week,2020/21,Glasgow City,All Ages,Number of People,5180
+Census Week,2020/21,Glasgow City,All Ages,Number of Hours,46575
+Census Week,2020/21,Highland,All Ages,"Rate per 1,000 Population",8.7
+Census Week,2020/21,Highland,All Ages,Number of People,2060
+Census Week,2020/21,Highland,All Ages,Number of Hours,16345
+Census Week,2020/21,Inverclyde,All Ages,"Rate per 1,000 Population",15.1
+Census Week,2020/21,Inverclyde,All Ages,Number of People,1165
+Census Week,2020/21,Inverclyde,All Ages,Number of Hours,6365
+Census Week,2020/21,Midlothian,All Ages,"Rate per 1,000 Population",9.2
+Census Week,2020/21,Midlothian,All Ages,Number of People,855
+Census Week,2020/21,Midlothian,All Ages,Number of Hours,15205
+Census Week,2020/21,Moray,All Ages,"Rate per 1,000 Population",10.5
+Census Week,2020/21,Moray,All Ages,Number of People,1005
+Census Week,2020/21,Moray,All Ages,Number of Hours,15710
+Census Week,2020/21,North Ayrshire,All Ages,"Rate per 1,000 Population",20.3
+Census Week,2020/21,North Ayrshire,All Ages,Number of People,2730
+Census Week,2020/21,North Ayrshire,All Ages,Number of Hours,28305
+Census Week,2020/21,North Lanarkshire,All Ages,"Rate per 1,000 Population",11.2
+Census Week,2020/21,North Lanarkshire,All Ages,Number of People,3825
+Census Week,2020/21,North Lanarkshire,All Ages,Number of Hours,34020
+Census Week,2020/21,Orkney Islands,All Ages,"Rate per 1,000 Population",8.3
+Census Week,2020/21,Orkney Islands,All Ages,Number of People,185
+Census Week,2020/21,Orkney Islands,All Ages,Number of Hours,1430
+Census Week,2020/21,Perth and Kinross,All Ages,"Rate per 1,000 Population",11.2
+Census Week,2020/21,Perth and Kinross,All Ages,Number of People,1705
+Census Week,2020/21,Perth and Kinross,All Ages,Number of Hours,21685
+Census Week,2020/21,Renfrewshire,All Ages,"Rate per 1,000 Population",9.7
+Census Week,2020/21,Renfrewshire,All Ages,Number of People,1735
+Census Week,2020/21,Renfrewshire,All Ages,Number of Hours,17630
+Census Week,2020/21,Scottish Borders,All Ages,"Rate per 1,000 Population",11.6
+Census Week,2020/21,Scottish Borders,All Ages,Number of People,1335
+Census Week,2020/21,Scottish Borders,All Ages,Number of Hours,10295
+Census Week,2020/21,Shetland,All Ages,"Rate per 1,000 Population",16.8
+Census Week,2020/21,Shetland,All Ages,Number of People,385
+Census Week,2020/21,Shetland,All Ages,Number of Hours,3555
+Census Week,2020/21,South Ayrshire,All Ages,"Rate per 1,000 Population",15.5
+Census Week,2020/21,South Ayrshire,All Ages,Number of People,1740
+Census Week,2020/21,South Ayrshire,All Ages,Number of Hours,32700
+Census Week,2020/21,South Lanarkshire,All Ages,"Rate per 1,000 Population",11.4
+Census Week,2020/21,South Lanarkshire,All Ages,Number of People,3645
+Census Week,2020/21,South Lanarkshire,All Ages,Number of Hours,46975
+Census Week,2020/21,Stirling,All Ages,"Rate per 1,000 Population",13.1
+Census Week,2020/21,Stirling,All Ages,Number of People,1230
+Census Week,2020/21,Stirling,All Ages,Number of Hours,16450
+Census Week,2020/21,West Dunbartonshire,All Ages,"Rate per 1,000 Population",16.7
+Census Week,2020/21,West Dunbartonshire,All Ages,Number of People,1475
+Census Week,2020/21,West Dunbartonshire,All Ages,Number of Hours,8685
+Census Week,2020/21,West Lothian,All Ages,"Rate per 1,000 Population",10.4
+Census Week,2020/21,West Lothian,All Ages,Number of People,1905
+Census Week,2020/21,West Lothian,All Ages,Number of Hours,24380
