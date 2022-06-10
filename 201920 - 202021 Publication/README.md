@@ -9,4 +9,6 @@ The code for the 5 dashboards is avaliable, within each folder the following R s
 - `server.R`.
 
 
-Please Note, all code provided has been run on the R Server. The filepaths have been set-up to be used within an R project for each dashboard, these will need changed when the data is downloaded from GitHub to the working directory. 
+Please note, all code provided has been run on the R Server. 
+
+The filepaths have been set-up to be used within an R project for each dashboard, these will need changed when the data is downloaded from GitHub to the working directory. 
