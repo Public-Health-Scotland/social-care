@@ -15,5 +15,5 @@ The code for the 5 dashboards is avaliable, within each folder the following can
 Please note, all code provided has been run on the POSIT R Server, R version 4.1.2. 
 
 
-The folder for each app can be downloaded and the shiny app run.
+The folder for each app can be downloaded and the shiny app will be produced.
 
