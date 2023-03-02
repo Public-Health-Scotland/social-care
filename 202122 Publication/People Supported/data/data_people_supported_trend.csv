@@ -1,0 +1,331 @@
+financial_year,sending_location,measure,nclient,rate,scotland_rate,scotland_nclient
+2017/18,Scotland (Estimated),"Rate per 1,000 Population",230115,42.4,42.4,230115
+2017/18,Scotland (Estimated),"Rate per 1,000 Population (adjusted)",225515,41.6,41.6,225515
+2017/18,Aberdeen City,"Rate per 1,000 Population",10585,46.3,42.4,230115
+2017/18,Aberdeen City,"Rate per 1,000 Population (adjusted)",10585,46.3,41.6,225515
+2017/18,Aberdeenshire,"Rate per 1,000 Population",9070,34.6,42.4,230115
+2017/18,Aberdeenshire,"Rate per 1,000 Population (adjusted)",4460,17,41.6,225515
+2017/18,Angus,"Rate per 1,000 Population",5835,50.2,42.4,230115
+2017/18,Angus,"Rate per 1,000 Population (adjusted)",5835,50.2,41.6,225515
+2017/18,Argyll and Bute,"Rate per 1,000 Population",3370,38.8,42.4,230115
+2017/18,Argyll and Bute,"Rate per 1,000 Population (adjusted)",3370,38.8,41.6,225515
+2017/18,City of Edinburgh,"Rate per 1,000 Population",17200,33.5,42.4,230115
+2017/18,City of Edinburgh,"Rate per 1,000 Population (adjusted)",17200,33.5,41.6,225515
+2017/18,Clackmannanshire,"Rate per 1,000 Population",2770,53.8,42.4,230115
+2017/18,Clackmannanshire,"Rate per 1,000 Population (adjusted)",2770,53.8,41.6,225515
+2017/18,Comhairle nan Eilean Siar,"Rate per 1,000 Population",1775,65.9,42.4,230115
+2017/18,Comhairle nan Eilean Siar,"Rate per 1,000 Population (adjusted)",1775,65.9,41.6,225515
+2017/18,Dumfries and Galloway,"Rate per 1,000 Population",7070,47.4,42.4,230115
+2017/18,Dumfries and Galloway,"Rate per 1,000 Population (adjusted)",7070,47.4,41.6,225515
+2017/18,Dundee City,"Rate per 1,000 Population",10985,73.9,42.4,230115
+2017/18,Dundee City,"Rate per 1,000 Population (adjusted)",10985,73.9,41.6,225515
+2017/18,East Ayrshire,"Rate per 1,000 Population",5160,42.3,42.4,230115
+2017/18,East Ayrshire,"Rate per 1,000 Population (adjusted)",5160,42.3,41.6,225515
+2017/18,East Dunbartonshire,"Rate per 1,000 Population",6145,56.8,42.4,230115
+2017/18,East Dunbartonshire,"Rate per 1,000 Population (adjusted)",6145,56.8,41.6,225515
+2017/18,East Lothian,"Rate per 1,000 Population",5725,54.6,42.4,230115
+2017/18,East Lothian,"Rate per 1,000 Population (adjusted)",5725,54.6,41.6,225515
+2017/18,East Renfrewshire,"Rate per 1,000 Population",6365,67.2,42.4,230115
+2017/18,East Renfrewshire,"Rate per 1,000 Population (adjusted)",6365,67.2,41.6,225515
+2017/18,Falkirk,"Rate per 1,000 Population",8085,50.5,42.4,230115
+2017/18,Falkirk,"Rate per 1,000 Population (adjusted)",8085,50.5,41.6,225515
+2017/18,Fife,"Rate per 1,000 Population",15880,42.8,42.4,230115
+2017/18,Fife,"Rate per 1,000 Population (adjusted)",15880,42.8,41.6,225515
+2017/18,Glasgow City,"Rate per 1,000 Population",19370,31.2,42.4,230115
+2017/18,Glasgow City,"Rate per 1,000 Population (adjusted)",19370,31.2,41.6,225515
+2017/18,Highland,"Rate per 1,000 Population",8375,35.6,42.4,230115
+2017/18,Highland,"Rate per 1,000 Population (adjusted)",8375,35.6,41.6,225515
+2017/18,Inverclyde,"Rate per 1,000 Population",4910,62.3,42.4,230115
+2017/18,Inverclyde,"Rate per 1,000 Population (adjusted)",4910,62.3,41.6,225515
+2017/18,Midlothian,"Rate per 1,000 Population",3900,43.3,42.4,230115
+2017/18,Midlothian,"Rate per 1,000 Population (adjusted)",3900,43.3,41.6,225515
+2017/18,Moray,"Rate per 1,000 Population",3325,34.7,42.4,230115
+2017/18,Moray,"Rate per 1,000 Population (adjusted)",3325,34.7,41.6,225515
+2017/18,North Ayrshire,"Rate per 1,000 Population",7135,52.5,42.4,230115
+2017/18,North Ayrshire,"Rate per 1,000 Population (adjusted)",7135,52.5,41.6,225515
+2017/18,North Lanarkshire,"Rate per 1,000 Population",14090,41.4,42.4,230115
+2017/18,North Lanarkshire,"Rate per 1,000 Population (adjusted)",14090,41.4,41.6,225515
+2017/18,Orkney Islands,"Rate per 1,000 Population",1065,48.4,42.4,230115
+2017/18,Orkney Islands,"Rate per 1,000 Population (adjusted)",1065,48.4,41.6,225515
+2017/18,Perth and Kinross,"Rate per 1,000 Population",6770,44.8,42.4,230115
+2017/18,Perth and Kinross,"Rate per 1,000 Population (adjusted)",6770,44.8,41.6,225515
+2017/18,Renfrewshire,"Rate per 1,000 Population",7655,43.3,42.4,230115
+2017/18,Renfrewshire,"Rate per 1,000 Population (adjusted)",7655,43.3,41.6,225515
+2017/18,Scottish Borders,"Rate per 1,000 Population",6620,57.6,42.4,230115
+2017/18,Scottish Borders,"Rate per 1,000 Population (adjusted)",6620,57.6,41.6,225515
+2017/18,Shetland Islands,"Rate per 1,000 Population",1230,53.3,42.4,230115
+2017/18,Shetland Islands,"Rate per 1,000 Population (adjusted)",1230,53.3,41.6,225515
+2017/18,South Ayrshire,"Rate per 1,000 Population",5390,47.8,42.4,230115
+2017/18,South Ayrshire,"Rate per 1,000 Population (adjusted)",5390,47.8,41.6,225515
+2017/18,South Lanarkshire,"Rate per 1,000 Population",8665,27.2,42.4,230115
+2017/18,South Lanarkshire,"Rate per 1,000 Population (adjusted)",8665,27.2,41.6,225515
+2017/18,Stirling,"Rate per 1,000 Population",3790,40.3,42.4,230115
+2017/18,Stirling,"Rate per 1,000 Population (adjusted)",3790,40.3,41.6,225515
+2017/18,West Dunbartonshire,"Rate per 1,000 Population",4105,45.8,42.4,230115
+2017/18,West Dunbartonshire,"Rate per 1,000 Population (adjusted)",4105,45.8,41.6,225515
+2017/18,West Lothian,"Rate per 1,000 Population",7710,42.5,42.4,230115
+2017/18,West Lothian,"Rate per 1,000 Population (adjusted)",7710,42.5,41.6,225515
+2018/19,Scotland (Estimated),"Rate per 1,000 Population",246200,45.3,45.3,246200
+2018/19,Scotland (Estimated),"Rate per 1,000 Population (adjusted)",235380,43.3,43.3,235380
+2018/19,Aberdeen City,"Rate per 1,000 Population",10425,45.8,45.3,246200
+2018/19,Aberdeen City,"Rate per 1,000 Population (adjusted)",8875,39,43.3,235380
+2018/19,Aberdeenshire,"Rate per 1,000 Population",12100,46.3,45.3,246200
+2018/19,Aberdeenshire,"Rate per 1,000 Population (adjusted)",12100,46.3,43.3,235380
+2018/19,Angus,"Rate per 1,000 Population",6455,55.6,45.3,246200
+2018/19,Angus,"Rate per 1,000 Population (adjusted)",6455,55.6,43.3,235380
+2018/19,Argyll and Bute,"Rate per 1,000 Population",3995,46.3,45.3,246200
+2018/19,Argyll and Bute,"Rate per 1,000 Population (adjusted)",3995,46.3,43.3,235380
+2018/19,City of Edinburgh,"Rate per 1,000 Population",20015,38.6,45.3,246200
+2018/19,City of Edinburgh,"Rate per 1,000 Population (adjusted)",16510,31.8,43.3,235380
+2018/19,Clackmannanshire,"Rate per 1,000 Population",2640,51.4,45.3,246200
+2018/19,Clackmannanshire,"Rate per 1,000 Population (adjusted)",2640,51.4,43.3,235380
+2018/19,Comhairle nan Eilean Siar,"Rate per 1,000 Population",1740,64.9,45.3,246200
+2018/19,Comhairle nan Eilean Siar,"Rate per 1,000 Population (adjusted)",1740,64.9,43.3,235380
+2018/19,Dumfries and Galloway,"Rate per 1,000 Population",7045,47.3,45.3,246200
+2018/19,Dumfries and Galloway,"Rate per 1,000 Population (adjusted)",7045,47.3,43.3,235380
+2018/19,Dundee City,"Rate per 1,000 Population",11375,76.5,45.3,246200
+2018/19,Dundee City,"Rate per 1,000 Population (adjusted)",11240,75.6,43.3,235380
+2018/19,East Ayrshire,"Rate per 1,000 Population",6010,49.3,45.3,246200
+2018/19,East Ayrshire,"Rate per 1,000 Population (adjusted)",5835,47.9,43.3,235380
+2018/19,East Dunbartonshire,"Rate per 1,000 Population",7670,70.8,45.3,246200
+2018/19,East Dunbartonshire,"Rate per 1,000 Population (adjusted)",6840,63.1,43.3,235380
+2018/19,East Lothian,"Rate per 1,000 Population",3485,32.9,45.3,246200
+2018/19,East Lothian,"Rate per 1,000 Population (adjusted)",3485,32.9,43.3,235380
+2018/19,East Renfrewshire,"Rate per 1,000 Population",7745,81.4,45.3,246200
+2018/19,East Renfrewshire,"Rate per 1,000 Population (adjusted)",7745,81.4,43.3,235380
+2018/19,Falkirk,"Rate per 1,000 Population",8075,50.4,45.3,246200
+2018/19,Falkirk,"Rate per 1,000 Population (adjusted)",7180,44.8,43.3,235380
+2018/19,Fife,"Rate per 1,000 Population",16220,43.6,45.3,246200
+2018/19,Fife,"Rate per 1,000 Population (adjusted)",16220,43.6,43.3,235380
+2018/19,Glasgow City,"Rate per 1,000 Population",21475,34.3,45.3,246200
+2018/19,Glasgow City,"Rate per 1,000 Population (adjusted)",21215,33.9,43.3,235380
+2018/19,Highland,"Rate per 1,000 Population",7950,33.8,45.3,246200
+2018/19,Highland,"Rate per 1,000 Population (adjusted)",7950,33.8,43.3,235380
+2018/19,Inverclyde,"Rate per 1,000 Population",5325,68.1,45.3,246200
+2018/19,Inverclyde,"Rate per 1,000 Population (adjusted)",4850,62.1,43.3,235380
+2018/19,Midlothian,"Rate per 1,000 Population",3920,42.9,45.3,246200
+2018/19,Midlothian,"Rate per 1,000 Population (adjusted)",3835,42,43.3,235380
+2018/19,Moray,"Rate per 1,000 Population",3585,37.5,45.3,246200
+2018/19,Moray,"Rate per 1,000 Population (adjusted)",3580,37.5,43.3,235380
+2018/19,North Ayrshire,"Rate per 1,000 Population",7275,53.8,45.3,246200
+2018/19,North Ayrshire,"Rate per 1,000 Population (adjusted)",7275,53.8,43.3,235380
+2018/19,North Lanarkshire,"Rate per 1,000 Population",14900,43.8,45.3,246200
+2018/19,North Lanarkshire,"Rate per 1,000 Population (adjusted)",14900,43.8,43.3,235380
+2018/19,Orkney Islands,"Rate per 1,000 Population",1065,48,45.3,246200
+2018/19,Orkney Islands,"Rate per 1,000 Population (adjusted)",1065,48,43.3,235380
+2018/19,Perth and Kinross,"Rate per 1,000 Population",6785,44.8,45.3,246200
+2018/19,Perth and Kinross,"Rate per 1,000 Population (adjusted)",5280,34.9,43.3,235380
+2018/19,Renfrewshire,"Rate per 1,000 Population",8020,45.1,45.3,246200
+2018/19,Renfrewshire,"Rate per 1,000 Population (adjusted)",8020,45.1,43.3,235380
+2018/19,Scottish Borders,"Rate per 1,000 Population",7335,63.6,45.3,246200
+2018/19,Scottish Borders,"Rate per 1,000 Population (adjusted)",7335,63.6,43.3,235380
+2018/19,Shetland Islands,"Rate per 1,000 Population",1325,57.6,45.3,246200
+2018/19,Shetland Islands,"Rate per 1,000 Population (adjusted)",1325,57.6,43.3,235380
+2018/19,South Ayrshire,"Rate per 1,000 Population",5455,48.5,45.3,246200
+2018/19,South Ayrshire,"Rate per 1,000 Population (adjusted)",5455,48.5,43.3,235380
+2018/19,South Lanarkshire,"Rate per 1,000 Population",10570,33.1,45.3,246200
+2018/19,South Lanarkshire,"Rate per 1,000 Population (adjusted)",10570,33.1,43.3,235380
+2018/19,Stirling,"Rate per 1,000 Population",3890,41.2,45.3,246200
+2018/19,Stirling,"Rate per 1,000 Population (adjusted)",3695,39.2,43.3,235380
+2018/19,West Dunbartonshire,"Rate per 1,000 Population",4430,49.7,45.3,246200
+2018/19,West Dunbartonshire,"Rate per 1,000 Population (adjusted)",4430,49.7,43.3,235380
+2018/19,West Lothian,"Rate per 1,000 Population",7900,43.4,45.3,246200
+2018/19,West Lothian,"Rate per 1,000 Population (adjusted)",6695,36.8,43.3,235380
+2019/20,Scotland (Estimated),"Rate per 1,000 Population",237840,43.5,43.5,237840
+2019/20,Scotland (Estimated),"Rate per 1,000 Population (adjusted)",216500,39.6,39.6,216500
+2019/20,Aberdeen City,"Rate per 1,000 Population",10425,45.6,43.5,237840
+2019/20,Aberdeen City,"Rate per 1,000 Population (adjusted)",8875,38.8,39.6,216500
+2019/20,Aberdeenshire,"Rate per 1,000 Population",12785,48.9,43.5,237840
+2019/20,Aberdeenshire,"Rate per 1,000 Population (adjusted)",12705,48.6,39.6,216500
+2019/20,Angus,"Rate per 1,000 Population",6065,52.2,43.5,237840
+2019/20,Angus,"Rate per 1,000 Population (adjusted)",6060,52.2,39.6,216500
+2019/20,Argyll and Bute,"Rate per 1,000 Population",4130,48.1,43.5,237840
+2019/20,Argyll and Bute,"Rate per 1,000 Population (adjusted)",4125,48,39.6,216500
+2019/20,City of Edinburgh,"Rate per 1,000 Population",18080,34.4,43.5,237840
+2019/20,City of Edinburgh,"Rate per 1,000 Population (adjusted)",14855,28.3,39.6,216500
+2019/20,Clackmannanshire,"Rate per 1,000 Population",2650,51.4,43.5,237840
+2019/20,Clackmannanshire,"Rate per 1,000 Population (adjusted)",2650,51.4,39.6,216500
+2019/20,Comhairle nan Eilean Siar,"Rate per 1,000 Population",1685,63.1,43.5,237840
+2019/20,Comhairle nan Eilean Siar,"Rate per 1,000 Population (adjusted)",1345,50.3,39.6,216500
+2019/20,Dumfries and Galloway,"Rate per 1,000 Population",7320,49.2,43.5,237840
+2019/20,Dumfries and Galloway,"Rate per 1,000 Population (adjusted)",7320,49.2,39.6,216500
+2019/20,Dundee City,"Rate per 1,000 Population",11060,74.1,43.5,237840
+2019/20,Dundee City,"Rate per 1,000 Population (adjusted)",11030,73.9,39.6,216500
+2019/20,East Ayrshire,"Rate per 1,000 Population",5935,48.6,43.5,237840
+2019/20,East Ayrshire,"Rate per 1,000 Population (adjusted)",5720,46.9,39.6,216500
+2019/20,East Dunbartonshire,"Rate per 1,000 Population",6805,62.6,43.5,237840
+2019/20,East Dunbartonshire,"Rate per 1,000 Population (adjusted)",5750,52.9,39.6,216500
+2019/20,East Lothian,"Rate per 1,000 Population",3545,33.1,43.5,237840
+2019/20,East Lothian,"Rate per 1,000 Population (adjusted)",2775,25.9,39.6,216500
+2019/20,East Renfrewshire,"Rate per 1,000 Population",7835,82,43.5,237840
+2019/20,East Renfrewshire,"Rate per 1,000 Population (adjusted)",4275,44.8,39.6,216500
+2019/20,Falkirk,"Rate per 1,000 Population",8415,52.3,43.5,237840
+2019/20,Falkirk,"Rate per 1,000 Population (adjusted)",7665,47.6,39.6,216500
+2019/20,Fife,"Rate per 1,000 Population",15655,41.9,43.5,237840
+2019/20,Fife,"Rate per 1,000 Population (adjusted)",15655,41.9,39.6,216500
+2019/20,Glasgow City,"Rate per 1,000 Population",22035,34.8,43.5,237840
+2019/20,Glasgow City,"Rate per 1,000 Population (adjusted)",21695,34.3,39.6,216500
+2019/20,Highland,"Rate per 1,000 Population",8215,34.8,43.5,237840
+2019/20,Highland,"Rate per 1,000 Population (adjusted)",8215,34.8,39.6,216500
+2019/20,Inverclyde,"Rate per 1,000 Population",4745,61,43.5,237840
+2019/20,Inverclyde,"Rate per 1,000 Population (adjusted)",4050,52.1,39.6,216500
+2019/20,Midlothian,"Rate per 1,000 Population",3350,36.2,43.5,237840
+2019/20,Midlothian,"Rate per 1,000 Population (adjusted)",3160,34.2,39.6,216500
+2019/20,Moray,"Rate per 1,000 Population",3580,37.4,43.5,237840
+2019/20,Moray,"Rate per 1,000 Population (adjusted)",3580,37.4,39.6,216500
+2019/20,North Ayrshire,"Rate per 1,000 Population",7210,53.5,43.5,237840
+2019/20,North Ayrshire,"Rate per 1,000 Population (adjusted)",7210,53.5,39.6,216500
+2019/20,North Lanarkshire,"Rate per 1,000 Population",15255,44.7,43.5,237840
+2019/20,North Lanarkshire,"Rate per 1,000 Population (adjusted)",15255,44.7,39.6,216500
+2019/20,Orkney Islands,"Rate per 1,000 Population",1065,47.8,43.5,237840
+2019/20,Orkney Islands,"Rate per 1,000 Population (adjusted)",1000,44.9,39.6,216500
+2019/20,Perth and Kinross,"Rate per 1,000 Population",7395,48.7,43.5,237840
+2019/20,Perth and Kinross,"Rate per 1,000 Population (adjusted)",5660,37.2,39.6,216500
+2019/20,Renfrewshire,"Rate per 1,000 Population",7710,43,43.5,237840
+2019/20,Renfrewshire,"Rate per 1,000 Population (adjusted)",6395,35.7,39.6,216500
+2019/20,Scottish Borders,"Rate per 1,000 Population",4395,38,43.5,237840
+2019/20,Scottish Borders,"Rate per 1,000 Population (adjusted)",3840,33.2,39.6,216500
+2019/20,Shetland Islands,"Rate per 1,000 Population",1440,62.8,43.5,237840
+2019/20,Shetland Islands,"Rate per 1,000 Population (adjusted)",1255,54.8,39.6,216500
+2019/20,South Ayrshire,"Rate per 1,000 Population",3380,30,43.5,237840
+2019/20,South Ayrshire,"Rate per 1,000 Population (adjusted)",2260,20.1,39.6,216500
+2019/20,South Lanarkshire,"Rate per 1,000 Population",10250,32,43.5,237840
+2019/20,South Lanarkshire,"Rate per 1,000 Population (adjusted)",10235,31.9,39.6,216500
+2019/20,Stirling,"Rate per 1,000 Population",3815,40.5,43.5,237840
+2019/20,Stirling,"Rate per 1,000 Population (adjusted)",3695,39.2,39.6,216500
+2019/20,West Dunbartonshire,"Rate per 1,000 Population",4265,48,43.5,237840
+2019/20,West Dunbartonshire,"Rate per 1,000 Population (adjusted)",3400,38.2,39.6,216500
+2019/20,West Lothian,"Rate per 1,000 Population",7365,40.2,43.5,237840
+2019/20,West Lothian,"Rate per 1,000 Population (adjusted)",5965,32.6,39.6,216500
+2020/21,Scotland (Estimated),"Rate per 1,000 Population",235630,43.1,43.1,235630
+2020/21,Scotland (Estimated),"Rate per 1,000 Population (adjusted)",214110,39.2,39.2,214110
+2020/21,Aberdeen City,"Rate per 1,000 Population",10425,45.5,43.1,235630
+2020/21,Aberdeen City,"Rate per 1,000 Population (adjusted)",8875,38.7,39.2,214110
+2020/21,Aberdeenshire,"Rate per 1,000 Population",9430,36.2,43.1,235630
+2020/21,Aberdeenshire,"Rate per 1,000 Population (adjusted)",9475,36.3,39.2,214110
+2020/21,Angus,"Rate per 1,000 Population",6315,54.5,43.1,235630
+2020/21,Angus,"Rate per 1,000 Population (adjusted)",6295,54.4,39.2,214110
+2020/21,Argyll and Bute,"Rate per 1,000 Population",4250,49.7,43.1,235630
+2020/21,Argyll and Bute,"Rate per 1,000 Population (adjusted)",4250,49.7,39.2,214110
+2020/21,City of Edinburgh,"Rate per 1,000 Population",17730,33.6,43.1,235630
+2020/21,City of Edinburgh,"Rate per 1,000 Population (adjusted)",16390,31.1,39.2,214110
+2020/21,Clackmannanshire,"Rate per 1,000 Population",2790,54.4,43.1,235630
+2020/21,Clackmannanshire,"Rate per 1,000 Population (adjusted)",2685,52.3,39.2,214110
+2020/21,Comhairle nan Eilean Siar,"Rate per 1,000 Population",1810,68.3,43.1,235630
+2020/21,Comhairle nan Eilean Siar,"Rate per 1,000 Population (adjusted)",1570,59.2,39.2,214110
+2020/21,Dumfries and Galloway,"Rate per 1,000 Population",7255,48.9,43.1,235630
+2020/21,Dumfries and Galloway,"Rate per 1,000 Population (adjusted)",7255,48.9,39.2,214110
+2020/21,Dundee City,"Rate per 1,000 Population",9460,63.6,43.1,235630
+2020/21,Dundee City,"Rate per 1,000 Population (adjusted)",8550,57.5,39.2,214110
+2020/21,East Ayrshire,"Rate per 1,000 Population",6225,51.2,43.1,235630
+2020/21,East Ayrshire,"Rate per 1,000 Population (adjusted)",5135,42.2,39.2,214110
+2020/21,East Dunbartonshire,"Rate per 1,000 Population",6710,61.7,43.1,235630
+2020/21,East Dunbartonshire,"Rate per 1,000 Population (adjusted)",5850,53.8,39.2,214110
+2020/21,East Lothian,"Rate per 1,000 Population",3545,32.9,43.1,235630
+2020/21,East Lothian,"Rate per 1,000 Population (adjusted)",2775,25.7,39.2,214110
+2020/21,East Renfrewshire,"Rate per 1,000 Population",6065,63.1,43.1,235630
+2020/21,East Renfrewshire,"Rate per 1,000 Population (adjusted)",4250,44.2,39.2,214110
+2020/21,Falkirk,"Rate per 1,000 Population",8030,50,43.1,235630
+2020/21,Falkirk,"Rate per 1,000 Population (adjusted)",7040,43.8,39.2,214110
+2020/21,Fife,"Rate per 1,000 Population",16265,43.5,43.1,235630
+2020/21,Fife,"Rate per 1,000 Population (adjusted)",16265,43.5,39.2,214110
+2020/21,Glasgow City,"Rate per 1,000 Population",21920,34.5,43.1,235630
+2020/21,Glasgow City,"Rate per 1,000 Population (adjusted)",21240,33.4,39.2,214110
+2020/21,Highland,"Rate per 1,000 Population",8145,34.6,43.1,235630
+2020/21,Highland,"Rate per 1,000 Population (adjusted)",8140,34.6,39.2,214110
+2020/21,Inverclyde,"Rate per 1,000 Population",4250,55.2,43.1,235630
+2020/21,Inverclyde,"Rate per 1,000 Population (adjusted)",3870,50.2,39.2,214110
+2020/21,Midlothian,"Rate per 1,000 Population",3565,38.3,43.1,235630
+2020/21,Midlothian,"Rate per 1,000 Population (adjusted)",3540,38,39.2,214110
+2020/21,Moray,"Rate per 1,000 Population",3825,40,43.1,235630
+2020/21,Moray,"Rate per 1,000 Population (adjusted)",3690,38.6,39.2,214110
+2020/21,North Ayrshire,"Rate per 1,000 Population",7510,55.9,43.1,235630
+2020/21,North Ayrshire,"Rate per 1,000 Population (adjusted)",7010,52.2,39.2,214110
+2020/21,North Lanarkshire,"Rate per 1,000 Population",16150,47.3,43.1,235630
+2020/21,North Lanarkshire,"Rate per 1,000 Population (adjusted)",15805,46.3,39.2,214110
+2020/21,Orkney Islands,"Rate per 1,000 Population",1065,47.5,43.1,235630
+2020/21,Orkney Islands,"Rate per 1,000 Population (adjusted)",1000,44.6,39.2,214110
+2020/21,Perth and Kinross,"Rate per 1,000 Population",7385,48.6,43.1,235630
+2020/21,Perth and Kinross,"Rate per 1,000 Population (adjusted)",6980,45.9,39.2,214110
+2020/21,Renfrewshire,"Rate per 1,000 Population",7665,42.7,43.1,235630
+2020/21,Renfrewshire,"Rate per 1,000 Population (adjusted)",6225,34.7,39.2,214110
+2020/21,Scottish Borders,"Rate per 1,000 Population",4055,35.2,43.1,235630
+2020/21,Scottish Borders,"Rate per 1,000 Population (adjusted)",3345,29,39.2,214110
+2020/21,Shetland Islands,"Rate per 1,000 Population",1445,63.2,43.1,235630
+2020/21,Shetland Islands,"Rate per 1,000 Population (adjusted)",1250,54.7,39.2,214110
+2020/21,South Ayrshire,"Rate per 1,000 Population",3510,31.3,43.1,235630
+2020/21,South Ayrshire,"Rate per 1,000 Population (adjusted)",2640,23.5,39.2,214110
+2020/21,South Lanarkshire,"Rate per 1,000 Population",10515,32.8,43.1,235630
+2020/21,South Lanarkshire,"Rate per 1,000 Population (adjusted)",9600,29.9,39.2,214110
+2020/21,Stirling,"Rate per 1,000 Population",3745,39.8,43.1,235630
+2020/21,Stirling,"Rate per 1,000 Population (adjusted)",3620,38.5,39.2,214110
+2020/21,West Dunbartonshire,"Rate per 1,000 Population",4545,51.4,43.1,235630
+2020/21,West Dunbartonshire,"Rate per 1,000 Population (adjusted)",3470,39.3,39.2,214110
+2020/21,West Lothian,"Rate per 1,000 Population",6890,37.5,43.1,235630
+2020/21,West Lothian,"Rate per 1,000 Population (adjusted)",6040,32.9,39.2,214110
+2021/22,Scotland (Estimated),"Rate per 1,000 Population",235995,43.1,43.1,235995
+2021/22,Scotland (Estimated),"Rate per 1,000 Population (adjusted)",219165,40,40,219165
+2021/22,Aberdeen City,"Rate per 1,000 Population",10425,45.8,43.1,235995
+2021/22,Aberdeen City,"Rate per 1,000 Population (adjusted)",8875,39,40,219165
+2021/22,Aberdeenshire,"Rate per 1,000 Population",9875,37.6,43.1,235995
+2021/22,Aberdeenshire,"Rate per 1,000 Population (adjusted)",9815,37.4,40,219165
+2021/22,Angus,"Rate per 1,000 Population",5705,49.1,43.1,235995
+2021/22,Angus,"Rate per 1,000 Population (adjusted)",5705,49.1,40,219165
+2021/22,Argyll and Bute,"Rate per 1,000 Population",4280,49.6,43.1,235995
+2021/22,Argyll and Bute,"Rate per 1,000 Population (adjusted)",4280,49.6,40,219165
+2021/22,City of Edinburgh,"Rate per 1,000 Population",22065,41.9,43.1,235995
+2021/22,City of Edinburgh,"Rate per 1,000 Population (adjusted)",20990,39.9,40,219165
+2021/22,Clackmannanshire,"Rate per 1,000 Population",2710,52.6,43.1,235995
+2021/22,Clackmannanshire,"Rate per 1,000 Population (adjusted)",2710,52.6,40,219165
+2021/22,Comhairle nan Eilean Siar,"Rate per 1,000 Population",2630,98.7,43.1,235995
+2021/22,Comhairle nan Eilean Siar,"Rate per 1,000 Population (adjusted)",1695,63.6,40,219165
+2021/22,Dumfries and Galloway,"Rate per 1,000 Population",7250,48.7,43.1,235995
+2021/22,Dumfries and Galloway,"Rate per 1,000 Population (adjusted)",7245,48.7,40,219165
+2021/22,Dundee City,"Rate per 1,000 Population",9895,67,43.1,235995
+2021/22,Dundee City,"Rate per 1,000 Population (adjusted)",9450,64,40,219165
+2021/22,East Ayrshire,"Rate per 1,000 Population",5870,48.1,43.1,235995
+2021/22,East Ayrshire,"Rate per 1,000 Population (adjusted)",5190,42.5,40,219165
+2021/22,East Dunbartonshire,"Rate per 1,000 Population",7285,66.9,43.1,235995
+2021/22,East Dunbartonshire,"Rate per 1,000 Population (adjusted)",6820,62.6,40,219165
+2021/22,East Lothian,"Rate per 1,000 Population",3530,32.2,43.1,235995
+2021/22,East Lothian,"Rate per 1,000 Population (adjusted)",2420,22.1,40,219165
+2021/22,East Renfrewshire,"Rate per 1,000 Population",6235,64.6,43.1,235995
+2021/22,East Renfrewshire,"Rate per 1,000 Population (adjusted)",4435,45.9,40,219165
+2021/22,Falkirk,"Rate per 1,000 Population",7795,48.5,43.1,235995
+2021/22,Falkirk,"Rate per 1,000 Population (adjusted)",7210,44.9,40,219165
+2021/22,Fife,"Rate per 1,000 Population",16230,43.3,43.1,235995
+2021/22,Fife,"Rate per 1,000 Population (adjusted)",16230,43.3,40,219165
+2021/22,Glasgow City,"Rate per 1,000 Population",22050,34.7,43.1,235995
+2021/22,Glasgow City,"Rate per 1,000 Population (adjusted)",21150,33.3,40,219165
+2021/22,Highland,"Rate per 1,000 Population",8825,37.1,43.1,235995
+2021/22,Highland,"Rate per 1,000 Population (adjusted)",8665,36.4,40,219165
+2021/22,Inverclyde,"Rate per 1,000 Population",4170,54.4,43.1,235995
+2021/22,Inverclyde,"Rate per 1,000 Population (adjusted)",3620,47.2,40,219165
+2021/22,Midlothian,"Rate per 1,000 Population",3610,38.1,43.1,235995
+2021/22,Midlothian,"Rate per 1,000 Population (adjusted)",3550,37.5,40,219165
+2021/22,Moray,"Rate per 1,000 Population",3885,40.3,43.1,235995
+2021/22,Moray,"Rate per 1,000 Population (adjusted)",3880,40.2,40,219165
+2021/22,North Ayrshire,"Rate per 1,000 Population",7460,55.6,43.1,235995
+2021/22,North Ayrshire,"Rate per 1,000 Population (adjusted)",7240,53.9,40,219165
+2021/22,North Lanarkshire,"Rate per 1,000 Population",14075,41.2,43.1,235995
+2021/22,North Lanarkshire,"Rate per 1,000 Population (adjusted)",14065,41.2,40,219165
+2021/22,Orkney Islands,"Rate per 1,000 Population",1130,50.1,43.1,235995
+2021/22,Orkney Islands,"Rate per 1,000 Population (adjusted)",1025,45.5,40,219165
+2021/22,Perth and Kinross,"Rate per 1,000 Population",7715,50.2,43.1,235995
+2021/22,Perth and Kinross,"Rate per 1,000 Population (adjusted)",6735,43.8,40,219165
+2021/22,Renfrewshire,"Rate per 1,000 Population",5510,30.6,43.1,235995
+2021/22,Renfrewshire,"Rate per 1,000 Population (adjusted)",3555,19.8,40,219165
+2021/22,Scottish Borders,"Rate per 1,000 Population",4505,38.8,43.1,235995
+2021/22,Scottish Borders,"Rate per 1,000 Population (adjusted)",3530,30.4,40,219165
+2021/22,Shetland Islands,"Rate per 1,000 Population",1545,67.3,43.1,235995
+2021/22,Shetland Islands,"Rate per 1,000 Population (adjusted)",1360,59.3,40,219165
+2021/22,South Ayrshire,"Rate per 1,000 Population",3825,34,43.1,235995
+2021/22,South Ayrshire,"Rate per 1,000 Population (adjusted)",3825,34,40,219165
+2021/22,South Lanarkshire,"Rate per 1,000 Population",11020,34.2,43.1,235995
+2021/22,South Lanarkshire,"Rate per 1,000 Population (adjusted)",8395,26,40,219165
+2021/22,Stirling,"Rate per 1,000 Population",3635,38.9,43.1,235995
+2021/22,Stirling,"Rate per 1,000 Population (adjusted)",3480,37.2,40,219165
+2021/22,West Dunbartonshire,"Rate per 1,000 Population",4335,49.4,43.1,235995
+2021/22,West Dunbartonshire,"Rate per 1,000 Population (adjusted)",3655,41.6,40,219165
+2021/22,West Lothian,"Rate per 1,000 Population",6920,37.3,43.1,235995
+2021/22,West Lothian,"Rate per 1,000 Population (adjusted)",5985,32.3,40,219165

@@ -1,0 +1,1401 @@
+financial_year,sending_location,age_group,measure,rate,nclient
+2017/18,Scotland (All Areas Submitted),All Ages,"Rate per 1,000 Social Care Clients",39.8,8115
+2017/18,Scotland (All Areas Submitted),All Ages,"Rate per 1,000 Social Care Clients (adjusted)",42.9,8115
+2017/18,Scotland (All Areas Submitted),0-17 years,"Rate per 1,000 Social Care Clients",1.7,5
+2017/18,Scotland (All Areas Submitted),0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",1.9,5
+2017/18,Scotland (All Areas Submitted),18-64 years,"Rate per 1,000 Social Care Clients",16.3,700
+2017/18,Scotland (All Areas Submitted),18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",17.3,700
+2017/18,Scotland (All Areas Submitted),65-74 years,"Rate per 1,000 Social Care Clients",36.1,1090
+2017/18,Scotland (All Areas Submitted),65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",38.3,1090
+2017/18,Scotland (All Areas Submitted),75-84 years,"Rate per 1,000 Social Care Clients",43.1,2680
+2017/18,Scotland (All Areas Submitted),75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",46.1,2680
+2017/18,Scotland (All Areas Submitted),85+ years,"Rate per 1,000 Social Care Clients",55.6,3630
+2017/18,Scotland (All Areas Submitted),85+ years,"Rate per 1,000 Social Care Clients (adjusted)",61.3,3645
+2017/18,Scotland (All Areas Submitted),Unknown,"Rate per 1,000 Social Care Clients",46.4,15
+2017/18,Scotland (All Areas Submitted),Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Scotland (All Areas Submitted),All Ages,"Rate per 1,000 Social Care Clients",24.8,5965
+2018/19,Scotland (All Areas Submitted),All Ages,"Rate per 1,000 Social Care Clients (adjusted)",27,5965
+2018/19,Scotland (All Areas Submitted),0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Scotland (All Areas Submitted),0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Scotland (All Areas Submitted),18-64 years,"Rate per 1,000 Social Care Clients",10.4,535
+2018/19,Scotland (All Areas Submitted),18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",11.2,535
+2018/19,Scotland (All Areas Submitted),65-74 years,"Rate per 1,000 Social Care Clients",25.8,920
+2018/19,Scotland (All Areas Submitted),65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",27.5,920
+2018/19,Scotland (All Areas Submitted),75-84 years,"Rate per 1,000 Social Care Clients",27.9,2030
+2018/19,Scotland (All Areas Submitted),75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",30.1,2030
+2018/19,Scotland (All Areas Submitted),85+ years,"Rate per 1,000 Social Care Clients",31.9,2460
+2018/19,Scotland (All Areas Submitted),85+ years,"Rate per 1,000 Social Care Clients (adjusted)",35.9,2480
+2018/19,Scotland (All Areas Submitted),Unknown,"Rate per 1,000 Social Care Clients",77.8,20
+2018/19,Scotland (All Areas Submitted),Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Scotland (All Areas Submitted),All Ages,"Rate per 1,000 Social Care Clients",28.5,6430
+2019/20,Scotland (All Areas Submitted),All Ages,"Rate per 1,000 Social Care Clients (adjusted)",31.2,6430
+2019/20,Scotland (All Areas Submitted),0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Scotland (All Areas Submitted),0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Scotland (All Areas Submitted),18-64 years,"Rate per 1,000 Social Care Clients",11.2,535
+2019/20,Scotland (All Areas Submitted),18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",11.9,535
+2019/20,Scotland (All Areas Submitted),65-74 years,"Rate per 1,000 Social Care Clients",28.1,930
+2019/20,Scotland (All Areas Submitted),65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",30.2,930
+2019/20,Scotland (All Areas Submitted),75-84 years,"Rate per 1,000 Social Care Clients",32.3,2200
+2019/20,Scotland (All Areas Submitted),75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",35.1,2200
+2019/20,Scotland (All Areas Submitted),85+ years,"Rate per 1,000 Social Care Clients",37.5,2760
+2019/20,Scotland (All Areas Submitted),85+ years,"Rate per 1,000 Social Care Clients (adjusted)",42.6,2770
+2019/20,Scotland (All Areas Submitted),Unknown,"Rate per 1,000 Social Care Clients",35.2,10
+2019/20,Scotland (All Areas Submitted),Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Scotland (All Areas Submitted),All Ages,"Rate per 1,000 Social Care Clients",25.4,5650
+2020/21,Scotland (All Areas Submitted),All Ages,"Rate per 1,000 Social Care Clients (adjusted)",28.9,5650
+2020/21,Scotland (All Areas Submitted),0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Scotland (All Areas Submitted),0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Scotland (All Areas Submitted),18-64 years,"Rate per 1,000 Social Care Clients",11.4,550
+2020/21,Scotland (All Areas Submitted),18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",12.9,550
+2020/21,Scotland (All Areas Submitted),65-74 years,"Rate per 1,000 Social Care Clients",25.4,810
+2020/21,Scotland (All Areas Submitted),65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",28.1,810
+2020/21,Scotland (All Areas Submitted),75-84 years,"Rate per 1,000 Social Care Clients",28.7,1870
+2020/21,Scotland (All Areas Submitted),75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",32.2,1870
+2020/21,Scotland (All Areas Submitted),85+ years,"Rate per 1,000 Social Care Clients",32.9,2420
+2020/21,Scotland (All Areas Submitted),85+ years,"Rate per 1,000 Social Care Clients (adjusted)",38.4,2420
+2020/21,Scotland (All Areas Submitted),Unknown,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Scotland (All Areas Submitted),Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Scotland (All Areas Submitted),All Ages,"Rate per 1,000 Social Care Clients",25.3,5625
+2021/22,Scotland (All Areas Submitted),All Ages,"Rate per 1,000 Social Care Clients (adjusted)",27.4,5625
+2021/22,Scotland (All Areas Submitted),0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Scotland (All Areas Submitted),0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Scotland (All Areas Submitted),18-64 years,"Rate per 1,000 Social Care Clients",10.1,535
+2021/22,Scotland (All Areas Submitted),18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",10.9,535
+2021/22,Scotland (All Areas Submitted),65-74 years,"Rate per 1,000 Social Care Clients",26.4,835
+2021/22,Scotland (All Areas Submitted),65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",28.2,835
+2021/22,Scotland (All Areas Submitted),75-84 years,"Rate per 1,000 Social Care Clients",29.7,1860
+2021/22,Scotland (All Areas Submitted),75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",32,1860
+2021/22,Scotland (All Areas Submitted),85+ years,"Rate per 1,000 Social Care Clients",33.9,2395
+2021/22,Scotland (All Areas Submitted),85+ years,"Rate per 1,000 Social Care Clients (adjusted)",37.3,2395
+2021/22,Scotland (All Areas Submitted),Unknown,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Scotland (All Areas Submitted),Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Aberdeen City,All Ages,"Rate per 1,000 Social Care Clients",37.4,395
+2017/18,Aberdeen City,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",38.2,395
+2017/18,Aberdeen City,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Aberdeen City,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Aberdeen City,18-64 years,"Rate per 1,000 Social Care Clients",11.1,35
+2017/18,Aberdeen City,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",11.6,35
+2017/18,Aberdeen City,65-74 years,"Rate per 1,000 Social Care Clients",48.4,70
+2017/18,Aberdeen City,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",48.6,70
+2017/18,Aberdeen City,75-84 years,"Rate per 1,000 Social Care Clients",44,115
+2017/18,Aberdeen City,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",44.2,115
+2017/18,Aberdeen City,85+ years,"Rate per 1,000 Social Care Clients",57.4,175
+2017/18,Aberdeen City,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",57.8,175
+2017/18,Aberdeen City,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Aberdeen City,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Aberdeen City,All Ages,"Rate per 1,000 Social Care Clients",29.7,310
+2018/19,Aberdeen City,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",34.9,310
+2018/19,Aberdeen City,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Aberdeen City,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Aberdeen City,18-64 years,"Rate per 1,000 Social Care Clients",9.8,30
+2018/19,Aberdeen City,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",11.8,30
+2018/19,Aberdeen City,65-74 years,"Rate per 1,000 Social Care Clients",33.5,50
+2018/19,Aberdeen City,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",37.8,50
+2018/19,Aberdeen City,75-84 years,"Rate per 1,000 Social Care Clients",35.9,90
+2018/19,Aberdeen City,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",41.2,90
+2018/19,Aberdeen City,85+ years,"Rate per 1,000 Social Care Clients",45.5,135
+2018/19,Aberdeen City,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",53.4,135
+2018/19,Aberdeen City,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Aberdeen City,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Aberdeenshire,All Ages,"Rate per 1,000 Social Care Clients",5.5,50
+2017/18,Aberdeenshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",5.5,50
+2017/18,Aberdeenshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Aberdeenshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Aberdeenshire,18-64 years,"Rate per 1,000 Social Care Clients",2.9,5
+2017/18,Aberdeenshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",3,5
+2017/18,Aberdeenshire,65-74 years,"Rate per 1,000 Social Care Clients",7.6,10
+2017/18,Aberdeenshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",7.6,10
+2017/18,Aberdeenshire,75-84 years,"Rate per 1,000 Social Care Clients",5.3,15
+2017/18,Aberdeenshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",5.3,15
+2017/18,Aberdeenshire,85+ years,"Rate per 1,000 Social Care Clients",7.8,25
+2017/18,Aberdeenshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",7.9,25
+2017/18,Aberdeenshire,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Aberdeenshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Aberdeenshire,All Ages,"Rate per 1,000 Social Care Clients",3,35
+2018/19,Aberdeenshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",3.1,35
+2018/19,Aberdeenshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Aberdeenshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Aberdeenshire,18-64 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Aberdeenshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Aberdeenshire,65-74 years,"Rate per 1,000 Social Care Clients",3.1,5
+2018/19,Aberdeenshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",3.1,5
+2018/19,Aberdeenshire,75-84 years,"Rate per 1,000 Social Care Clients",3.1,10
+2018/19,Aberdeenshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",3.1,10
+2018/19,Aberdeenshire,85+ years,"Rate per 1,000 Social Care Clients",5.5,20
+2018/19,Aberdeenshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",5.6,20
+2018/19,Aberdeenshire,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Aberdeenshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Aberdeenshire,All Ages,"Rate per 1,000 Social Care Clients",2,25
+2019/20,Aberdeenshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",2,25
+2019/20,Aberdeenshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Aberdeenshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Aberdeenshire,18-64 years,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Aberdeenshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Aberdeenshire,65-74 years,"Rate per 1,000 Social Care Clients",2.7,5
+2019/20,Aberdeenshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",2.7,5
+2019/20,Aberdeenshire,75-84 years,"Rate per 1,000 Social Care Clients",1.4,5
+2019/20,Aberdeenshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",1.4,5
+2019/20,Aberdeenshire,85+ years,"Rate per 1,000 Social Care Clients",4,15
+2019/20,Aberdeenshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",4,15
+2019/20,Aberdeenshire,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Aberdeenshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Aberdeenshire,All Ages,"Rate per 1,000 Social Care Clients",2.2,20
+2020/21,Aberdeenshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",2.2,20
+2020/21,Aberdeenshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Aberdeenshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Aberdeenshire,18-64 years,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Aberdeenshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Aberdeenshire,65-74 years,"Rate per 1,000 Social Care Clients",3.7,5
+2020/21,Aberdeenshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",3.8,5
+2020/21,Aberdeenshire,75-84 years,"Rate per 1,000 Social Care Clients",1.8,5
+2020/21,Aberdeenshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",1.8,5
+2020/21,Aberdeenshire,85+ years,"Rate per 1,000 Social Care Clients",2.9,10
+2020/21,Aberdeenshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",3,10
+2020/21,Aberdeenshire,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Aberdeenshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Aberdeenshire,All Ages,"Rate per 1,000 Social Care Clients",1.5,15
+2021/22,Aberdeenshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",1.5,15
+2021/22,Aberdeenshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Aberdeenshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Aberdeenshire,18-64 years,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Aberdeenshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Aberdeenshire,65-74 years,"Rate per 1,000 Social Care Clients",3.6,5
+2021/22,Aberdeenshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",3.7,5
+2021/22,Aberdeenshire,75-84 years,"Rate per 1,000 Social Care Clients",1.8,5
+2021/22,Aberdeenshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",1.8,5
+2021/22,Aberdeenshire,85+ years,"Rate per 1,000 Social Care Clients",2.9,10
+2021/22,Aberdeenshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",2.9,10
+2021/22,Aberdeenshire,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Aberdeenshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Angus,All Ages,"Rate per 1,000 Social Care Clients",148.2,865
+2017/18,Angus,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",148.2,865
+2017/18,Angus,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Angus,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Angus,18-64 years,"Rate per 1,000 Social Care Clients",108.5,105
+2017/18,Angus,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",108.5,105
+2017/18,Angus,65-74 years,"Rate per 1,000 Social Care Clients",110.5,85
+2017/18,Angus,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",110.5,85
+2017/18,Angus,75-84 years,"Rate per 1,000 Social Care Clients",148.4,270
+2017/18,Angus,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",148.4,270
+2017/18,Angus,85+ years,"Rate per 1,000 Social Care Clients",177.5,400
+2017/18,Angus,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",177.4,400
+2017/18,Angus,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Angus,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Angus,All Ages,"Rate per 1,000 Social Care Clients",98.4,635
+2018/19,Angus,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",98.4,635
+2018/19,Angus,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Angus,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Angus,18-64 years,"Rate per 1,000 Social Care Clients",76.4,80
+2018/19,Angus,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",76.4,80
+2018/19,Angus,65-74 years,"Rate per 1,000 Social Care Clients",70,60
+2018/19,Angus,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",70,60
+2018/19,Angus,75-84 years,"Rate per 1,000 Social Care Clients",106.9,215
+2018/19,Angus,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",106.9,215
+2018/19,Angus,85+ years,"Rate per 1,000 Social Care Clients",111,280
+2018/19,Angus,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",111,280
+2018/19,Angus,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Angus,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Angus,All Ages,"Rate per 1,000 Social Care Clients",109.7,665
+2019/20,Angus,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",109.7,665
+2019/20,Angus,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Angus,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Angus,18-64 years,"Rate per 1,000 Social Care Clients",43,45
+2019/20,Angus,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",43,45
+2019/20,Angus,65-74 years,"Rate per 1,000 Social Care Clients",82.2,70
+2019/20,Angus,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",82.3,70
+2019/20,Angus,75-84 years,"Rate per 1,000 Social Care Clients",121.1,235
+2019/20,Angus,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",121.1,235
+2019/20,Angus,85+ years,"Rate per 1,000 Social Care Clients",142.7,315
+2019/20,Angus,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",142.5,315
+2019/20,Angus,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Angus,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Angus,All Ages,"Rate per 1,000 Social Care Clients",76,480
+2020/21,Angus,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",76.3,480
+2020/21,Angus,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Angus,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Angus,18-64 years,"Rate per 1,000 Social Care Clients",22.1,25
+2020/21,Angus,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",22.4,25
+2020/21,Angus,65-74 years,"Rate per 1,000 Social Care Clients",62.9,55
+2020/21,Angus,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",63.2,55
+2020/21,Angus,75-84 years,"Rate per 1,000 Social Care Clients",79.3,155
+2020/21,Angus,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",79.3,155
+2020/21,Angus,85+ years,"Rate per 1,000 Social Care Clients",105.2,245
+2020/21,Angus,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",105.2,245
+2020/21,Angus,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Angus,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Angus,All Ages,"Rate per 1,000 Social Care Clients",73.6,420
+2021/22,Angus,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",73.6,420
+2021/22,Angus,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Angus,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Angus,18-64 years,"Rate per 1,000 Social Care Clients",20.8,20
+2021/22,Angus,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",20.8,20
+2021/22,Angus,65-74 years,"Rate per 1,000 Social Care Clients",67.1,50
+2021/22,Angus,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",67.1,50
+2021/22,Angus,75-84 years,"Rate per 1,000 Social Care Clients",71.4,130
+2021/22,Angus,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",71.4,130
+2021/22,Angus,85+ years,"Rate per 1,000 Social Care Clients",99.3,215
+2021/22,Angus,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",99.3,215
+2021/22,Angus,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Angus,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Clackmannanshire,All Ages,"Rate per 1,000 Social Care Clients",39.7,110
+2017/18,Clackmannanshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",39.7,110
+2017/18,Clackmannanshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Clackmannanshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Clackmannanshire,18-64 years,"Rate per 1,000 Social Care Clients",7.9,5
+2017/18,Clackmannanshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",7.9,5
+2017/18,Clackmannanshire,65-74 years,"Rate per 1,000 Social Care Clients",31.1,15
+2017/18,Clackmannanshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",31.1,15
+2017/18,Clackmannanshire,75-84 years,"Rate per 1,000 Social Care Clients",44.6,40
+2017/18,Clackmannanshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",44.6,40
+2017/18,Clackmannanshire,85+ years,"Rate per 1,000 Social Care Clients",66.7,50
+2017/18,Clackmannanshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",66.7,50
+2017/18,Clackmannanshire,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Clackmannanshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Clackmannanshire,All Ages,"Rate per 1,000 Social Care Clients",7.6,20
+2018/19,Clackmannanshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",7.6,20
+2018/19,Clackmannanshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Clackmannanshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Clackmannanshire,18-64 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Clackmannanshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Clackmannanshire,65-74 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Clackmannanshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Clackmannanshire,75-84 years,"Rate per 1,000 Social Care Clients",11.1,10
+2018/19,Clackmannanshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",11.1,10
+2018/19,Clackmannanshire,85+ years,"Rate per 1,000 Social Care Clients",14.4,10
+2018/19,Clackmannanshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",14.4,10
+2018/19,Clackmannanshire,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Clackmannanshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Dumfries and Galloway,All Ages,"Rate per 1,000 Social Care Clients",38.2,270
+2017/18,Dumfries and Galloway,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",38.2,270
+2017/18,Dumfries and Galloway,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Dumfries and Galloway,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Dumfries and Galloway,18-64 years,"Rate per 1,000 Social Care Clients",8.4,10
+2017/18,Dumfries and Galloway,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",8.4,10
+2017/18,Dumfries and Galloway,65-74 years,"Rate per 1,000 Social Care Clients",34.1,30
+2017/18,Dumfries and Galloway,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",34.1,30
+2017/18,Dumfries and Galloway,75-84 years,"Rate per 1,000 Social Care Clients",45.7,100
+2017/18,Dumfries and Galloway,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",45.7,100
+2017/18,Dumfries and Galloway,85+ years,"Rate per 1,000 Social Care Clients",48.1,130
+2017/18,Dumfries and Galloway,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",48.1,130
+2017/18,Dumfries and Galloway,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Dumfries and Galloway,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Dumfries and Galloway,All Ages,"Rate per 1,000 Social Care Clients",26.3,185
+2018/19,Dumfries and Galloway,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",26.3,185
+2018/19,Dumfries and Galloway,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Dumfries and Galloway,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Dumfries and Galloway,18-64 years,"Rate per 1,000 Social Care Clients",8.5,10
+2018/19,Dumfries and Galloway,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",8.5,10
+2018/19,Dumfries and Galloway,65-74 years,"Rate per 1,000 Social Care Clients",22.8,20
+2018/19,Dumfries and Galloway,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",22.8,20
+2018/19,Dumfries and Galloway,75-84 years,"Rate per 1,000 Social Care Clients",27.1,60
+2018/19,Dumfries and Galloway,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",27.1,60
+2018/19,Dumfries and Galloway,85+ years,"Rate per 1,000 Social Care Clients",35.6,95
+2018/19,Dumfries and Galloway,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",35.6,95
+2018/19,Dumfries and Galloway,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Dumfries and Galloway,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Dundee City,All Ages,"Rate per 1,000 Social Care Clients",70.1,770
+2017/18,Dundee City,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",70.6,770
+2017/18,Dundee City,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Dundee City,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Dundee City,18-64 years,"Rate per 1,000 Social Care Clients",14.4,45
+2017/18,Dundee City,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",14.6,45
+2017/18,Dundee City,65-74 years,"Rate per 1,000 Social Care Clients",62.8,130
+2017/18,Dundee City,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",63.3,130
+2017/18,Dundee City,75-84 years,"Rate per 1,000 Social Care Clients",83.5,255
+2017/18,Dundee City,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",83.9,255
+2017/18,Dundee City,85+ years,"Rate per 1,000 Social Care Clients",125.3,340
+2017/18,Dundee City,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",125.6,340
+2017/18,Dundee City,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Dundee City,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Dundee City,All Ages,"Rate per 1,000 Social Care Clients",59.8,680
+2018/19,Dundee City,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",60.5,680
+2018/19,Dundee City,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Dundee City,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Dundee City,18-64 years,"Rate per 1,000 Social Care Clients",16.5,55
+2018/19,Dundee City,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",16.7,55
+2018/19,Dundee City,65-74 years,"Rate per 1,000 Social Care Clients",55.2,120
+2018/19,Dundee City,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",55.8,120
+2018/19,Dundee City,75-84 years,"Rate per 1,000 Social Care Clients",73.7,230
+2018/19,Dundee City,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",74.7,230
+2018/19,Dundee City,85+ years,"Rate per 1,000 Social Care Clients",102.8,275
+2018/19,Dundee City,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",104.2,275
+2018/19,Dundee City,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Dundee City,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Dundee City,All Ages,"Rate per 1,000 Social Care Clients",62.4,690
+2019/20,Dundee City,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",62.6,690
+2019/20,Dundee City,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Dundee City,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Dundee City,18-64 years,"Rate per 1,000 Social Care Clients",18.2,60
+2019/20,Dundee City,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",18.2,60
+2019/20,Dundee City,65-74 years,"Rate per 1,000 Social Care Clients",52.7,105
+2019/20,Dundee City,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",52.8,105
+2019/20,Dundee City,75-84 years,"Rate per 1,000 Social Care Clients",79.3,235
+2019/20,Dundee City,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",79.6,235
+2019/20,Dundee City,85+ years,"Rate per 1,000 Social Care Clients",104.7,285
+2019/20,Dundee City,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",105.1,285
+2019/20,Dundee City,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Dundee City,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Dundee City,All Ages,"Rate per 1,000 Social Care Clients",64,605
+2020/21,Dundee City,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",70.8,605
+2020/21,Dundee City,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Dundee City,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Dundee City,18-64 years,"Rate per 1,000 Social Care Clients",22.8,60
+2020/21,Dundee City,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",25.9,60
+2020/21,Dundee City,65-74 years,"Rate per 1,000 Social Care Clients",58.5,95
+2020/21,Dundee City,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",61.3,95
+2020/21,Dundee City,75-84 years,"Rate per 1,000 Social Care Clients",76.3,190
+2020/21,Dundee City,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",82.4,190
+2020/21,Dundee City,85+ years,"Rate per 1,000 Social Care Clients",100.2,260
+2020/21,Dundee City,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",113.8,260
+2020/21,Dundee City,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Dundee City,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Dundee City,All Ages,"Rate per 1,000 Social Care Clients",60.1,595
+2021/22,Dundee City,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",63,595
+2021/22,Dundee City,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Dundee City,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Dundee City,18-64 years,"Rate per 1,000 Social Care Clients",19.8,55
+2021/22,Dundee City,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",22.6,55
+2021/22,Dundee City,65-74 years,"Rate per 1,000 Social Care Clients",66.7,115
+2021/22,Dundee City,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",67.4,115
+2021/22,Dundee City,75-84 years,"Rate per 1,000 Social Care Clients",76,195
+2021/22,Dundee City,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",76.6,195
+2021/22,Dundee City,85+ years,"Rate per 1,000 Social Care Clients",85.2,230
+2021/22,Dundee City,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",85.8,230
+2021/22,Dundee City,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Dundee City,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,East Ayrshire,All Ages,"Rate per 1,000 Social Care Clients",37.8,195
+2017/18,East Ayrshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",38.3,195
+2017/18,East Ayrshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2017/18,East Ayrshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,East Ayrshire,18-64 years,"Rate per 1,000 Social Care Clients",27,25
+2017/18,East Ayrshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",27.3,25
+2017/18,East Ayrshire,65-74 years,"Rate per 1,000 Social Care Clients",33.1,25
+2017/18,East Ayrshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",33.6,25
+2017/18,East Ayrshire,75-84 years,"Rate per 1,000 Social Care Clients",44.5,80
+2017/18,East Ayrshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",45,80
+2017/18,East Ayrshire,85+ years,"Rate per 1,000 Social Care Clients",41.1,65
+2017/18,East Ayrshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",41.7,65
+2017/18,East Ayrshire,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2017/18,East Ayrshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,East Ayrshire,All Ages,"Rate per 1,000 Social Care Clients",42.4,255
+2018/19,East Ayrshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",43.7,255
+2018/19,East Ayrshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,East Ayrshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,East Ayrshire,18-64 years,"Rate per 1,000 Social Care Clients",26.1,25
+2018/19,East Ayrshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",26.9,25
+2018/19,East Ayrshire,65-74 years,"Rate per 1,000 Social Care Clients",38.6,35
+2018/19,East Ayrshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",40.3,35
+2018/19,East Ayrshire,75-84 years,"Rate per 1,000 Social Care Clients",47,100
+2018/19,East Ayrshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",48.4,100
+2018/19,East Ayrshire,85+ years,"Rate per 1,000 Social Care Clients",47.5,90
+2018/19,East Ayrshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",48.6,90
+2018/19,East Ayrshire,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2018/19,East Ayrshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,East Ayrshire,All Ages,"Rate per 1,000 Social Care Clients",43,255
+2019/20,East Ayrshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",44.6,255
+2019/20,East Ayrshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2019/20,East Ayrshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,East Ayrshire,18-64 years,"Rate per 1,000 Social Care Clients",26.5,25
+2019/20,East Ayrshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",27.2,25
+2019/20,East Ayrshire,65-74 years,"Rate per 1,000 Social Care Clients",45.1,40
+2019/20,East Ayrshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",48.3,40
+2019/20,East Ayrshire,75-84 years,"Rate per 1,000 Social Care Clients",50.2,105
+2019/20,East Ayrshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",52.4,105
+2019/20,East Ayrshire,85+ years,"Rate per 1,000 Social Care Clients",44.9,85
+2019/20,East Ayrshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",45.9,85
+2019/20,East Ayrshire,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2019/20,East Ayrshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,East Dunbartonshire,All Ages,"Rate per 1,000 Social Care Clients",11.4,70
+2017/18,East Dunbartonshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",11.4,70
+2017/18,East Dunbartonshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2017/18,East Dunbartonshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,East Dunbartonshire,18-64 years,"Rate per 1,000 Social Care Clients",6,10
+2017/18,East Dunbartonshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",6,10
+2017/18,East Dunbartonshire,65-74 years,"Rate per 1,000 Social Care Clients",6.8,5
+2017/18,East Dunbartonshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",6.8,5
+2017/18,East Dunbartonshire,75-84 years,"Rate per 1,000 Social Care Clients",14.3,25
+2017/18,East Dunbartonshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",14.3,25
+2017/18,East Dunbartonshire,85+ years,"Rate per 1,000 Social Care Clients",13.8,25
+2017/18,East Dunbartonshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",13.8,25
+2017/18,East Dunbartonshire,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2017/18,East Dunbartonshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,East Lothian,All Ages,"Rate per 1,000 Social Care Clients",67.5,255
+2017/18,East Lothian,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",76.3,255
+2017/18,East Lothian,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2017/18,East Lothian,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,East Lothian,18-64 years,"Rate per 1,000 Social Care Clients",20.6,20
+2017/18,East Lothian,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",22.4,20
+2017/18,East Lothian,65-74 years,"Rate per 1,000 Social Care Clients",75.5,40
+2017/18,East Lothian,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",82.3,40
+2017/18,East Lothian,75-84 years,"Rate per 1,000 Social Care Clients",75.2,80
+2017/18,East Lothian,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",84.4,80
+2017/18,East Lothian,85+ years,"Rate per 1,000 Social Care Clients",93.5,110
+2017/18,East Lothian,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",112.8,110
+2017/18,East Lothian,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2017/18,East Lothian,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,East Lothian,All Ages,"Rate per 1,000 Social Care Clients",63.6,220
+2018/19,East Lothian,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",80.1,220
+2018/19,East Lothian,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,East Lothian,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,East Lothian,18-64 years,"Rate per 1,000 Social Care Clients",19.1,15
+2018/19,East Lothian,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",21.9,15
+2018/19,East Lothian,65-74 years,"Rate per 1,000 Social Care Clients",78.8,35
+2018/19,East Lothian,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",93.3,35
+2018/19,East Lothian,75-84 years,"Rate per 1,000 Social Care Clients",80,80
+2018/19,East Lothian,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",100,80
+2018/19,East Lothian,85+ years,"Rate per 1,000 Social Care Clients",73.8,90
+2018/19,East Lothian,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",102.9,90
+2018/19,East Lothian,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2018/19,East Lothian,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,East Lothian,All Ages,"Rate per 1,000 Social Care Clients",72,255
+2019/20,East Lothian,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",91.9,255
+2019/20,East Lothian,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2019/20,East Lothian,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,East Lothian,18-64 years,"Rate per 1,000 Social Care Clients",24.6,20
+2019/20,East Lothian,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",29.4,20
+2019/20,East Lothian,65-74 years,"Rate per 1,000 Social Care Clients",105.6,45
+2019/20,East Lothian,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",126.4,45
+2019/20,East Lothian,75-84 years,"Rate per 1,000 Social Care Clients",89.3,90
+2019/20,East Lothian,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",110.2,90
+2019/20,East Lothian,85+ years,"Rate per 1,000 Social Care Clients",81.5,105
+2019/20,East Lothian,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",114.9,105
+2019/20,East Lothian,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2019/20,East Lothian,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,East Lothian,All Ages,"Rate per 1,000 Social Care Clients",68.4,205
+2021/22,East Lothian,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",102,205
+2021/22,East Lothian,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2021/22,East Lothian,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,East Lothian,18-64 years,"Rate per 1,000 Social Care Clients",25.8,20
+2021/22,East Lothian,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",29.4,20
+2021/22,East Lothian,65-74 years,"Rate per 1,000 Social Care Clients",121.6,45
+2021/22,East Lothian,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",176.5,45
+2021/22,East Lothian,75-84 years,"Rate per 1,000 Social Care Clients",94.6,70
+2021/22,East Lothian,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",152.2,70
+2021/22,East Lothian,85+ years,"Rate per 1,000 Social Care Clients",64.5,70
+2021/22,East Lothian,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",117.6,70
+2021/22,East Lothian,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2021/22,East Lothian,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Falkirk,All Ages,"Rate per 1,000 Social Care Clients",20.4,165
+2017/18,Falkirk,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",22.4,165
+2017/18,Falkirk,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Falkirk,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Falkirk,18-64 years,"Rate per 1,000 Social Care Clients",8,15
+2017/18,Falkirk,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",8.4,15
+2017/18,Falkirk,65-74 years,"Rate per 1,000 Social Care Clients",15.2,20
+2017/18,Falkirk,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",16.4,20
+2017/18,Falkirk,75-84 years,"Rate per 1,000 Social Care Clients",21.7,55
+2017/18,Falkirk,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",23.8,55
+2017/18,Falkirk,85+ years,"Rate per 1,000 Social Care Clients",35.3,75
+2017/18,Falkirk,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",41.2,75
+2017/18,Falkirk,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Falkirk,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Falkirk,All Ages,"Rate per 1,000 Social Care Clients",14.9,120
+2018/19,Falkirk,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",16.7,120
+2018/19,Falkirk,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Falkirk,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Falkirk,18-64 years,"Rate per 1,000 Social Care Clients",8.1,15
+2018/19,Falkirk,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",8.6,15
+2018/19,Falkirk,65-74 years,"Rate per 1,000 Social Care Clients",11.6,15
+2018/19,Falkirk,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",12.7,15
+2018/19,Falkirk,75-84 years,"Rate per 1,000 Social Care Clients",13.7,35
+2018/19,Falkirk,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",15.4,35
+2018/19,Falkirk,85+ years,"Rate per 1,000 Social Care Clients",21.7,50
+2018/19,Falkirk,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",26.4,50
+2018/19,Falkirk,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Falkirk,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Falkirk,All Ages,"Rate per 1,000 Social Care Clients",13.1,110
+2019/20,Falkirk,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",14.3,110
+2019/20,Falkirk,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Falkirk,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Falkirk,18-64 years,"Rate per 1,000 Social Care Clients",5.1,10
+2019/20,Falkirk,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",5.4,10
+2019/20,Falkirk,65-74 years,"Rate per 1,000 Social Care Clients",11.3,15
+2019/20,Falkirk,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",12.2,15
+2019/20,Falkirk,75-84 years,"Rate per 1,000 Social Care Clients",13.1,35
+2019/20,Falkirk,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",14.4,35
+2019/20,Falkirk,85+ years,"Rate per 1,000 Social Care Clients",18.7,45
+2019/20,Falkirk,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",21.6,45
+2019/20,Falkirk,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Falkirk,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Falkirk,All Ages,"Rate per 1,000 Social Care Clients",8.1,65
+2020/21,Falkirk,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",9.2,65
+2020/21,Falkirk,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Falkirk,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Falkirk,18-64 years,"Rate per 1,000 Social Care Clients",5.3,10
+2020/21,Falkirk,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",6.2,10
+2020/21,Falkirk,65-74 years,"Rate per 1,000 Social Care Clients",4,5
+2020/21,Falkirk,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",4.4,5
+2020/21,Falkirk,75-84 years,"Rate per 1,000 Social Care Clients",8.1,20
+2020/21,Falkirk,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",9,20
+2020/21,Falkirk,85+ years,"Rate per 1,000 Social Care Clients",12.6,30
+2020/21,Falkirk,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",14.8,30
+2020/21,Falkirk,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Falkirk,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Falkirk,All Ages,"Rate per 1,000 Social Care Clients",5.8,45
+2021/22,Falkirk,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",6.2,45
+2021/22,Falkirk,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Falkirk,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Falkirk,18-64 years,"Rate per 1,000 Social Care Clients",2.7,5
+2021/22,Falkirk,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",2.7,5
+2021/22,Falkirk,65-74 years,"Rate per 1,000 Social Care Clients",4,5
+2021/22,Falkirk,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",4.3,5
+2021/22,Falkirk,75-84 years,"Rate per 1,000 Social Care Clients",6.4,15
+2021/22,Falkirk,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",6.9,15
+2021/22,Falkirk,85+ years,"Rate per 1,000 Social Care Clients",11,25
+2021/22,Falkirk,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",12.5,25
+2021/22,Falkirk,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Falkirk,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Fife,All Ages,"Rate per 1,000 Social Care Clients",157.5,2465
+2017/18,Fife,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",157.5,2465
+2017/18,Fife,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Fife,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Fife,18-64 years,"Rate per 1,000 Social Care Clients",70.9,200
+2017/18,Fife,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",70.9,200
+2017/18,Fife,65-74 years,"Rate per 1,000 Social Care Clients",126.3,295
+2017/18,Fife,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",126.3,295
+2017/18,Fife,75-84 years,"Rate per 1,000 Social Care Clients",159.2,800
+2017/18,Fife,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",159.2,800
+2017/18,Fife,85+ years,"Rate per 1,000 Social Care Clients",220.3,1170
+2017/18,Fife,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",219.9,1170
+2017/18,Fife,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Fife,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Fife,All Ages,"Rate per 1,000 Social Care Clients",29.9,485
+2018/19,Fife,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",29.9,485
+2018/19,Fife,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Fife,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Fife,18-64 years,"Rate per 1,000 Social Care Clients",17.8,50
+2018/19,Fife,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",17.8,50
+2018/19,Fife,65-74 years,"Rate per 1,000 Social Care Clients",35.4,85
+2018/19,Fife,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",35.4,85
+2018/19,Fife,75-84 years,"Rate per 1,000 Social Care Clients",34.4,180
+2018/19,Fife,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",34.4,180
+2018/19,Fife,85+ years,"Rate per 1,000 Social Care Clients",30.3,170
+2018/19,Fife,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",30.2,170
+2018/19,Fife,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Fife,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Fife,All Ages,"Rate per 1,000 Social Care Clients",80.5,1260
+2019/20,Fife,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",80.5,1260
+2019/20,Fife,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Fife,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Fife,18-64 years,"Rate per 1,000 Social Care Clients",28.8,80
+2019/20,Fife,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",28.8,80
+2019/20,Fife,65-74 years,"Rate per 1,000 Social Care Clients",69.1,160
+2019/20,Fife,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",69.1,160
+2019/20,Fife,75-84 years,"Rate per 1,000 Social Care Clients",85.3,420
+2019/20,Fife,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",85.3,420
+2019/20,Fife,85+ years,"Rate per 1,000 Social Care Clients",109.7,600
+2019/20,Fife,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",109.6,600
+2019/20,Fife,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Fife,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Fife,All Ages,"Rate per 1,000 Social Care Clients",95.3,1550
+2020/21,Fife,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",95.3,1550
+2020/21,Fife,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Fife,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Fife,18-64 years,"Rate per 1,000 Social Care Clients",44.9,140
+2020/21,Fife,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",44.9,140
+2020/21,Fife,65-74 years,"Rate per 1,000 Social Care Clients",80.7,190
+2020/21,Fife,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",80.7,190
+2020/21,Fife,75-84 years,"Rate per 1,000 Social Care Clients",103.7,520
+2020/21,Fife,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",103.7,520
+2020/21,Fife,85+ years,"Rate per 1,000 Social Care Clients",125.3,700
+2020/21,Fife,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",125.3,700
+2020/21,Fife,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Fife,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Fife,All Ages,"Rate per 1,000 Social Care Clients",86.3,1400
+2021/22,Fife,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",86.3,1400
+2021/22,Fife,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Fife,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Fife,18-64 years,"Rate per 1,000 Social Care Clients",44,135
+2021/22,Fife,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",44,135
+2021/22,Fife,65-74 years,"Rate per 1,000 Social Care Clients",76.1,180
+2021/22,Fife,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",76.1,180
+2021/22,Fife,75-84 years,"Rate per 1,000 Social Care Clients",86.3,430
+2021/22,Fife,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",86.3,430
+2021/22,Fife,85+ years,"Rate per 1,000 Social Care Clients",116.5,655
+2021/22,Fife,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",116.5,655
+2021/22,Fife,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Fife,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Glasgow City,All Ages,"Rate per 1,000 Social Care Clients",26.3,565
+2018/19,Glasgow City,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",26.6,565
+2018/19,Glasgow City,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Glasgow City,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Glasgow City,18-64 years,"Rate per 1,000 Social Care Clients",3.2,15
+2018/19,Glasgow City,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",3.2,15
+2018/19,Glasgow City,65-74 years,"Rate per 1,000 Social Care Clients",30.4,105
+2018/19,Glasgow City,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",30.7,105
+2018/19,Glasgow City,75-84 years,"Rate per 1,000 Social Care Clients",32.7,215
+2018/19,Glasgow City,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",33.1,215
+2018/19,Glasgow City,85+ years,"Rate per 1,000 Social Care Clients",36.6,235
+2018/19,Glasgow City,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",37.3,235
+2018/19,Glasgow City,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Glasgow City,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Glasgow City,All Ages,"Rate per 1,000 Social Care Clients",33.6,740
+2019/20,Glasgow City,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",34.1,740
+2019/20,Glasgow City,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Glasgow City,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Glasgow City,18-64 years,"Rate per 1,000 Social Care Clients",10.9,55
+2019/20,Glasgow City,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",11,55
+2019/20,Glasgow City,65-74 years,"Rate per 1,000 Social Care Clients",35.1,125
+2019/20,Glasgow City,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",35.6,125
+2019/20,Glasgow City,75-84 years,"Rate per 1,000 Social Care Clients",38.6,255
+2019/20,Glasgow City,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",39.2,255
+2019/20,Glasgow City,85+ years,"Rate per 1,000 Social Care Clients",47,305
+2019/20,Glasgow City,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",48,305
+2019/20,Glasgow City,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Glasgow City,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Glasgow City,All Ages,"Rate per 1,000 Social Care Clients",37.9,830
+2020/21,Glasgow City,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",39.1,830
+2020/21,Glasgow City,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Glasgow City,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Glasgow City,18-64 years,"Rate per 1,000 Social Care Clients",17.4,95
+2020/21,Glasgow City,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",18.2,95
+2020/21,Glasgow City,65-74 years,"Rate per 1,000 Social Care Clients",40.4,140
+2020/21,Glasgow City,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",41.8,140
+2020/21,Glasgow City,75-84 years,"Rate per 1,000 Social Care Clients",42.6,265
+2020/21,Glasgow City,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",43.8,265
+2020/21,Glasgow City,85+ years,"Rate per 1,000 Social Care Clients",50.5,325
+2020/21,Glasgow City,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",52,325
+2020/21,Glasgow City,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Glasgow City,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Glasgow City,All Ages,"Rate per 1,000 Social Care Clients",35.4,780
+2021/22,Glasgow City,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",36.9,780
+2021/22,Glasgow City,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Glasgow City,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Glasgow City,18-64 years,"Rate per 1,000 Social Care Clients",16.7,95
+2021/22,Glasgow City,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",17.8,95
+2021/22,Glasgow City,65-74 years,"Rate per 1,000 Social Care Clients",35.5,130
+2021/22,Glasgow City,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",37.1,130
+2021/22,Glasgow City,75-84 years,"Rate per 1,000 Social Care Clients",39.6,240
+2021/22,Glasgow City,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",40.9,240
+2021/22,Glasgow City,85+ years,"Rate per 1,000 Social Care Clients",50.3,310
+2021/22,Glasgow City,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",51.8,310
+2021/22,Glasgow City,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Glasgow City,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Highland,All Ages,"Rate per 1,000 Social Care Clients",37,310
+2017/18,Highland,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",37.1,310
+2017/18,Highland,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Highland,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Highland,18-64 years,"Rate per 1,000 Social Care Clients",8.2,15
+2017/18,Highland,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",8.2,15
+2017/18,Highland,65-74 years,"Rate per 1,000 Social Care Clients",39.8,40
+2017/18,Highland,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",39.8,40
+2017/18,Highland,75-84 years,"Rate per 1,000 Social Care Clients",48.2,110
+2017/18,Highland,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",48.4,110
+2017/18,Highland,85+ years,"Rate per 1,000 Social Care Clients",46.8,140
+2017/18,Highland,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",46.9,140
+2017/18,Highland,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Highland,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Highland,All Ages,"Rate per 1,000 Social Care Clients",33.3,265
+2018/19,Highland,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",33.3,265
+2018/19,Highland,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Highland,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Highland,18-64 years,"Rate per 1,000 Social Care Clients",6.5,10
+2018/19,Highland,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",6.5,10
+2018/19,Highland,65-74 years,"Rate per 1,000 Social Care Clients",43.7,40
+2018/19,Highland,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",43.7,40
+2018/19,Highland,75-84 years,"Rate per 1,000 Social Care Clients",37.7,85
+2018/19,Highland,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",37.7,85
+2018/19,Highland,85+ years,"Rate per 1,000 Social Care Clients",39.2,125
+2018/19,Highland,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",39.2,125
+2018/19,Highland,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Highland,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Highland,All Ages,"Rate per 1,000 Social Care Clients",38.9,320
+2019/20,Highland,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",38.9,320
+2019/20,Highland,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Highland,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Highland,18-64 years,"Rate per 1,000 Social Care Clients",9.6,15
+2019/20,Highland,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",9.6,15
+2019/20,Highland,65-74 years,"Rate per 1,000 Social Care Clients",36.3,35
+2019/20,Highland,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",36.3,35
+2019/20,Highland,75-84 years,"Rate per 1,000 Social Care Clients",49,115
+2019/20,Highland,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",49,115
+2019/20,Highland,85+ years,"Rate per 1,000 Social Care Clients",45.6,150
+2019/20,Highland,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",45.6,150
+2019/20,Highland,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Highland,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Highland,All Ages,"Rate per 1,000 Social Care Clients",21.5,175
+2020/21,Highland,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",21.5,175
+2020/21,Highland,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Highland,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Highland,18-64 years,"Rate per 1,000 Social Care Clients",10.3,15
+2020/21,Highland,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",10.3,15
+2020/21,Highland,65-74 years,"Rate per 1,000 Social Care Clients",19.5,20
+2020/21,Highland,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",19.6,20
+2020/21,Highland,75-84 years,"Rate per 1,000 Social Care Clients",25.9,60
+2020/21,Highland,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",25.9,60
+2020/21,Highland,85+ years,"Rate per 1,000 Social Care Clients",24.3,80
+2020/21,Highland,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",24.4,80
+2020/21,Highland,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Highland,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Highland,All Ages,"Rate per 1,000 Social Care Clients",22.7,200
+2021/22,Highland,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",23.1,200
+2021/22,Highland,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Highland,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Highland,18-64 years,"Rate per 1,000 Social Care Clients",7.2,15
+2021/22,Highland,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",7.4,15
+2021/22,Highland,65-74 years,"Rate per 1,000 Social Care Clients",28.3,30
+2021/22,Highland,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",28.8,30
+2021/22,Highland,75-84 years,"Rate per 1,000 Social Care Clients",31.7,75
+2021/22,Highland,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",32.4,75
+2021/22,Highland,85+ years,"Rate per 1,000 Social Care Clients",24.8,80
+2021/22,Highland,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",25.1,80
+2021/22,Highland,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Highland,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Inverclyde,All Ages,"Rate per 1,000 Social Care Clients",7.3,35
+2017/18,Inverclyde,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",8,35
+2017/18,Inverclyde,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Inverclyde,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Inverclyde,18-64 years,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Inverclyde,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Inverclyde,65-74 years,"Rate per 1,000 Social Care Clients",6.5,5
+2017/18,Inverclyde,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",6.8,5
+2017/18,Inverclyde,75-84 years,"Rate per 1,000 Social Care Clients",3.2,5
+2017/18,Inverclyde,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",3.4,5
+2017/18,Inverclyde,85+ years,"Rate per 1,000 Social Care Clients",16.6,25
+2017/18,Inverclyde,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",19.3,25
+2017/18,Inverclyde,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Inverclyde,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Inverclyde,All Ages,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Inverclyde,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Inverclyde,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Inverclyde,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Inverclyde,18-64 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Inverclyde,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Inverclyde,65-74 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Inverclyde,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Inverclyde,75-84 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Inverclyde,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Inverclyde,85+ years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Inverclyde,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Inverclyde,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Inverclyde,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Midlothian,All Ages,"Rate per 1,000 Social Care Clients",17.9,70
+2017/18,Midlothian,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",18.5,70
+2017/18,Midlothian,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Midlothian,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Midlothian,18-64 years,"Rate per 1,000 Social Care Clients",12.8,10
+2017/18,Midlothian,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",13.2,10
+2017/18,Midlothian,65-74 years,"Rate per 1,000 Social Care Clients",25.4,15
+2017/18,Midlothian,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",25.7,15
+2017/18,Midlothian,75-84 years,"Rate per 1,000 Social Care Clients",13.1,15
+2017/18,Midlothian,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",13.2,15
+2017/18,Midlothian,85+ years,"Rate per 1,000 Social Care Clients",27.1,30
+2017/18,Midlothian,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",27.2,30
+2017/18,Midlothian,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Midlothian,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Midlothian,All Ages,"Rate per 1,000 Social Care Clients",12.8,50
+2018/19,Midlothian,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",13,50
+2018/19,Midlothian,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Midlothian,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Midlothian,18-64 years,"Rate per 1,000 Social Care Clients",12.9,10
+2018/19,Midlothian,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",13.1,10
+2018/19,Midlothian,65-74 years,"Rate per 1,000 Social Care Clients",27,15
+2018/19,Midlothian,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",27.6,15
+2018/19,Midlothian,75-84 years,"Rate per 1,000 Social Care Clients",8.8,10
+2018/19,Midlothian,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",9,10
+2018/19,Midlothian,85+ years,"Rate per 1,000 Social Care Clients",18.5,20
+2018/19,Midlothian,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",18.5,20
+2018/19,Midlothian,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Midlothian,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Midlothian,All Ages,"Rate per 1,000 Social Care Clients",16.4,55
+2019/20,Midlothian,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",17.4,55
+2019/20,Midlothian,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Midlothian,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Midlothian,18-64 years,"Rate per 1,000 Social Care Clients",15.9,10
+2019/20,Midlothian,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",16.2,10
+2019/20,Midlothian,65-74 years,"Rate per 1,000 Social Care Clients",20.8,10
+2019/20,Midlothian,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",21.6,10
+2019/20,Midlothian,75-84 years,"Rate per 1,000 Social Care Clients",13.4,15
+2019/20,Midlothian,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",14.2,15
+2019/20,Midlothian,85+ years,"Rate per 1,000 Social Care Clients",18.7,20
+2019/20,Midlothian,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",20.6,20
+2019/20,Midlothian,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Midlothian,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Midlothian,All Ages,"Rate per 1,000 Social Care Clients",12.6,45
+2020/21,Midlothian,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",12.7,45
+2020/21,Midlothian,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Midlothian,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Midlothian,18-64 years,"Rate per 1,000 Social Care Clients",13.4,10
+2020/21,Midlothian,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",13.6,10
+2020/21,Midlothian,65-74 years,"Rate per 1,000 Social Care Clients",19,10
+2020/21,Midlothian,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",19,10
+2020/21,Midlothian,75-84 years,"Rate per 1,000 Social Care Clients",9.1,10
+2020/21,Midlothian,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",9.1,10
+2020/21,Midlothian,85+ years,"Rate per 1,000 Social Care Clients",14.2,15
+2020/21,Midlothian,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",14.2,15
+2020/21,Midlothian,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Midlothian,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Midlothian,All Ages,"Rate per 1,000 Social Care Clients",12.5,45
+2021/22,Midlothian,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",12.7,45
+2021/22,Midlothian,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Midlothian,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Midlothian,18-64 years,"Rate per 1,000 Social Care Clients",13.3,10
+2021/22,Midlothian,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",13.4,10
+2021/22,Midlothian,65-74 years,"Rate per 1,000 Social Care Clients",18.9,10
+2021/22,Midlothian,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",19.2,10
+2021/22,Midlothian,75-84 years,"Rate per 1,000 Social Care Clients",9,10
+2021/22,Midlothian,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",9.2,10
+2021/22,Midlothian,85+ years,"Rate per 1,000 Social Care Clients",13.1,15
+2021/22,Midlothian,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",13.4,15
+2021/22,Midlothian,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Midlothian,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,North Ayrshire,All Ages,"Rate per 1,000 Social Care Clients",40.7,290
+2017/18,North Ayrshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",40.7,290
+2017/18,North Ayrshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2017/18,North Ayrshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,North Ayrshire,18-64 years,"Rate per 1,000 Social Care Clients",27.1,35
+2017/18,North Ayrshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",27.1,35
+2017/18,North Ayrshire,65-74 years,"Rate per 1,000 Social Care Clients",46.3,50
+2017/18,North Ayrshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",46.3,50
+2017/18,North Ayrshire,75-84 years,"Rate per 1,000 Social Care Clients",42.2,100
+2017/18,North Ayrshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",42.2,100
+2017/18,North Ayrshire,85+ years,"Rate per 1,000 Social Care Clients",44.6,100
+2017/18,North Ayrshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",48.8,110
+2017/18,North Ayrshire,Unknown,"Rate per 1,000 Social Care Clients",454.5,5
+2017/18,North Ayrshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,North Ayrshire,All Ages,"Rate per 1,000 Social Care Clients",53.6,390
+2018/19,North Ayrshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",53.6,390
+2018/19,North Ayrshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,North Ayrshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,North Ayrshire,18-64 years,"Rate per 1,000 Social Care Clients",30.1,40
+2018/19,North Ayrshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",30.1,40
+2018/19,North Ayrshire,65-74 years,"Rate per 1,000 Social Care Clients",70.7,80
+2018/19,North Ayrshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",70.7,80
+2018/19,North Ayrshire,75-84 years,"Rate per 1,000 Social Care Clients",54.3,135
+2018/19,North Ayrshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",54.3,135
+2018/19,North Ayrshire,85+ years,"Rate per 1,000 Social Care Clients",58.3,130
+2018/19,North Ayrshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",62.4,140
+2018/19,North Ayrshire,Unknown,"Rate per 1,000 Social Care Clients",714.3,10
+2018/19,North Ayrshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,North Ayrshire,All Ages,"Rate per 1,000 Social Care Clients",40.2,290
+2019/20,North Ayrshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",40.2,290
+2019/20,North Ayrshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2019/20,North Ayrshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,North Ayrshire,18-64 years,"Rate per 1,000 Social Care Clients",21.8,25
+2019/20,North Ayrshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",21.8,25
+2019/20,North Ayrshire,65-74 years,"Rate per 1,000 Social Care Clients",53,60
+2019/20,North Ayrshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",53,60
+2019/20,North Ayrshire,75-84 years,"Rate per 1,000 Social Care Clients",38.3,95
+2019/20,North Ayrshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",38.3,95
+2019/20,North Ayrshire,85+ years,"Rate per 1,000 Social Care Clients",48.9,115
+2019/20,North Ayrshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",48.8,115
+2019/20,North Ayrshire,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2019/20,North Ayrshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,North Ayrshire,All Ages,"Rate per 1,000 Social Care Clients",14.6,110
+2020/21,North Ayrshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",15.7,110
+2020/21,North Ayrshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2020/21,North Ayrshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,North Ayrshire,18-64 years,"Rate per 1,000 Social Care Clients",7.4,10
+2020/21,North Ayrshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",7.8,10
+2020/21,North Ayrshire,65-74 years,"Rate per 1,000 Social Care Clients",24.6,30
+2020/21,North Ayrshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",26.8,30
+2020/21,North Ayrshire,75-84 years,"Rate per 1,000 Social Care Clients",15.9,40
+2020/21,North Ayrshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",17,40
+2020/21,North Ayrshire,85+ years,"Rate per 1,000 Social Care Clients",13.1,30
+2020/21,North Ayrshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",14.1,30
+2020/21,North Ayrshire,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2020/21,North Ayrshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,North Ayrshire,All Ages,"Rate per 1,000 Social Care Clients",46.2,345
+2021/22,North Ayrshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",47.7,345
+2021/22,North Ayrshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2021/22,North Ayrshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,North Ayrshire,18-64 years,"Rate per 1,000 Social Care Clients",25.8,35
+2021/22,North Ayrshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",26.3,35
+2021/22,North Ayrshire,65-74 years,"Rate per 1,000 Social Care Clients",51.1,60
+2021/22,North Ayrshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",52.9,60
+2021/22,North Ayrshire,75-84 years,"Rate per 1,000 Social Care Clients",50.1,125
+2021/22,North Ayrshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",51.5,125
+2021/22,North Ayrshire,85+ years,"Rate per 1,000 Social Care Clients",51.7,120
+2021/22,North Ayrshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",53.6,120
+2021/22,North Ayrshire,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2021/22,North Ayrshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Renfrewshire,All Ages,"Rate per 1,000 Social Care Clients",81.1,595
+2017/18,Renfrewshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",99.8,595
+2017/18,Renfrewshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Renfrewshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Renfrewshire,18-64 years,"Rate per 1,000 Social Care Clients",36.6,45
+2017/18,Renfrewshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",43.6,45
+2017/18,Renfrewshire,65-74 years,"Rate per 1,000 Social Care Clients",80.4,95
+2017/18,Renfrewshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",92.1,95
+2017/18,Renfrewshire,75-84 years,"Rate per 1,000 Social Care Clients",80.6,205
+2017/18,Renfrewshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",96.5,205
+2017/18,Renfrewshire,85+ years,"Rate per 1,000 Social Care Clients",106,250
+2017/18,Renfrewshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",142,250
+2017/18,Renfrewshire,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Renfrewshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Renfrewshire,All Ages,"Rate per 1,000 Social Care Clients",111,850
+2018/19,Renfrewshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",134,850
+2018/19,Renfrewshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Renfrewshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Renfrewshire,18-64 years,"Rate per 1,000 Social Care Clients",66.1,90
+2018/19,Renfrewshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",80,90
+2018/19,Renfrewshire,65-74 years,"Rate per 1,000 Social Care Clients",111.8,135
+2018/19,Renfrewshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",126.5,135
+2018/19,Renfrewshire,75-84 years,"Rate per 1,000 Social Care Clients",106.8,285
+2018/19,Renfrewshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",126.1,285
+2018/19,Renfrewshire,85+ years,"Rate per 1,000 Social Care Clients",140.1,335
+2018/19,Renfrewshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",180,340
+2018/19,Renfrewshire,Unknown,"Rate per 1,000 Social Care Clients",384.6,5
+2018/19,Renfrewshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Renfrewshire,All Ages,"Rate per 1,000 Social Care Clients",126.5,975
+2019/20,Renfrewshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",152.4,975
+2019/20,Renfrewshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Renfrewshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Renfrewshire,18-64 years,"Rate per 1,000 Social Care Clients",78.2,110
+2019/20,Renfrewshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",89.4,110
+2019/20,Renfrewshire,65-74 years,"Rate per 1,000 Social Care Clients",127.6,150
+2019/20,Renfrewshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",146.2,150
+2019/20,Renfrewshire,75-84 years,"Rate per 1,000 Social Care Clients",127.4,330
+2019/20,Renfrewshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",152.7,330
+2019/20,Renfrewshire,85+ years,"Rate per 1,000 Social Care Clients",153.4,385
+2019/20,Renfrewshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",195.9,385
+2019/20,Renfrewshire,Unknown,"Rate per 1,000 Social Care Clients",384.6,5
+2019/20,Renfrewshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Renfrewshire,All Ages,"Rate per 1,000 Social Care Clients",124.6,955
+2020/21,Renfrewshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",365.9,955
+2020/21,Renfrewshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Renfrewshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Renfrewshire,18-64 years,"Rate per 1,000 Social Care Clients",72.1,110
+2020/21,Renfrewshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",222.2,110
+2020/21,Renfrewshire,65-74 years,"Rate per 1,000 Social Care Clients",127.9,140
+2020/21,Renfrewshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",350,140
+2020/21,Renfrewshire,75-84 years,"Rate per 1,000 Social Care Clients",133.6,330
+2020/21,Renfrewshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",381.5,330
+2020/21,Renfrewshire,85+ years,"Rate per 1,000 Social Care Clients",150.9,375
+2020/21,Renfrewshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",441.2,375
+2020/21,Renfrewshire,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Renfrewshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Renfrewshire,All Ages,"Rate per 1,000 Social Care Clients",189.3,885
+2021/22,Renfrewshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",299.5,885
+2021/22,Renfrewshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Renfrewshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Renfrewshire,18-64 years,"Rate per 1,000 Social Care Clients",100,70
+2021/22,Renfrewshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",138.6,70
+2021/22,Renfrewshire,65-74 years,"Rate per 1,000 Social Care Clients",164.2,110
+2021/22,Renfrewshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",255.8,110
+2021/22,Renfrewshire,75-84 years,"Rate per 1,000 Social Care Clients",206.3,325
+2021/22,Renfrewshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",321.8,325
+2021/22,Renfrewshire,85+ years,"Rate per 1,000 Social Care Clients",225.5,380
+2021/22,Renfrewshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",389.7,380
+2021/22,Renfrewshire,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Renfrewshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Scottish Borders,All Ages,"Rate per 1,000 Social Care Clients",50.8,205
+2017/18,Scottish Borders,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",58.5,205
+2017/18,Scottish Borders,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Scottish Borders,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Scottish Borders,18-64 years,"Rate per 1,000 Social Care Clients",22.1,20
+2017/18,Scottish Borders,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",23,20
+2017/18,Scottish Borders,65-74 years,"Rate per 1,000 Social Care Clients",58.1,30
+2017/18,Scottish Borders,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",62.1,30
+2017/18,Scottish Borders,75-84 years,"Rate per 1,000 Social Care Clients",64,70
+2017/18,Scottish Borders,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",73.7,70
+2017/18,Scottish Borders,85+ years,"Rate per 1,000 Social Care Clients",61,90
+2017/18,Scottish Borders,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",77.9,90
+2017/18,Scottish Borders,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Scottish Borders,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Scottish Borders,All Ages,"Rate per 1,000 Social Care Clients",36.3,220
+2018/19,Scottish Borders,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",40.7,220
+2018/19,Scottish Borders,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Scottish Borders,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Scottish Borders,18-64 years,"Rate per 1,000 Social Care Clients",11.3,20
+2018/19,Scottish Borders,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",11.4,20
+2018/19,Scottish Borders,65-74 years,"Rate per 1,000 Social Care Clients",41,30
+2018/19,Scottish Borders,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",44.1,30
+2018/19,Scottish Borders,75-84 years,"Rate per 1,000 Social Care Clients",48.4,70
+2018/19,Scottish Borders,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",55.1,70
+2018/19,Scottish Borders,85+ years,"Rate per 1,000 Social Care Clients",56.6,105
+2018/19,Scottish Borders,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",72.4,105
+2018/19,Scottish Borders,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Scottish Borders,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Scottish Borders,All Ages,"Rate per 1,000 Social Care Clients",48.9,215
+2019/20,Scottish Borders,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",56,215
+2019/20,Scottish Borders,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Scottish Borders,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Scottish Borders,18-64 years,"Rate per 1,000 Social Care Clients",22,20
+2019/20,Scottish Borders,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",22.3,20
+2019/20,Scottish Borders,65-74 years,"Rate per 1,000 Social Care Clients",37.1,20
+2019/20,Scottish Borders,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",40,20
+2019/20,Scottish Borders,75-84 years,"Rate per 1,000 Social Care Clients",63.3,75
+2019/20,Scottish Borders,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",72.2,75
+2019/20,Scottish Borders,85+ years,"Rate per 1,000 Social Care Clients",62,105
+2019/20,Scottish Borders,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",78.5,105
+2019/20,Scottish Borders,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Scottish Borders,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Scottish Borders,All Ages,"Rate per 1,000 Social Care Clients",51.8,210
+2020/21,Scottish Borders,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",62.8,210
+2020/21,Scottish Borders,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Scottish Borders,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Scottish Borders,18-64 years,"Rate per 1,000 Social Care Clients",24.8,20
+2020/21,Scottish Borders,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",26,20
+2020/21,Scottish Borders,65-74 years,"Rate per 1,000 Social Care Clients",51,25
+2020/21,Scottish Borders,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",57.5,25
+2020/21,Scottish Borders,75-84 years,"Rate per 1,000 Social Care Clients",63.3,70
+2020/21,Scottish Borders,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",78.2,70
+2020/21,Scottish Borders,85+ years,"Rate per 1,000 Social Care Clients",62.5,100
+2020/21,Scottish Borders,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",84.4,100
+2020/21,Scottish Borders,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Scottish Borders,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Scottish Borders,All Ages,"Rate per 1,000 Social Care Clients",33.3,150
+2021/22,Scottish Borders,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",42.5,150
+2021/22,Scottish Borders,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Scottish Borders,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Scottish Borders,18-64 years,"Rate per 1,000 Social Care Clients",9.8,10
+2021/22,Scottish Borders,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",13.2,10
+2021/22,Scottish Borders,65-74 years,"Rate per 1,000 Social Care Clients",33,15
+2021/22,Scottish Borders,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",38.5,15
+2021/22,Scottish Borders,75-84 years,"Rate per 1,000 Social Care Clients",52.4,55
+2021/22,Scottish Borders,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",65.5,55
+2021/22,Scottish Borders,85+ years,"Rate per 1,000 Social Care Clients",41.3,70
+2021/22,Scottish Borders,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",53.8,70
+2021/22,Scottish Borders,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Scottish Borders,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Shetland Islands,All Ages,"Rate per 1,000 Social Care Clients",78.7,95
+2017/18,Shetland Islands,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",82.3,95
+2017/18,Shetland Islands,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Shetland Islands,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Shetland Islands,18-64 years,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Shetland Islands,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Shetland Islands,65-74 years,"Rate per 1,000 Social Care Clients",31.1,5
+2017/18,Shetland Islands,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",32.3,5
+2017/18,Shetland Islands,75-84 years,"Rate per 1,000 Social Care Clients",110.5,40
+2017/18,Shetland Islands,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",115.3,40
+2017/18,Shetland Islands,85+ years,"Rate per 1,000 Social Care Clients",150.6,50
+2017/18,Shetland Islands,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",159.7,50
+2017/18,Shetland Islands,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Shetland Islands,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Shetland Islands,All Ages,"Rate per 1,000 Social Care Clients",84.2,110
+2018/19,Shetland Islands,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",96.7,110
+2018/19,Shetland Islands,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Shetland Islands,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Shetland Islands,18-64 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Shetland Islands,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Shetland Islands,65-74 years,"Rate per 1,000 Social Care Clients",31.1,5
+2018/19,Shetland Islands,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",34.7,5
+2018/19,Shetland Islands,75-84 years,"Rate per 1,000 Social Care Clients",106.1,40
+2018/19,Shetland Islands,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",118.3,40
+2018/19,Shetland Islands,85+ years,"Rate per 1,000 Social Care Clients",165.3,60
+2018/19,Shetland Islands,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",194.8,60
+2018/19,Shetland Islands,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Shetland Islands,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Shetland Islands,All Ages,"Rate per 1,000 Social Care Clients",93.7,135
+2019/20,Shetland Islands,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",107.6,135
+2019/20,Shetland Islands,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Shetland Islands,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Shetland Islands,18-64 years,"Rate per 1,000 Social Care Clients",13.5,5
+2019/20,Shetland Islands,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",16.1,5
+2019/20,Shetland Islands,65-74 years,"Rate per 1,000 Social Care Clients",75.4,15
+2019/20,Shetland Islands,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",87.2,15
+2019/20,Shetland Islands,75-84 years,"Rate per 1,000 Social Care Clients",126.6,50
+2019/20,Shetland Islands,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",144.9,50
+2019/20,Shetland Islands,85+ years,"Rate per 1,000 Social Care Clients",164.8,60
+2019/20,Shetland Islands,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",188.1,60
+2019/20,Shetland Islands,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Shetland Islands,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Shetland Islands,All Ages,"Rate per 1,000 Social Care Clients",134.9,195
+2020/21,Shetland Islands,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",156,195
+2020/21,Shetland Islands,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Shetland Islands,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Shetland Islands,18-64 years,"Rate per 1,000 Social Care Clients",13,5
+2020/21,Shetland Islands,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",16.1,5
+2020/21,Shetland Islands,65-74 years,"Rate per 1,000 Social Care Clients",90.9,15
+2020/21,Shetland Islands,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",103.4,15
+2020/21,Shetland Islands,75-84 years,"Rate per 1,000 Social Care Clients",215.2,85
+2020/21,Shetland Islands,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",236.1,85
+2020/21,Shetland Islands,85+ years,"Rate per 1,000 Social Care Clients",236.8,90
+2020/21,Shetland Islands,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",268.7,90
+2020/21,Shetland Islands,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Shetland Islands,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Shetland Islands,All Ages,"Rate per 1,000 Social Care Clients",158.6,245
+2021/22,Shetland Islands,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",180.1,245
+2021/22,Shetland Islands,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Shetland Islands,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Shetland Islands,18-64 years,"Rate per 1,000 Social Care Clients",38.5,15
+2021/22,Shetland Islands,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",46.9,15
+2021/22,Shetland Islands,65-74 years,"Rate per 1,000 Social Care Clients",142.9,25
+2021/22,Shetland Islands,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",156.2,25
+2021/22,Shetland Islands,75-84 years,"Rate per 1,000 Social Care Clients",231.7,95
+2021/22,Shetland Islands,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",250,95
+2021/22,Shetland Islands,85+ years,"Rate per 1,000 Social Care Clients",271.6,110
+2021/22,Shetland Islands,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",314.3,110
+2021/22,Shetland Islands,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Shetland Islands,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,South Lanarkshire,All Ages,"Rate per 1,000 Social Care Clients",48.6,345
+2017/18,South Lanarkshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",67.6,345
+2017/18,South Lanarkshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2017/18,South Lanarkshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,South Lanarkshire,18-64 years,"Rate per 1,000 Social Care Clients",21.5,30
+2017/18,South Lanarkshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",25.6,30
+2017/18,South Lanarkshire,65-74 years,"Rate per 1,000 Social Care Clients",46.7,45
+2017/18,South Lanarkshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",65,45
+2017/18,South Lanarkshire,75-84 years,"Rate per 1,000 Social Care Clients",50.3,110
+2017/18,South Lanarkshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",71.1,110
+2017/18,South Lanarkshire,85+ years,"Rate per 1,000 Social Care Clients",63.8,160
+2017/18,South Lanarkshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",97.6,160
+2017/18,South Lanarkshire,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2017/18,South Lanarkshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,South Lanarkshire,All Ages,"Rate per 1,000 Social Care Clients",21.2,185
+2018/19,South Lanarkshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",24.7,185
+2018/19,South Lanarkshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,South Lanarkshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,South Lanarkshire,18-64 years,"Rate per 1,000 Social Care Clients",10.1,15
+2018/19,South Lanarkshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",10.6,15
+2018/19,South Lanarkshire,65-74 years,"Rate per 1,000 Social Care Clients",16.7,20
+2018/19,South Lanarkshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",18.6,20
+2018/19,South Lanarkshire,75-84 years,"Rate per 1,000 Social Care Clients",21.8,60
+2018/19,South Lanarkshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",25,60
+2018/19,South Lanarkshire,85+ years,"Rate per 1,000 Social Care Clients",29.5,95
+2018/19,South Lanarkshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",37.5,95
+2018/19,South Lanarkshire,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2018/19,South Lanarkshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,South Lanarkshire,All Ages,"Rate per 1,000 Social Care Clients",14.5,125
+2019/20,South Lanarkshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",17,125
+2019/20,South Lanarkshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2019/20,South Lanarkshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,South Lanarkshire,18-64 years,"Rate per 1,000 Social Care Clients",10.7,15
+2019/20,South Lanarkshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",11.3,15
+2019/20,South Lanarkshire,65-74 years,"Rate per 1,000 Social Care Clients",12.6,15
+2019/20,South Lanarkshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",14,15
+2019/20,South Lanarkshire,75-84 years,"Rate per 1,000 Social Care Clients",14.5,40
+2019/20,South Lanarkshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",16.7,40
+2019/20,South Lanarkshire,85+ years,"Rate per 1,000 Social Care Clients",16.9,55
+2019/20,South Lanarkshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",21.8,55
+2019/20,South Lanarkshire,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2019/20,South Lanarkshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,South Lanarkshire,All Ages,"Rate per 1,000 Social Care Clients",13.4,120
+2020/21,South Lanarkshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",15.2,120
+2020/21,South Lanarkshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2020/21,South Lanarkshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,South Lanarkshire,18-64 years,"Rate per 1,000 Social Care Clients",8.8,15
+2020/21,South Lanarkshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",9.8,15
+2020/21,South Lanarkshire,65-74 years,"Rate per 1,000 Social Care Clients",12.3,15
+2020/21,South Lanarkshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",13.3,15
+2020/21,South Lanarkshire,75-84 years,"Rate per 1,000 Social Care Clients",12.8,35
+2020/21,South Lanarkshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",14.2,35
+2020/21,South Lanarkshire,85+ years,"Rate per 1,000 Social Care Clients",18.4,60
+2020/21,South Lanarkshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",21.9,60
+2020/21,South Lanarkshire,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2020/21,South Lanarkshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,South Lanarkshire,All Ages,"Rate per 1,000 Social Care Clients",8,75
+2021/22,South Lanarkshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",10.7,75
+2021/22,South Lanarkshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2021/22,South Lanarkshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,South Lanarkshire,18-64 years,"Rate per 1,000 Social Care Clients",4.4,10
+2021/22,South Lanarkshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",5.1,10
+2021/22,South Lanarkshire,65-74 years,"Rate per 1,000 Social Care Clients",8,10
+2021/22,South Lanarkshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",10.2,10
+2021/22,South Lanarkshire,75-84 years,"Rate per 1,000 Social Care Clients",7.8,20
+2021/22,South Lanarkshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",10.7,20
+2021/22,South Lanarkshire,85+ years,"Rate per 1,000 Social Care Clients",9.6,30
+2021/22,South Lanarkshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",14.6,30
+2021/22,South Lanarkshire,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2021/22,South Lanarkshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Stirling,All Ages,"Rate per 1,000 Social Care Clients",18.5,70
+2017/18,Stirling,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",19.3,70
+2017/18,Stirling,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Stirling,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,Stirling,18-64 years,"Rate per 1,000 Social Care Clients",7,5
+2017/18,Stirling,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",7.4,5
+2017/18,Stirling,65-74 years,"Rate per 1,000 Social Care Clients",10.5,5
+2017/18,Stirling,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",11,5
+2017/18,Stirling,75-84 years,"Rate per 1,000 Social Care Clients",20.2,25
+2017/18,Stirling,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",20.8,25
+2017/18,Stirling,85+ years,"Rate per 1,000 Social Care Clients",25.8,35
+2017/18,Stirling,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",27,35
+2017/18,Stirling,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2017/18,Stirling,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Stirling,All Ages,"Rate per 1,000 Social Care Clients",15.4,60
+2018/19,Stirling,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",16.2,60
+2018/19,Stirling,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Stirling,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,Stirling,18-64 years,"Rate per 1,000 Social Care Clients",6.9,5
+2018/19,Stirling,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",7.2,5
+2018/19,Stirling,65-74 years,"Rate per 1,000 Social Care Clients",10.6,5
+2018/19,Stirling,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",11.2,5
+2018/19,Stirling,75-84 years,"Rate per 1,000 Social Care Clients",15.6,20
+2018/19,Stirling,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",16.4,20
+2018/19,Stirling,85+ years,"Rate per 1,000 Social Care Clients",21.3,30
+2018/19,Stirling,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",22.5,30
+2018/19,Stirling,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2018/19,Stirling,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Stirling,All Ages,"Rate per 1,000 Social Care Clients",14.4,55
+2019/20,Stirling,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",14.9,55
+2019/20,Stirling,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Stirling,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,Stirling,18-64 years,"Rate per 1,000 Social Care Clients",7,5
+2019/20,Stirling,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",7.4,5
+2019/20,Stirling,65-74 years,"Rate per 1,000 Social Care Clients",11.4,5
+2019/20,Stirling,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",11.6,5
+2019/20,Stirling,75-84 years,"Rate per 1,000 Social Care Clients",11.8,15
+2019/20,Stirling,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",12.1,15
+2019/20,Stirling,85+ years,"Rate per 1,000 Social Care Clients",21.6,30
+2019/20,Stirling,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",22.4,30
+2019/20,Stirling,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2019/20,Stirling,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Stirling,All Ages,"Rate per 1,000 Social Care Clients",14.7,55
+2020/21,Stirling,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",15.2,55
+2020/21,Stirling,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Stirling,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,Stirling,18-64 years,"Rate per 1,000 Social Care Clients",7,5
+2020/21,Stirling,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",7.5,5
+2020/21,Stirling,65-74 years,"Rate per 1,000 Social Care Clients",11.1,5
+2020/21,Stirling,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",11.8,5
+2020/21,Stirling,75-84 years,"Rate per 1,000 Social Care Clients",16.9,20
+2020/21,Stirling,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",17.2,20
+2020/21,Stirling,85+ years,"Rate per 1,000 Social Care Clients",21.6,30
+2020/21,Stirling,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",22.1,30
+2020/21,Stirling,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2020/21,Stirling,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Stirling,All Ages,"Rate per 1,000 Social Care Clients",13.8,50
+2021/22,Stirling,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",14.4,50
+2021/22,Stirling,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Stirling,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,Stirling,18-64 years,"Rate per 1,000 Social Care Clients",7.1,5
+2021/22,Stirling,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",7.6,5
+2021/22,Stirling,65-74 years,"Rate per 1,000 Social Care Clients",11.8,5
+2021/22,Stirling,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",12.5,5
+2021/22,Stirling,75-84 years,"Rate per 1,000 Social Care Clients",17.3,20
+2021/22,Stirling,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",18,20
+2021/22,Stirling,85+ years,"Rate per 1,000 Social Care Clients",18.7,25
+2021/22,Stirling,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",19.2,25
+2021/22,Stirling,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2021/22,Stirling,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,West Dunbartonshire,All Ages,"Rate per 1,000 Social Care Clients",43.8,170
+2017/18,West Dunbartonshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",52,170
+2017/18,West Dunbartonshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2017/18,West Dunbartonshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,West Dunbartonshire,18-64 years,"Rate per 1,000 Social Care Clients",43.7,25
+2017/18,West Dunbartonshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",49.9,25
+2017/18,West Dunbartonshire,65-74 years,"Rate per 1,000 Social Care Clients",44.7,30
+2017/18,West Dunbartonshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",50.7,30
+2017/18,West Dunbartonshire,75-84 years,"Rate per 1,000 Social Care Clients",46.2,60
+2017/18,West Dunbartonshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",54.9,60
+2017/18,West Dunbartonshire,85+ years,"Rate per 1,000 Social Care Clients",41.7,50
+2017/18,West Dunbartonshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",51.8,55
+2017/18,West Dunbartonshire,Unknown,"Rate per 1,000 Social Care Clients",43.9,5
+2017/18,West Dunbartonshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,West Dunbartonshire,All Ages,"Rate per 1,000 Social Care Clients",40.5,170
+2018/19,West Dunbartonshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",49.1,170
+2018/19,West Dunbartonshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,West Dunbartonshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,West Dunbartonshire,18-64 years,"Rate per 1,000 Social Care Clients",42.4,25
+2018/19,West Dunbartonshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",47.5,25
+2018/19,West Dunbartonshire,65-74 years,"Rate per 1,000 Social Care Clients",40.5,30
+2018/19,West Dunbartonshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",45.9,30
+2018/19,West Dunbartonshire,75-84 years,"Rate per 1,000 Social Care Clients",36.1,50
+2018/19,West Dunbartonshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",43.7,50
+2018/19,West Dunbartonshire,85+ years,"Rate per 1,000 Social Care Clients",42,55
+2018/19,West Dunbartonshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",53.5,60
+2018/19,West Dunbartonshire,Unknown,"Rate per 1,000 Social Care Clients",33.6,5
+2018/19,West Dunbartonshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,West Dunbartonshire,All Ages,"Rate per 1,000 Social Care Clients",28.1,120
+2019/20,West Dunbartonshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",35.3,120
+2019/20,West Dunbartonshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2019/20,West Dunbartonshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,West Dunbartonshire,18-64 years,"Rate per 1,000 Social Care Clients",23.8,15
+2019/20,West Dunbartonshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",27.9,15
+2019/20,West Dunbartonshire,65-74 years,"Rate per 1,000 Social Care Clients",40.5,30
+2019/20,West Dunbartonshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",48.9,30
+2019/20,West Dunbartonshire,75-84 years,"Rate per 1,000 Social Care Clients",22.2,30
+2019/20,West Dunbartonshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",27.8,30
+2019/20,West Dunbartonshire,85+ years,"Rate per 1,000 Social Care Clients",30.5,40
+2019/20,West Dunbartonshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",39.2,45
+2019/20,West Dunbartonshire,Unknown,"Rate per 1,000 Social Care Clients",24.5,5
+2019/20,West Dunbartonshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,West Dunbartonshire,All Ages,"Rate per 1,000 Social Care Clients",26.4,120
+2020/21,West Dunbartonshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",34.6,120
+2020/21,West Dunbartonshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2020/21,West Dunbartonshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,West Dunbartonshire,18-64 years,"Rate per 1,000 Social Care Clients",19.7,20
+2020/21,West Dunbartonshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",29.9,20
+2020/21,West Dunbartonshire,65-74 years,"Rate per 1,000 Social Care Clients",47.3,35
+2020/21,West Dunbartonshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",56.9,35
+2020/21,West Dunbartonshire,75-84 years,"Rate per 1,000 Social Care Clients",22.3,30
+2020/21,West Dunbartonshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",27,30
+2020/21,West Dunbartonshire,85+ years,"Rate per 1,000 Social Care Clients",29.9,40
+2020/21,West Dunbartonshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",39.4,40
+2020/21,West Dunbartonshire,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2020/21,West Dunbartonshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,West Dunbartonshire,All Ages,"Rate per 1,000 Social Care Clients",21.9,95
+2021/22,West Dunbartonshire,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",26,95
+2021/22,West Dunbartonshire,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2021/22,West Dunbartonshire,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,West Dunbartonshire,18-64 years,"Rate per 1,000 Social Care Clients",16.2,15
+2021/22,West Dunbartonshire,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",20.3,15
+2021/22,West Dunbartonshire,65-74 years,"Rate per 1,000 Social Care Clients",34.5,25
+2021/22,West Dunbartonshire,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",37.3,25
+2021/22,West Dunbartonshire,75-84 years,"Rate per 1,000 Social Care Clients",18.9,25
+2021/22,West Dunbartonshire,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",21.6,25
+2021/22,West Dunbartonshire,85+ years,"Rate per 1,000 Social Care Clients",23.1,30
+2021/22,West Dunbartonshire,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",28.6,30
+2021/22,West Dunbartonshire,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2021/22,West Dunbartonshire,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,West Lothian,All Ages,"Rate per 1,000 Social Care Clients",23,185
+2017/18,West Lothian,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",25.9,185
+2017/18,West Lothian,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2017/18,West Lothian,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2017/18,West Lothian,18-64 years,"Rate per 1,000 Social Care Clients",14.9,30
+2017/18,West Lothian,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",16.8,30
+2017/18,West Lothian,65-74 years,"Rate per 1,000 Social Care Clients",24.2,35
+2017/18,West Lothian,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",26.2,35
+2017/18,West Lothian,75-84 years,"Rate per 1,000 Social Care Clients",22.4,60
+2017/18,West Lothian,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",25,60
+2017/18,West Lothian,85+ years,"Rate per 1,000 Social Care Clients",32.8,60
+2017/18,West Lothian,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",38.9,60
+2017/18,West Lothian,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2017/18,West Lothian,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,West Lothian,All Ages,"Rate per 1,000 Social Care Clients",19,150
+2018/19,West Lothian,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",22.4,150
+2018/19,West Lothian,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2018/19,West Lothian,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2018/19,West Lothian,18-64 years,"Rate per 1,000 Social Care Clients",12.8,25
+2018/19,West Lothian,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",14.8,25
+2018/19,West Lothian,65-74 years,"Rate per 1,000 Social Care Clients",18.7,25
+2018/19,West Lothian,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",20.6,25
+2018/19,West Lothian,75-84 years,"Rate per 1,000 Social Care Clients",19,50
+2018/19,West Lothian,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",22.3,50
+2018/19,West Lothian,85+ years,"Rate per 1,000 Social Care Clients",26.6,50
+2018/19,West Lothian,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",34,50
+2018/19,West Lothian,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2018/19,West Lothian,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,West Lothian,All Ages,"Rate per 1,000 Social Care Clients",19,140
+2019/20,West Lothian,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",23.5,140
+2019/20,West Lothian,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2019/20,West Lothian,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2019/20,West Lothian,18-64 years,"Rate per 1,000 Social Care Clients",11.7,20
+2019/20,West Lothian,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",13.8,20
+2019/20,West Lothian,65-74 years,"Rate per 1,000 Social Care Clients",16.8,20
+2019/20,West Lothian,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",19.5,20
+2019/20,West Lothian,75-84 years,"Rate per 1,000 Social Care Clients",20.6,50
+2019/20,West Lothian,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",25.2,50
+2019/20,West Lothian,85+ years,"Rate per 1,000 Social Care Clients",23.1,45
+2019/20,West Lothian,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",31.4,45
+2019/20,West Lothian,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2019/20,West Lothian,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,West Lothian,All Ages,"Rate per 1,000 Social Care Clients",15.2,105
+2020/21,West Lothian,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",17.4,105
+2020/21,West Lothian,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2020/21,West Lothian,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2020/21,West Lothian,18-64 years,"Rate per 1,000 Social Care Clients",8.8,15
+2020/21,West Lothian,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",10,15
+2020/21,West Lothian,65-74 years,"Rate per 1,000 Social Care Clients",18.2,20
+2020/21,West Lothian,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",19.4,20
+2020/21,West Lothian,75-84 years,"Rate per 1,000 Social Care Clients",18.3,40
+2020/21,West Lothian,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",20.5,40
+2020/21,West Lothian,85+ years,"Rate per 1,000 Social Care Clients",19.3,35
+2020/21,West Lothian,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",23.7,35
+2020/21,West Lothian,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2020/21,West Lothian,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,West Lothian,All Ages,"Rate per 1,000 Social Care Clients",12.3,85
+2021/22,West Lothian,All Ages,"Rate per 1,000 Social Care Clients (adjusted)",14.2,85
+2021/22,West Lothian,0-17 years,"Rate per 1,000 Social Care Clients",0,0
+2021/22,West Lothian,0-17 years,"Rate per 1,000 Social Care Clients (adjusted)",0,0
+2021/22,West Lothian,18-64 years,"Rate per 1,000 Social Care Clients",5.9,10
+2021/22,West Lothian,18-64 years,"Rate per 1,000 Social Care Clients (adjusted)",6.8,10
+2021/22,West Lothian,65-74 years,"Rate per 1,000 Social Care Clients",13,15
+2021/22,West Lothian,65-74 years,"Rate per 1,000 Social Care Clients (adjusted)",14.5,15
+2021/22,West Lothian,75-84 years,"Rate per 1,000 Social Care Clients",11.5,25
+2021/22,West Lothian,75-84 years,"Rate per 1,000 Social Care Clients (adjusted)",13.2,25
+2021/22,West Lothian,85+ years,"Rate per 1,000 Social Care Clients",16.3,30
+2021/22,West Lothian,85+ years,"Rate per 1,000 Social Care Clients (adjusted)",19.6,30
+2021/22,West Lothian,Unknown,"Rate per 1,000 Social Care Clients",0,0
+2021/22,West Lothian,Unknown,"Rate per 1,000 Social Care Clients (adjusted)",0,0
