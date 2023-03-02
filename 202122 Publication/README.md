@@ -7,9 +7,10 @@ The code for the 5 dashboards is avaliable, within each folder the following can
 - `global.R`,
 - `ui.R`,
 - `server.R`,
-- '___app.Rproj' - the R project that can be run that once opened contains all the correct filepaths for the app to run,
-- 'data' folder - contains the final data for the app to run
-- 'data_tables' - contains the data completeness and data quality tables used in the apps.
+- `___app.Rproj` - the R project that can be run that once opened contains all the correct filepaths for the app to run,
+- `data` folder - contains the final data for the app to run,
+- `data_tables` - contains the data completeness and data quality tables used in the apps,
+- `www` folder - contains app static content.
 
 
 Please note, all code provided has been run on the POSIT R Server, R version 4.1.2. 
