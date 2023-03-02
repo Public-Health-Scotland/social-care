@@ -3,7 +3,7 @@
 In this folder you can find the code used to produce: 2021/22 Publication](https://publichealthscotland.scot/publications/insights-in-social-care-statistics-for-scotland/insights-in-social-care-statistics-for-scotland-support-provided-or-funded-by-health-and-social-care-partnerships-in-scotland-202122/).
 
 The code for the 5 dashboards is avaliable, within each folder the following can be found:
-- `1.data_preparation.R` - this takes the data from within our folders and formats it to be used within the R Shiny App. This formatted data has been provided within the data folder. This file is not intended to be run just avaliable for transparency for the steps the data goes through before the app is run,
+- `data-prep.R` - this takes the data from within our folders and formats it to be used within the R Shiny App. This formatted data has been provided within the data folder. This file is not intended to be run just avaliable for transparency for the steps the data goes through before the app is run,
 - `global.R`,
 - `ui.R`,
 - `server.R`,
