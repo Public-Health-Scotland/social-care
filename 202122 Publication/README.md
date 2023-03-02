@@ -1,6 +1,6 @@
 # Insights in Social Care: Statistics for Scotland Publication 2021/22
 
-In this folder you can find the code used to produce the dashboards for the 2021/22 Publication:(https://publichealthscotland.scot/publications/insights-in-social-care-statistics-for-scotland/insights-in-social-care-statistics-for-scotland-support-provided-or-funded-by-health-and-social-care-partnerships-in-scotland-202122/).
+In this folder you can find the code used to produce the dashboards for the 2021/22 Publication: https://publichealthscotland.scot/publications/insights-in-social-care-statistics-for-scotland/insights-in-social-care-statistics-for-scotland-support-provided-or-funded-by-health-and-social-care-partnerships-in-scotland-202122/.
 
 The code for the 5 dashboards - Care at Home, Care Home, Self-directed Support, Technology Enabled Care and People Supported - is avaliable, within each folder the following can be found:
 - `data-prep.R` - this takes the data from within our folders and formats it to be used within the R Shiny App. This formatted data has been provided within the data folder. This file is not intended to be run just avaliable for transparency for the steps the data goes through before the app is run,
