@@ -3,6 +3,12 @@
 ####################################-
 
 
+##########################-
+## password protect PRA ##
+# shinymanager::secure_app( # comment out if not required 
+##########################-
+
+
 ##### UI -----
 
 
@@ -1864,5 +1870,8 @@ ui <- fluidPage(
   
   
 ) # end fluidpage
+
+#) # end secure_app function for password protect PRA
+# comment out if not password protecting for PRA
 
 ####################################################

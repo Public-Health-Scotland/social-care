@@ -3,9 +3,33 @@
 ####################################-
 
 
+########################################################################-
+## code to password protect app - comment out if not required ##
+## read in server credentials code from admin/create_credendentials.R ##
+
+#credentials <- readRDS("admin/credentials.rds")
+########################################################################-
+
+
 ### SERVER ----
 
 server <- function(input, output, session) {
+  
+  #   # shiny manager code required for password protection 
+  #   #########################-
+  #   ## SHINY MANAGER ##
+  #   #########################-
+  #   library(shinymanager)
+  #   res_auth <- shinymanager::secure_server(
+  #     check_credentials = check_credentials(credentials)
+  #   )
+  #   
+  #   output$auth_output <- renderPrint({
+  #     reactiveValuesToList(res_auth)
+  #   })
+  #########################-
+  
+  
   
   #########################-
   ## DATA COMPLETENESS 
