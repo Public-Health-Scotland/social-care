@@ -1,0 +1,24 @@
+/* CSS styles used in the shiny app */
+
+/* to avoid red text error messages in the whole app, take out for testing*/
+.shiny-output-error { visibility: hidden; }
+.shiny-output-error:before { visibility: hidden; }
+
+/* Style sidebars/well panels */
+.well {background-color:#ffffff; border: 0 solid #336699;
+       padding: 5px; box-shadow: none; }
+
+/* Navigation bar following PHS colour scheme */    
+.navbar-default {color: #ffffff; background-color: #433684; }
+
+.navbar-default .navbar-brand, .navbar-default:hover .navbar-brand:hover, .navbar-brand {color: #433684; background-color: #ffffff}
+
+.navbar-default .navbar-nav > li > a {color: #ffffff;}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    color: #ffffff;
+    background-color: #7c6ec4;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #ffffff;     background-color: #5c4ab5;}
